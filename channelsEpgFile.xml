@@ -169,7 +169,7 @@
     <url>http://www.tvguide.co.uk</url>
   </channel><channel id="Sky Sports 4">
     <display-name lang="en">Sky Sports 4</display-name>
-    <url>http://www.m.tvguide.co.uk-full</url>
+    <url>http://www.tvguide.co.uk</url>
   </channel><channel id="Sky Sports 4 HD">
     <display-name lang="en">Sky Sports 4 HD</display-name>
     <url>http://www.m.tvguide.co.uk-full</url>
