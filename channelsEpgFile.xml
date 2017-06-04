@@ -704,6 +704,15 @@
     <display-name lang="ar">Watania 2</display-name>
     <icon src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"/>
     <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 2 +2">
+    <display-name lang="ar">Watania 2 +4</display-name>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 1 +4">
+    <display-name lang="ar">Watania 1 +4</display-name>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 1 +2">
+    <display-name lang="ar">Watania 1 +2</display-name>
+    <url>http://www.watania.tn</url>
   </channel><channel id="hd1">
     <display-name lang="en">Bein sports 1 hd</display-name>
     <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
