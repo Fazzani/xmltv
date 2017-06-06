@@ -187,387 +187,291 @@
     <url>http://www.tvguide.co.uk</url>
   </channel><channel id="Seevii AlOla">
     <display-name lang="ar">Seevii AlOla</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1120.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Seevii Drama HD">
     <display-name lang="ar">Seevii Drama HD</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1132.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Seevii beelink HD">
     <display-name lang="ar">Seevii beelink HD</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1121.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Seevii SHAMIYA HD">
     <display-name lang="ar">Seevii SHAMIYA HD</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1123.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC 1">
     <display-name lang="ar">MBC 1</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/475.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Drama">
     <display-name lang="ar">MBC Drama</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/928.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Masr">
     <display-name lang="ar">MBC Masr</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/115.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Masr 2">
     <display-name lang="ar">MBC Masr 2</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/477.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC 2">
     <display-name lang="ar">MBC 2</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/698.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC 4">
     <display-name lang="ar">MBC 4</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/113.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Action">
     <display-name lang="ar">MBC Action</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/700.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Max">
     <display-name lang="ar">MBC Max</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/704.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Bollywood">
     <display-name lang="ar">MBC Bollywood</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/702.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC 3">
     <display-name lang="ar">MBC 3</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/666.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Cartoon Network Arabia">
     <display-name lang="ar">Cartoon Network Arabia</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/655.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Ajial">
     <display-name lang="ar">Ajial</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/648.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Space Toon">
     <display-name lang="ar">Space Toon</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/671.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Saudi Channel 1">
     <display-name lang="ar">Saudi Channel 1</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/564.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Abu Dhabi TV">
     <display-name lang="ar">Abu Dhabi TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/139.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="AD Emarat">
     <display-name lang="ar">AD Emarat</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/142.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Abu Dhabi Drama">
     <display-name lang="ar">Abu Dhabi Drama</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/917.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Dubai Al Oula">
     <display-name lang="ar">Dubai Al Oula</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/345.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Dubai One">
     <display-name lang="ar">Dubai One</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/119.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Sama Dubai">
     <display-name lang="ar">Sama Dubai</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/556.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Dubai Zaman">
     <display-name lang="ar">Dubai Zaman</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/348.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Rotana Cinema">
     <display-name lang="ar">Rotana Cinema</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/710.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Rotana Aflam">
     <display-name lang="ar">Rotana Aflam</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/709.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Rotana Khalijiah">
     <display-name lang="ar">Rotana Khalijiah</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/539.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Rotana Classic">
     <display-name lang="ar">Rotana Classic</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/713.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="LBC Sat">
     <display-name lang="ar">LBC Sat</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/454.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Rotana Masriyah">
     <display-name lang="ar">Rotana Masriyah</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/121.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="CBC">
     <display-name lang="ar">CBC</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/96.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="CBC Drama">
     <display-name lang="ar">CBC Drama</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/922.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="CBC Extra">
     <display-name lang="ar">CBC Extra</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/319.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="CBC Sofra">
     <display-name lang="ar">CBC Sofra</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/63.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Nahar Drama">
     <display-name lang="ar">Al Nahar Drama</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/920.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Nahar">
     <display-name lang="ar">Al Nahar</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/960.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Hayat 2">
     <display-name lang="ar">Al Hayat 2</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/186.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Kahera Wal Nas">
     <display-name lang="ar">Al Kahera Wal Nas</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/197.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MTV Lebanon">
     <display-name lang="ar">MTV Lebanon</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/487.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Future TV International">
     <display-name lang="ar">Future TV International</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/396.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Jadeed">
     <display-name lang="ar">Al Jadeed</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/193.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="LDC">
     <display-name lang="ar">LDC</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/456.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Dafrah">
     <display-name lang="ar">Al Dafrah</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/171.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Zee Alwan">
     <display-name lang="ar">Zee Alwan</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/636.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="B4U Plus">
     <display-name lang="ar">B4U Plus</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/102.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="B4U Aflam">
     <display-name lang="ar">B4U Aflam</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1133.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Alaan TV">
     <display-name lang="ar">Alaan TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/252.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Funoon TV">
     <display-name lang="ar">Funoon TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/395.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Bahrain">
     <display-name lang="ar">Bahrain</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/303.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Jordan">
     <display-name lang="ar">Jordan</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/428.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Masriyah">
     <display-name lang="ar">Al Masriyah</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/211.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="al Arabiya">
     <display-name lang="ar">al Arabiya</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1135.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Ekhbaria">
     <display-name lang="ar">Al Ekhbaria</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/758.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="BBC Arabic">
     <display-name lang="ar">BBC Arabic</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/784.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Sky News Arabia HD">
     <display-name lang="ar">Sky News Arabia HD</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1116.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Hadath">
     <display-name lang="ar">Al Hadath</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/182.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="France 24 (in Arabic)">
     <display-name lang="ar">France 24 (in Arabic)</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1136.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="DW-TV">
     <display-name lang="ar">DW-TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/351.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="BBC World News">
     <display-name lang="ar">BBC World News</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/787.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="CNN International">
     <display-name lang="ar">CNN International</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/791.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="France 24 (in English)">
     <display-name lang="ar">France 24 (in English)</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/797.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="CNBC Arabiyah">
     <display-name lang="ar">CNBC Arabiyah</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/97.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="National Geographic Abu  Dhabi">
     <display-name lang="ar">National Geographic Abu  Dhabi</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/86.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Quest TV">
     <display-name lang="ar">Quest TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1143.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Thakafeyia">
     <display-name lang="ar">Al Thakafeyia</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/67.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Resalah">
     <display-name lang="ar">Al Resalah</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/868.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Saudi Quran">
     <display-name lang="ar">Saudi Quran</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/908.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Iqraa TV">
     <display-name lang="ar">Iqraa TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/891.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Noor Dubai">
     <display-name lang="ar">Noor Dubai</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/499.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Abu Dhabi Sport 1">
     <display-name lang="ar">Abu Dhabi Sport 1</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/951.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Abu Dhabi Sport 2">
     <display-name lang="ar">Abu Dhabi Sport 2</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/952.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Ahly TV">
     <display-name lang="ar">Al Ahly TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/955.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Dubai Sport">
     <display-name lang="ar">Dubai Sport</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/980.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Dubai Sport 4">
     <display-name lang="ar">Dubai Sport 4</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/978.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Dubai Racing HD">
     <display-name lang="ar">Dubai Racing HD</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/830.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Rotana Clip">
     <display-name lang="ar">Rotana Clip</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/743.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Rotana Music">
     <display-name lang="ar">Rotana Music</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/745.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="KTV CH1">
     <display-name lang="ar">KTV CH1</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1092.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="KTV Ch 2">
     <display-name lang="ar">KTV Ch 2</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/440.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Imagine Movies">
     <display-name lang="ar">Imagine Movies</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/695.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Cima Alibaba">
     <display-name lang="ar">Cima Alibaba</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/684.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Scope TV">
     <display-name lang="ar">Scope TV</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/569.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Nile Family and Kids">
     <display-name lang="ar">Nile Family and Kids</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/496.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Ennahar TV AlGerie">
     <display-name lang="ar">Ennahar TV AlGerie</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/383.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Oula">
     <display-name lang="ar">Al Oula</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1035.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Panorama Food">
     <display-name lang="ar">Panorama Food</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/65.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Dream 2">
     <display-name lang="ar">Dream 2</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/343.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Nile Cinema">
     <display-name lang="ar">Nile Cinema</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/706.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="TokTok Cima">
     <display-name lang="ar">TokTok Cima</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/720.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Bahrain 55">
     <display-name lang="ar">Bahrain 55</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/783.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Nile Drama">
     <display-name lang="ar">Nile Drama</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/930.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Panorama Drama">
     <display-name lang="ar">Panorama Drama</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1134.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Panorama Drama 2">
     <display-name lang="ar">Panorama Drama 2</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/932.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Drama + HD">
     <display-name lang="ar">MBC Drama + HD</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1158.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="MBC Variety HD">
     <display-name lang="ar">MBC Variety HD</display-name>
-    <icon src="https://www.seevii.com/stb/item//tv_live1/1157.png"/>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al-Jazeera">
     <display-name lang="en">Al-Jazeera</display-name>
