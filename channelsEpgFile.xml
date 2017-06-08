@@ -757,9 +757,21 @@
     <display-name lang="en">Bein movies 3 hd</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 3 hd +2">
+    <display-name lang="en">Bein movies 3 hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 3 hd +4">
+    <display-name lang="en">Bein movies 3 hd +4</display-name>
+    <url>http://www.bein.net</url>
   </channel><channel id="movieshd4">
     <display-name lang="en">Bein movies 4 hd</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 4 hd +2">
+    <display-name lang="en">Bein movies 4 hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 4 hd +4">
+    <display-name lang="en">Bein movies 4 hd +4</display-name>
     <url>http://www.bein.net</url>
   </channel><channel id="serieshd1">
     <display-name lang="en">Bein Series hd 1</display-name>
@@ -789,6 +801,12 @@
     <display-name lang="en">Natgeo HD (en)</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
+  </channel><channel id="natgeo_hd +1">
+    <display-name lang="en">Natgeo HD (en) +1</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeo_hd +2">
+    <display-name lang="en">Natgeo HD (en) +2</display-name>
+    <url>http://www.bein.net</url>
   </channel><channel id="NatGeoPeople_HD">
     <display-name lang="en">NatGeo People HD (en)</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
@@ -796,6 +814,15 @@
   </channel><channel id="natgeowild_hd">
     <display-name lang="en">natgeo wild HD (en)</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeowild_hd +1">
+    <display-name lang="en">natgeo wild HD (en) +1</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeowild_hd +2">
+    <display-name lang="en">natgeo wild HD (en) +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeowild_hd +4">
+    <display-name lang="en">natgeo wild HD (en) +4</display-name>
     <url>http://www.bein.net</url>
   </channel><channel id="baby_tv">
     <display-name lang="en">Baby tv</display-name>
@@ -808,6 +835,12 @@
   </channel><channel id="baraem">
     <display-name lang="en">Baraem</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="baraem +4">
+    <display-name lang="en">baraem +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="baraem +8">
+    <display-name lang="en">baraem +8</display-name>
     <url>http://www.bein.net</url>
   </channel><channel id="OSN Movies HD">
     <display-name lang="en">OSN Movies HD</display-name>
@@ -832,7 +865,7 @@
     <display-name lang="en">OSN Movies Action HD +4</display-name>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Movies Action HD +6">
-    <display-name lang="en">OSN Movies Action HD +4</display-name>
+    <display-name lang="en">OSN Movies Action HD +6</display-name>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Movies Action HD +8">
     <display-name lang="en">OSN Movies Action HD +8</display-name>
@@ -961,9 +994,21 @@
     <display-name lang="en">Cinema 1</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/CM1.png"/>
     <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 1 +2">
+    <display-name lang="en">Cinema 1 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 1 +4">
+    <display-name lang="en">Cinema 1 +4</display-name>
+    <url>http://www.osn.com</url>
   </channel><channel id="Cinema 2">
     <display-name lang="en">Cinema 2</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/CM2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 2 +2">
+    <display-name lang="en">Cinema 2 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 2 +4">
+    <display-name lang="en">Cinema 2 +4</display-name>
     <url>http://www.osn.com</url>
   </channel><channel id="Music Now">
     <display-name lang="en">Music Now</display-name>
@@ -981,9 +1026,21 @@
     <display-name lang="en">ART Aflam 1</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/AF1.png"/>
     <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 1 +2">
+    <display-name lang="en">ART Aflam 1 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 1 +4">
+    <display-name lang="en">ART Aflam 1 +4</display-name>
+    <url>http://www.osn.com</url>
   </channel><channel id="ART Aflam 2">
     <display-name lang="en">ART Aflam 2</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/AF2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 2 +2">
+    <display-name lang="en">ART Aflam 2 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 2 +4">
+    <display-name lang="en">ART Aflam 2 +4</display-name>
     <url>http://www.osn.com</url>
   </channel><channel id="ART Cinema">
     <display-name lang="en">ART Cinema</display-name>
