@@ -777,6 +777,9 @@
     <display-name lang="en">Bein Series hd 1</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
+  </channel><channel id="serieshd1 +2">
+    <display-name lang="en">Bein Series hd 1 +2</display-name>
+    <url>http://www.bein.net</url>
   </channel><channel id="beJUNIOR">
     <display-name lang="en">Bein junior hd 1</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
@@ -784,6 +787,12 @@
   </channel><channel id="fox_movies_hd">
     <display-name lang="en">Fox movies hd</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="fox_movies_hd +2">
+    <display-name lang="en">Fox movies hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="fox_movies_hd +4">
+    <display-name lang="en">Fox movies hd +4</display-name>
     <url>http://www.bein.net</url>
   </channel><channel id="starmovieshd">
     <display-name lang="en">Star movies hd</display-name>
@@ -1361,6 +1370,15 @@
   </channel><channel id="IDX HD">
     <display-name lang="en">IDX HD</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/DCX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="IDX HD +1">
+    <display-name lang="en">IDX HD +1</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="IDX HD +2">
+    <display-name lang="en">IDX HD +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="IDX HD +4">
+    <display-name lang="en">IDX HD +4</display-name>
     <url>http://www.osn.com</url>
   </channel><channel id="Crime \\u0026 Investigation Network">
     <display-name lang="en">Crime and Investigation Network</display-name>
