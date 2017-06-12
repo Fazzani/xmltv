@@ -1796,6 +1796,9 @@
   </channel><channel id="406">
     <display-name>CNBC Europe</display-name>
     <icon src="http://localhost/logo406.gif"/>
+  </channel><channel id="16">
+    <display-name>CNews</display-name>
+    <icon src="http://localhost/logo16.gif"/>
   </channel><channel id="68">
     <display-name>Com&#xE9;die</display-name>
     <icon src="http://localhost/logo68.gif"/>
@@ -1886,9 +1889,6 @@
   </channel><channel id="124">
     <display-name>Info sport</display-name>
     <icon src="http://localhost/logo124.gif"/>
-  </channel><channel id="16">
-    <display-name>CNews</display-name>
-    <icon src="http://localhost/logo16.gif"/>
   </channel><channel id="127">
     <display-name>KTO</display-name>
     <icon src="http://localhost/logo127.gif"/>
@@ -2036,6 +2036,9 @@
   </channel><channel id="302">
     <display-name>SAT 1</display-name>
     <icon src="http://localhost/logo302.gif"/>
+  </channel><channel id="82">
+    <display-name>Science et Vie TV</display-name>
+    <icon src="http://localhost/logo82.gif"/>
   </channel><channel id="202">
     <display-name>Seasons</display-name>
     <icon src="http://localhost/logo202.gif"/>
@@ -2120,9 +2123,6 @@
   </channel><channel id="272">
     <display-name>VH1</display-name>
     <icon src="http://localhost/logo272.gif"/>
-  </channel><channel id="247">
-    <display-name>Vivolta</display-name>
-    <icon src="http://localhost/logo247.gif"/>
   </channel><channel id="248">
     <display-name>Voyage</display-name>
     <icon src="http://localhost/logo248.gif"/>
