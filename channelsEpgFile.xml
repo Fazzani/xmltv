@@ -796,7 +796,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="starmovieshd">
     <display-name lang="en">Star movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2017"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
   </channel><channel id="starw_orld_hd">
     <display-name lang="en">Star world hd</display-name>
