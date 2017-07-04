@@ -851,6 +851,28 @@
   </channel><channel id="baraem +8">
     <display-name lang="en">baraem +8</display-name>
     <url>http://www.bein.net</url>
+  </channel><channel id="beIN Gourmet">
+    <display-name lang="en">beIN Groummet HD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN Gourmet +1">
+    <display-name lang="en">,beIN Groummet HD +1</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN Gourmet +2">
+    <display-name lang="en">,beIN Groummet HD +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="BoxOffice_HD1">
+    <display-name lang="en">beIN BoxOffice HD1</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="DTX">
+    <display-name lang="en">beIN DTX HD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CBeebies">
+    <display-name lang="en">beIN BBC CBEEBIES</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
   </channel><channel id="OSN Movies HD">
     <display-name lang="en">OSN Movies HD</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/OM1.png"/>
