@@ -856,10 +856,10 @@
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
   </channel><channel id="beIN Gourmet +1">
-    <display-name lang="en">,beIN Groummet HD +1</display-name>
+    <display-name lang="en">beIN Groummet HD +1</display-name>
     <url>http://www.bein.net</url>
   </channel><channel id="beIN Gourmet +2">
-    <display-name lang="en">,beIN Groummet HD +2</display-name>
+    <display-name lang="en">beIN Groummet HD +2</display-name>
     <url>http://www.bein.net</url>
   </channel><channel id="BoxOffice_HD1">
     <display-name lang="en">beIN BoxOffice HD1</display-name>
