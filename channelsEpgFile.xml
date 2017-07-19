@@ -35,11 +35,59 @@
   </channel><channel id="Sada El Balad  +2">
     <display-name lang="ar">Sada El Balad +2</display-name>
     <url>http://www.elcinema.com</url>
+  </channel><channel id="MBC 1">
+    <display-name lang="ar">MBC 1</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC Drama">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="Mbc Masr">
+    <display-name lang="ar">Mbc Masr</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="Mbc Masr 2">
+    <display-name lang="ar">Mbc Masr 2</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC 4">
+    <display-name lang="ar">MBC 4</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="mbc-drama-usa">
+    <display-name lang="ar">mbc-drama-usa</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="mbc1-usa">
+    <display-name lang="ar">mbc1-usa</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="mbc1-na">
+    <display-name lang="ar">mbc1-na</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC Action">
+    <display-name lang="ar">MBC Action</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="Mbc Masr Usa">
+    <display-name lang="ar">Mbc Masr Usa</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC Max">
+    <display-name lang="ar">MBC Max</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC FM">
+    <display-name lang="ar">MBC FM</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="Panorama FM">
+    <display-name lang="ar">Panorama FM</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC Persia">
+    <display-name lang="ar">MBC Persia</display-name>
+    <url>http://www.mbc.net.ar</url>
   </channel><channel id="Mbc PRO SPORTS 1">
-    <display-name lang="ar">MBC PRO Sports 1</display-name>
+    <display-name lang="ar">Mbc PRO SPORTS 1</display-name>
     <url>http://www.mbc.net.ar</url>
   </channel><channel id="Mbc PRO SPORTS 2">
-    <display-name lang="ar">MBC PRO Sports 2</display-name>
+    <display-name lang="ar">Mbc PRO SPORTS 2</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC Bollywood">
+    <display-name lang="ar">MBC Bollywood</display-name>
+    <url>http://www.mbc.net.ar</url>
+  </channel><channel id="MBC 2">
+    <display-name lang="ar">MBC 2</display-name>
     <url>http://www.mbc.net.ar</url>
   </channel><channel id="MBC Pro Sports 3 HD">
     <display-name lang="en">MBC Pro Sports 3</display-name>
@@ -196,36 +244,6 @@
     <url>http://www.seevii.com</url>
   </channel><channel id="Seevii SHAMIYA HD">
     <display-name lang="ar">Seevii SHAMIYA HD</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC 1">
-    <display-name lang="ar">MBC 1</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Drama">
-    <display-name lang="ar">MBC Drama</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Masr">
-    <display-name lang="ar">MBC Masr</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Masr 2">
-    <display-name lang="ar">MBC Masr 2</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC 2">
-    <display-name lang="ar">MBC 2</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC 4">
-    <display-name lang="ar">MBC 4</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Action">
-    <display-name lang="ar">MBC Action</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Max">
-    <display-name lang="ar">MBC Max</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Bollywood">
-    <display-name lang="ar">MBC Bollywood</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC 3">
-    <display-name lang="ar">MBC 3</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="Cartoon Network Arabia">
     <display-name lang="ar">Cartoon Network Arabia</display-name>
@@ -467,12 +485,6 @@
   </channel><channel id="Panorama Drama 2">
     <display-name lang="ar">Panorama Drama 2</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Drama + HD">
-    <display-name lang="ar">MBC Drama + HD</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MBC Variety HD">
-    <display-name lang="ar">MBC Variety HD</display-name>
-    <url>http://www.seevii.com</url>
   </channel><channel id="Al-Jazeera">
     <display-name lang="en">Al-Jazeera</display-name>
     <url>http://www.invision.com.sa</url>
@@ -693,6 +705,10 @@
     <display-name lang="en">Bein global</display-name>
     <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
     <url>http://www.bein.net</url>
+  </channel><channel id="BS NBA">
+    <display-name lang="en">BS NBA</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
   </channel><channel id="global_us">
     <display-name lang="en">Bein global (us)</display-name>
     <icon src="http://epg.beinsports.com/us_sports/Global.svg"/>
@@ -871,6 +887,34 @@
     <url>http://www.bein.net</url>
   </channel><channel id="CBeebies">
     <display-name lang="en">beIN BBC CBEEBIES</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="V_HD">
+    <display-name lang="en">V_HD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CNNHD">
+    <display-name lang="en">CNNHD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="TCM">
+    <display-name lang="en">TCM</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CartoonNetworkAR">
+    <display-name lang="en">CartoonNetworkAR</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CartoonNetworkHD">
+    <display-name lang="en">CartoonNetworkHD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="HLN">
+    <display-name lang="en">HLN</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Boomerang">
+    <display-name lang="en">Boomerang</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
   </channel><channel id="OSN Movies HD">
