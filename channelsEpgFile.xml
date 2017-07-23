@@ -1853,6 +1853,9 @@
   </channel><channel id="55">
     <display-name>Cin&#xE9; Cin&#xE9;ma Star Afrique</display-name>
     <icon src="http://localhost/logo55.gif"/>
+  </channel><channel id="53">
+    <display-name>Cin&#xE9; FX</display-name>
+    <icon src="http://localhost/logo53.gif"/>
   </channel><channel id="54">
     <display-name>Cin&#xE9; Polar</display-name>
     <icon src="http://localhost/logo54.gif"/>
@@ -1958,6 +1961,9 @@
   </channel><channel id="127">
     <display-name>KTO</display-name>
     <icon src="http://localhost/logo127.gif"/>
+  </channel><channel id="14">
+    <display-name>La Cha&#xEE;ne Parlementaire</display-name>
+    <icon src="http://localhost/logo14.gif"/>
   </channel><channel id="130">
     <display-name>La Deux</display-name>
     <icon src="http://localhost/logo130.gif"/>
@@ -2048,6 +2054,9 @@
   </channel><channel id="184">
     <display-name>Orange Cin&#xE9;novo</display-name>
     <icon src="http://localhost/logo184.gif"/>
+  </channel><channel id="4141">
+    <display-name>Paramount Channel</display-name>
+    <icon src="http://localhost/logo4141.gif"/>
   </channel><channel id="186">
     <display-name>Paris Premi&#xE8;re</display-name>
     <icon src="http://localhost/logo186.gif"/>
@@ -2111,6 +2120,9 @@
   </channel><channel id="203">
     <display-name>S&#xE9;rie club</display-name>
     <icon src="http://localhost/logo203.gif"/>
+  </channel><channel id="804">
+    <display-name>SF1</display-name>
+    <icon src="http://localhost/logo804.gif"/>
   </channel><channel id="2095">
     <display-name>SFR Sport 1</display-name>
     <icon src="http://localhost/logo2095.gif"/>
@@ -2165,6 +2177,9 @@
   </channel><channel id="234">
     <display-name>TRACE</display-name>
     <icon src="http://localhost/logo234.gif"/>
+  </channel><channel id="1776">
+    <display-name>Trek</display-name>
+    <icon src="http://localhost/logo1776.gif"/>
   </channel><channel id="806">
     <display-name>TSI 1</display-name>
     <icon src="http://localhost/logo806.gif"/>
