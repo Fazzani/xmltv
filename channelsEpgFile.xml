@@ -1,4 +1,6 @@
-﻿<channel id="D8">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+    <channel id="D8">
     <display-name lang="fr">D8</display-name>
     <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F295%2F71e%2F0b94af0a2f62a15142d5f9ec0b%2Fc8%7Cclair_445.png?facedetect=1&amp;quality=85"/>
     <url>http://www.tv.orange.fr</url>
@@ -2217,3 +2219,4 @@
     <display-name>Zee TV</display-name>
     <icon src="http://localhost/logo286.gif"/>
   </channel>
+</tv>
