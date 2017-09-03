@@ -1,5 +1,1025 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="D8">
+<channel id="C1.telerama.fr">
+    <display-name>TF1</display-name>
+    <icon src="http://localhost/logo1.gif"/>
+  </channel><channel id="C10.telerama.fr">
+    <display-name>TMC</display-name>
+    <icon src="http://localhost/logo10.gif"/>
+  </channel><channel id="C100.telerama.fr">
+    <display-name>France 3 Bourgogne</display-name>
+    <icon src="http://localhost/logo100.gif"/>
+  </channel><channel id="C101.telerama.fr">
+    <display-name>France 3 Bretagne</display-name>
+    <icon src="http://localhost/logo101.gif"/>
+  </channel><channel id="C102.telerama.fr">
+    <display-name>France 3 Centre</display-name>
+    <icon src="http://localhost/logo102.gif"/>
+  </channel><channel id="C103.telerama.fr">
+    <display-name>France 3 Champagne-Ardenne</display-name>
+    <icon src="http://localhost/logo103.gif"/>
+  </channel><channel id="C104.telerama.fr">
+    <display-name>France 3 Corse via Stella</display-name>
+    <icon src="http://localhost/logo104.gif"/>
+  </channel><channel id="C105.telerama.fr">
+    <display-name>France 3 C&#xF4;te d'Azur</display-name>
+    <icon src="http://localhost/logo105.gif"/>
+  </channel><channel id="C106.telerama.fr">
+    <display-name>France 3 Franche-Comt&#xE9;</display-name>
+    <icon src="http://localhost/logo106.gif"/>
+  </channel><channel id="C107.telerama.fr">
+    <display-name>France 3 Haute-Normandie</display-name>
+    <icon src="http://localhost/logo107.gif"/>
+  </channel><channel id="C108.telerama.fr">
+    <display-name>France 3 Languedoc-Roussillon</display-name>
+    <icon src="http://localhost/logo108.gif"/>
+  </channel><channel id="C109.telerama.fr">
+    <display-name>France 3 Limousin</display-name>
+    <icon src="http://localhost/logo109.gif"/>
+  </channel><channel id="C11.telerama.fr">
+    <display-name>NT1</display-name>
+    <icon src="http://localhost/logo11.gif"/>
+  </channel><channel id="C110.telerama.fr">
+    <display-name>France 3 Lorraine</display-name>
+    <icon src="http://localhost/logo110.gif"/>
+  </channel><channel id="C111.telerama.fr">
+    <display-name>France 3 Midi-Pyr&#xE9;n&#xE9;es</display-name>
+    <icon src="http://localhost/logo111.gif"/>
+  </channel><channel id="C112.telerama.fr">
+    <display-name>France 3 Nord Pas-de-Calais</display-name>
+    <icon src="http://localhost/logo112.gif"/>
+  </channel><channel id="C113.telerama.fr">
+    <display-name>France 3 Paris IDF</display-name>
+    <icon src="http://localhost/logo113.gif"/>
+  </channel><channel id="C1136.telerama.fr">
+    <display-name>MCS Bien-&#xEA;tre</display-name>
+    <icon src="http://localhost/logo1136.gif"/>
+  </channel><channel id="C114.telerama.fr">
+    <display-name>France 3 Pays de Loire</display-name>
+    <icon src="http://localhost/logo114.gif"/>
+  </channel><channel id="C115.telerama.fr">
+    <display-name>France 3 Poitou-Charentes</display-name>
+    <icon src="http://localhost/logo115.gif"/>
+  </channel><channel id="C116.telerama.fr">
+    <display-name>France 3 Provence Alpes</display-name>
+    <icon src="http://localhost/logo116.gif"/>
+  </channel><channel id="C1166.telerama.fr">
+    <display-name>Golf Channel</display-name>
+    <icon src="http://localhost/logo1166.gif"/>
+  </channel><channel id="C1168.telerama.fr">
+    <display-name>TRACE Sport Stars</display-name>
+    <icon src="http://localhost/logo1168.gif"/>
+  </channel><channel id="C117.telerama.fr">
+    <display-name>France 3 Picardie</display-name>
+    <icon src="http://localhost/logo117.gif"/>
+  </channel><channel id="C1179.telerama.fr">
+    <display-name>Trace Africa</display-name>
+    <icon src="http://localhost/logo1179.gif"/>
+  </channel><channel id="C118.telerama.fr">
+    <display-name>France 3 Rh&#xF4;ne-Alpes</display-name>
+    <icon src="http://localhost/logo118.gif"/>
+  </channel><channel id="C1182.telerama.fr">
+    <display-name>L'En&#xF4;rme TV</display-name>
+    <icon src="http://localhost/logo1182.gif"/>
+  </channel><channel id="C119.telerama.fr">
+    <display-name>France &#xD4;</display-name>
+    <icon src="http://localhost/logo119.gif"/>
+  </channel><channel id="C12.telerama.fr">
+    <display-name>NRJ 12</display-name>
+    <icon src="http://localhost/logo12.gif"/>
+  </channel><channel id="C121.telerama.fr">
+    <display-name>Game One</display-name>
+    <icon src="http://localhost/logo121.gif"/>
+  </channel><channel id="C122.telerama.fr">
+    <display-name>Histoire</display-name>
+    <icon src="http://localhost/logo122.gif"/>
+  </channel><channel id="C123.telerama.fr">
+    <display-name>Hustler TV</display-name>
+    <icon src="http://localhost/logo123.gif"/>
+  </channel><channel id="C124.telerama.fr">
+    <display-name>Info sport</display-name>
+    <icon src="http://localhost/logo124.gif"/>
+  </channel><channel id="C125.telerama.fr">
+    <display-name>Disney XD</display-name>
+    <icon src="http://localhost/logo125.gif"/>
+  </channel><channel id="C126.telerama.fr">
+    <display-name>Jimmy</display-name>
+    <icon src="http://localhost/logo126.gif"/>
+  </channel><channel id="C127.telerama.fr">
+    <display-name>KTO</display-name>
+    <icon src="http://localhost/logo127.gif"/>
+  </channel><channel id="C128.telerama.fr">
+    <display-name>La Cha&#xEE;ne M&#xE9;t&#xE9;o</display-name>
+    <icon src="http://localhost/logo128.gif"/>
+  </channel><channel id="C1295.telerama.fr">
+    <display-name>Golf+</display-name>
+    <icon src="http://localhost/logo1295.gif"/>
+  </channel><channel id="C13.telerama.fr">
+    <display-name>France 4</display-name>
+    <icon src="http://localhost/logo13.gif"/>
+  </channel><channel id="C130.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="http://localhost/logo130.gif"/>
+  </channel><channel id="C131.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="http://localhost/logo131.gif"/>
+  </channel><channel id="C133.telerama.fr">
+    <display-name>LCI - La Cha&#xEE;ne Info</display-name>
+    <icon src="http://localhost/logo133.gif"/>
+  </channel><channel id="C1336.telerama.fr">
+    <display-name>beIN SPORTS MAX 4</display-name>
+    <icon src="http://localhost/logo1336.gif"/>
+  </channel><channel id="C1337.telerama.fr">
+    <display-name>beIN SPORTS MAX 5</display-name>
+    <icon src="http://localhost/logo1337.gif"/>
+  </channel><channel id="C1338.telerama.fr">
+    <display-name>beIN SPORTS MAX 6</display-name>
+    <icon src="http://localhost/logo1338.gif"/>
+  </channel><channel id="C1339.telerama.fr">
+    <display-name>beIN SPORTS MAX 7</display-name>
+    <icon src="http://localhost/logo1339.gif"/>
+  </channel><channel id="C1340.telerama.fr">
+    <display-name>beIN SPORTS MAX 8</display-name>
+    <icon src="http://localhost/logo1340.gif"/>
+  </channel><channel id="C1341.telerama.fr">
+    <display-name>beIN SPORTS MAX 9</display-name>
+    <icon src="http://localhost/logo1341.gif"/>
+  </channel><channel id="C1342.telerama.fr">
+    <display-name>beIN SPORTS MAX 10</display-name>
+    <icon src="http://localhost/logo1342.gif"/>
+  </channel><channel id="C135.telerama.fr">
+    <display-name>Liberty TV</display-name>
+    <icon src="http://localhost/logo135.gif"/>
+  </channel><channel id="C136.telerama.fr">
+    <display-name>LM TV Sarthe</display-name>
+    <icon src="http://localhost/logo136.gif"/>
+  </channel><channel id="C137.telerama.fr">
+    <display-name>M6 Boutique la cha&#xEE;ne</display-name>
+    <icon src="http://localhost/logo137.gif"/>
+  </channel><channel id="C1374.telerama.fr">
+    <display-name>Discovery Science</display-name>
+    <icon src="http://localhost/logo1374.gif"/>
+  </channel><channel id="C138.telerama.fr">
+    <display-name>M6 Music Black</display-name>
+    <icon src="http://localhost/logo138.gif"/>
+  </channel><channel id="C139.telerama.fr">
+    <display-name>M6 Music Hits</display-name>
+    <icon src="http://localhost/logo139.gif"/>
+  </channel><channel id="C14.telerama.fr">
+    <display-name>La Cha&#xEE;ne Parlementaire</display-name>
+    <icon src="http://localhost/logo14.gif"/>
+  </channel><channel id="C142.telerama.fr">
+    <display-name>Mangas</display-name>
+    <icon src="http://localhost/logo142.gif"/>
+  </channel><channel id="C143.telerama.fr">
+    <display-name>Man-X</display-name>
+    <icon src="http://localhost/logo143.gif"/>
+  </channel><channel id="C144.telerama.fr">
+    <display-name>MCM</display-name>
+    <icon src="http://localhost/logo144.gif"/>
+  </channel><channel id="C1453.telerama.fr">
+    <display-name>MCS Tennis</display-name>
+    <icon src="http://localhost/logo1453.gif"/>
+  </channel><channel id="C146.telerama.fr">
+    <display-name>RFM TV</display-name>
+    <icon src="http://localhost/logo146.gif"/>
+  </channel><channel id="C1461.telerama.fr">
+    <display-name>Nollywood TV</display-name>
+    <icon src="http://localhost/logo1461.gif"/>
+  </channel><channel id="C147.telerama.fr">
+    <display-name>MCM Top</display-name>
+    <icon src="http://localhost/logo147.gif"/>
+  </channel><channel id="C148.telerama.fr">
+    <display-name>Mezzo</display-name>
+    <icon src="http://localhost/logo148.gif"/>
+  </channel><channel id="C149.telerama.fr">
+    <display-name>Motors TV</display-name>
+    <icon src="http://localhost/logo149.gif"/>
+  </channel><channel id="C15.telerama.fr">
+    <display-name>BFM TV</display-name>
+    <icon src="http://localhost/logo15.gif"/>
+  </channel><channel id="C150.telerama.fr">
+    <display-name>MTV</display-name>
+    <icon src="http://localhost/logo150.gif"/>
+  </channel><channel id="C1585.telerama.fr">
+    <display-name>J-One</display-name>
+    <icon src="http://localhost/logo1585.gif"/>
+  </channel><channel id="C16.telerama.fr">
+    <display-name>CNews</display-name>
+    <icon src="http://localhost/logo16.gif"/>
+  </channel><channel id="C160.telerama.fr">
+    <display-name>MTV 2</display-name>
+    <icon src="http://localhost/logo160.gif"/>
+  </channel><channel id="C161.telerama.fr">
+    <display-name>MTV Base</display-name>
+    <icon src="http://localhost/logo161.gif"/>
+  </channel><channel id="C162.telerama.fr">
+    <display-name>MTV Base France</display-name>
+    <icon src="http://localhost/logo162.gif"/>
+  </channel><channel id="C163.telerama.fr">
+    <display-name>MTV Hits</display-name>
+    <icon src="http://localhost/logo163.gif"/>
+  </channel><channel id="C164.telerama.fr">
+    <display-name>MTV Idol</display-name>
+    <icon src="http://localhost/logo164.gif"/>
+  </channel><channel id="C165.telerama.fr">
+    <display-name>MTV Pulse</display-name>
+    <icon src="http://localhost/logo165.gif"/>
+  </channel><channel id="C166.telerama.fr">
+    <display-name>Nantes 7</display-name>
+    <icon src="http://localhost/logo166.gif"/>
+  </channel><channel id="C167.telerama.fr">
+    <display-name>NASN</display-name>
+    <icon src="http://localhost/logo167.gif"/>
+  </channel><channel id="C168.telerama.fr">
+    <display-name>National Geographic</display-name>
+    <icon src="http://localhost/logo168.gif"/>
+  </channel><channel id="C169.telerama.fr">
+    <display-name>National Geographic HD</display-name>
+    <icon src="http://localhost/logo169.gif"/>
+  </channel><channel id="C17.telerama.fr">
+    <display-name>CStar</display-name>
+    <icon src="http://localhost/logo17.gif"/>
+  </channel><channel id="C170.telerama.fr">
+    <display-name>National Geographic Wild</display-name>
+    <icon src="http://localhost/logo170.gif"/>
+  </channel><channel id="C171.telerama.fr">
+    <display-name>Nickelod&#xE9;on</display-name>
+    <icon src="http://localhost/logo171.gif"/>
+  </channel><channel id="C173.telerama.fr">
+    <display-name>NRJ Hits</display-name>
+    <icon src="http://localhost/logo173.gif"/>
+  </channel><channel id="C174.telerama.fr">
+    <display-name>NRJ Paris</display-name>
+    <icon src="http://localhost/logo174.gif"/>
+  </channel><channel id="C1746.telerama.fr">
+    <display-name>Nickelod&#xE9;on 4 Teen</display-name>
+    <icon src="http://localhost/logo1746.gif"/>
+  </channel><channel id="C175.telerama.fr">
+    <display-name>Stylia</display-name>
+    <icon src="http://localhost/logo175.gif"/>
+  </channel><channel id="C176.telerama.fr">
+    <display-name>OL TV - Olympique lyonnais</display-name>
+    <icon src="http://localhost/logo176.gif"/>
+  </channel><channel id="C177.telerama.fr">
+    <display-name>OMTV</display-name>
+    <icon src="http://localhost/logo177.gif"/>
+  </channel><channel id="C1776.telerama.fr">
+    <display-name>Trek</display-name>
+    <icon src="http://localhost/logo1776.gif"/>
+  </channel><channel id="C178.telerama.fr">
+    <display-name>Onze</display-name>
+    <icon src="http://localhost/logo178.gif"/>
+  </channel><channel id="C179.telerama.fr">
+    <display-name>Onz&#xE9;o</display-name>
+    <icon src="http://localhost/logo179.gif"/>
+  </channel><channel id="C18.telerama.fr">
+    <display-name>Gulli</display-name>
+    <icon src="http://localhost/logo18.gif"/>
+  </channel><channel id="C180.telerama.fr">
+    <display-name>Orange Cin&#xE9; G&#xE9;ants</display-name>
+    <icon src="http://localhost/logo180.gif"/>
+  </channel><channel id="C181.telerama.fr">
+    <display-name>Orange Cin&#xE9; Choc</display-name>
+    <icon src="http://localhost/logo181.gif"/>
+  </channel><channel id="C182.telerama.fr">
+    <display-name>Orange Cin&#xE9; Happy</display-name>
+    <icon src="http://localhost/logo182.gif"/>
+  </channel><channel id="C183.telerama.fr">
+    <display-name>Orange Cin&#xE9;max</display-name>
+    <icon src="http://localhost/logo183.gif"/>
+  </channel><channel id="C184.telerama.fr">
+    <display-name>Orange Cin&#xE9;novo</display-name>
+    <icon src="http://localhost/logo184.gif"/>
+  </channel><channel id="C185.telerama.fr">
+    <display-name>Orange Sports Info</display-name>
+    <icon src="http://localhost/logo185.gif"/>
+  </channel><channel id="C186.telerama.fr">
+    <display-name>Paris Premi&#xE8;re</display-name>
+    <icon src="http://localhost/logo186.gif"/>
+  </channel><channel id="C187.telerama.fr">
+    <display-name>Pink TV</display-name>
+    <icon src="http://localhost/logo187.gif"/>
+  </channel><channel id="C188.telerama.fr">
+    <display-name>Plan&#xE8;te</display-name>
+    <icon src="http://localhost/logo188.gif"/>
+  </channel><channel id="C189.telerama.fr">
+    <display-name>Orange Sport</display-name>
+    <icon src="http://localhost/logo189.gif"/>
+  </channel><channel id="C190.telerama.fr">
+    <display-name>Plan&#xE8;te Justice</display-name>
+    <icon src="http://localhost/logo190.gif"/>
+  </channel><channel id="C191.telerama.fr">
+    <display-name>Plan&#xE8;te No Limit</display-name>
+    <icon src="http://localhost/logo191.gif"/>
+  </channel><channel id="C192.telerama.fr">
+    <display-name>Plan&#xE8;te Thalassa</display-name>
+    <icon src="http://localhost/logo192.gif"/>
+  </channel><channel id="C193.telerama.fr">
+    <display-name>Playboy TV</display-name>
+    <icon src="http://localhost/logo193.gif"/>
+  </channel><channel id="C194.telerama.fr">
+    <display-name>Disney Junior</display-name>
+    <icon src="http://localhost/logo194.gif"/>
+  </channel><channel id="C1948.telerama.fr">
+    <display-name>Trace Toca_ETR</display-name>
+    <icon src="http://localhost/logo1948.gif"/>
+  </channel><channel id="C195.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="http://localhost/logo195.gif"/>
+  </channel><channel id="C196.telerama.fr">
+    <display-name>Private Spice</display-name>
+    <icon src="http://localhost/logo196.gif"/>
+  </channel><channel id="C1960.telerama.fr">
+    <display-name>BET</display-name>
+    <icon src="http://localhost/logo1960.gif"/>
+  </channel><channel id="C197.telerama.fr">
+    <display-name>Pro 7</display-name>
+    <icon src="http://localhost/logo197.gif"/>
+  </channel><channel id="C198.telerama.fr">
+    <display-name>RTL +</display-name>
+    <icon src="http://localhost/logo198.gif"/>
+  </channel><channel id="C199.telerama.fr">
+    <display-name>RTL 9</display-name>
+    <icon src="http://localhost/logo199.gif"/>
+  </channel><channel id="C2.telerama.fr">
+    <display-name>France 2</display-name>
+    <icon src="http://localhost/logo2.gif"/>
+  </channel><channel id="C20.telerama.fr">
+    <display-name>13e Rue</display-name>
+    <icon src="http://localhost/logo20.gif"/>
+  </channel><channel id="C201.telerama.fr">
+    <display-name>SyFy</display-name>
+    <icon src="http://localhost/logo201.gif"/>
+  </channel><channel id="C202.telerama.fr">
+    <display-name>Seasons</display-name>
+    <icon src="http://localhost/logo202.gif"/>
+  </channel><channel id="C2021.telerama.fr">
+    <display-name>MCS Maison</display-name>
+    <icon src="http://localhost/logo2021.gif"/>
+  </channel><channel id="C2029.telerama.fr">
+    <display-name>SFR Sport 4K</display-name>
+    <icon src="http://localhost/logo2029.gif"/>
+  </channel><channel id="C203.telerama.fr">
+    <display-name>S&#xE9;rie club</display-name>
+    <icon src="http://localhost/logo203.gif"/>
+  </channel><channel id="C2037.telerama.fr">
+    <display-name>Crime District</display-name>
+    <icon src="http://localhost/logo2037.gif"/>
+  </channel><channel id="C204.telerama.fr">
+    <display-name>Sport+</display-name>
+    <icon src="http://localhost/logo204.gif"/>
+  </channel><channel id="C2040.telerama.fr">
+    <display-name>Toonami</display-name>
+    <icon src="http://localhost/logo2040.gif"/>
+  </channel><channel id="C2049.telerama.fr">
+    <display-name>A+ International France</display-name>
+    <icon src="http://localhost/logo2049.gif"/>
+  </channel><channel id="C205.telerama.fr">
+    <display-name>Supersport 3</display-name>
+    <icon src="http://localhost/logo205.gif"/>
+  </channel><channel id="C206.telerama.fr">
+    <display-name>TCM</display-name>
+    <icon src="http://localhost/logo206.gif"/>
+  </channel><channel id="C207.telerama.fr">
+    <display-name>TCM (CH)</display-name>
+    <icon src="http://localhost/logo207.gif"/>
+  </channel><channel id="C209.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; Guadeloupe</display-name>
+    <icon src="http://localhost/logo209.gif"/>
+  </channel><channel id="C2095.telerama.fr">
+    <display-name>SFR Sport 1</display-name>
+    <icon src="http://localhost/logo2095.gif"/>
+  </channel><channel id="C21.telerama.fr">
+    <display-name>2Be</display-name>
+    <icon src="http://localhost/logo21.gif"/>
+  </channel><channel id="C210.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; Guyane</display-name>
+    <icon src="http://localhost/logo210.gif"/>
+  </channel><channel id="C211.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; M&#xE9;lody</display-name>
+    <icon src="http://localhost/logo211.gif"/>
+  </channel><channel id="C2111.telerama.fr">
+    <display-name>Franceinfo</display-name>
+    <icon src="http://localhost/logo2111.gif"/>
+  </channel><channel id="C212.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; Miroir</display-name>
+    <icon src="http://localhost/logo212.gif"/>
+  </channel><channel id="C213.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; Martinique</display-name>
+    <icon src="http://localhost/logo213.gif"/>
+  </channel><channel id="C214.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; Nantes</display-name>
+    <icon src="http://localhost/logo214.gif"/>
+  </channel><channel id="C216.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; Nouvelle-Cal&#xE9;donie</display-name>
+    <icon src="http://localhost/logo216.gif"/>
+  </channel><channel id="C217.telerama.fr">
+    <display-name>Polyn&#xE9;sie 1&#xE8;re</display-name>
+    <icon src="http://localhost/logo217.gif"/>
+  </channel><channel id="C218.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; R&#xE9;union</display-name>
+    <icon src="http://localhost/logo218.gif"/>
+  </channel><channel id="C219.telerama.fr">
+    <display-name>T&#xE9;l&#xE9; Toulouse</display-name>
+    <icon src="http://localhost/logo219.gif"/>
+  </channel><channel id="C22.telerama.fr">
+    <display-name>3A Telesud</display-name>
+    <icon src="http://localhost/logo22.gif"/>
+  </channel><channel id="C220.telerama.fr">
+    <display-name>T&#xE9;l&#xE9;Toon</display-name>
+    <icon src="http://localhost/logo220.gif"/>
+  </channel><channel id="C221.telerama.fr">
+    <display-name>T&#xE9;l&#xE9;Toon (+1)</display-name>
+    <icon src="http://localhost/logo221.gif"/>
+  </channel><channel id="C222.telerama.fr">
+    <display-name>TELIF</display-name>
+    <icon src="http://localhost/logo222.gif"/>
+  </channel><channel id="C223.telerama.fr">
+    <display-name>Tempo Guadeloupe</display-name>
+    <icon src="http://localhost/logo223.gif"/>
+  </channel><channel id="C224.telerama.fr">
+    <display-name>Tempo Nouvelle-Cal&#xE9;donie</display-name>
+    <icon src="http://localhost/logo224.gif"/>
+  </channel><channel id="C225.telerama.fr">
+    <display-name>Tempo Polyn&#xE9;sie</display-name>
+    <icon src="http://localhost/logo225.gif"/>
+  </channel><channel id="C226.telerama.fr">
+    <display-name>Tempo R&#xE9;union</display-name>
+    <icon src="http://localhost/logo226.gif"/>
+  </channel><channel id="C227.telerama.fr">
+    <display-name>T&#xE9;va</display-name>
+    <icon src="http://localhost/logo227.gif"/>
+  </channel><channel id="C228.telerama.fr">
+    <display-name>TF6</display-name>
+    <icon src="http://localhost/logo228.gif"/>
+  </channel><channel id="C229.telerama.fr">
+    <display-name>TIJI</display-name>
+    <icon src="http://localhost/logo229.gif"/>
+  </channel><channel id="C23.telerama.fr">
+    <display-name>AB1</display-name>
+    <icon src="http://localhost/logo23.gif"/>
+  </channel><channel id="C230.telerama.fr">
+    <display-name>The Poker Channel</display-name>
+    <icon src="http://localhost/logo230.gif"/>
+  </channel><channel id="C231.telerama.fr">
+    <display-name>TLM - T&#xE9;l&#xE9; Lyon M&#xE9;tropole</display-name>
+    <icon src="http://localhost/logo231.gif"/>
+  </channel><channel id="C233.telerama.fr">
+    <display-name>TPS Star</display-name>
+    <icon src="http://localhost/logo233.gif"/>
+  </channel><channel id="C234.telerama.fr">
+    <display-name>TRACE</display-name>
+    <icon src="http://localhost/logo234.gif"/>
+  </channel><channel id="C235.telerama.fr">
+    <display-name>TSR 1</display-name>
+    <icon src="http://localhost/logo235.gif"/>
+  </channel><channel id="C236.telerama.fr">
+    <display-name>TSR 2</display-name>
+    <icon src="http://localhost/logo236.gif"/>
+  </channel><channel id="C237.telerama.fr">
+    <display-name>TV5MONDE</display-name>
+    <icon src="http://localhost/logo237.gif"/>
+  </channel><channel id="C238.telerama.fr">
+    <display-name>TV5MONDE Afrique</display-name>
+    <icon src="http://localhost/logo238.gif"/>
+  </channel><channel id="C239.telerama.fr">
+    <display-name>TV5MONDE Asie</display-name>
+    <icon src="http://localhost/logo239.gif"/>
+  </channel><channel id="C24.telerama.fr">
+    <display-name>AB3</display-name>
+    <icon src="http://localhost/logo24.gif"/>
+  </channel><channel id="C240.telerama.fr">
+    <display-name>TV5MONDE Europe</display-name>
+    <icon src="http://localhost/logo240.gif"/>
+  </channel><channel id="C241.telerama.fr">
+    <display-name>TV7 Bordeaux</display-name>
+    <icon src="http://localhost/logo241.gif"/>
+  </channel><channel id="C242.telerama.fr">
+    <display-name>TV8 Mont-Blanc</display-name>
+    <icon src="http://localhost/logo242.gif"/>
+  </channel><channel id="C243.telerama.fr">
+    <display-name>Tv Breizh</display-name>
+    <icon src="http://localhost/logo243.gif"/>
+  </channel><channel id="C244.telerama.fr">
+    <display-name>TV Rennes</display-name>
+    <icon src="http://localhost/logo244.gif"/>
+  </channel><channel id="C245.telerama.fr">
+    <display-name>TV Tours</display-name>
+    <icon src="http://localhost/logo245.gif"/>
+  </channel><channel id="C246.telerama.fr">
+    <display-name>Ushuaia TV</display-name>
+    <icon src="http://localhost/logo246.gif"/>
+  </channel><channel id="C247.telerama.fr">
+    <display-name>Vivolta</display-name>
+    <icon src="http://localhost/logo247.gif"/>
+  </channel><channel id="C248.telerama.fr">
+    <display-name>Voyage</display-name>
+    <icon src="http://localhost/logo248.gif"/>
+  </channel><channel id="C249.telerama.fr">
+    <display-name>XXL</display-name>
+    <icon src="http://localhost/logo249.gif"/>
+  </channel><channel id="C25.telerama.fr">
+    <display-name>AB4</display-name>
+    <icon src="http://localhost/logo25.gif"/>
+  </channel><channel id="C250.telerama.fr">
+    <display-name>XXX Xtreme</display-name>
+    <icon src="http://localhost/logo250.gif"/>
+  </channel><channel id="C252.telerama.fr">
+    <display-name>Equipe TV</display-name>
+    <icon src="http://localhost/logo252.gif"/>
+  </channel><channel id="C253.telerama.fr">
+    <display-name>CNN</display-name>
+    <icon src="http://localhost/logo253.gif"/>
+  </channel><channel id="C254.telerama.fr">
+    <display-name>Toute l'histoire</display-name>
+    <icon src="http://localhost/logo254.gif"/>
+  </channel><channel id="C255.telerama.fr">
+    <display-name>Bloomberg</display-name>
+    <icon src="http://localhost/logo255.gif"/>
+  </channel><channel id="C257.telerama.fr">
+    <display-name>CNBC Europe</display-name>
+    <icon src="http://localhost/logo257.gif"/>
+  </channel><channel id="C258.telerama.fr">
+    <display-name>VH1</display-name>
+    <icon src="http://localhost/logo258.gif"/>
+  </channel><channel id="C259.telerama.fr">
+    <display-name>Luxe TV</display-name>
+    <icon src="http://localhost/logo259.gif"/>
+  </channel><channel id="C26.telerama.fr">
+    <display-name>Action</display-name>
+    <icon src="http://localhost/logo26.gif"/>
+  </channel><channel id="C260.telerama.fr">
+    <display-name>RTPI</display-name>
+    <icon src="http://localhost/logo260.gif"/>
+  </channel><channel id="C268.telerama.fr">
+    <display-name>Fashion TV</display-name>
+    <icon src="http://localhost/logo268.gif"/>
+  </channel><channel id="C269.telerama.fr">
+    <display-name>Astro Center</display-name>
+    <icon src="http://localhost/logo269.gif"/>
+  </channel><channel id="C27.telerama.fr">
+    <display-name>AB Moteurs</display-name>
+    <icon src="http://localhost/logo27.gif"/>
+  </channel><channel id="C270.telerama.fr">
+    <display-name>ORTF 1</display-name>
+    <icon src="http://localhost/logo270.gif"/>
+  </channel><channel id="C271.telerama.fr">
+    <display-name>RTPI</display-name>
+    <icon src="http://localhost/logo271.gif"/>
+  </channel><channel id="C272.telerama.fr">
+    <display-name>VH1</display-name>
+    <icon src="http://localhost/logo272.gif"/>
+  </channel><channel id="C273.telerama.fr">
+    <display-name>WDR</display-name>
+    <icon src="http://localhost/logo273.gif"/>
+  </channel><channel id="C274.telerama.fr">
+    <display-name>CCTV9</display-name>
+    <icon src="http://localhost/logo274.gif"/>
+  </channel><channel id="C275.telerama.fr">
+    <display-name>2M Monde</display-name>
+    <icon src="http://localhost/logo275.gif"/>
+  </channel><channel id="C276.telerama.fr">
+    <display-name>Piwi</display-name>
+    <icon src="http://localhost/logo276.gif"/>
+  </channel><channel id="C278.telerama.fr">
+    <display-name>3 SAT</display-name>
+    <icon src="http://localhost/logo278.gif"/>
+  </channel><channel id="C279.telerama.fr">
+    <display-name>Bloomberg TV</display-name>
+    <icon src="http://localhost/logo279.gif"/>
+  </channel><channel id="C28.telerama.fr">
+    <display-name>Alsatic TV</display-name>
+    <icon src="http://localhost/logo28.gif"/>
+  </channel><channel id="C280.telerama.fr">
+    <display-name>Zone Reality</display-name>
+    <icon src="http://localhost/logo280.gif"/>
+  </channel><channel id="C281.telerama.fr">
+    <display-name>Yacht &amp; Sail</display-name>
+    <icon src="http://localhost/logo281.gif"/>
+  </channel><channel id="C282.telerama.fr">
+    <display-name>Baby TV</display-name>
+    <icon src="http://localhost/logo282.gif"/>
+  </channel><channel id="C283.telerama.fr">
+    <display-name>LCM</display-name>
+    <icon src="http://localhost/logo283.gif"/>
+  </channel><channel id="C284.telerama.fr">
+    <display-name>Txingudi</display-name>
+    <icon src="http://localhost/logo284.gif"/>
+  </channel><channel id="C285.telerama.fr">
+    <display-name>Zone Reality (B)</display-name>
+    <icon src="http://localhost/logo285.gif"/>
+  </channel><channel id="C286.telerama.fr">
+    <display-name>Zee TV</display-name>
+    <icon src="http://localhost/logo286.gif"/>
+  </channel><channel id="C287.telerama.fr">
+    <display-name>Zee Cin&#xE9;ma</display-name>
+    <icon src="http://localhost/logo287.gif"/>
+  </channel><channel id="C288.telerama.fr">
+    <display-name>France 24</display-name>
+    <icon src="http://localhost/logo288.gif"/>
+  </channel><channel id="C289.telerama.fr">
+    <display-name>L'Equipe TV</display-name>
+    <icon src="http://localhost/logo289.gif"/>
+  </channel><channel id="C29.telerama.fr">
+    <display-name>Animaux</display-name>
+    <icon src="http://localhost/logo29.gif"/>
+  </channel><channel id="C291.telerama.fr">
+    <display-name>VH1 Classic</display-name>
+    <icon src="http://localhost/logo291.gif"/>
+  </channel><channel id="C292.telerama.fr">
+    <display-name>Vijf TV</display-name>
+    <icon src="http://localhost/logo292.gif"/>
+  </channel><channel id="C294.telerama.fr">
+    <display-name>IDF1</display-name>
+    <icon src="http://localhost/logo294.gif"/>
+  </channel><channel id="C295.telerama.fr">
+    <display-name>ETB 1</display-name>
+    <icon src="http://localhost/logo295.gif"/>
+  </channel><channel id="C296.telerama.fr">
+    <display-name>ETB 2</display-name>
+    <icon src="http://localhost/logo296.gif"/>
+  </channel><channel id="C297.telerama.fr">
+    <display-name>MTV HD</display-name>
+    <icon src="http://localhost/logo297.gif"/>
+  </channel><channel id="C298.telerama.fr">
+    <display-name>M6 Music Club</display-name>
+    <icon src="http://localhost/logo298.gif"/>
+  </channel><channel id="C299.telerama.fr">
+    <display-name>Toute l'Histoire</display-name>
+    <icon src="http://localhost/logo299.gif"/>
+  </channel><channel id="C3.telerama.fr">
+    <display-name>France 3</display-name>
+    <icon src="http://localhost/logo3.gif"/>
+  </channel><channel id="C300.telerama.fr">
+    <display-name>Sundance Channel</display-name>
+    <icon src="http://localhost/logo300.gif"/>
+  </channel><channel id="C301.telerama.fr">
+    <display-name>ARD</display-name>
+    <icon src="http://localhost/logo301.gif"/>
+  </channel><channel id="C302.telerama.fr">
+    <display-name>SAT 1</display-name>
+    <icon src="http://localhost/logo302.gif"/>
+  </channel><channel id="C303.telerama.fr">
+    <display-name>ZDF</display-name>
+    <icon src="http://localhost/logo303.gif"/>
+  </channel><channel id="C305.telerama.fr">
+    <display-name>Deutsche Welle</display-name>
+    <icon src="http://localhost/logo305.gif"/>
+  </channel><channel id="C31.telerama.fr">
+    <display-name>BE TV</display-name>
+    <icon src="http://localhost/logo31.gif"/>
+  </channel><channel id="C32.telerama.fr">
+    <display-name>Be Cin&#xE9;</display-name>
+    <icon src="http://localhost/logo32.gif"/>
+  </channel><channel id="C33.telerama.fr">
+    <display-name>Be S&#xE9;ries</display-name>
+    <icon src="http://localhost/logo33.gif"/>
+  </channel><channel id="C34.telerama.fr">
+    <display-name>Be Sport 1</display-name>
+    <icon src="http://localhost/logo34.gif"/>
+  </channel><channel id="C35.telerama.fr">
+    <display-name>Be Sport 2</display-name>
+    <icon src="http://localhost/logo35.gif"/>
+  </channel><channel id="C351.telerama.fr">
+    <display-name>TV1 - Nederland 1</display-name>
+    <icon src="http://localhost/logo351.gif"/>
+  </channel><channel id="C352.telerama.fr">
+    <display-name>TV2 - Nederland 2</display-name>
+    <icon src="http://localhost/logo352.gif"/>
+  </channel><channel id="C353.telerama.fr">
+    <display-name>TV3 - Nederland 3</display-name>
+    <icon src="http://localhost/logo353.gif"/>
+  </channel><channel id="C38.telerama.fr">
+    <display-name>Boomerang</display-name>
+    <icon src="http://localhost/logo38.gif"/>
+  </channel><channel id="C39.telerama.fr">
+    <display-name>Canal 32</display-name>
+    <icon src="http://localhost/logo39.gif"/>
+  </channel><channel id="C4.telerama.fr">
+    <display-name>Canal+</display-name>
+    <icon src="http://localhost/logo4.gif"/>
+  </channel><channel id="C40.telerama.fr">
+    <display-name>Canal partag&#xE9; TNT Ile-de-France</display-name>
+    <icon src="http://localhost/logo40.gif"/>
+  </channel><channel id="C401.telerama.fr">
+    <display-name>BBC 1</display-name>
+    <icon src="http://localhost/logo401.gif"/>
+  </channel><channel id="C402.telerama.fr">
+    <display-name>BBC 2</display-name>
+    <icon src="http://localhost/logo402.gif"/>
+  </channel><channel id="C403.telerama.fr">
+    <display-name>BBC Prime</display-name>
+    <icon src="http://localhost/logo403.gif"/>
+  </channel><channel id="C404.telerama.fr">
+    <display-name>BBC World News</display-name>
+    <icon src="http://localhost/logo404.gif"/>
+  </channel><channel id="C405.telerama.fr">
+    <display-name>CNN</display-name>
+    <icon src="http://localhost/logo405.gif"/>
+  </channel><channel id="C406.telerama.fr">
+    <display-name>CNBC Europe</display-name>
+    <icon src="http://localhost/logo406.gif"/>
+  </channel><channel id="C407.telerama.fr">
+    <display-name>CNBC Europe + Nat Geo</display-name>
+    <icon src="http://localhost/logo407.gif"/>
+  </channel><channel id="C408.telerama.fr">
+    <display-name>Al Jazeera English</display-name>
+    <icon src="http://localhost/logo408.gif"/>
+  </channel><channel id="C4131.telerama.fr">
+    <display-name>HD1</display-name>
+    <icon src="http://localhost/logo4131.gif"/>
+  </channel><channel id="C4132.telerama.fr">
+    <display-name>L&#x2019;Equipe</display-name>
+    <icon src="http://localhost/logo4132.gif"/>
+  </channel><channel id="C4133.telerama.fr">
+    <display-name>6ter</display-name>
+    <icon src="http://localhost/logo4133.gif"/>
+  </channel><channel id="C4134.telerama.fr">
+    <display-name>Num&#xE9;ro 23</display-name>
+    <icon src="http://localhost/logo4134.gif"/>
+  </channel><channel id="C4135.telerama.fr">
+    <display-name>RMC D&#xE9;couverte</display-name>
+    <icon src="http://localhost/logo4135.gif"/>
+  </channel><channel id="C4136.telerama.fr">
+    <display-name>Ch&#xE9;rie 25</display-name>
+    <icon src="http://localhost/logo4136.gif"/>
+  </channel><channel id="C4138.telerama.fr">
+    <display-name>Canal+ S&#xE9;ries</display-name>
+    <icon src="http://localhost/logo4138.gif"/>
+  </channel><channel id="C4139.telerama.fr">
+    <display-name>Bein sport 1</display-name>
+    <icon src="http://localhost/logo4139.gif"/>
+  </channel><channel id="C4140.telerama.fr">
+    <display-name>Bein sport 2</display-name>
+    <icon src="http://localhost/logo4140.gif"/>
+  </channel><channel id="C4141.telerama.fr">
+    <display-name>Paramount Channel</display-name>
+    <icon src="http://localhost/logo4141.gif"/>
+  </channel><channel id="C4142.telerama.fr">
+    <display-name>SFR Sport 3</display-name>
+    <icon src="http://localhost/logo4142.gif"/>
+  </channel><channel id="C4143.telerama.fr">
+    <display-name>SFR Sport 5</display-name>
+    <icon src="http://localhost/logo4143.gif"/>
+  </channel><channel id="C42.telerama.fr">
+    <display-name>Canal J</display-name>
+    <icon src="http://localhost/logo42.gif"/>
+  </channel><channel id="C43.telerama.fr">
+    <display-name>Canal+ Cin&#xE9;ma</display-name>
+    <icon src="http://localhost/logo43.gif"/>
+  </channel><channel id="C44.telerama.fr">
+    <display-name>Canal+ D&#xE9;cal&#xE9;</display-name>
+    <icon src="http://localhost/logo44.gif"/>
+  </channel><channel id="C45.telerama.fr">
+    <display-name>Canal+ Family</display-name>
+    <icon src="http://localhost/logo45.gif"/>
+  </channel><channel id="C47.telerama.fr">
+    <display-name>Canal+ Sport</display-name>
+    <icon src="http://localhost/logo47.gif"/>
+  </channel><channel id="C48.telerama.fr">
+    <display-name>Canal Horizons</display-name>
+    <icon src="http://localhost/logo48.gif"/>
+  </channel><channel id="C49.telerama.fr">
+    <display-name>Canal Horizons Cin&#xE9;ma</display-name>
+    <icon src="http://localhost/logo49.gif"/>
+  </channel><channel id="C5.telerama.fr">
+    <display-name>France 5</display-name>
+    <icon src="http://localhost/logo5.gif"/>
+  </channel><channel id="C50.telerama.fr">
+    <display-name>Cartoon Network</display-name>
+    <icon src="http://localhost/logo50.gif"/>
+  </channel><channel id="C509.telerama.fr">
+    <display-name>Ketnet Canvas</display-name>
+    <icon src="http://localhost/logo509.gif"/>
+  </channel><channel id="C51.telerama.fr">
+    <display-name>Chasse et p&#xEA;che</display-name>
+    <icon src="http://localhost/logo51.gif"/>
+  </channel><channel id="C510.telerama.fr">
+    <display-name>Klara</display-name>
+    <icon src="http://localhost/logo510.gif"/>
+  </channel><channel id="C511.telerama.fr">
+    <display-name>RTBF Sat</display-name>
+    <icon src="http://localhost/logo511.gif"/>
+  </channel><channel id="C512.telerama.fr">
+    <display-name>VT 4</display-name>
+    <icon src="http://localhost/logo512.gif"/>
+  </channel><channel id="C513.telerama.fr">
+    <display-name>VTM</display-name>
+    <icon src="http://localhost/logo513.gif"/>
+  </channel><channel id="C514.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="http://localhost/logo514.gif"/>
+  </channel><channel id="C52.telerama.fr">
+    <display-name>Cin&#xE9; First</display-name>
+    <icon src="http://localhost/logo52.gif"/>
+  </channel><channel id="C53.telerama.fr">
+    <display-name>Cin&#xE9; FX</display-name>
+    <icon src="http://localhost/logo53.gif"/>
+  </channel><channel id="C54.telerama.fr">
+    <display-name>Cin&#xE9; Polar</display-name>
+    <icon src="http://localhost/logo54.gif"/>
+  </channel><channel id="C55.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Star Afrique</display-name>
+    <icon src="http://localhost/logo55.gif"/>
+  </channel><channel id="C56.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Classic</display-name>
+    <icon src="http://localhost/logo56.gif"/>
+  </channel><channel id="C57.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Classic (B)</display-name>
+    <icon src="http://localhost/logo57.gif"/>
+  </channel><channel id="C58.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Club</display-name>
+    <icon src="http://localhost/logo58.gif"/>
+  </channel><channel id="C59.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Emotion</display-name>
+    <icon src="http://localhost/logo59.gif"/>
+  </channel><channel id="C6.telerama.fr">
+    <display-name>M6</display-name>
+    <icon src="http://localhost/logo6.gif"/>
+  </channel><channel id="C60.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Famiz</display-name>
+    <icon src="http://localhost/logo60.gif"/>
+  </channel><channel id="C601.telerama.fr">
+    <display-name>TVE 1</display-name>
+    <icon src="http://localhost/logo601.gif"/>
+  </channel><channel id="C602.telerama.fr">
+    <display-name>TVE 2</display-name>
+    <icon src="http://localhost/logo602.gif"/>
+  </channel><channel id="C603.telerama.fr">
+    <display-name>TVE International</display-name>
+    <icon src="http://localhost/logo603.gif"/>
+  </channel><channel id="C604.telerama.fr">
+    <display-name>Real Madrid TV</display-name>
+    <icon src="http://localhost/logo604.gif"/>
+  </channel><channel id="C61.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Frisson</display-name>
+    <icon src="http://localhost/logo61.gif"/>
+  </channel><channel id="C62.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Premier</display-name>
+    <icon src="http://localhost/logo62.gif"/>
+  </channel><channel id="C621.telerama.fr">
+    <display-name>Gong Max</display-name>
+    <icon src="http://localhost/logo621.gif"/>
+  </channel><channel id="C63.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Premier (B)</display-name>
+    <icon src="http://localhost/logo63.gif"/>
+  </channel><channel id="C64.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Frisson Afrique</display-name>
+    <icon src="http://localhost/logo64.gif"/>
+  </channel><channel id="C65.telerama.fr">
+    <display-name>Cin&#xE9; Cin&#xE9;ma Star</display-name>
+    <icon src="http://localhost/logo65.gif"/>
+  </channel><channel id="C66.telerama.fr">
+    <display-name>Clermont 1ere</display-name>
+    <icon src="http://localhost/logo66.gif"/>
+  </channel><channel id="C67.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="http://localhost/logo67.gif"/>
+  </channel><channel id="C675.telerama.fr">
+    <display-name>SFR Sport 2</display-name>
+    <icon src="http://localhost/logo675.gif"/>
+  </channel><channel id="C68.telerama.fr">
+    <display-name>Com&#xE9;die</display-name>
+    <icon src="http://localhost/logo68.gif"/>
+  </channel><channel id="C69.telerama.fr">
+    <display-name>Cuisine.TV</display-name>
+    <icon src="http://localhost/logo69.gif"/>
+  </channel><channel id="C7.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="http://localhost/logo7.gif"/>
+  </channel><channel id="C70.telerama.fr">
+    <display-name>Demain.TV</display-name>
+    <icon src="http://localhost/logo70.gif"/>
+  </channel><channel id="C701.telerama.fr">
+    <display-name>Rai Uno</display-name>
+    <icon src="http://localhost/logo701.gif"/>
+  </channel><channel id="C702.telerama.fr">
+    <display-name>Rai Due</display-name>
+    <icon src="http://localhost/logo702.gif"/>
+  </channel><channel id="C703.telerama.fr">
+    <display-name>Rai Tre</display-name>
+    <icon src="http://localhost/logo703.gif"/>
+  </channel><channel id="C71.telerama.fr">
+    <display-name>Discovery Channel</display-name>
+    <icon src="http://localhost/logo71.gif"/>
+  </channel><channel id="C73.telerama.fr">
+    <display-name>Disney Channel</display-name>
+    <icon src="http://localhost/logo73.gif"/>
+  </channel><channel id="C74.telerama.fr">
+    <display-name>Disney Channel (+1)</display-name>
+    <icon src="http://localhost/logo74.gif"/>
+  </channel><channel id="C75.telerama.fr">
+    <display-name>Disney Cin&#xE9;magic</display-name>
+    <icon src="http://localhost/logo75.gif"/>
+  </channel><channel id="C753.telerama.fr">
+    <display-name>Trace Tropical</display-name>
+    <icon src="http://localhost/logo753.gif"/>
+  </channel><channel id="C77.telerama.fr">
+    <display-name>Disney Cin&#xE9;magic (+1)</display-name>
+    <icon src="http://localhost/logo77.gif"/>
+  </channel><channel id="C78.telerama.fr">
+    <display-name>Dorcel TV</display-name>
+    <icon src="http://localhost/logo78.gif"/>
+  </channel><channel id="C787.telerama.fr">
+    <display-name>Nolife</display-name>
+    <icon src="http://localhost/logo787.gif"/>
+  </channel><channel id="C79.telerama.fr">
+    <display-name>Maison+</display-name>
+    <icon src="http://localhost/logo79.gif"/>
+  </channel><channel id="C8.telerama.fr">
+    <display-name>C8</display-name>
+    <icon src="http://localhost/logo8.gif"/>
+  </channel><channel id="C80.telerama.fr">
+    <display-name>E ! Entertainment</display-name>
+    <icon src="http://localhost/logo80.gif"/>
+  </channel><channel id="C801.telerama.fr">
+    <display-name>SWR</display-name>
+    <icon src="http://localhost/logo801.gif"/>
+  </channel><channel id="C804.telerama.fr">
+    <display-name>SF1</display-name>
+    <icon src="http://localhost/logo804.gif"/>
+  </channel><channel id="C805.telerama.fr">
+    <display-name>SF2</display-name>
+    <icon src="http://localhost/logo805.gif"/>
+  </channel><channel id="C806.telerama.fr">
+    <display-name>TSI 1</display-name>
+    <icon src="http://localhost/logo806.gif"/>
+  </channel><channel id="C807.telerama.fr">
+    <display-name>TSI 2</display-name>
+    <icon src="http://localhost/logo807.gif"/>
+  </channel><channel id="C81.telerama.fr">
+    <display-name>&#xE9;&#xE9;n</display-name>
+    <icon src="http://localhost/logo81.gif"/>
+  </channel><channel id="C810.telerama.fr">
+    <display-name>Discovery HD Showcase</display-name>
+    <icon src="http://localhost/logo810.gif"/>
+  </channel><channel id="C811.telerama.fr">
+    <display-name>la Trois</display-name>
+    <icon src="http://localhost/logo811.gif"/>
+  </channel><channel id="C812.telerama.fr">
+    <display-name>ORF1</display-name>
+    <icon src="http://localhost/logo812.gif"/>
+  </channel><channel id="C82.telerama.fr">
+    <display-name>Encyclo</display-name>
+    <icon src="http://localhost/logo82.gif"/>
+  </channel><channel id="C83.telerama.fr">
+    <display-name>Equidia</display-name>
+    <icon src="http://localhost/logo83.gif"/>
+  </channel><channel id="C84.telerama.fr">
+    <display-name>Escales</display-name>
+    <icon src="http://localhost/logo84.gif"/>
+  </channel><channel id="C85.telerama.fr">
+    <display-name>ESPN</display-name>
+    <icon src="http://localhost/logo85.gif"/>
+  </channel><channel id="C86.telerama.fr">
+    <display-name>ESPN Classic</display-name>
+    <icon src="http://localhost/logo86.gif"/>
+  </channel><channel id="C87.telerama.fr">
+    <display-name>Euronews</display-name>
+    <icon src="http://localhost/logo87.gif"/>
+  </channel><channel id="C888.telerama.fr">
+    <display-name>Nick Jr.</display-name>
+    <icon src="http://localhost/logo888.gif"/>
+  </channel><channel id="C89.telerama.fr">
+    <display-name>Eurosport</display-name>
+    <icon src="http://localhost/logo89.gif"/>
+  </channel><channel id="C9.telerama.fr">
+    <display-name>W9</display-name>
+    <icon src="http://localhost/logo9.gif"/>
+  </channel><channel id="C90.telerama.fr">
+    <display-name>Eurosport 2</display-name>
+    <icon src="http://localhost/logo90.gif"/>
+  </channel><channel id="C907.telerama.fr">
+    <display-name>Mezzo Live HD</display-name>
+    <icon src="http://localhost/logo907.gif"/>
+  </channel><channel id="C91.telerama.fr">
+    <display-name>Extrem Sport Channel</display-name>
+    <icon src="http://localhost/logo91.gif"/>
+  </channel><channel id="C92.telerama.fr">
+    <display-name>Elle Girl</display-name>
+    <icon src="http://localhost/logo92.gif"/>
+  </channel><channel id="C924.telerama.fr">
+    <display-name>Boing France</display-name>
+    <icon src="http://localhost/logo924.gif"/>
+  </channel><channel id="C929.telerama.fr">
+    <display-name>KZTV</display-name>
+    <icon src="http://localhost/logo929.gif"/>
+  </channel><channel id="C95.telerama.fr">
+    <display-name>France 3 Alpes</display-name>
+    <icon src="http://localhost/logo95.gif"/>
+  </channel><channel id="C96.telerama.fr">
+    <display-name>France 3 Alsace</display-name>
+    <icon src="http://localhost/logo96.gif"/>
+  </channel><channel id="C97.telerama.fr">
+    <display-name>France 3 Aquitaine</display-name>
+    <icon src="http://localhost/logo97.gif"/>
+  </channel><channel id="C98.telerama.fr">
+    <display-name>France 3 Auvergne</display-name>
+    <icon src="http://localhost/logo98.gif"/>
+  </channel><channel id="C99.telerama.fr">
+    <display-name>France 3 Basse-Normandie</display-name>
+    <icon src="http://localhost/logo99.gif"/>
+  </channel><channel id="D8">
     <display-name lang="fr">D8</display-name>
     <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F295%2F71e%2F0b94af0a2f62a15142d5f9ec0b%2Fc8%7Cclair_445.png?facedetect=1&amp;quality=85"/>
     <url>http://www.tv.orange.fr</url>
@@ -613,1094 +1633,563 @@
   </channel><channel id="Dolce Sport 6">
     <display-name lang="ro">Dolce Sport 6</display-name>
     <url>http://www.cinemagia.ro</url>
-  </channel><channel id="Watania 1">
-    <display-name lang="ar">Watania 1</display-name>
-    <icon src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"/>
-    <url>http://www.watania.tn</url>
-  </channel><channel id="Watania 2">
-    <display-name lang="ar">Watania 2</display-name>
-    <icon src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"/>
-    <url>http://www.watania.tn</url>
-  </channel><channel id="Watania 2 +2">
-    <display-name lang="ar">Watania 2 +4</display-name>
-    <url>http://www.watania.tn</url>
-  </channel><channel id="Watania 1 +4">
-    <display-name lang="ar">Watania 1 +4</display-name>
-    <url>http://www.watania.tn</url>
-  </channel><channel id="Watania 1 +2">
-    <display-name lang="ar">Watania 1 +2</display-name>
-    <url>http://www.watania.tn</url>
-  </channel><channel id="hd1">
-    <display-name lang="en">Bein sports 1 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd2">
-    <display-name lang="en">Bein sports 2 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd3">
-    <display-name lang="en">Bein sports 3 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd4">
-    <display-name lang="en">Bein sports 4 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd5">
-    <display-name lang="en">Bein sports 5 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd6">
-    <display-name lang="en">Bein sports 6 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd7">
-    <display-name lang="en">Bein sports 7 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd8">
-    <display-name lang="en">Bein sports 8 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd9">
-    <display-name lang="en">Bein sports 9 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd10">
-    <display-name lang="en">Bein sports 10 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd11">
-    <display-name lang="en">Bein sports 11 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd12">
-    <display-name lang="en">Bein sports 12 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd13">
-    <display-name lang="en">Bein sports 13 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd14">
-    <display-name lang="en">Bein sports 14 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd15">
-    <display-name lang="en">Bein sports 15 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd16">
-    <display-name lang="en">Bein sports 16 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="hd17">
-    <display-name lang="en">Bein sports 17 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="news_ar">
-    <display-name lang="en">Bein news</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="global">
-    <display-name lang="en">Bein global</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="BS NBA">
-    <display-name lang="en">BS NBA</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="global_us">
-    <display-name lang="en">Bein global (us)</display-name>
-    <icon src="http://epg.beinsports.com/us_sports/Global.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="spanish">
-    <display-name lang="en">Bein sports (es)</display-name>
-    <icon src="http://epg.beinsports.com/us_sports/Global.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="fr_3">
-    <display-name lang="en">Bein sports 3 (fr)</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="4MAX">
-    <display-name lang="en">Bein sports max 4</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="5MAX">
-    <display-name lang="en">Bein sports max 5</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="6MAX">
-    <display-name lang="en">Bein sports max 6</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="7MAX">
-    <display-name lang="en">Bein sports max 7</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="8MAX">
-    <display-name lang="en">Bein sports max 8</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="9MAX">
-    <display-name lang="en">Bein sports max 9</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="10MAX">
-    <display-name lang="en">Bein sports max 10</display-name>
-    <icon src="http://epg.beinsports.com/france_sports/HD1.svg"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="movieshd1">
-    <display-name lang="en">Bein movies 1 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 1 hd +2">
-    <display-name lang="en">Bein movies 1 hd +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 1 hd +4">
-    <display-name lang="en">Bein movies 1 hd +4</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="movieshd2">
-    <display-name lang="en">Bein movies 2 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 2 hd +2">
-    <display-name lang="en">Bein movies 2 hd +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 2 hd +4">
-    <display-name lang="en">Bein movies 2 hd +4</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="movieshd3">
-    <display-name lang="en">Bein movies 3 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 3 hd +2">
-    <display-name lang="en">Bein movies 3 hd +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 3 hd +4">
-    <display-name lang="en">Bein movies 3 hd +4</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="movieshd4">
-    <display-name lang="en">Bein movies 4 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 4 hd +2">
-    <display-name lang="en">Bein movies 4 hd +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Bein movies 4 hd +4">
-    <display-name lang="en">Bein movies 4 hd +4</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="serieshd1">
-    <display-name lang="en">Bein Series hd 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="serieshd1 +2">
-    <display-name lang="en">Bein Series hd 1 +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="beJUNIOR">
-    <display-name lang="en">Bein junior hd 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="fox_movies_hd">
-    <display-name lang="en">Fox movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="fox_movies_hd +2">
-    <display-name lang="en">Fox movies hd +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="fox_movies_hd +4">
-    <display-name lang="en">Fox movies hd +4</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="starmovieshd">
-    <display-name lang="en">Star movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="starw_orld_hd">
-    <display-name lang="en">Star world hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="fox_hd">
-    <display-name lang="en">Fox hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="natgeo_hd">
-    <display-name lang="en">Natgeo HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="natgeo_hd +1">
-    <display-name lang="en">Natgeo HD (en) +1</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="natgeo_hd +2">
-    <display-name lang="en">Natgeo HD (en) +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="NatGeoPeople_HD">
-    <display-name lang="en">NatGeo People HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="natgeowild_hd">
-    <display-name lang="en">natgeo wild HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="natgeowild_hd +1">
-    <display-name lang="en">natgeo wild HD (en) +1</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="natgeowild_hd +2">
-    <display-name lang="en">natgeo wild HD (en) +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="natgeowild_hd +4">
-    <display-name lang="en">natgeo wild HD (en) +4</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="baby_tv">
-    <display-name lang="en">Baby tv</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="jeem">
-    <display-name lang="en">Jeem</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="baraem">
-    <display-name lang="en">Baraem</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="baraem +4">
-    <display-name lang="en">baraem +4</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="baraem +8">
-    <display-name lang="en">baraem +8</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="beIN Gourmet">
-    <display-name lang="en">beIN Groummet HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="beIN Gourmet +1">
-    <display-name lang="en">beIN Groummet HD +1</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="beIN Gourmet +2">
-    <display-name lang="en">beIN Groummet HD +2</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="BoxOffice_HD1">
-    <display-name lang="en">beIN BoxOffice HD1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DTX">
-    <display-name lang="en">beIN DTX HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CBeebies">
-    <display-name lang="en">beIN BBC CBEEBIES</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="V_HD">
-    <display-name lang="en">V_HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CNNHD">
-    <display-name lang="en">CNNHD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="TCM">
-    <display-name lang="en">TCM</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CartoonNetworkAR">
-    <display-name lang="en">CartoonNetworkAR</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CartoonNetworkHD">
-    <display-name lang="en">CartoonNetworkHD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="HLN">
-    <display-name lang="en">HLN</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Boomerang">
-    <display-name lang="en">Boomerang</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="OSN Movies HD">
-    <display-name lang="en">OSN Movies HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OM1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies First HD">
-    <display-name lang="en">OSN Movies First HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OM1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies First HD +2h">
-    <display-name lang="en">OSN Movies First HD +2h</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OMX.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Action HD">
-    <display-name lang="en">OSN Movies Action HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AHD.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Action HD +2">
-    <display-name lang="en">OSN Movies Action HD +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Action HD +4">
-    <display-name lang="en">OSN Movies Action HD +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Action HD +6">
-    <display-name lang="en">OSN Movies Action HD +6</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Action HD +8">
-    <display-name lang="en">OSN Movies Action HD +8</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Action +2">
-    <display-name lang="en">OSN Movies Action +2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OMA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies HD Premier">
-    <display-name lang="en">OSN Movies HD Premier</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OPR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies +2h">
-    <display-name lang="en">OSN Movies +2h</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OPX.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Thriller HD">
-    <display-name lang="en">OSN Movies Thriller HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OCM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Thriller +2h">
-    <display-name lang="en">OSN Movies Thriller +2h</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OC2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Festival HD">
-    <display-name lang="en">OSN Movies Festival HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OMF.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Kids HD">
-    <display-name lang="en">OSN Movies Kids HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OMK.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Family HD">
-    <display-name lang="en">OSN Movies Family HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OFM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Family +2">
-    <display-name lang="en">OSN Movies Family +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Family +4">
-    <display-name lang="en">OSN Movies Family +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Comedy HD">
-    <display-name lang="en">OSN Movies Comedy HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OMC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Comedy HD +2">
-    <display-name lang="en">OSN Movies Comedy HD +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Comedy HD +4">
-    <display-name lang="en">OSN Movies Comedy HD +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Box Office 1 HD">
-    <display-name lang="en">OSN Movies Box Office 1 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BO1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Box Office 2">
-    <display-name lang="en">OSN Movies Box Office 2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BO2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Movies Box Office 3">
-    <display-name lang="en">OSN Movies Box Office 3</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BO3.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sundance TV">
-    <display-name lang="en">Sundance TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SUN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Star Movies HD">
-    <display-name lang="en">Star Movies HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/STM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sony Max Middle East">
-    <display-name lang="en">Sony Max Middle East</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SEM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Star Gold">
-    <display-name lang="en">Star Gold</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/STG.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Zee Cinema">
-    <display-name lang="en">Zee Cinema</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ZEC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="UTV Movies">
-    <display-name lang="en">UTV Movies</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/UTM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Ya Hala Al Oula">
-    <display-name lang="en">OSN Ya Hala Al Oula</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OYH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Ya Hala Al Oula +2h">
-    <display-name lang="en">OSN Ya Hala Al Oula +2h</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OYX.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Ya Hala HD">
-    <display-name lang="en">OSN Ya Hala HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OYA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Yahala Cinema HD">
-    <display-name lang="en">OSN Yahala Cinema HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OYC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Series Channel">
-    <display-name lang="en">Series Channel</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SER.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Series +2">
-    <display-name lang="en">Series +2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SE4.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Al Yawm">
-    <display-name lang="en">Al Yawm</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/YAW.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Al Safwa">
-    <display-name lang="en">Al Safwa</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SAF.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Fann">
-    <display-name lang="en">Fann</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FAN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cinema 1">
-    <display-name lang="en">Cinema 1</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CM1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cinema 1 +2">
-    <display-name lang="en">Cinema 1 +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cinema 1 +4">
-    <display-name lang="en">Cinema 1 +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cinema 2">
-    <display-name lang="en">Cinema 2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CM2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cinema 2 +2">
-    <display-name lang="en">Cinema 2 +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cinema 2 +4">
-    <display-name lang="en">Cinema 2 +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Music Now">
-    <display-name lang="en">Music Now</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NOW.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Hekayat">
-    <display-name lang="en">Hekayat</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/HK1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Hekayat 2">
-    <display-name lang="en">Hekayat 2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/HK2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ART Aflam 1">
-    <display-name lang="en">ART Aflam 1</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AF1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ART Aflam 1 +2">
-    <display-name lang="en">ART Aflam 1 +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ART Aflam 1 +4">
-    <display-name lang="en">ART Aflam 1 +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ART Aflam 2">
-    <display-name lang="en">ART Aflam 2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AF2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ART Aflam 2 +2">
-    <display-name lang="en">ART Aflam 2 +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ART Aflam 2 +4">
-    <display-name lang="en">ART Aflam 2 +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ART Cinema">
-    <display-name lang="en">ART Cinema</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ACM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="AD Drama + HD">
-    <display-name lang="en">AD Drama + HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ADH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Series First HD">
-    <display-name lang="en">OSN Series First HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OFH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN First HBO HD">
-    <display-name lang="en">OSN First HBO HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OFS.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Series HD">
-    <display-name lang="en">OSN Series HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OFX.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Series Comedy HD">
-    <display-name lang="en">OSN Series Comedy HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OCO.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Series Comedy HD +2h">
-    <display-name lang="en">OSN Series Comedy HD +2h</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/OCX.png"/>
-    <url>http://www.osn.com</url>
+  </channel><channel id="Rai 1 HD">
+    <display-name lang="it">Rai 1 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/899_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai 2 HD">
+    <display-name lang="it">Rai 2 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/898_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai 3 HD">
+    <display-name lang="it">Rai 3 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/897_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rete 4 HD">
+    <display-name lang="it">Rete 4 HD</display-name>
+    <icon src="http://www.mediaset.it/include/img/loghi/R4.png"/>
+    <url>http://www.mediaset.it</url>
+  </channel><channel id="Canale 5 HD">
+    <display-name lang="it">Canale 5 HD</display-name>
+    <icon src="http://www.mediaset.it/include/img/loghi/C5.png"/>
+    <url>http://www.mediaset.it</url>
+  </channel><channel id="Italia 1 HD">
+    <display-name lang="it">Italia 1 HD</display-name>
+    <icon src="http://www.mediaset.it/include/img/loghi/I1.png"/>
+    <url>http://www.mediaset.it</url>
+  </channel><channel id="Rsi La1 HD">
+    <display-name lang="de">Rsi La1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel><channel id="Rsi La2 HD">
+    <display-name lang="de">Rsi La2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel><channel id="LA7">
+    <display-name lang="it">LA7</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24064_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Mediaset Extra">
+    <display-name lang="it">Mediaset Extra</display-name>
+    <icon src="http://www.mediaset.it/include/img/loghi/KQ.png"/>
+    <url>http://www.mediaset.it</url>
+  </channel><channel id="Rai Storia">
+    <display-name lang="it">Rai Storia</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6630_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Iris">
+    <display-name lang="it">Iris</display-name>
+    <icon src="http://www.mediaset.it/include/img/loghi/KI.png"/>
+    <url>http://www.mediaset.it</url>
+  </channel><channel id="SportItalia">
+    <display-name lang="it">SportItalia</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8793_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai Sport 1 HD">
+    <display-name lang="it">Rai Sport 1 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/807_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai Sport 2 HD">
+    <display-name lang="it">Rai Sport 2 HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai Premium">
+    <display-name lang="it">Rai Premium</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6623_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai 4 HD">
+    <display-name lang="it">Rai 4 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9213_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai 5 HD">
+    <display-name lang="it">Rai 5 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6607_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai Movie HD">
+    <display-name lang="it">Rai Movie HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6608_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Giallo">
+    <display-name lang="it">Giallo</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8131_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="LEI">
+    <display-name lang="it">LEI</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/423_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="LaEffe">
+    <display-name lang="it">LaEffe</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23838_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="La3">
+    <display-name lang="it">La3</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema 1 HD">
+    <display-name lang="it">Sky Cinema 1 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/101_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema 1 SuperHD">
+    <display-name lang="it">Sky Cinema 1 SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/101_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema +1">
+    <display-name lang="it">Sky Cinema +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema +24 SuperHD">
+    <display-name lang="it">Sky Cinema +24 SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema +24">
+    <display-name lang="it">Sky Cinema +24</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Hits HD">
+    <display-name lang="it">Sky Cinema Hits HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/724_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Hits SuperHD">
+    <display-name lang="it">Sky Cinema Hits SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/724_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Family HD">
+    <display-name lang="it">Sky Cinema Family HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/105_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Family SuperHD">
+    <display-name lang="it">Sky Cinema Family SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/105_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Passion HD">
+    <display-name lang="it">Sky Cinema Passion HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6581_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Comedy">
+    <display-name lang="it">Sky Cinema Comedy</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6561_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Classics">
+    <display-name lang="it">Sky Cinema Classics</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/723_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Max HD">
+    <display-name lang="it">Sky Cinema Max HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/115_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Max Super hd">
+    <display-name lang="it">Sky Cinema Max Super hd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/115_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Max +1">
+    <display-name lang="it">Sky Cinema Max +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/451_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema Cult HD">
+    <display-name lang="it">Sky Cinema Cult HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6141_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky TG24">
+    <display-name lang="it">Sky TG24</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/22943_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="SKY 3D HD">
+    <display-name lang="it">SKY 3D HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6781_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Uno HD">
+    <display-name lang="it">Sky Uno HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/30073_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Uno +1">
+    <display-name lang="it">Sky Uno +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/30085_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="SKY CLASSICA HD">
+    <display-name lang="it">SKY CLASSICA HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24875_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Atlantic HD">
+    <display-name lang="it">Sky Atlantic HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8456_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Atlantic +1">
+    <display-name lang="it">Sky Atlantic +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8453_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox HD">
+    <display-name lang="it">Fox HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/122_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox +1">
+    <display-name lang="it">Fox +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/635_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox Life HD">
+    <display-name lang="it">Fox Life HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/133_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox Life +1">
+    <display-name lang="it">Fox Life +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/529_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox Crime HD">
+    <display-name lang="it">Fox Crime HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/139_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox Crime +1">
+    <display-name lang="it">Fox Crime +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/588_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox Comedy HD">
+    <display-name lang="it">Fox Comedy HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8833_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Comedy Central">
-    <display-name lang="en">Comedy Central</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CCE.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Syfy HD">
-    <display-name lang="en">Syfy HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SFY.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Star World HD">
-    <display-name lang="en">Star World HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/STW.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="TLC HD">
-    <display-name lang="en">TLC HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/TLC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="E! Entertainment HD">
-    <display-name lang="en">E! Entertainment HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ETV.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="BBC First HD">
-    <display-name lang="en">BBC First HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BBE.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ITV Choice HD">
-    <display-name lang="en">ITV Choice HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GUK.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Food Network HD">
-    <display-name lang="en">Food Network HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FNH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Fine Living">
-    <display-name lang="en">Fine Living</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FIN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Fashion TV HD">
-    <display-name lang="en">Fashion TV HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FTH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Travel Channel">
-    <display-name lang="en">Travel Channel</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/TRA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="\\u0026 TV">
-    <display-name lang="en">\\u0026 TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ATV.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Star Plus Middle East">
-    <display-name lang="en">Star Plus Middle East</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/STP.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Zee TV">
-    <display-name lang="en">Zee TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ZET.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="SET Middle East">
-    <display-name lang="en">SET Middle East</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SET.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Colors">
-    <display-name lang="en">Colors</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/COL.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Hum TV Middle East">
-    <display-name lang="en">Hum TV Middle East</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/HUM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Rishtey TV">
-    <display-name lang="en">Rishtey TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/RIS.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Life OK Middle East">
-    <display-name lang="en">Life OK Middle East</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/LIF.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sab TV">
-    <display-name lang="en">Sab TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SAB.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Ary Digital TV">
-    <display-name lang="en">Ary Digital TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ARY.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="GEO TV">
-    <display-name lang="en">GEO TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GEO.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Masala TV">
-    <display-name lang="en">Masala TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MAS.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Kiran TV">
-    <display-name lang="en">Kiran TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/KIR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Urdu 1">
-    <display-name lang="en">Urdu 1</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/URD.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sun TV">
-    <display-name lang="en">Sun TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/STV.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Star Vijay International">
-    <display-name lang="en">Star Vijay International</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SVI.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Asianet">
-    <display-name lang="en">Asianet</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ASN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Surya TV">
-    <display-name lang="en">Surya TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SUR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Udaya TV">
-    <display-name lang="en">Udaya TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/UDA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Gemini TV">
-    <display-name lang="en">Gemini TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GEM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Star Jalsha">
-    <display-name lang="en">Star Jalsha</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/STJ.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Star Pravah">
-    <display-name lang="en">Star Pravah</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SPR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MTV Live HD">
-    <display-name lang="en">MTV Live HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MTL.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="VH1">
-    <display-name lang="en">VH1</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/VH1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Trace Urban">
-    <display-name lang="en">Trace Urban</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/TRM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sony MIX">
-    <display-name lang="en">Sony MIX</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SMX.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MTV India">
-    <display-name lang="en">MTV India</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MIN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Bindaas">
-    <display-name lang="en">Bindaas</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/UTV.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Disney HD">
-    <display-name lang="en">Disney HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DIS.png"/>
-    <url>http://www.osn.com</url>
+    <display-name lang="it">Comedy Central</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27071_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Fox Animation HD">
+    <display-name lang="it">Sky Fox Animation HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8853_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky CrimeInvestigation HD">
+    <display-name lang="it">Sky CrimeInvestigation HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27646_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky AXN">
+    <display-name lang="it">Sky AXN</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky AXN SciFi">
+    <display-name lang="it">Sky AXN SciFi</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport F1 HD">
+    <display-name lang="it">Sky Sport F1 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/30366_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport F1 SuperHD">
+    <display-name lang="it">Sky Sport F1 SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/30366_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky MotoGP HD">
+    <display-name lang="it">Sky MotoGP HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8434_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky motoGP superHD">
+    <display-name lang="it">Sky motoGP superHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8434_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Bike Channel HD">
+    <display-name lang="it">Bike Channel HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Eurosport 1">
+    <display-name lang="it">Eurosport 1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/22686_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Eurosport 2">
+    <display-name lang="it">Eurosport 2</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/22687_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport 24 HD">
+    <display-name lang="it">Sky Sport 24 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/929_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport 24 SuperHD">
+    <display-name lang="it">Sky Sport 24 SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/929_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport 1 HD">
+    <display-name lang="it">Sky Sport 1 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport 1 SuperHD">
+    <display-name lang="it">Sky Sport 1 SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport 2 HD">
+    <display-name lang="it">Sky Sport 2 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7507_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport 3 HD">
+    <display-name lang="it">Sky Sport 3 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8693_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport Plus HD">
+    <display-name lang="it">Sky Sport Plus HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8753_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport Mix">
+    <display-name lang="it">Sky Sport Mix</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9433_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox Sports HD">
+    <display-name lang="it">Fox Sports HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/21464_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Fox Sports SuperHD">
+    <display-name lang="it">Fox Sports SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/21464_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Supercalcio HD">
+    <display-name lang="it">Sky Supercalcio HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Supercalcio SuperHD">
+    <display-name lang="it">Sky Supercalcio SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 1 HD">
+    <display-name lang="it">Sky Calcio 1 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/719_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 1 SuperHDD">
+    <display-name lang="it">Sky Calcio 1 SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/719_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 2 HD">
+    <display-name lang="it">Sky Calcio 2 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8713_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 3 HD">
+    <display-name lang="it">Sky Calcio 3 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8733_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 4 HD">
+    <display-name lang="it">Sky Calcio 4 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8715_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 5 sd">
+    <display-name lang="it">Sky Calcio 5 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8634_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 6 sd">
+    <display-name lang="it">Sky Calcio 6 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8636_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 7 sd">
+    <display-name lang="it">Sky Calcio 7 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8635_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 8 sd">
+    <display-name lang="it">Sky Calcio 8 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8633_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 9 sd">
+    <display-name lang="it">Sky Calcio 9 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8613_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 10 sd">
+    <display-name lang="it">Sky Calcio 10 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/615_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 11 sd">
+    <display-name lang="it">Sky Calcio 11 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/617_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 12 sd">
+    <display-name lang="it">Sky Calcio 12 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/618_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Calcio 13 sd">
+    <display-name lang="it">Sky Calcio 13 sd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/619_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Milan Channel">
+    <display-name lang="it">Milan Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/322_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Juventus Channel">
+    <display-name lang="it">Juventus Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/20858_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Inter Channel">
+    <display-name lang="it">Inter Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/456_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Roma Channel">
+    <display-name lang="it">Roma Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/478_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Lazio Style Channel">
+    <display-name lang="it">Lazio Style Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7527_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky arte hd">
+    <display-name lang="it">Sky arte hd</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Discovery Channel HD">
+    <display-name lang="it">Sky Discovery Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/931_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Discovery Science">
+    <display-name lang="it">Discovery Science</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/467_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Discovery Travel Living">
+    <display-name lang="it">Discovery Travel Living</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/465_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="NatGeoWild">
+    <display-name lang="it">NatGeoWild</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/126_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="National Geographic">
+    <display-name lang="it">National Geographic</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/641_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="National geo H265">
+    <display-name lang="it">National geo H265</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/641_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="NatGeoPeople">
+    <display-name lang="it">NatGeoPeople</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7407_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="History Channel HD">
+    <display-name lang="it">History Channel HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/639_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Focus">
+    <display-name lang="it">Focus</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23823_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Dmax">
+    <display-name lang="it">Dmax</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8129_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Real Time HD">
+    <display-name lang="it">Real Time HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/522_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Caccia e Pesca">
+    <display-name lang="it">Sky Caccia e Pesca</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23750_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Pesca e Caccia">
+    <display-name lang="it">Sky Pesca e Caccia</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23731_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Cielo">
+    <display-name lang="it">Cielo</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24560_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Animal Planet">
+    <display-name lang="it">Animal Planet</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/519_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Gambero Rosso">
+    <display-name lang="it">Gambero Rosso</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/524_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Cartoon Network">
+    <display-name lang="it">Cartoon Network</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27420_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Disney XD">
-    <display-name lang="en">Disney XD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DXD.png"/>
-    <url>http://www.osn.com</url>
+    <display-name lang="it">Disney XD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/131_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Disney Channel">
+    <display-name lang="it">Disney Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/118_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Disney Channel +1">
+    <display-name lang="it">Disney Channel +1</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/450_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Cartonito">
+    <display-name lang="it">Cartonito</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23821_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Baby TV">
+    <display-name lang="it">Baby TV</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6160_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Nickelodeon">
+    <display-name lang="it">Nickelodeon</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/320_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="DeA Junior">
+    <display-name lang="it">DeA Junior</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7427_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="DeAKids">
+    <display-name lang="it">DeAKids</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/26568_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Teen Nick">
+    <display-name lang="it">Sky Teen Nick</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9235_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Disney Junior">
-    <display-name lang="en">Disney Junior</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DJR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Nickelodeon HD">
-    <display-name lang="en">Nickelodeon HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NIC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Nick Jr">
-    <display-name lang="en">Nick Jr</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NJR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="NickToons">
-    <display-name lang="en">NickToons</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NKT.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Kid Zone TV">
-    <display-name lang="en">OSN Kid Zone TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/KDZ.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Baby TV Europe">
-    <display-name lang="en">Baby TV Europe</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BAB.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN News">
-    <display-name lang="en">OSN News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ONS.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sky News HD">
-    <display-name lang="en">Sky News HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SKH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="BBC World">
-    <display-name lang="en">BBC World</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BBW.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Fox News">
-    <display-name lang="en">Fox News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FXN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="CNBC">
-    <display-name lang="en">CNBC</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CNB.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Bloomberg">
-    <display-name lang="en">Bloomberg</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BTV.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="CCTV News">
-    <display-name lang="en">CCTV News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CT9.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="France 24 English">
-    <display-name lang="en">France 24 English</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FRE.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="NHK World TV">
-    <display-name lang="en">NHK World TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NHK.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Dunya News">
-    <display-name lang="en">Dunya News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DUN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ARY News">
-    <display-name lang="en">ARY News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AYN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Geo News">
-    <display-name lang="en">Geo News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GON.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ABP News India">
-    <display-name lang="en">ABP News India</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ABP.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Aaj Tak">
-    <display-name lang="en">Aaj Tak</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ZEN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Times Now">
-    <display-name lang="en">Times Now</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/TIM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="NDTV 24x7">
-    <display-name lang="en">NDTV 24x7</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NDT.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Asianet News">
-    <display-name lang="en">Asianet News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ANN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sky News Arabia HD">
-    <display-name lang="en">Sky News Arabia HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SNH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Sky News Arabia">
-    <display-name lang="en">Sky News Arabia</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SNA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Alarabiya">
-    <display-name lang="en">Alarabiya</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ARH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="France 24">
-    <display-name lang="en">France 24</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FRA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="CCTV Arabic">
-    <display-name lang="en">CCTV Arabic</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CTA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Discovery HD">
-    <display-name lang="en">Discovery HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DSC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Discovery Family HD">
-    <display-name lang="en">Discovery Family HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DCF.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Discovery Science HD">
-    <display-name lang="en">Discovery Science HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SCI.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="IDX HD">
-    <display-name lang="en">IDX HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DCX.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="IDX HD +1">
-    <display-name lang="en">IDX HD +1</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="IDX HD +2">
-    <display-name lang="en">IDX HD +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="IDX HD +4">
-    <display-name lang="en">IDX HD +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Crime \\u0026 Investigation Network">
-    <display-name lang="en">Crime and Investigation Network</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CAI.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="History HD">
-    <display-name lang="en">History HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/HIS.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="H2 HD">
-    <display-name lang="en">H2 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/HI2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Animal Planet HD">
-    <display-name lang="en">Animal Planet HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/APL.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Nat Geo HD">
-    <display-name lang="en">Nat Geo HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NGO.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Nat Geo Wild HD">
-    <display-name lang="en">Nat Geo Wild HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NHD.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Nat Geo People HD">
-    <display-name lang="en">Nat Geo People HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NAH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Sports Action 1 HD">
-    <display-name lang="en">OSN Sports Action 1 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SPH.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Sports Action 2 HD">
-    <display-name lang="en">OSN Sports Action 2 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SP2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Sports 3 HD">
-    <display-name lang="en">OSN Sports 3 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SP3.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Sports 4 HD">
-    <display-name lang="en">OSN Sports 4 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SP4.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Sports 5 HD">
-    <display-name lang="en">OSN Sports 5 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SP5.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN WWE Network HD">
-    <display-name lang="en">OSN WWE Network HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/WWE.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Sports Cricket HD">
-    <display-name lang="en">OSN Sports Cricket HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CRI.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Ten Cricket International">
-    <display-name lang="en">Ten Cricket International</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/TCR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="OSN Fight Network HD">
-    <display-name lang="en">OSN Fight Network HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FNW.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Fuel TV">
-    <display-name lang="en">Fuel TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/FUE.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Ginx Esports TV HD">
-    <display-name lang="en">Ginx Esports TV HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GNX.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="AD Sports 3 HD">
-    <display-name lang="en">AD Sports 3 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AD3.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="AD Sports 4 HD">
-    <display-name lang="en">AD Sports 4 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AD4.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="AD Sports 5 HD">
-    <display-name lang="en">AD Sports 5 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AD5.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="AD Sports 6 HD">
-    <display-name lang="en">AD Sports 6 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AD6.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Edge Sport HD">
-    <display-name lang="en">Edge Sport HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AD7.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Dubai Sports 4 HD">
-    <display-name lang="en">Dubai Sports 4 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DS5.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Dubai Sports 2 HD">
-    <display-name lang="en">Dubai Sports 2 HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DH2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="TFC">
-    <display-name lang="en">TFC</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/TFC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ABS-CBN Sports+Action">
-    <display-name lang="en">ABS-CBN Sports+Action</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BRO.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cinema One Global">
-    <display-name lang="en">Cinema One Global</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/COG.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="ANC">
-    <display-name lang="en">ANC</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ANC.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="DZMM Teleradyo">
-    <display-name lang="en">DZMM Teleradyo</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DZM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="DWRR 101.9">
-    <display-name lang="en">DWRR 101.9</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DWR.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Viva TV">
-    <display-name lang="en">Viva TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/VIV.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Kapatid TV5">
-    <display-name lang="en">Kapatid TV5</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/TV5.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Aksyon TV">
-    <display-name lang="en">Aksyon TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/AKS.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Cine Mo">
-    <display-name lang="en">Cine Mo</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CIN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Lifestyle Network">
-    <display-name lang="en">Lifestyle Network</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/LSN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="GMA Pinoy TV">
-    <display-name lang="en">GMA Pinoy TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GMA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="GMA Life TV">
-    <display-name lang="en">GMA Life TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GML.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="GMA News TV">
-    <display-name lang="en">GMA News TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GMN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 1">
-    <display-name lang="en">MBC 1</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MH1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 1 +2">
-    <display-name lang="en">MBC 1 +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 1 +4">
-    <display-name lang="en">MBC 1 +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 1 +8">
-    <display-name lang="en">MBC 1 +8</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 4">
-    <display-name lang="en">MBC 4</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MH4.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 4 +2">
-    <display-name lang="en">MBC 4 +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 4 +4">
-    <display-name lang="en">MBC 4 +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 4 +8">
-    <display-name lang="en">MBC 4 +8</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Drama">
-    <display-name lang="en">MBC Drama</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MHD.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Drama +2">
-    <display-name lang="en">MBC Drama +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Drama +4">
-    <display-name lang="en">MBC Drama +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Drama +8">
-    <display-name lang="en">MBC Drama +8</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 2">
-    <display-name lang="en">MBC 2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MH2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 2 +2">
-    <display-name lang="en">MBC 2 +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 2 +4">
-    <display-name lang="en">MBC 2 +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 2 +8">
-    <display-name lang="en">MBC 2 +8</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC MAX">
-    <display-name lang="en">MBC MAX</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MHM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC MAX +2">
-    <display-name lang="en">MBC MAX +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC MAX +4">
-    <display-name lang="en">MBC MAX +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC MAX +8">
-    <display-name lang="en">MBC MAX +8</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Action">
-    <display-name lang="en">MBC Action</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MHA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Action +2">
-    <display-name lang="en">MBC Action +2</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Action +4">
-    <display-name lang="en">MBC Action +4</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Action +8">
-    <display-name lang="en">MBC Action +8</display-name>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Setanta">
-    <display-name lang="en">Setanta</display-name>
-    <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/Setanta.png"/>
-    <url>http://www.eirsport.ie</url>
-  </channel><channel id="BT-Sports-1">
-    <display-name lang="en">BT Sports 1</display-name>
-    <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/BT-Sports-1.png"/>
-    <url>http://www.eirsport.ie</url>
-  </channel><channel id="BT-Sports-2">
-    <display-name lang="en">BT Sports 2</display-name>
-    <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/BT-Sports-2.png"/>
-    <url>http://www.eirsport.ie</url>
-  </channel><channel id="BT-Europe">
-    <display-name lang="en">BT-Europe</display-name>
-    <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/BT-Europe.png"/>
-    <url>http://www.eirsport.ie</url>
-  </channel><channel id="ESPN">
-    <display-name lang="en">ESPN</display-name>
-    <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/ESPN.png"/>
-    <url>http://www.eirsport.ie</url>
+    <display-name lang="it">Disney Junior</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/20150_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Super !">
+    <display-name lang="it">Super !</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6460_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Boing">
+    <display-name lang="it">Boing</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6628_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Man-Ga">
+    <display-name lang="it">Man-Ga</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6440_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Frisbee">
+    <display-name lang="it">Frisbee</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6610_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Nick Junior">
+    <display-name lang="it">Nick Junior</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/461_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="K2">
+    <display-name lang="it">K2</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6240_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Premium Cinema HD">
+    <display-name lang="it">Premium Cinema HD</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Cinema +24">
+    <display-name lang="it">Premium Cinema +24</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Cinema 2">
+    <display-name lang="it">Premium Cinema 2</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Cinema 2 +24">
+    <display-name lang="it">Premium Cinema 2 +24</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Cinema Energy">
+    <display-name lang="it">Premium Cinema Energy</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Cinema Emotion">
+    <display-name lang="it">Premium Cinema Emotion</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Cinema Comedy">
+    <display-name lang="it">Premium Cinema Comedy</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Paramount Channel">
+    <display-name lang="it">Paramount Channel</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Action HD">
+    <display-name lang="it">Premium Action HD</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Action +24">
+    <display-name lang="it">Premium Action +24</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Crime">
+    <display-name lang="it">Premium Crime</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Joy">
+    <display-name lang="it">Premium Joy</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Stories">
+    <display-name lang="it">Premium Stories</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Sport superHD">
+    <display-name lang="it">Premium Sport superHD</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Calcio 1">
+    <display-name lang="it">Premium Calcio 1</display-name>
+    <url>http://www.mediasetpremium.it</url>
   </channel><channel id="20">
     <display-name>13e Rue</display-name>
     <icon src="http://localhost/logo20.gif"/>
@@ -2217,4 +2706,306 @@
   </channel><channel id="286">
     <display-name>Zee TV</display-name>
     <icon src="http://localhost/logo286.gif"/>
+  </channel><channel id="13R1.kazer.org">
+<display-name>13EME RUE</display-name>
+</channel><channel id="MOT1.kazer.org">
+<display-name>AB MOTEURS</display-name>
+</channel><channel id="AB11.kazer.org">
+<display-name>AB1</display-name>
+</channel><channel id="ACT1.kazer.org">
+<display-name>ACTION</display-name>
+</channel><channel id="ANI1.kazer.org">
+<display-name>ANIMAUX</display-name>
+</channel><channel id="ART1.kazer.org">
+<display-name>ARTE</display-name>
+</channel><channel id="BFM1.kazer.org">
+<display-name>BFM TV</display-name>
+</channel><channel id="BOO1.kazer.org">
+<display-name>BOOMERANG</display-name>
+</channel><channel id="CIN20.kazer.org">
+<display-name>C CINEMA CLASSIC</display-name>
+</channel><channel id="CIN21.kazer.org">
+<display-name>C CINEMA EMOTION</display-name>
+</channel><channel id="CIN18.kazer.org">
+<display-name>C CINEMA FAMIZ</display-name>
+</channel><channel id="CIN22.kazer.org">
+<display-name>C CINEMA FRISSON</display-name>
+</channel><channel id="CIN23.kazer.org">
+<display-name>C CINEMA PREMIER</display-name>
+</channel><channel id="CIN28.kazer.org">
+<display-name>C CINEMA STAR</display-name>
+</channel><channel id="CAN1.kazer.org">
+<display-name>CANAL J</display-name>
+</channel><channel id="CAN2.kazer.org">
+<display-name>CANAL+</display-name>
+</channel><channel id="CAN3.kazer.org">
+<display-name>CANAL+ CINEMA</display-name>
+</channel><channel id="CAN4.kazer.org">
+<display-name>CANAL+ DECALE</display-name>
+</channel><channel id="CAN10.kazer.org">
+<display-name>CANAL+ FAMILY</display-name>
+</channel><channel id="CAN5.kazer.org">
+<display-name>CANAL+ SPORT</display-name>
+</channel><channel id="CAR1.kazer.org">
+<display-name>CARTOON NET.</display-name>
+</channel><channel id="CIN1.kazer.org">
+<display-name>CINE FX</display-name>
+</channel><channel id="CIN2.kazer.org">
+<display-name>CINE POLAR</display-name>
+</channel><channel id="CIN19.kazer.org">
+<display-name>CINE+ CLUB</display-name>
+</channel><channel id="CO11.kazer.org">
+<display-name>COMEDIE !</display-name>
+</channel><channel id="CUI1.kazer.org">
+<display-name>CUISINE TV</display-name>
+</channel><channel id="EUR2.kazer.org">
+<display-name>D17</display-name>
+</channel><channel id="DIR1.kazer.org">
+<display-name>Direct 8</display-name>
+</channel><channel id="DIS1.kazer.org">
+<display-name>DISCOVERY</display-name>
+</channel><channel id="DIS3.kazer.org">
+<display-name>DISNEY CHANNEL</display-name>
+</channel><channel id="DIS5.kazer.org">
+<display-name>DISNEY CINEMAGIC</display-name>
+</channel><channel id="DIS6.kazer.org">
+<display-name>DISNEY MAGIC+1</display-name>
+</channel><channel id="JET2.kazer.org">
+<display-name>DISNEY XD</display-name>
+</channel><channel id="DOR1.kazer.org">
+<display-name>DORCEL TV</display-name>
+</channel><channel id="EEN1.kazer.org">
+<display-name>E! ENTERTAINMENT</display-name>
+</channel><channel id="ENC1.kazer.org">
+<display-name>ENCYCLOPEDIA</display-name>
+</channel><channel id="EQU1.kazer.org">
+<display-name>EQUIDIA</display-name>
+</channel><channel id="ESC1.kazer.org">
+<display-name>ESCALES</display-name>
+</channel><channel id="ESP1.kazer.org">
+<display-name>ESPN CLASSIC</display-name>
+</channel><channel id="EUR3.kazer.org">
+<display-name>EUROSPORT</display-name>
+</channel><channel id="EUR4.kazer.org">
+<display-name>EUROSPORT 2</display-name>
+</channel><channel id="EXT1.kazer.org">
+<display-name>EXTREME SPORTS</display-name>
+</channel><channel id="FRA2.kazer.org">
+<display-name>FRANCE 2</display-name>
+</channel><channel id="FRA3.kazer.org">
+<display-name>FRANCE 3</display-name>
+</channel><channel id="FRA4.kazer.org">
+<display-name>FRANCE 4</display-name>
+</channel><channel id="FRA5.kazer.org">
+<display-name>FRANCE 5</display-name>
+</channel><channel id="FRA1.kazer.org">
+<display-name>FRANCE O</display-name>
+</channel><channel id="GAM1.kazer.org">
+<display-name>GAME ONE</display-name>
+</channel><channel id="GUL1.kazer.org">
+<display-name>GULLI</display-name>
+</channel><channel id="HIS1.kazer.org">
+<display-name>HISTOIRE</display-name>
+</channel><channel id="ITL1.kazer.org">
+<display-name>I&gt;TELE</display-name>
+</channel><channel id="INF1.kazer.org">
+<display-name>INFOSPORT</display-name>
+</channel><channel id="JIM1.kazer.org">
+<display-name>JIMMY</display-name>
+</channel><channel id="FIL1.kazer.org">
+<display-name>JUNE</display-name>
+</channel><channel id="KTO1.kazer.org">
+<display-name>KTO</display-name>
+</channel><channel id="LCI1.kazer.org">
+<display-name>LCI</display-name>
+</channel><channel id="LAC1.kazer.org">
+<display-name>LCP</display-name>
+</channel><channel id="M61.kazer.org">
+<display-name>M6</display-name>
+</channel><channel id="M6M2.kazer.org">
+<display-name>M6 MUSIC HITS</display-name>
+</channel><channel id="MAN1.kazer.org">
+<display-name>MANGAS</display-name>
+</channel><channel id="MCM1.kazer.org">
+<display-name>MCM</display-name>
+</channel><channel id="MCM2.kazer.org">
+<display-name>MCM POP</display-name>
+</channel><channel id="MEZ1.kazer.org">
+<display-name>MEZZO.</display-name>
+</channel><channel id="MOT2.kazer.org">
+<display-name>MOTORS TV</display-name>
+</channel><channel id="MTV3.kazer.org">
+<display-name>MTV BASE FRANCE</display-name>
+</channel><channel id="MTV1.kazer.org">
+<display-name>MTV FRANCE</display-name>
+</channel><channel id="MTV4.kazer.org">
+<display-name>MTV Hits</display-name>
+</channel><channel id="NAT2.kazer.org">
+<display-name>NAT GEO HD</display-name>
+</channel><channel id="NAT3.kazer.org">
+<display-name>NAT GEO WILD</display-name>
+</channel><channel id="NAT1.kazer.org">
+<display-name>NATIONAL GEO</display-name>
+</channel><channel id="NIC1.kazer.org">
+<display-name>NICKELODEON France.</display-name>
+</channel><channel id="NRJ1.kazer.org">
+<display-name>NRJ 12</display-name>
+</channel><channel id="NRJ2.kazer.org">
+<display-name>NRJ HITS</display-name>
+</channel><channel id="NT11.kazer.org">
+<display-name>NT1</display-name>
+</channel><channel id="OL1.kazer.org">
+<display-name>OLTV</display-name>
+</channel><channel id="OMT1.kazer.org">
+<display-name>OM'TV</display-name>
+</channel><channel id="PAR1.kazer.org">
+<display-name>PARIS PREMIERE</display-name>
+</channel><channel id="PIN1.kazer.org">
+<display-name>PINK TV/PINK X</display-name>
+</channel><channel id="PIW1.kazer.org">
+<display-name>PIWI</display-name>
+</channel><channel id="PLA1.kazer.org">
+<display-name>PLANETE</display-name>
+</channel><channel id="PLA5.kazer.org">
+<display-name>PLANETE JUSTICE</display-name>
+</channel><channel id="PLA2.kazer.org">
+<display-name>PLANETE NO LIMIT</display-name>
+</channel><channel id="PLA3.kazer.org">
+<display-name>PLANETE THALASSA</display-name>
+</channel><channel id="PLA6.kazer.org">
+<display-name>PLAYBOY TV</display-name>
+</channel><channel id="DIS15.kazer.org">
+<display-name>PLAYHOUSE DISNEY</display-name>
+</channel><channel id="RTL2.kazer.org">
+<display-name>RTL9</display-name>
+</channel><channel id="SEA1.kazer.org">
+<display-name>SEASONS</display-name>
+</channel><channel id="SRI1.kazer.org">
+<display-name>SERIE CLUB</display-name>
+</channel><channel id="SPO1.kazer.org">
+<display-name>SPORT+</display-name>
+</channel><channel id="STY1.kazer.org">
+<display-name>STYLIA</display-name>
+</channel><channel id="SCI1.kazer.org">
+<display-name>SYFY UNIVERSAL</display-name>
+</channel><channel id="TCM1.kazer.org">
+<display-name>TCM</display-name>
+</channel><channel id="TLM1.kazer.org">
+<display-name>TELE MELODY</display-name>
+</channel><channel id="DUC1.kazer.org">
+<display-name>TELEMAISON</display-name>
+</channel><channel id="TLT1.kazer.org">
+<display-name>TELETOON</display-name>
+</channel><channel id="TLT2.kazer.org">
+<display-name>TELETOON+1</display-name>
+</channel><channel id="TVA1.kazer.org">
+<display-name>TEVA</display-name>
+</channel><channel id="TF11.kazer.org">
+<display-name>TF1</display-name>
+</channel><channel id="TF61.kazer.org">
+<display-name>TF6</display-name>
+</channel><channel id="TIJ1.kazer.org">
+<display-name>TIJI</display-name>
+</channel><channel id="TMC1.kazer.org">
+<display-name>TMC</display-name>
+</channel><channel id="TOU1.kazer.org">
+<display-name>toute L'HISTOIRE</display-name>
+</channel><channel id="TPS10.kazer.org">
+<display-name>TPS STAR</display-name>
+</channel><channel id="TRA1.kazer.org">
+<display-name>TRACE TV</display-name>
+</channel><channel id="TVB1.kazer.org">
+<display-name>TV BREIZH</display-name>
+</channel><channel id="TV51.kazer.org">
+<display-name>TV5MONDE</display-name>
+</channel><channel id="USH1.kazer.org">
+<display-name>USHUAIA TV</display-name>
+</channel><channel id="VIV1.kazer.org">
+<display-name>VIVOLTA</display-name>
+</channel><channel id="VOY1.kazer.org">
+<display-name>VOYAGE</display-name>
+</channel><channel id="W91.kazer.org">
+<display-name>W9</display-name>
+</channel><channel id="XXL1.kazer.org">
+<display-name>XXL</display-name>
+</channel><channel id="YAC1.kazer.org">
+<display-name>Yacht and Sail</display-name>
+</channel><channel id="C10.telepoche.com">
+    <display-name>tv5</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/tv5.gif"/>
+  </channel><channel id="C117.telepoche.com">
+    <display-name>equipetv</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/equipetv.gif"/>
+  </channel><channel id="C121.telepoche.com">
+    <display-name>euronews</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/euronews.gif"/>
+  </channel><channel id="C122.telepoche.com">
+    <display-name>itv</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/itv.gif"/>
+  </channel><channel id="C162.telepoche.com">
+    <display-name>bloomberg</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/bloomberg.gif"/>
+  </channel><channel id="C163.telepoche.com">
+    <display-name>fashion</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/fashion.gif"/>
+  </channel><channel id="C167.telepoche.com">
+    <display-name>direct8</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/direct8.gif"/>
+  </channel><channel id="C168.telepoche.com">
+    <display-name>nt1</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/nt1.gif"/>
+  </channel><channel id="C169.telepoche.com">
+    <display-name>nrj12</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/nrj12.gif"/>
+  </channel><channel id="C170.telepoche.com">
+    <display-name>parlement</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/parlement.gif"/>
+  </channel><channel id="C193.telepoche.com">
+    <display-name>europe2</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/europe2.gif"/>
+  </channel><channel id="C194.telepoche.com">
+    <display-name>bfm</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/bfm.gif"/>
+  </channel><channel id="C195.telepoche.com">
+    <display-name>gulli</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/gulli.gif"/>
+  </channel><channel id="C2.telepoche.com">
+    <display-name>france2</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/france2.gif"/>
+  </channel><channel id="C28.telepoche.com">
+    <display-name>france4</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/france4.gif"/>
+  </channel><channel id="C3.telepoche.com">
+    <display-name>france3</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/france3.gif"/>
+  </channel><channel id="C31.telepoche.com">
+    <display-name>mtv</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/mtv.gif"/>
+  </channel><channel id="C38.telepoche.com">
+    <display-name>w9</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/w9.gif"/>
+  </channel><channel id="C40.telepoche.com">
+    <display-name>ab1</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/ab1.gif"/>
+  </channel><channel id="C42.telepoche.com">
+    <display-name>rai1</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/rai1.gif"/>
+  </channel><channel id="C43.telepoche.com">
+    <display-name>rai2</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/rai2.gif"/>
+  </channel><channel id="C5.telepoche.com">
+    <display-name>arte</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/arte.gif"/>
+  </channel><channel id="C7.telepoche.com">
+    <display-name>france5</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/france5.gif"/>
+  </channel><channel id="C78.telepoche.com">
+    <display-name>rtpi</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/rtpi.gif"/>
+  </channel><channel id="C8.telepoche.com">
+    <display-name>rtl9</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/rtl9.gif"/>
+  </channel><channel id="C98.telepoche.com">
+    <display-name>moteurs</display-name>
+    <icon src="http://telepoche.guidetele.com/c_img/chaine/moteurs.gif"/>
   </channel></tv>
