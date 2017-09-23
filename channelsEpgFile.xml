@@ -3062,66 +3062,6 @@
   </channel><channel id="Fox">
     <display-name lang="ar">Fox</display-name>
     <url>http://www.elcinema.com</url>
-  </channel><channel id="Rai 1">
-    <display-name lang="it">Rai 1</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="Rai 2">
-    <display-name lang="it">Rai 2</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="Rai 3">
-    <display-name lang="it">Rai 3</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="Rai 4">
-    <display-name lang="it">Rai 4</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="Rai Sport 1">
-    <display-name lang="it">Rai Sport 1</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="Rai Sport 2">
-    <display-name lang="it">Rai Sport 2</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="SuperTennis">
-    <display-name lang="it">SuperTennis</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="Euro Sport">
-    <display-name lang="it">Euro Sport</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="SportItalia">
-    <display-name lang="it">SportItalia</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="Sky News">
-    <display-name lang="en">Sky News</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports 1">
-    <display-name lang="en">Sky Sports 1</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports 2">
-    <display-name lang="en">Sky Sports 2</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports 2 HD">
-    <display-name lang="en">Sky Sports 2 HD</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports 3">
-    <display-name lang="en">Sky Sports 3</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports 4">
-    <display-name lang="en">Sky Sports 4</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports 4 HD">
-    <display-name lang="en">Sky Sports 4 HD</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports 5">
-    <display-name lang="en">Sky Sports 5</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Sky Sports News">
-    <display-name lang="en">Sky Sports News</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Eurosport 1 HD">
-    <display-name lang="en">Eurosport 1 HD</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel><channel id="Eurosport 2">
-    <display-name lang="en">Eurosport 2</display-name>
-    <url>http://www.tvguide.co.uk</url>
   </channel><channel id="Seevii AlOla">
     <display-name lang="ar">Seevii AlOla</display-name>
     <url>http://www.seevii.com</url>
@@ -3392,34 +3332,6 @@
   </channel><channel id="Qatar TV">
     <display-name lang="en">Qatar TV</display-name>
     <url>http://www.invision.com.sa</url>
-  </channel><channel id="Sky Sport24 HD">
-    <display-name lang="it">Sky Sport24 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/929_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 1 HD">
-    <display-name lang="it">Sky Sport 1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 2 HD">
-    <display-name lang="it">Sky Sport 2 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7507_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 3 HD">
-    <display-name lang="it">Sky Sport 3 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8693_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Plus HD">
-    <display-name lang="it">Sky Sport Plus HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8753_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Supercalcio HD">
-    <display-name lang="it">Sky Supercalcio HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 1 HD">
-    <display-name lang="it">Sky Calcio 1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/719_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Arena Sport 1.hr">
     <display-name lang="hr">Arena Sport 1.hr</display-name>
     <url>http://www.m.tvprofil.net</url>
@@ -3453,21 +3365,6 @@
   </channel><channel id="Arena Sport 1 BiH">
     <display-name lang="hr">Arena Sport 1 BiH</display-name>
     <url>http://www.m.tvprofil.net</url>
-  </channel><channel id="TSN1">
-    <display-name lang="en">TSN1</display-name>
-    <url>http://www.tvhebdo.com</url>
-  </channel><channel id="TSN2">
-    <display-name lang="en">TSN2</display-name>
-    <url>http://www.tvhebdo.com</url>
-  </channel><channel id="TSN3">
-    <display-name lang="en">TSN3</display-name>
-    <url>http://www.tvhebdo.com</url>
-  </channel><channel id="TSN4">
-    <display-name lang="en">TSN4</display-name>
-    <url>http://www.tvhebdo.com</url>
-  </channel><channel id="TSN">
-    <display-name lang="en">TSN</display-name>
-    <url>http://www.tvhebdo.com</url>
   </channel><channel id="NBA TV">
     <display-name lang="en">NBA TV</display-name>
     <url>http://www.tvhebdo.com</url>
@@ -4267,2334 +4164,1046 @@
     <display-name lang="fr">Nickelodeon Junior</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
-  </channel><channel id="I2.11331.schedulesdirect.org">
-		<display-name>2 CBS New York</display-name>
-		<display-name>2</display-name>
-		<display-name>CBS New York</display-name>
-		<display-name>CBS</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10098_h3_aa.png" width="360"/>
-	</channel><channel id="I4.11705.schedulesdirect.org">
-		<display-name>4 NBC New York</display-name>
-		<display-name>4</display-name>
-		<display-name>NBC New York</display-name>
-		<display-name>NBC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11705_h3_aa.png" width="360"/>
-	</channel><channel id="I5.11746.schedulesdirect.org">
-		<display-name>5 FOX New York</display-name>
-		<display-name>5</display-name>
-		<display-name>FOX New York</display-name>
-		<display-name>FOX</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10212_h3_aa.png" width="360"/>
-	</channel><channel id="I5.20360.schedulesdirect.org">
-		<display-name>5 WNYWDT</display-name>
-		<display-name>5</display-name>
-		<display-name>WNYWDT</display-name>
-		<display-name>WNYWDT (WNYW-DT)</display-name>
-		<display-name>FOX</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28719_h3_aa.png" width="360"/>
-	</channel><channel id="I7.11259.schedulesdirect.org">
-		<display-name>7 ABC New York</display-name>
-		<display-name>7</display-name>
-		<display-name>ABC New York</display-name>
-		<display-name>ABC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" width="360"/>
-	</channel><channel id="I202.10142.schedulesdirect.org">
-		<display-name>202 CNN US</display-name>
-		<display-name>202</display-name>
-		<display-name>CNN US</display-name>
-		<display-name>Cable News Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10142_h3_aa.png" width="360"/>
-	</channel><channel id="I202.58646.schedulesdirect.org">
-		<display-name>202 CNN US HD</display-name>
-		<display-name>202</display-name>
-		<display-name>CNN US HD</display-name>
-		<display-name>CNN HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58646_h3_aa.png" width="360"/>
-	</channel><channel id="I204.10145.schedulesdirect.org">
-		<display-name>204 Headline News</display-name>
-		<display-name>204</display-name>
-		<display-name>Headline News</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10145_h3_aa.png" width="360"/>
-	</channel><channel id="I206.10179.schedulesdirect.org">
-		<display-name>206 ESPN US</display-name>
-		<display-name>206</display-name>
-		<display-name>ESPN US</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10179_h3_aa.png" width="360"/>
-	</channel><channel id="I206.32645.schedulesdirect.org">
-		<display-name>206 ESPN US HD</display-name>
-		<display-name>206</display-name>
-		<display-name>ESPN US HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s32645_h3_aa.png" width="360"/>
-	</channel><channel id="I207.16485.schedulesdirect.org">
-		<display-name>207 ESPNews US</display-name>
-		<display-name>207</display-name>
-		<display-name>ESPNews US</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16485_h3_aa.png" width="360"/>
-	</channel><channel id="I207.59976.schedulesdirect.org">
-		<display-name>207 ESPNews US HD</display-name>
-		<display-name>207</display-name>
-		<display-name>ESPNews US HD</display-name>
-		<display-name>ESPNEWS HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59976_h3_aa.png" width="360"/>
-	</channel><channel id="I208.60696.schedulesdirect.org">
-		<display-name>208 ESPNU HD</display-name>
-		<display-name>208</display-name>
-		<display-name>ESPNU HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60696_h3_aa.png" width="360"/>
-	</channel><channel id="I209.45507.schedulesdirect.org">
-		<display-name>209 ESPN 2 US HD</display-name>
-		<display-name>209</display-name>
-		<display-name>ESPN 2 US HD</display-name>
-		<display-name>ESPN2 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45507_h3_aa.png" width="360"/>
-	</channel><channel id="I212.34710.schedulesdirect.org">
-		<display-name>212 NFLNET</display-name>
-		<display-name>212</display-name>
-		<display-name>NFLNET</display-name>
-		<display-name>NFL NETWORK</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34710_h3_aa.png" width="360"/>
-	</channel><channel id="I212.45399.schedulesdirect.org">
-		<display-name>212 NFL Network HD</display-name>
-		<display-name>212</display-name>
-		<display-name>NFL Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45399_h3_aa.png" width="360"/>
-	</channel><channel id="I213.62079.schedulesdirect.org">
-		<display-name>213 MLB Network</display-name>
-		<display-name>213</display-name>
-		<display-name>MLB Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62079_h3_aa.png" width="360"/>
-	</channel><channel id="I213.62081.schedulesdirect.org">
-		<display-name>213 MLB Network HD</display-name>
-		<display-name>213</display-name>
-		<display-name>MLB Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62081_h3_aa.png" width="360"/>
-	</channel><channel id="I214.45169.schedulesdirect.org">
-		<display-name>214 MAV tv</display-name>
-		<display-name>214</display-name>
-		<display-name>MAV tv</display-name>
-		<display-name>MavTV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45169_h3_aa.png" width="360"/>
-	</channel><channel id="I215.58690.schedulesdirect.org">
-		<display-name>215 NHL Network USA HD</display-name>
-		<display-name>215</display-name>
-		<display-name>NHL Network USA HD</display-name>
-		<display-name>NHL Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58690_h3_aa.png" width="360"/>
-	</channel><channel id="I216.32281.schedulesdirect.org">
-		<display-name>216 NBA TV</display-name>
-		<display-name>216</display-name>
-		<display-name>NBA TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s32281_h3_aa.png" width="360"/>
-	</channel><channel id="I216.45526.schedulesdirect.org">
-		<display-name>216 NBA TV HD</display-name>
-		<display-name>216</display-name>
-		<display-name>NBA TV HD</display-name>
-		<display-name>NBA TV HDTV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45526_h3_aa.png" width="360"/>
-	</channel><channel id="I217.33395.schedulesdirect.org">
-		<display-name>217 Tennis Channel</display-name>
-		<display-name>217</display-name>
-		<display-name>Tennis Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33395_h3_aa.png" width="360"/>
-	</channel><channel id="I217.60316.schedulesdirect.org">
-		<display-name>217 Tennis Channel HD</display-name>
-		<display-name>217</display-name>
-		<display-name>Tennis Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60316_h3_aa.png" width="360"/>
-	</channel><channel id="I218.61854.schedulesdirect.org">
-		<display-name>218 Golf Channel HD</display-name>
-		<display-name>218</display-name>
-		<display-name>Golf Channel HD</display-name>
-		<display-name>The Golf Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61854_h3_aa.png" width="360"/>
-	</channel><channel id="I219.82547.schedulesdirect.org">
-		<display-name>219 Fox Sports 1 US HD</display-name>
-		<display-name>219</display-name>
-		<display-name>Fox Sports 1 US HD</display-name>
-		<display-name>Fox Sports 1 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82547_h3_aa.png" width="360"/>
-	</channel><channel id="I220.15952.schedulesdirect.org">
-		<display-name>220 NBC Sport Network</display-name>
-		<display-name>220</display-name>
-		<display-name>NBC Sport Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s15952_h3_aa.png" width="360"/>
-	</channel><channel id="I221.59250.schedulesdirect.org">
-		<display-name>221 CBS Sports Network HD</display-name>
-		<display-name>221</display-name>
-		<display-name>CBS Sports Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59250_h3_aa.png" width="360"/>
-	</channel><channel id="I229.49788.schedulesdirect.org">
-		<display-name>229 HGTV East HD</display-name>
-		<display-name>229</display-name>
-		<display-name>HGTV East HD</display-name>
-		<display-name>Home &amp; Garden Television HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49788_h3_aa.png" width="360"/>
-	</channel><channel id="I230.67375.schedulesdirect.org">
-		<display-name>230 DIY Network USA HD</display-name>
-		<display-name>230</display-name>
-		<display-name>DIY Network USA HD</display-name>
-		<display-name>Do-It-Yourself Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s67375_h3_aa.png" width="360"/>
-	</channel><channel id="I231.50747.schedulesdirect.org">
-		<display-name>231 Food Network East HD</display-name>
-		<display-name>231</display-name>
-		<display-name>Food Network East HD</display-name>
-		<display-name>Food Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50747_h3_aa.png" width="360"/>
-	</channel><channel id="I232.30156.schedulesdirect.org">
-		<display-name>232 Cooking Channel</display-name>
-		<display-name>232</display-name>
-		<display-name>Cooking Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30156_h3_aa.png" width="360"/>
-	</channel><channel id="I232.68065.schedulesdirect.org">
-		<display-name>232 Cooking Channel HD</display-name>
-		<display-name>232</display-name>
-		<display-name>Cooking Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68065_h3_aa.png" width="360"/>
-	</channel><channel id="I236.10989.schedulesdirect.org">
-		<display-name>236 E!</display-name>
-		<display-name>236</display-name>
-		<display-name>E!</display-name>
-		<display-name>E! Entertainment Television</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10989_h3_aa.png" width="360"/>
-	</channel><channel id="I236.61812.schedulesdirect.org">
-		<display-name>236 E! HD</display-name>
-		<display-name>236</display-name>
-		<display-name>E! HD</display-name>
-		<display-name>E! Entertainment Television HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61812_h3_aa.png" width="360"/>
-	</channel><channel id="I237.58625.schedulesdirect.org">
-		<display-name>237 Bravo East HD</display-name>
-		<display-name>237</display-name>
-		<display-name>Bravo East HD</display-name>
-		<display-name>Bravo HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58625_h3_aa.png" width="360"/>
-	</channel><channel id="I238.68385.schedulesdirect.org">
-		<display-name>238 Reelz Channel HD</display-name>
-		<display-name>238</display-name>
-		<display-name>Reelz Channel HD</display-name>
-		<display-name>ReelzChannel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68385_h3_aa.png" width="360"/>
-	</channel><channel id="I241.59186.schedulesdirect.org">
-		<display-name>241 Spike TV HD</display-name>
-		<display-name>241</display-name>
-		<display-name>Spike TV HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59186_h3_aa.png" width="360"/>
-	</channel><channel id="I242.58452.schedulesdirect.org">
-		<display-name>242 USA Network HD</display-name>
-		<display-name>242</display-name>
-		<display-name>USA Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58452_h3_aa.png" width="360"/>
-	</channel><channel id="I242.11207.schedulesdirect.org">
-		<display-name>242 USA Network</display-name>
-		<display-name>242</display-name>
-		<display-name>USA Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11207_h3_aa.png" width="360"/>
-	</channel><channel id="I244.58623.schedulesdirect.org">
-		<display-name>244 Syfy HD</display-name>
-		<display-name>244</display-name>
-		<display-name>Syfy HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58623_h3_aa.png" width="360"/>
-	</channel><channel id="I245.42642.schedulesdirect.org">
-		<display-name>245 TNT HD</display-name>
-		<display-name>245</display-name>
-		<display-name>TNT HD</display-name>
-		<display-name>Turner Network TV HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11164_h3_aa.png" width="360"/>
-	</channel><channel id="I246.64490.schedulesdirect.org">
-		<display-name>246 Tru TV East HD</display-name>
-		<display-name>246</display-name>
-		<display-name>Tru TV East HD</display-name>
-		<display-name>truTV HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s64490_h3_aa.png" width="360"/>
-	</channel><channel id="I247.58515.schedulesdirect.org">
-		<display-name>247 TBS East HD</display-name>
-		<display-name>247</display-name>
-		<display-name>TBS East HD</display-name>
-		<display-name>TBS HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58515_h3_aa.png" width="360"/>
-	</channel><channel id="I248.58574.schedulesdirect.org">
-		<display-name>248 FX East HD</display-name>
-		<display-name>248</display-name>
-		<display-name>FX East HD</display-name>
-		<display-name>FX HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58574_h3_aa.png" width="360"/>
-	</channel><channel id="I249.62420.schedulesdirect.org">
-		<display-name>249 Comedy Central East HD</display-name>
-		<display-name>249</display-name>
-		<display-name>Comedy Central East HD</display-name>
-		<display-name>Comedy Central HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62420_h3_aa.png" width="360"/>
-	</channel><channel id="I249.10149.schedulesdirect.org">
-		<display-name>249 Comedy Central East</display-name>
-		<display-name>249</display-name>
-		<display-name>Comedy Central East</display-name>
-		<display-name>Comedy Central</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10149_h3_aa.png" width="360"/>
-	</channel><channel id="I251.70522.schedulesdirect.org">
-		<display-name>251 Oxygen HD</display-name>
-		<display-name>251</display-name>
-		<display-name>Oxygen HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s70522_h3_aa.png" width="360"/>
-	</channel><channel id="I252.10918.schedulesdirect.org">
-		<display-name>252 Lifetime East</display-name>
-		<display-name>252</display-name>
-		<display-name>Lifetime East</display-name>
-		<display-name>Lifetime</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10918_h3_aa.png" width="360"/>
-	</channel><channel id="I253.55887.schedulesdirect.org">
-		<display-name>253 Lifetime Movie Network East HD</display-name>
-		<display-name>253</display-name>
-		<display-name>Lifetime Movie Network East HD</display-name>
-		<display-name>Lifetime Movies HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s55887_h3_aa.png" width="360"/>
-	</channel><channel id="I254.59337.schedulesdirect.org">
-		<display-name>254 AMC East HD</display-name>
-		<display-name>254</display-name>
-		<display-name>AMC East HD</display-name>
-		<display-name>AMC HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59337_h3_aa.png" width="360"/>
-	</channel><channel id="I256.12852.schedulesdirect.org">
-		<display-name>256 TCM US</display-name>
-		<display-name>256</display-name>
-		<display-name>TCM US</display-name>
-		<display-name>Turner Classic Movies</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s12852_h3_aa.png" width="360"/>
-	</channel><channel id="I257.55205.schedulesdirect.org">
-		<display-name>257 Chiller TV</display-name>
-		<display-name>257</display-name>
-		<display-name>Chiller TV</display-name>
-		<display-name>Chiller</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s55205_h3_aa.png" width="360"/>
-	</channel><channel id="I259.66379.schedulesdirect.org">
-		<display-name>259 FXX East HD</display-name>
-		<display-name>259</display-name>
-		<display-name>FXX East HD</display-name>
-		<display-name>FXX HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s66379_h3_aa.png" width="360"/>
-	</channel><channel id="I260.16409.schedulesdirect.org">
-		<display-name>260 WE TV</display-name>
-		<display-name>260</display-name>
-		<display-name>WE TV</display-name>
-		<display-name>WE tv</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16409_h3_aa.png" width="360"/>
-	</channel><channel id="I261.16125.schedulesdirect.org">
-		<display-name>261 Discovery Life Channel</display-name>
-		<display-name>261</display-name>
-		<display-name>Discovery Life Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16125_h3_aa.png" width="360"/>
-	</channel><channel id="I264.64492.schedulesdirect.org">
-		<display-name>264 BBC America HD</display-name>
-		<display-name>264</display-name>
-		<display-name>BBC America HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s64492_h3_aa.png" width="360"/>
-	</channel><channel id="I265.51529.schedulesdirect.org">
-		<display-name>265 A&amp;E East HD</display-name>
-		<display-name>265</display-name>
-		<display-name>A&amp;E East HD</display-name>
-		<display-name>A&amp;E Network HD East</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s51529_h3_aa.png" width="360"/>
-	</channel><channel id="IHistory Channel.57708.schedulesdirect.org">
-		<display-name>History Channel History HD</display-name>
-		<display-name>History Channel</display-name>
-		<display-name>History HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57708_h3_aa.png" width="360"/>
-	</channel><channel id="I274.69061.schedulesdirect.org">
-		<display-name>274 Ovation HD</display-name>
-		<display-name>274</display-name>
-		<display-name>Ovation HD</display-name>
-		<display-name>Ovation TV HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s69061_h3_aa.png" width="360"/>
-	</channel><channel id="INATIONAL GEOGRAPHIC HD US.24959.schedulesdirect.org">
-		<display-name>NATIONAL GEOGRAPHIC HD US National Geographic Channel</display-name>
-		<display-name>NATIONAL GEOGRAPHIC HD US</display-name>
-		<display-name>National Geographic Channel</display-name>
-		<display-name>National Geographic USA</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24959_h3_aa.png" width="360"/>
-	</channel><channel id="INATIONAL GEOGRAPHIC HD US.49438.schedulesdirect.org">
-		<display-name>NATIONAL GEOGRAPHIC HD US National Geographic Channel HD</display-name>
-		<display-name>NATIONAL GEOGRAPHIC HD US</display-name>
-		<display-name>National Geographic Channel HD</display-name>
-		<display-name>National Geographic HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49438_h3_aa.png" width="360"/>
-	</channel><channel id="IDISCOVERY HD..56905.schedulesdirect.org">
-		<display-name>DISCOVERY HD. Discovery Channel USA HD</display-name>
-		<display-name>DISCOVERY HD.</display-name>
-		<display-name>Discovery Channel USA HD</display-name>
-		<display-name>The Discovery Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56905_h3_aa.png" width="360"/>
-	</channel><channel id="IDISCOVERY HD..11150.schedulesdirect.org">
-		<display-name>DISCOVERY HD. Discovery Channel USA</display-name>
-		<display-name>DISCOVERY HD.</display-name>
-		<display-name>Discovery Channel USA</display-name>
-		<display-name>The Discovery Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11150_h3_aa.png" width="360"/>
-	</channel><channel id="I280.11158.schedulesdirect.org">
-		<display-name>280 TLC</display-name>
-		<display-name>280</display-name>
-		<display-name>TLC</display-name>
-		<display-name>The Learning Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11158_h3_aa.png" width="360"/>
-	</channel><channel id="IANIMAL PLANET HD..16331.schedulesdirect.org">
-		<display-name>ANIMAL PLANET HD. Animal Planet</display-name>
-		<display-name>ANIMAL PLANET HD.</display-name>
-		<display-name>Animal Planet</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16331_h3_aa.png" width="360"/>
-	</channel><channel id="IANIMAL PLANET HD..57394.schedulesdirect.org">
-		<display-name>ANIMAL PLANET HD. Animal Planet HD</display-name>
-		<display-name>ANIMAL PLANET HD.</display-name>
-		<display-name>Animal Planet HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57394_h3_aa.png" width="360"/>
-	</channel><channel id="INAT GEO WILD.67331.schedulesdirect.org">
-		<display-name>NAT GEO WILD Nat Geo Wild HD</display-name>
-		<display-name>NAT GEO WILD</display-name>
-		<display-name>Nat Geo Wild HD</display-name>
-		<display-name>National Geographic Wild HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s67331_h3_aa.png" width="360"/>
-	</channel><channel id="I284.57390.schedulesdirect.org">
-		<display-name>284 Science Channel HD</display-name>
-		<display-name>284</display-name>
-		<display-name>Science Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57390_h3_aa.png" width="360"/>
-	</channel><channel id="I284.16616.schedulesdirect.org">
-		<display-name>284 Science Channel</display-name>
-		<display-name>284</display-name>
-		<display-name>Science Channel</display-name>
-		<display-name>Science</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16616_h3_aa.png" width="360"/>
-	</channel><channel id="IInvestigation Discovery HD.16615.schedulesdirect.org">
-		<display-name>Investigation Discovery HD Investigation Discovery</display-name>
-		<display-name>Investigation Discovery HD</display-name>
-		<display-name>Investigation Discovery</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16615_h3_aa.png" width="360"/>
-	</channel><channel id="IInvestigation Discovery HD.65342.schedulesdirect.org">
-		<display-name>Investigation Discovery HD Investigation Discovery HD</display-name>
-		<display-name>Investigation Discovery HD</display-name>
-		<display-name>Investigation Discovery HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65342_h3_aa.png" width="360"/>
-	</channel><channel id="I286.60468.schedulesdirect.org">
-		<display-name>286 Destination America HD</display-name>
-		<display-name>286</display-name>
-		<display-name>Destination America HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60468_h3_aa.png" width="360"/>
-	</channel><channel id="I287.18284.schedulesdirect.org">
-		<display-name>287 American Heroes Channel</display-name>
-		<display-name>287</display-name>
-		<display-name>American Heroes Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18284_h3_aa.png" width="360"/>
-	</channel><channel id="I289.74885.schedulesdirect.org">
-		<display-name>289 Disney Jr HD</display-name>
-		<display-name>289</display-name>
-		<display-name>Disney Jr HD</display-name>
-		<display-name>Disney Junior US HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s74885_h3_aa.png" width="360"/>
-	</channel><channel id="I290.59684.schedulesdirect.org">
-		<display-name>290 Disney Channel East HD</display-name>
-		<display-name>290</display-name>
-		<display-name>Disney Channel East HD</display-name>
-		<display-name>Disney Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59684_h3_aa.png" width="360"/>
-	</channel><channel id="I292.60006.schedulesdirect.org">
-		<display-name>292 Disney XD HD</display-name>
-		<display-name>292</display-name>
-		<display-name>Disney XD HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60006_h3_aa.png" width="360"/>
-	</channel><channel id="I294.16618.schedulesdirect.org">
-		<display-name>294 Discovery Family</display-name>
-		<display-name>294</display-name>
-		<display-name>Discovery Family</display-name>
-		<display-name>Discovery Family Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16618_h3_aa.png" width="360"/>
-	</channel><channel id="I296.12131.schedulesdirect.org">
-		<display-name>296 Cartoon Network</display-name>
-		<display-name>296</display-name>
-		<display-name>Cartoon Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s12131_h3_aa.png" width="360"/>
-	</channel><channel id="I298.21883.schedulesdirect.org">
-		<display-name>298 Boomerang USA HD</display-name>
-		<display-name>298</display-name>
-		<display-name>Boomerang USA HD</display-name>
-		<display-name>Boomerang</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21883_h3_aa.png" width="360"/>
-	</channel><channel id="I299.59432.schedulesdirect.org">
-		<display-name>299 Nickelodeon East HD</display-name>
-		<display-name>299</display-name>
-		<display-name>Nickelodeon East HD</display-name>
-		<display-name>Nickelodeon HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59432_h3_aa.png" width="360"/>
-	</channel><channel id="I301.82649.schedulesdirect.org">
-		<display-name>301 Nick Jr HD</display-name>
-		<display-name>301</display-name>
-		<display-name>Nick Jr HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82649_h3_aa.png" width="360"/>
-	</channel><channel id="I303.59036.schedulesdirect.org">
-		<display-name>303 Teen Nick</display-name>
-		<display-name>303</display-name>
-		<display-name>Teen Nick</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59036_h3_aa.png" width="360"/>
-	</channel><channel id="I304.73541.schedulesdirect.org">
-		<display-name>304 TV Land HD</display-name>
-		<display-name>304</display-name>
-		<display-name>TV Land HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73541_h3_aa.png" width="360"/>
-	</channel><channel id="I305.76894.schedulesdirect.org">
-		<display-name>305 ION Television East HD</display-name>
-		<display-name>305</display-name>
-		<display-name>ION Television East HD</display-name>
-		<display-name>ION Television DirecTV/Dish HD</display-name>
-		<display-name>ION</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18633_h3_aa.png" width="360"/>
-	</channel><channel id="I307.91096.schedulesdirect.org">
-		<display-name>307 WGN America HD</display-name>
-		<display-name>307</display-name>
-		<display-name>WGN America HD</display-name>
-		<display-name>WGN America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s91096_h3_aa.png" width="360"/>
-	</channel><channel id="I311.59615.schedulesdirect.org">
-		<display-name>311 FREEFORM HD</display-name>
-		<display-name>311</display-name>
-		<display-name>FREEFORM HD</display-name>
-		<display-name>Freeform HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59615_h3_aa.png" width="360"/>
-	</channel><channel id="I312.11221.schedulesdirect.org">
-		<display-name>312 Hallmark</display-name>
-		<display-name>312</display-name>
-		<display-name>Hallmark</display-name>
-		<display-name>Hallmark Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11221_h3_aa.png" width="360"/>
-	</channel><channel id="I321.58333.schedulesdirect.org">
-		<display-name>321 RT US</display-name>
-		<display-name>321</display-name>
-		<display-name>RT US</display-name>
-		<display-name>RT</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58333_h3_aa.png" width="360"/>
-	</channel><channel id="I333.59444.schedulesdirect.org">
-		<display-name>333 IFC East HD</display-name>
-		<display-name>333</display-name>
-		<display-name>IFC East HD</display-name>
-		<display-name>IFC HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59444_h3_aa.png" width="360"/>
-	</channel><channel id="I350.10161.schedulesdirect.org">
-		<display-name>350 C-Span</display-name>
-		<display-name>350</display-name>
-		<display-name>C-Span</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10161_h3_aa.png" width="360"/>
-	</channel><channel id="I351.10162.schedulesdirect.org">
-		<display-name>351 C-Span  Book TV</display-name>
-		<display-name>351</display-name>
-		<display-name>C-Span  Book TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10162_h3_aa.png" width="360"/>
-	</channel><channel id="I352.12553.schedulesdirect.org">
-		<display-name>352 NASA TV</display-name>
-		<display-name>352</display-name>
-		<display-name>NASA TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s12553_h3_aa.png" width="360"/>
-	</channel><channel id="I353.71799.schedulesdirect.org">
-		<display-name>353 Bloomberg TV US</display-name>
-		<display-name>353</display-name>
-		<display-name>Bloomberg TV US</display-name>
-		<display-name>Bloomberg HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" width="360"/>
-	</channel><channel id="I355.58780.schedulesdirect.org">
-		<display-name>355 CNBC US HD</display-name>
-		<display-name>355</display-name>
-		<display-name>CNBC US HD</display-name>
-		<display-name>CNBC HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58780_h3_aa.png" width="360"/>
-	</channel><channel id="I359.58718.schedulesdirect.org">
-		<display-name>359 Fox Business HD</display-name>
-		<display-name>359</display-name>
-		<display-name>Fox Business HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58718_h3_aa.png" width="360"/>
-	</channel><channel id="I360.16374.schedulesdirect.org">
-		<display-name>360 Fox News Channel</display-name>
-		<display-name>360</display-name>
-		<display-name>Fox News Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16374_h3_aa.png" width="360"/>
-	</channel><channel id="I360.60179.schedulesdirect.org">
-		<display-name>360 Fox News Channel HD</display-name>
-		<display-name>360</display-name>
-		<display-name>Fox News Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60179_h3_aa.png" width="360"/>
-	</channel><channel id="I361.83698.schedulesdirect.org">
-		<display-name>361 WeatherNation</display-name>
-		<display-name>361</display-name>
-		<display-name>WeatherNation</display-name>
-		<display-name>Performance One Weather Nation</display-name>
-	</channel><channel id="I362.11187.schedulesdirect.org">
-		<display-name>362 The Weather Channel</display-name>
-		<display-name>362</display-name>
-		<display-name>The Weather Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11187_h3_aa.png" width="360"/>
-	</channel><channel id="I374.21855.schedulesdirect.org">
-		<display-name>374 ByuTV</display-name>
-		<display-name>374</display-name>
-		<display-name>ByuTV</display-name>
-		<display-name>BYU-TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21855_h3_aa.png" width="360"/>
-	</channel><channel id="I390.11331.schedulesdirect.org">
-		<display-name>390 CBS New York</display-name>
-		<display-name>390</display-name>
-		<display-name>CBS New York</display-name>
-		<display-name>CBS</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10098_h3_aa.png" width="360"/>
-	</channel><channel id="I392.11705.schedulesdirect.org">
-		<display-name>392 NBC New York</display-name>
-		<display-name>392</display-name>
-		<display-name>NBC New York</display-name>
-		<display-name>NBC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11705_h3_aa.png" width="360"/>
-	</channel><channel id="I396.11259.schedulesdirect.org">
-		<display-name>396 ABC New York</display-name>
-		<display-name>396</display-name>
-		<display-name>ABC New York</display-name>
-		<display-name>ABC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" width="360"/>
-	</channel><channel id="I398.11746.schedulesdirect.org">
-		<display-name>398 FOX New York</display-name>
-		<display-name>398</display-name>
-		<display-name>FOX New York</display-name>
-		<display-name>FOX</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10212_h3_aa.png" width="360"/>
-	</channel><channel id="I402.68049.schedulesdirect.org">
-		<display-name>402 Univision HD</display-name>
-		<display-name>402</display-name>
-		<display-name>Univision HD</display-name>
-		<display-name>Univision Network HD</display-name>
-		<display-name>UNI</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68049_h3_aa.png" width="360"/>
-	</channel><channel id="I403.14762.schedulesdirect.org">
-		<display-name>403 Univision Los Angeles</display-name>
-		<display-name>403</display-name>
-		<display-name>Univision Los Angeles</display-name>
-		<display-name>Univision Network (Pacific)</display-name>
-		<display-name>UNI</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11118_h3_aa.png" width="360"/>
-	</channel><channel id="I407.17983.schedulesdirect.org">
-		<display-name>407 Telemundo Los Angeles</display-name>
-		<display-name>407</display-name>
-		<display-name>Telemundo Los Angeles</display-name>
-		<display-name>Telemundo Television Network (Pacific)</display-name>
-		<display-name>TELE</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10239_h3_aa.png" width="360"/>
-	</channel><channel id="I410.91588.schedulesdirect.org">
-		<display-name>410 NBC Universo HD</display-name>
-		<display-name>410</display-name>
-		<display-name>NBC Universo HD</display-name>
-		<display-name>UNIVERSO HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s91588_h3_aa.png" width="360"/>
-	</channel><channel id="I467.76955.schedulesdirect.org">
-		<display-name>467 Bein Sports en Espa&#xF1;ol HD</display-name>
-		<display-name>467</display-name>
-		<display-name>Bein Sports en Espa&#xF1;ol HD</display-name>
-		<display-name>beIN Sports En Espa&#xF1;ol HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s76943_h3_aa.png" width="360"/>
-	</channel><channel id="I501.19548.schedulesdirect.org">
-		<display-name>501 HBO East HD</display-name>
-		<display-name>501</display-name>
-		<display-name>HBO East HD</display-name>
-		<display-name>HBO HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19548_h3_aa.png" width="360"/>
-	</channel><channel id="I501.10240.schedulesdirect.org">
-		<display-name>501 HBO East</display-name>
-		<display-name>501</display-name>
-		<display-name>HBO East</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10240_h3_aa.png" width="360"/>
-	</channel><channel id="I502.59368.schedulesdirect.org">
-		<display-name>502 HBO 2 East HD</display-name>
-		<display-name>502</display-name>
-		<display-name>HBO 2 East HD</display-name>
-		<display-name>HBO2 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59368_h3_aa.png" width="360"/>
-	</channel><channel id="I502.10241.schedulesdirect.org">
-		<display-name>502 HBO 2 East</display-name>
-		<display-name>502</display-name>
-		<display-name>HBO 2 East</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10241_h3_aa.png" width="360"/>
-	</channel><channel id="I503.59363.schedulesdirect.org">
-		<display-name>503 HBO Signature East HD</display-name>
-		<display-name>503</display-name>
-		<display-name>HBO Signature East HD</display-name>
-		<display-name>HBO Signature HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59363_h3_aa.png" width="360"/>
-	</channel><channel id="I504.19566.schedulesdirect.org">
-		<display-name>504 HBO West HD</display-name>
-		<display-name>504</display-name>
-		<display-name>HBO West HD</display-name>
-		<display-name>HBO HD (Pacific)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19548_h3_aa.png" width="360"/>
-	</channel><channel id="I505.59355.schedulesdirect.org">
-		<display-name>505 HBO 2 West HD</display-name>
-		<display-name>505</display-name>
-		<display-name>HBO 2 West HD</display-name>
-		<display-name>HBO2 HD (Pacific)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59368_h3_aa.png" width="360"/>
-	</channel><channel id="I506.59839.schedulesdirect.org">
-		<display-name>506 HBO Comedy East HD</display-name>
-		<display-name>506</display-name>
-		<display-name>HBO Comedy East HD</display-name>
-		<display-name>HBO Comedy HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59839_h3_aa.png" width="360"/>
-	</channel><channel id="I507.59357.schedulesdirect.org">
-		<display-name>507 HBO Family East HD</display-name>
-		<display-name>507</display-name>
-		<display-name>HBO Family East HD</display-name>
-		<display-name>HBO Family HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59357_h3_aa.png" width="360"/>
-	</channel><channel id="I509.59845.schedulesdirect.org">
-		<display-name>509 HBO Zone</display-name>
-		<display-name>509</display-name>
-		<display-name>HBO Zone</display-name>
-		<display-name>HBO Zone HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59845_h3_aa.png" width="360"/>
-	</channel><channel id="I515.10120.schedulesdirect.org">
-		<display-name>515 Cinemax East</display-name>
-		<display-name>515</display-name>
-		<display-name>Cinemax East</display-name>
-		<display-name>CineMAX</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10120_h3_aa.png" width="360"/>
-	</channel><channel id="I515.34933.schedulesdirect.org">
-		<display-name>515 Cinemax East HD</display-name>
-		<display-name>515</display-name>
-		<display-name>Cinemax East HD</display-name>
-		<display-name>CineMAX HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34933_h3_aa.png" width="360"/>
-	</channel><channel id="I516.35975.schedulesdirect.org">
-		<display-name>516 Cinemax West HD</display-name>
-		<display-name>516</display-name>
-		<display-name>Cinemax West HD</display-name>
-		<display-name>CineMAX HD (Pacific)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34933_h3_aa.png" width="360"/>
-	</channel><channel id="I516.12508.schedulesdirect.org">
-		<display-name>516 Cinemax West</display-name>
-		<display-name>516</display-name>
-		<display-name>Cinemax West</display-name>
-		<display-name>CineMAX (Pacific)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10120_h3_aa.png" width="360"/>
-	</channel><channel id="I519.59948.schedulesdirect.org">
-		<display-name>519 ActionMax East HD</display-name>
-		<display-name>519</display-name>
-		<display-name>ActionMax East HD</display-name>
-		<display-name>ActionMAX HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59948_h3_aa.png" width="360"/>
-	</channel><channel id="I5 StarMax.59961.schedulesdirect.org">
-		<display-name>5 StarMax 5 StarMax HD</display-name>
-		<display-name>5 StarMax</display-name>
-		<display-name>5 StarMax HD</display-name>
-		<display-name>5 StarMAX HD East</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59961_h3_aa.png" width="360"/>
-	</channel><channel id="I522.59954.schedulesdirect.org">
-		<display-name>522 ThrillerMax East HD</display-name>
-		<display-name>522</display-name>
-		<display-name>ThrillerMax East HD</display-name>
-		<display-name>ThrillerMAX HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59954_h3_aa.png" width="360"/>
-	</channel><channel id="I525.34941.schedulesdirect.org">
-		<display-name>525 Starz East HD</display-name>
-		<display-name>525</display-name>
-		<display-name>Starz East HD</display-name>
-		<display-name>Starz HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34941_h3_aa.png" width="360"/>
-	</channel><channel id="I525.12719.schedulesdirect.org">
-		<display-name>525 Starz East</display-name>
-		<display-name>525</display-name>
-		<display-name>Starz East</display-name>
-		<display-name>Starz</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s12719_h3_aa.png" width="360"/>
-	</channel><channel id="I526.12741.schedulesdirect.org">
-		<display-name>526 Starz West</display-name>
-		<display-name>526</display-name>
-		<display-name>Starz West</display-name>
-		<display-name>Starz (Pacific)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s12719_h3_aa.png" width="360"/>
-	</channel><channel id="I527.57581.schedulesdirect.org">
-		<display-name>527 Starz Kids &amp; Family East HD</display-name>
-		<display-name>527</display-name>
-		<display-name>Starz Kids &amp; Family East HD</display-name>
-		<display-name>Starz Kids HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57581_h3_aa.png" width="360"/>
-	</channel><channel id="I528.57569.schedulesdirect.org">
-		<display-name>528 Starz Comedy East</display-name>
-		<display-name>528</display-name>
-		<display-name>Starz Comedy East</display-name>
-		<display-name>Starz Comedy HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57569_h3_aa.png" width="360"/>
-	</channel><channel id="I529.57573.schedulesdirect.org">
-		<display-name>529 Starz Edge East HD</display-name>
-		<display-name>529</display-name>
-		<display-name>Starz Edge East HD</display-name>
-		<display-name>Starz Edge HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57573_h3_aa.png" width="360"/>
-	</channel><channel id="I530.16833.schedulesdirect.org">
-		<display-name>530 STZIB</display-name>
-		<display-name>530</display-name>
-		<display-name>STZIB</display-name>
-		<display-name>Starz in Black</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16833_h3_aa.png" width="360"/>
-	</channel><channel id="IStarz Cinema East HD.67236.schedulesdirect.org">
-		<display-name>Starz Cinema East HD Starz Cinema East HD</display-name>
-		<display-name>Starz Cinema East HD</display-name>
-		<display-name>Starz Cinema East HD</display-name>
-		<display-name>Starz Cinema HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s67236_h3_aa.png" width="360"/>
-	</channel><channel id="I535.10178.schedulesdirect.org">
-		<display-name>535 Encore East</display-name>
-		<display-name>535</display-name>
-		<display-name>Encore East</display-name>
-		<display-name>Starz Encore</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10178_h3_aa.png" width="360"/>
-	</channel><channel id="I535.36225.schedulesdirect.org">
-		<display-name>535 Encore East HD</display-name>
-		<display-name>535</display-name>
-		<display-name>Encore East HD</display-name>
-		<display-name>Starz Encore HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s36225_h3_aa.png" width="360"/>
-	</channel><channel id="I538.14765.schedulesdirect.org">
-		<display-name>538 Encore Westerns</display-name>
-		<display-name>538</display-name>
-		<display-name>Encore Westerns</display-name>
-		<display-name>Starz Encore Westerns</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s14765_h3_aa.png" width="360"/>
-	</channel><channel id="I541.14871.schedulesdirect.org">
-		<display-name>541 STZENAC</display-name>
-		<display-name>541</display-name>
-		<display-name>STZENAC</display-name>
-		<display-name>Starz Encore Action</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s14871_h3_aa.png" width="360"/>
-	</channel><channel id="I545.11115.schedulesdirect.org">
-		<display-name>545 Showtime East</display-name>
-		<display-name>545</display-name>
-		<display-name>Showtime East</display-name>
-		<display-name>Showtime</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11115_h3_aa.png" width="360"/>
-	</channel><channel id="I545.21868.schedulesdirect.org">
-		<display-name>545 Showtime East HD</display-name>
-		<display-name>545</display-name>
-		<display-name>Showtime East HD</display-name>
-		<display-name>Showtime HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21868_h3_aa.png" width="360"/>
-	</channel><channel id="I546.22532.schedulesdirect.org">
-		<display-name>546 Showtime West HD</display-name>
-		<display-name>546</display-name>
-		<display-name>Showtime West HD</display-name>
-		<display-name>Showtime HD (Pacific)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21868_h3_aa.png" width="360"/>
-	</channel><channel id="I547.58533.schedulesdirect.org">
-		<display-name>547 Showtime 2 East HD</display-name>
-		<display-name>547</display-name>
-		<display-name>Showtime 2 East HD</display-name>
-		<display-name>SHO 2 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58533_h3_aa.png" width="360"/>
-	</channel><channel id="I548.61001.schedulesdirect.org">
-		<display-name>548 Showtime Showcase East HD</display-name>
-		<display-name>548</display-name>
-		<display-name>Showtime Showcase East HD</display-name>
-		<display-name>Showtime Showcase HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61001_h3_aa.png" width="360"/>
-	</channel><channel id="I549.60947.schedulesdirect.org">
-		<display-name>549 Showtime Extreme East HD</display-name>
-		<display-name>549</display-name>
-		<display-name>Showtime Extreme East HD</display-name>
-		<display-name>Showtime Extreme HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60947_h3_aa.png" width="360"/>
-	</channel><channel id="I550.68340.schedulesdirect.org">
-		<display-name>550 Showtime Beyond East</display-name>
-		<display-name>550</display-name>
-		<display-name>Showtime Beyond East</display-name>
-		<display-name>Showtime Beyond HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68340_h3_aa.png" width="360"/>
-	</channel><channel id="I551.68342.schedulesdirect.org">
-		<display-name>551 Showtime Next</display-name>
-		<display-name>551</display-name>
-		<display-name>Showtime Next</display-name>
-		<display-name>Showtime Next HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68342_h3_aa.png" width="360"/>
-	</channel><channel id="I553.35329.schedulesdirect.org">
-		<display-name>553 The Movie Channel East HD</display-name>
-		<display-name>553</display-name>
-		<display-name>The Movie Channel East HD</display-name>
-		<display-name>The Movie Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35329_h3_aa.png" width="360"/>
-	</channel><channel id="I555.60951.schedulesdirect.org">
-		<display-name>555 The Movie Channel Xtra East</display-name>
-		<display-name>555</display-name>
-		<display-name>The Movie Channel Xtra East</display-name>
-		<display-name>The Movie Channel Extra HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60951_h3_aa.png" width="360"/>
-	</channel><channel id="I565.46710.schedulesdirect.org">
-		<display-name>565 Hallmark Movies &amp; Mysteries</display-name>
-		<display-name>565</display-name>
-		<display-name>Hallmark Movies &amp; Mysteries</display-name>
-		<display-name>Hallmark Movies &amp; Mysteries HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46710_h3_aa.png" width="360"/>
-	</channel><channel id="I568.69130.schedulesdirect.org">
-		<display-name>568 Sony Movie Channel USA HD</display-name>
-		<display-name>568</display-name>
-		<display-name>Sony Movie Channel USA HD</display-name>
-		<display-name>Sony Movie Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s69130_h3_aa.png" width="360"/>
-	</channel><channel id="ICrime &amp; investigation Network HD.61469.schedulesdirect.org">
-		<display-name>Crime &amp; investigation Network HD Crime &amp; Investigation Network</display-name>
-		<display-name>Crime &amp; investigation Network HD</display-name>
-		<display-name>Crime &amp; Investigation Network</display-name>
-		<display-name>Crime &amp; Investigation Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61469_h3_aa.png" width="360"/>
-	</channel><channel id="I572.49141.schedulesdirect.org">
-		<display-name>572 MTV Live HD</display-name>
-		<display-name>572</display-name>
-		<display-name>MTV Live HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49141_h3_aa.png" width="360"/>
-	</channel><channel id="I606.14776.schedulesdirect.org">
-		<display-name>606 Outdoor Channel</display-name>
-		<display-name>606</display-name>
-		<display-name>Outdoor Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s14776_h3_aa.png" width="360"/>
-	</channel><channel id="I618.59305.schedulesdirect.org">
-		<display-name>618 Fox Sports 2 US HD</display-name>
-		<display-name>618</display-name>
-		<display-name>Fox Sports 2 US HD</display-name>
-		<display-name>Fox Sports 2 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59305_h3_aa.png" width="360"/>
-	</channel><channel id="I628.35038.schedulesdirect.org">
-		<display-name>628 New England Sports Network HD</display-name>
-		<display-name>628</display-name>
-		<display-name>New England Sports Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35038_h3_aa.png" width="360"/>
-	</channel><channel id="I631.30017.schedulesdirect.org">
-		<display-name>631 Yes Network HD</display-name>
-		<display-name>631</display-name>
-		<display-name>Yes Network HD</display-name>
-		<display-name>Yes Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30017_h3_aa.png" width="360"/>
-	</channel><channel id="I634.35402.schedulesdirect.org">
-		<display-name>634 MSG HD</display-name>
-		<display-name>634</display-name>
-		<display-name>MSG HD</display-name>
-		<display-name>MSG HD Zone 1</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35402_h3_aa.png" width="360"/>
-	</channel><channel id="I639.49603.schedulesdirect.org">
-		<display-name>639 SportsNet New York</display-name>
-		<display-name>639</display-name>
-		<display-name>SportsNet New York</display-name>
-		<display-name>Sportsnet NY</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49603_h3_aa.png" width="360"/>
-	</channel><channel id="I640.59607.schedulesdirect.org">
-		<display-name>640 MASN HD</display-name>
-		<display-name>640</display-name>
-		<display-name>MASN HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59607_h3_aa.png" width="360"/>
-	</channel><channel id="I646.61092.schedulesdirect.org">
-		<display-name>646 Fox Sports South HD</display-name>
-		<display-name>646</display-name>
-		<display-name>Fox Sports South HD</display-name>
-		<display-name>Fox Sports South HD(Full Time)</display-name>
-	</channel><channel id="I649.61138.schedulesdirect.org">
-		<display-name>649 Fox Sports Southwest HD</display-name>
-		<display-name>649</display-name>
-		<display-name>Fox Sports Southwest HD</display-name>
-		<display-name>Fox Sports Southeast HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61138_h3_aa.png" width="360"/>
-	</channel><channel id="I653.18003.schedulesdirect.org">
-		<display-name>653 Fox Sports Sun</display-name>
-		<display-name>653</display-name>
-		<display-name>Fox Sports Sun</display-name>
-		<display-name>FOX Sports Sun</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18003_h3_aa.png" width="360"/>
-	</channel><channel id="I692.59627.schedulesdirect.org">
-		<display-name>692 FOX Sports West HD</display-name>
-		<display-name>692</display-name>
-		<display-name>FOX Sports West HD</display-name>
-		<display-name>Fox Sports West HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59627_h3_aa.png" width="360"/>
-	</channel><channel id="I693.16743.schedulesdirect.org">
-		<display-name>693 Fox Sports Prime Ticket</display-name>
-		<display-name>693</display-name>
-		<display-name>Fox Sports Prime Ticket</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16743_h3_aa.png" width="360"/>
-	</channel><channel id="I703.47216.schedulesdirect.org">
-		<display-name>703 NFL REDZONE</display-name>
-		<display-name>703</display-name>
-		<display-name>NFL REDZONE</display-name>
-		<display-name>NFL SUNDAY TICKET RED ZONE</display-name>
-	</channel><channel id="I704.17678.schedulesdirect.org">
-		<display-name>704 NFL Sunday Ticket</display-name>
-		<display-name>704</display-name>
-		<display-name>NFL Sunday Ticket</display-name>
-		<display-name>NFL Sunday Ticket - 704</display-name>
-	</channel><channel id="I705.17679.schedulesdirect.org">
-		<display-name>705 NFL Sunday Ticket 1</display-name>
-		<display-name>705</display-name>
-		<display-name>NFL Sunday Ticket 1</display-name>
-		<display-name>NFL Sunday Ticket - 705</display-name>
-	</channel><channel id="I706.17680.schedulesdirect.org">
-		<display-name>706 NFL Sunday Ticket 2</display-name>
-		<display-name>706</display-name>
-		<display-name>NFL Sunday Ticket 2</display-name>
-		<display-name>NFL Sunday Ticket - 706</display-name>
-	</channel><channel id="I707.17681.schedulesdirect.org">
-		<display-name>707 NFL Sunday Ticket 3</display-name>
-		<display-name>707</display-name>
-		<display-name>NFL Sunday Ticket 3</display-name>
-		<display-name>NFL Sunday Ticket - 707</display-name>
-	</channel><channel id="I708.17682.schedulesdirect.org">
-		<display-name>708 NFL Sunday Ticket 4</display-name>
-		<display-name>708</display-name>
-		<display-name>NFL Sunday Ticket 4</display-name>
-		<display-name>NFL Sunday Ticket - 708</display-name>
-	</channel><channel id="I709.17683.schedulesdirect.org">
-		<display-name>709 NFL Sunday Ticket 5</display-name>
-		<display-name>709</display-name>
-		<display-name>NFL Sunday Ticket 5</display-name>
-		<display-name>NFL Sunday Ticket - 709</display-name>
-	</channel><channel id="I710.17684.schedulesdirect.org">
-		<display-name>710 NFL Sunday Ticket 6</display-name>
-		<display-name>710</display-name>
-		<display-name>NFL Sunday Ticket 6</display-name>
-		<display-name>NFL Sunday Ticket - 710</display-name>
-	</channel><channel id="I711.17685.schedulesdirect.org">
-		<display-name>711 NFL Sunday Ticket 7</display-name>
-		<display-name>711</display-name>
-		<display-name>NFL Sunday Ticket 7</display-name>
-		<display-name>NFL Sunday Ticket - 711</display-name>
-	</channel><channel id="I712.17686.schedulesdirect.org">
-		<display-name>712 NFL Sunday Ticket 8</display-name>
-		<display-name>712</display-name>
-		<display-name>NFL Sunday Ticket 8</display-name>
-		<display-name>NFL Sunday Ticket - 712</display-name>
-	</channel><channel id="I713.24258.schedulesdirect.org">
-		<display-name>713 NFL Sunday Ticket 9</display-name>
-		<display-name>713</display-name>
-		<display-name>NFL Sunday Ticket 9</display-name>
-		<display-name>NFL Sunday Ticket - 713</display-name>
-	</channel><channel id="I101.17153.schedulesdirect.org">
-		<display-name>101 BBC ONE</display-name>
-		<display-name>101</display-name>
-		<display-name>BBC ONE</display-name>
-		<display-name>BBC One</display-name>
-		<display-name>BBC ONE</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17153_h3_aa.png" width="360"/>
-	</channel><channel id="I102.17154.schedulesdirect.org">
-		<display-name>102 BBC TWO</display-name>
-		<display-name>102</display-name>
-		<display-name>BBC TWO</display-name>
-		<display-name>BBC Two</display-name>
-		<display-name>BBC2HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17154_h3_aa.png" width="360"/>
-	</channel><channel id="I103.17468.schedulesdirect.org">
-		<display-name>103 ITV</display-name>
-		<display-name>103</display-name>
-		<display-name>ITV</display-name>
-		<display-name>ITV1 (London)</display-name>
-		<display-name>ITV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17468_h3_aa.png" width="360"/>
-	</channel><channel id="I106.49611.schedulesdirect.org">
-		<display-name>106 SKY One</display-name>
-		<display-name>106</display-name>
-		<display-name>SKY One</display-name>
-		<display-name>Sky One HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49611_h3_aa.png" width="360"/>
-	</channel><channel id="I106.16235.schedulesdirect.org">
-		<display-name>106 SKY One</display-name>
-		<display-name>106</display-name>
-		<display-name>SKY One</display-name>
-		<display-name>Sky 1</display-name>
-		<display-name>SKY One</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16235_h3_aa.png" width="360"/>
-	</channel><channel id="I107.17443.schedulesdirect.org">
-		<display-name>107 SKY Living</display-name>
-		<display-name>107</display-name>
-		<display-name>SKY Living</display-name>
-		<display-name>Sky Living</display-name>
-		<display-name>SKLIVHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17443_h3_aa.png" width="360"/>
-	</channel><channel id="I108.70434.schedulesdirect.org">
-		<display-name>108 SKY Atlantic</display-name>
-		<display-name>108</display-name>
-		<display-name>SKY Atlantic</display-name>
-		<display-name>Sky Atlantic</display-name>
-		<display-name>SKYATHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s70434_h3_aa.png" width="360"/>
-	</channel><channel id="I110.17442.schedulesdirect.org">
-		<display-name>110 Gold</display-name>
-		<display-name>110</display-name>
-		<display-name>Gold</display-name>
-		<display-name>GOLD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17442_h3_aa.png" width="360"/>
-	</channel><channel id="I111.24305.schedulesdirect.org">
-		<display-name>111 Dave</display-name>
-		<display-name>111</display-name>
-		<display-name>Dave</display-name>
-		<display-name>DAVEHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24305_h3_aa.png" width="360"/>
-	</channel><channel id="I113.68052.schedulesdirect.org">
-		<display-name>113 UNIVCHD</display-name>
-		<display-name>113</display-name>
-		<display-name>UNIVCHD</display-name>
-		<display-name>Universal Channel HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68052_h3_aa.png" width="360"/>
-	</channel><channel id="I115.24448.schedulesdirect.org">
-		<display-name>115 BBC World News</display-name>
-		<display-name>115</display-name>
-		<display-name>BBC World News</display-name>
-		<display-name>BBC World Service</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24448_h3_aa.png" width="360"/>
-	</channel><channel id="I116.20684.schedulesdirect.org">
-		<display-name>116 BBC Four</display-name>
-		<display-name>116</display-name>
-		<display-name>BBC Four</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20684_h3_aa.png" width="360"/>
-	</channel><channel id="I118.69228.schedulesdirect.org">
-		<display-name>118 ITV 2</display-name>
-		<display-name>118</display-name>
-		<display-name>ITV 2</display-name>
-		<display-name>ITV2 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s69228_h3_aa.png" width="360"/>
-	</channel><channel id="I119.69374.schedulesdirect.org">
-		<display-name>119 ITV 3</display-name>
-		<display-name>119</display-name>
-		<display-name>ITV 3</display-name>
-		<display-name>ITV3 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s69374_h3_aa.png" width="360"/>
-	</channel><channel id="I120.48020.schedulesdirect.org">
-		<display-name>120 ITV 4</display-name>
-		<display-name>120</display-name>
-		<display-name>ITV 4</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48020_h3_aa.png" width="360"/>
-	</channel><channel id="I120.69375.schedulesdirect.org">
-		<display-name>120 ITV 4</display-name>
-		<display-name>120</display-name>
-		<display-name>ITV 4</display-name>
-		<display-name>ITV4 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s69375_h3_aa.png" width="360"/>
-	</channel><channel id="I122.24919.schedulesdirect.org">
-		<display-name>122 SKY Arts</display-name>
-		<display-name>122</display-name>
-		<display-name>SKY Arts</display-name>
-		<display-name>Sky Arts</display-name>
-		<display-name>SART1HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24919_h3_aa.png" width="360"/>
-	</channel><channel id="I123.89887.schedulesdirect.org">
-		<display-name>123 ITV Encore</display-name>
-		<display-name>123</display-name>
-		<display-name>ITV Encore</display-name>
-		<display-name>ITV Encore HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89887_h3_aa.png" width="360"/>
-	</channel><channel id="I124.35484.schedulesdirect.org">
-		<display-name>124 FOX</display-name>
-		<display-name>124</display-name>
-		<display-name>FOX</display-name>
-		<display-name>FXHDE</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35484_h3_aa.png" width="360"/>
-	</channel><channel id="I125.17454.schedulesdirect.org">
-		<display-name>125 TLC</display-name>
-		<display-name>125</display-name>
-		<display-name>TLC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17454_h3_aa.png" width="360"/>
-	</channel><channel id="I133.28634.schedulesdirect.org">
-		<display-name>133 Good Food</display-name>
-		<display-name>133</display-name>
-		<display-name>Good Food</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28634_h3_aa.png" width="360"/>
-	</channel><channel id="I136.25117.schedulesdirect.org">
-		<display-name>136 E4</display-name>
-		<display-name>136</display-name>
-		<display-name>E4</display-name>
-		<display-name>E4HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25117_h3_aa.png" width="360"/>
-	</channel><channel id="I138.47657.schedulesdirect.org">
-		<display-name>138 More 4</display-name>
-		<display-name>138</display-name>
-		<display-name>More 4</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s47657_h3_aa.png" width="360"/>
-	</channel><channel id="I4 Seven.75804.schedulesdirect.org">
-		<display-name>4 Seven 4 Seven</display-name>
-		<display-name>4 Seven</display-name>
-		<display-name>4 Seven</display-name>
-		<display-name>4Seven</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_aa.png" width="360"/>
-	</channel><channel id="I141.69387.schedulesdirect.org">
-		<display-name>141 BBC ONE</display-name>
-		<display-name>141</display-name>
-		<display-name>BBC ONE</display-name>
-		<display-name>BBC One HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s69387_h3_aa.png" width="360"/>
-	</channel><channel id="I143.20684.schedulesdirect.org">
-		<display-name>143 BBC Four</display-name>
-		<display-name>143</display-name>
-		<display-name>BBC Four</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20684_h3_aa.png" width="360"/>
-	</channel><channel id="I144.62391.schedulesdirect.org">
-		<display-name>144 Quest</display-name>
-		<display-name>144</display-name>
-		<display-name>Quest</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62391_h3_aa.png" width="360"/>
-	</channel><channel id="I145.21793.schedulesdirect.org">
-		<display-name>145 Challenge</display-name>
-		<display-name>145</display-name>
-		<display-name>Challenge</display-name>
-		<display-name>Challenge TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21793_h3_aa.png" width="360"/>
-	</channel><channel id="I146.31756.schedulesdirect.org">
-		<display-name>146 CBS Reality</display-name>
-		<display-name>146</display-name>
-		<display-name>CBS Reality</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31756_h3_aa.png" width="360"/>
-	</channel><channel id="I148.73970.schedulesdirect.org">
-		<display-name>148 CBS Action</display-name>
-		<display-name>148</display-name>
-		<display-name>CBS Action</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73970_h3_aa.png" width="360"/>
-	</channel><channel id="I149.90855.schedulesdirect.org">
-		<display-name>149 ITV Be</display-name>
-		<display-name>149</display-name>
-		<display-name>ITV Be</display-name>
-		<display-name>ITVBe</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90855_h3_aa.png" width="360"/>
-	</channel><channel id="I152.48021.schedulesdirect.org">
-		<display-name>152 Pick</display-name>
-		<display-name>152</display-name>
-		<display-name>Pick</display-name>
-		<display-name>Pick TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48021_h3_aa.png" width="360"/>
-	</channel><channel id="I155.45828.schedulesdirect.org">
-		<display-name>155 Really</display-name>
-		<display-name>155</display-name>
-		<display-name>Really</display-name>
-		<display-name>Really UKTV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45828_h3_aa.png" width="360"/>
-	</channel><channel id="I158.82575.schedulesdirect.org">
-		<display-name>158 Drama</display-name>
-		<display-name>158</display-name>
-		<display-name>Drama</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82575_h3_aa.png" width="360"/>
-	</channel><channel id="I163.32151.schedulesdirect.org">
-		<display-name>163 SKY Two</display-name>
-		<display-name>163</display-name>
-		<display-name>SKY Two</display-name>
-		<display-name>Sky 2</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s32151_h3_aa.png" width="360"/>
-	</channel><channel id="I171.50717.schedulesdirect.org">
-		<display-name>171 Channel 5</display-name>
-		<display-name>171</display-name>
-		<display-name>Channel 5</display-name>
-		<display-name>Channel 5 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50717_h3_aa.png" width="360"/>
-	</channel><channel id="I5 USA.52335.schedulesdirect.org">
-		<display-name>5 USA 5 USA</display-name>
-		<display-name>5 USA</display-name>
-		<display-name>5 USA</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52335_h3_aa.png" width="360"/>
-	</channel><channel id="I5 Star.52336.schedulesdirect.org">
-		<display-name>5 Star 5 Star</display-name>
-		<display-name>5 Star</display-name>
-		<display-name>5 Star</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52336_h3_aa.png" width="360"/>
-	</channel><channel id="I178.50523.schedulesdirect.org">
-		<display-name>178 ITV</display-name>
-		<display-name>178</display-name>
-		<display-name>ITV</display-name>
-		<display-name>ITV1 HD (London)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50523_h3_aa.png" width="360"/>
-	</channel><channel id="I183.89657.schedulesdirect.org">
-		<display-name>183 True Drama</display-name>
-		<display-name>183</display-name>
-		<display-name>True Drama</display-name>
-		<display-name>True Entertainment +1</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89657_h3_aa.png" width="360"/>
-	</channel><channel id="I188.35484.schedulesdirect.org">
-		<display-name>188 FOX</display-name>
-		<display-name>188</display-name>
-		<display-name>FOX</display-name>
-		<display-name>FXHDE</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35484_h3_aa.png" width="360"/>
-	</channel><channel id="I196.21257.schedulesdirect.org">
-		<display-name>196 Home</display-name>
-		<display-name>196</display-name>
-		<display-name>Home</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21257_h3_aa.png" width="360"/>
-	</channel><channel id="I202.25117.schedulesdirect.org">
-		<display-name>202 E4</display-name>
-		<display-name>202</display-name>
-		<display-name>E4</display-name>
-		<display-name>E4HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25117_h3_aa.png" width="360"/>
-	</channel><channel id="I204.24671.schedulesdirect.org">
-		<display-name>204 Universal Channel</display-name>
-		<display-name>204</display-name>
-		<display-name>Universal Channel</display-name>
-		<display-name>UNIVCHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24671_h3_aa.png" width="360"/>
-	</channel><channel id="I221.16235.schedulesdirect.org">
-		<display-name>221 SKY One</display-name>
-		<display-name>221</display-name>
-		<display-name>SKY One</display-name>
-		<display-name>Sky 1</display-name>
-		<display-name>SKY One</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16235_h3_aa.png" width="360"/>
-	</channel><channel id="I222.17443.schedulesdirect.org">
-		<display-name>222 SKY Living</display-name>
-		<display-name>222</display-name>
-		<display-name>SKY Living</display-name>
-		<display-name>Sky Living</display-name>
-		<display-name>SKLIVHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17443_h3_aa.png" width="360"/>
-	</channel><channel id="I223.70434.schedulesdirect.org">
-		<display-name>223 SKY Atlantic</display-name>
-		<display-name>223</display-name>
-		<display-name>SKY Atlantic</display-name>
-		<display-name>Sky Atlantic</display-name>
-		<display-name>SKYATHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s70434_h3_aa.png" width="360"/>
-	</channel><channel id="I225.48020.schedulesdirect.org">
-		<display-name>225 ITV 4</display-name>
-		<display-name>225</display-name>
-		<display-name>ITV 4</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48020_h3_aa.png" width="360"/>
-	</channel><channel id="I231.47657.schedulesdirect.org">
-		<display-name>231 More 4</display-name>
-		<display-name>231</display-name>
-		<display-name>More 4</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s47657_h3_aa.png" width="360"/>
-	</channel><channel id="I234.17454.schedulesdirect.org">
-		<display-name>234 TLC</display-name>
-		<display-name>234</display-name>
-		<display-name>TLC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17454_h3_aa.png" width="360"/>
-	</channel><channel id="I241.58793.schedulesdirect.org">
-		<display-name>241 Dmax</display-name>
-		<display-name>241</display-name>
-		<display-name>Dmax</display-name>
-		<display-name>DMAX</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58793_h3_aa.png" width="360"/>
-	</channel><channel id="I243.34898.schedulesdirect.org">
-		<display-name>243 Good Food</display-name>
-		<display-name>243</display-name>
-		<display-name>Good Food</display-name>
-		<display-name>Good Food +1</display-name>
-		<display-name>GDFDHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34898_h3_aa.png" width="360"/>
-	</channel><channel id="I246.24305.schedulesdirect.org">
-		<display-name>246 Dave</display-name>
-		<display-name>246</display-name>
-		<display-name>Dave</display-name>
-		<display-name>DAVEHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24305_h3_aa.png" width="360"/>
-	</channel><channel id="I247.21258.schedulesdirect.org">
-		<display-name>247 Alibi</display-name>
-		<display-name>247</display-name>
-		<display-name>Alibi</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21258_h3_aa.png" width="360"/>
-	</channel><channel id="I249.17453.schedulesdirect.org">
-		<display-name>249 Travel Channel UK</display-name>
-		<display-name>249</display-name>
-		<display-name>Travel Channel UK</display-name>
-		<display-name>Travel Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17453_h3_aa.png" width="360"/>
-	</channel><channel id="I255.28634.schedulesdirect.org">
-		<display-name>255 Good Food</display-name>
-		<display-name>255</display-name>
-		<display-name>Good Food</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28634_h3_aa.png" width="360"/>
-	</channel><channel id="I268.89888.schedulesdirect.org">
-		<display-name>268 itv ENCORE +1</display-name>
-		<display-name>268</display-name>
-		<display-name>itv ENCORE +1</display-name>
-		<display-name>ITV Encore +1</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89888_h3_aa.png" width="360"/>
-	</channel><channel id="I269.57827.schedulesdirect.org">
-		<display-name>269 CBS Drama</display-name>
-		<display-name>269</display-name>
-		<display-name>CBS Drama</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57827_h3_aa.png" width="360"/>
-	</channel><channel id="I286.24919.schedulesdirect.org">
-		<display-name>286 SKY Arts</display-name>
-		<display-name>286</display-name>
-		<display-name>SKY Arts</display-name>
-		<display-name>Sky Arts</display-name>
-		<display-name>SART1HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24919_h3_aa.png" width="360"/>
-	</channel><channel id="I304.24042.schedulesdirect.org">
-		<display-name>304 SKY Modern Greats</display-name>
-		<display-name>304</display-name>
-		<display-name>SKY Modern Greats</display-name>
-		<display-name>Sky Cinema Greats</display-name>
-		<display-name>SCINGRH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24042_h3_aa.png" width="360"/>
-	</channel><channel id="I305.24034.schedulesdirect.org">
-		<display-name>305 SKY Disney</display-name>
-		<display-name>305</display-name>
-		<display-name>SKY Disney</display-name>
-		<display-name>Sky Cinema Disney</display-name>
-		<display-name>SCINDHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24034_h3_aa.png" width="360"/>
-	</channel><channel id="I306.24040.schedulesdirect.org">
-		<display-name>306 SKY Family</display-name>
-		<display-name>306</display-name>
-		<display-name>SKY Family</display-name>
-		<display-name>Sky Cinema Family</display-name>
-		<display-name>SCINFAH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24040_h3_aa.png" width="360"/>
-	</channel><channel id="I307.24031.schedulesdirect.org">
-		<display-name>307 SKY Action &amp; Adventure</display-name>
-		<display-name>307</display-name>
-		<display-name>SKY Action &amp; Adventure</display-name>
-		<display-name>Sky Cinema Action &amp; Adventure</display-name>
-		<display-name>SCINAAH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24031_h3_aa.png" width="360"/>
-	</channel><channel id="I308.61182.schedulesdirect.org">
-		<display-name>308 SKY Comedy</display-name>
-		<display-name>308</display-name>
-		<display-name>SKY Comedy</display-name>
-		<display-name>Sky Cinema Comedy HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61182_h3_aa.png" width="360"/>
-	</channel><channel id="I308.24039.schedulesdirect.org">
-		<display-name>308 SKY Comedy</display-name>
-		<display-name>308</display-name>
-		<display-name>SKY Comedy</display-name>
-		<display-name>Sky Cinema Comedy</display-name>
-		<display-name>SKY Comedy</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24039_h3_aa.png" width="360"/>
-	</channel><channel id="I309.56140.schedulesdirect.org">
-		<display-name>309 SKY Crime &amp; Thriller</display-name>
-		<display-name>309</display-name>
-		<display-name>SKY Crime &amp; Thriller</display-name>
-		<display-name>Sky Cinema Crime &amp; Thriller</display-name>
-		<display-name>SCINCTH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56140_h3_aa.png" width="360"/>
-	</channel><channel id="I310.24032.schedulesdirect.org">
-		<display-name>310 SKY Movies Drama</display-name>
-		<display-name>310</display-name>
-		<display-name>SKY Movies Drama</display-name>
-		<display-name>Sky Cinema Drama &amp; Romance</display-name>
-		<display-name>SCINDRH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24032_h3_aa.png" width="360"/>
-	</channel><channel id="I311.24041.schedulesdirect.org">
-		<display-name>311 SKY Scifi &amp; Horror</display-name>
-		<display-name>311</display-name>
-		<display-name>SKY Scifi &amp; Horror</display-name>
-		<display-name>Sky Cinema Sci Fi &amp; Horror</display-name>
-		<display-name>SCINSHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24041_h3_aa.png" width="360"/>
-	</channel><channel id="I312.49139.schedulesdirect.org">
-		<display-name>312 SKY Select</display-name>
-		<display-name>312</display-name>
-		<display-name>SKY Select</display-name>
-		<display-name>Sky Cinema Select</display-name>
-		<display-name>SKY Select</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49139_h3_aa.png" width="360"/>
-	</channel><channel id="I312.65340.schedulesdirect.org">
-		<display-name>312 SKY Select</display-name>
-		<display-name>312</display-name>
-		<display-name>SKY Select</display-name>
-		<display-name>Sky Cinema Select HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65340_h3_aa.png" width="360"/>
-	</channel><channel id="I314.21107.schedulesdirect.org">
-		<display-name>314 SKY Premiere</display-name>
-		<display-name>314</display-name>
-		<display-name>SKY Premiere</display-name>
-		<display-name>Sky Cinema Premiere</display-name>
-		<display-name>SCINPRH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21107_h3_aa.png" width="360"/>
-	</channel><channel id="I315.21494.schedulesdirect.org">
-		<display-name>315 Film 4</display-name>
-		<display-name>315</display-name>
-		<display-name>Film 4</display-name>
-		<display-name>Film4</display-name>
-		<display-name>FFOURHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21494_h3_aa.png" width="360"/>
-	</channel><channel id="I319.42762.schedulesdirect.org">
-		<display-name>319 Horror Channel</display-name>
-		<display-name>319</display-name>
-		<display-name>Horror Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s42762_h3_aa.png" width="360"/>
-	</channel><channel id="I321.44717.schedulesdirect.org">
-		<display-name>321 True Movies 1</display-name>
-		<display-name>321</display-name>
-		<display-name>True Movies 1</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44717_h3_aa.png" width="360"/>
-	</channel><channel id="I322.50011.schedulesdirect.org">
-		<display-name>322 True Movies 2</display-name>
-		<display-name>322</display-name>
-		<display-name>True Movies 2</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50011_h3_aa.png" width="360"/>
-	</channel><channel id="I327.50589.schedulesdirect.org">
-		<display-name>327 Movies 24</display-name>
-		<display-name>327</display-name>
-		<display-name>Movies 24</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50589_h3_aa.png" width="360"/>
-	</channel><channel id="I331.24042.schedulesdirect.org">
-		<display-name>331 SKY Modern Greats</display-name>
-		<display-name>331</display-name>
-		<display-name>SKY Modern Greats</display-name>
-		<display-name>Sky Cinema Greats</display-name>
-		<display-name>SCINGRH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24042_h3_aa.png" width="360"/>
-	</channel><channel id="I332.24034.schedulesdirect.org">
-		<display-name>332 SKY Disney</display-name>
-		<display-name>332</display-name>
-		<display-name>SKY Disney</display-name>
-		<display-name>Sky Cinema Disney</display-name>
-		<display-name>SCINDHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24034_h3_aa.png" width="360"/>
-	</channel><channel id="I333.24040.schedulesdirect.org">
-		<display-name>333 SKY Family</display-name>
-		<display-name>333</display-name>
-		<display-name>SKY Family</display-name>
-		<display-name>Sky Cinema Family</display-name>
-		<display-name>SCINFAH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24040_h3_aa.png" width="360"/>
-	</channel><channel id="I334.24031.schedulesdirect.org">
-		<display-name>334 SKY Action &amp; Adventure</display-name>
-		<display-name>334</display-name>
-		<display-name>SKY Action &amp; Adventure</display-name>
-		<display-name>Sky Cinema Action &amp; Adventure</display-name>
-		<display-name>SCINAAH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24031_h3_aa.png" width="360"/>
-	</channel><channel id="I335.24039.schedulesdirect.org">
-		<display-name>335 SKY Comedy</display-name>
-		<display-name>335</display-name>
-		<display-name>SKY Comedy</display-name>
-		<display-name>Sky Cinema Comedy</display-name>
-		<display-name>SKY Comedy</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24039_h3_aa.png" width="360"/>
-	</channel><channel id="I336.56140.schedulesdirect.org">
-		<display-name>336 SKY Crime &amp; Thriller</display-name>
-		<display-name>336</display-name>
-		<display-name>SKY Crime &amp; Thriller</display-name>
-		<display-name>Sky Cinema Crime &amp; Thriller</display-name>
-		<display-name>SCINCTH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56140_h3_aa.png" width="360"/>
-	</channel><channel id="I337.24032.schedulesdirect.org">
-		<display-name>337 SKY Movies Drama</display-name>
-		<display-name>337</display-name>
-		<display-name>SKY Movies Drama</display-name>
-		<display-name>Sky Cinema Drama &amp; Romance</display-name>
-		<display-name>SCINDRH</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24032_h3_aa.png" width="360"/>
-	</channel><channel id="I339.24041.schedulesdirect.org">
-		<display-name>339 SKY Scifi &amp; Horror</display-name>
-		<display-name>339</display-name>
-		<display-name>SKY Scifi &amp; Horror</display-name>
-		<display-name>Sky Cinema Sci Fi &amp; Horror</display-name>
-		<display-name>SCINSHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24041_h3_aa.png" width="360"/>
-	</channel><channel id="I340.49139.schedulesdirect.org">
-		<display-name>340 SKY Select</display-name>
-		<display-name>340</display-name>
-		<display-name>SKY Select</display-name>
-		<display-name>Sky Cinema Select</display-name>
-		<display-name>SKY Select</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49139_h3_aa.png" width="360"/>
-	</channel><channel id="I342.21494.schedulesdirect.org">
-		<display-name>342 Film 4</display-name>
-		<display-name>342</display-name>
-		<display-name>Film 4</display-name>
-		<display-name>Film4</display-name>
-		<display-name>FFOURHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21494_h3_aa.png" width="360"/>
-	</channel><channel id="I358.97287.schedulesdirect.org">
-		<display-name>358 MTV Live</display-name>
-		<display-name>358</display-name>
-		<display-name>MTV Live</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97287_h3_aa.png" width="360"/>
-	</channel><channel id="I413.82447.schedulesdirect.org">
-		<display-name>413 BT Sport 1</display-name>
-		<display-name>413</display-name>
-		<display-name>BT Sport 1</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82447_h3_aa.png" width="360"/>
-	</channel><channel id="I414.82449.schedulesdirect.org">
-		<display-name>414 BT Sport 2</display-name>
-		<display-name>414</display-name>
-		<display-name>BT Sport 2</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82449_h3_aa.png" width="360"/>
-	</channel><channel id="I415.30505.schedulesdirect.org">
-		<display-name>415 At The Races</display-name>
-		<display-name>415</display-name>
-		<display-name>At The Races</display-name>
-		<display-name>Attheraces</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30505_h3_aa.png" width="360"/>
-	</channel><channel id="I417.95771.schedulesdirect.org">
-		<display-name>417 BT Sport 3</display-name>
-		<display-name>417</display-name>
-		<display-name>BT Sport 3</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s95771_h3_aa.png" width="360"/>
-	</channel><channel id="I418.21813.schedulesdirect.org">
-		<display-name>418 MUTV</display-name>
-		<display-name>418</display-name>
-		<display-name>MUTV</display-name>
-		<display-name>Manchester United Television</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21813_h3_aa.png" width="360"/>
-	</channel><channel id="I427.82447.schedulesdirect.org">
-		<display-name>427 BT Sport 1</display-name>
-		<display-name>427</display-name>
-		<display-name>BT Sport 1</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82447_h3_aa.png" width="360"/>
-	</channel><channel id="I432.24226.schedulesdirect.org">
-		<display-name>432 Racing UK</display-name>
-		<display-name>432</display-name>
-		<display-name>Racing UK</display-name>
-		<display-name>HORSE RACING CHANNEL</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24226_h3_aa.png" width="360"/>
-	</channel><channel id="I433.82449.schedulesdirect.org">
-		<display-name>433 BT Sport 2</display-name>
-		<display-name>433</display-name>
-		<display-name>BT Sport 2</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82449_h3_aa.png" width="360"/>
-	</channel><channel id="I437.73823.schedulesdirect.org">
-		<display-name>437 BOXnation</display-name>
-		<display-name>437</display-name>
-		<display-name>BOXnation</display-name>
-		<display-name>Box Nation</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73823_h3_aa.png" width="360"/>
-	</channel><channel id="I453.21813.schedulesdirect.org">
-		<display-name>453 MUTV</display-name>
-		<display-name>453</display-name>
-		<display-name>MUTV</display-name>
-		<display-name>Manchester United Television</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21813_h3_aa.png" width="360"/>
-	</channel><channel id="I457.95771.schedulesdirect.org">
-		<display-name>457 BT Sport 3</display-name>
-		<display-name>457</display-name>
-		<display-name>BT Sport 3</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s95771_h3_aa.png" width="360"/>
-	</channel><channel id="I466.24226.schedulesdirect.org">
-		<display-name>466 Racing UK</display-name>
-		<display-name>466</display-name>
-		<display-name>Racing UK</display-name>
-		<display-name>HORSE RACING CHANNEL</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24226_h3_aa.png" width="360"/>
-	</channel><channel id="I501.16234.schedulesdirect.org">
-		<display-name>501 SKY News</display-name>
-		<display-name>501</display-name>
-		<display-name>SKY News</display-name>
-		<display-name>Sky News</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16234_h3_aa.png" width="360"/>
-	</channel><channel id="I502.20711.schedulesdirect.org">
-		<display-name>502 Bloomberg TV UK</display-name>
-		<display-name>502</display-name>
-		<display-name>Bloomberg TV UK</display-name>
-		<display-name>Bloomberg TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20711_h3_aa.png" width="360"/>
-	</channel><channel id="I503.19037.schedulesdirect.org">
-		<display-name>503 BBC News</display-name>
-		<display-name>503</display-name>
-		<display-name>BBC News</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19037_h3_aa.png" width="360"/>
-	</channel><channel id="I506.68053.schedulesdirect.org">
-		<display-name>506 CNN International</display-name>
-		<display-name>506</display-name>
-		<display-name>CNN International</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68053_h3_aa.png" width="360"/>
-	</channel><channel id="I507.62096.schedulesdirect.org">
-		<display-name>507 NHK World</display-name>
-		<display-name>507</display-name>
-		<display-name>NHK World</display-name>
-		<display-name>NHK World Europe</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62096_h3_aa.png" width="360"/>
-	</channel><channel id="I508.82432.schedulesdirect.org">
-		<display-name>508 Euronews</display-name>
-		<display-name>508</display-name>
-		<display-name>Euronews</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82432_h3_aa.png" width="360"/>
-	</channel><channel id="I512.98986.schedulesdirect.org">
-		<display-name>512 RT UK</display-name>
-		<display-name>512</display-name>
-		<display-name>RT UK</display-name>
-		<display-name>RT HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s98986_h3_aa.png" width="360"/>
-	</channel><channel id="I512.49887.schedulesdirect.org">
-		<display-name>512 RT International</display-name>
-		<display-name>512</display-name>
-		<display-name>RT International</display-name>
-		<display-name>RT</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49887_h3_aa.png" width="360"/>
-	</channel><channel id="I513.60562.schedulesdirect.org">
-		<display-name>513 France 24</display-name>
-		<display-name>513</display-name>
-		<display-name>France 24</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60562_h3_aa.png" width="360"/>
-	</channel><channel id="I514.49968.schedulesdirect.org">
-		<display-name>514 Al Jazeera</display-name>
-		<display-name>514</display-name>
-		<display-name>Al Jazeera</display-name>
-		<display-name>Al Jazeera English</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49968_h3_aa.png" width="360"/>
-	</channel><channel id="I516.16234.schedulesdirect.org">
-		<display-name>516 SKY News</display-name>
-		<display-name>516</display-name>
-		<display-name>SKY News</display-name>
-		<display-name>Sky News</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16234_h3_aa.png" width="360"/>
-	</channel><channel id="I518.49887.schedulesdirect.org">
-		<display-name>518 RT International</display-name>
-		<display-name>518</display-name>
-		<display-name>RT International</display-name>
-		<display-name>RT</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49887_h3_aa.png" width="360"/>
-	</channel><channel id="I524.24284.schedulesdirect.org">
-		<display-name>524 Discovery Turbo</display-name>
-		<display-name>524</display-name>
-		<display-name>Discovery Turbo</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24284_h3_aa.png" width="360"/>
-	</channel><channel id="I525.24282.schedulesdirect.org">
-		<display-name>525 Science Channel</display-name>
-		<display-name>525</display-name>
-		<display-name>Science Channel</display-name>
-		<display-name>Discovery Science</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24282_h3_aa.png" width="360"/>
-	</channel><channel id="IH2 HD.60500.schedulesdirect.org">
-		<display-name>H2 HD H2</display-name>
-		<display-name>H2 HD</display-name>
-		<display-name>H2</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60500_h3_aa.png" width="360"/>
-	</channel><channel id="I532.35806.schedulesdirect.org">
-		<display-name>532 Eden</display-name>
-		<display-name>532</display-name>
-		<display-name>Eden</display-name>
-		<display-name>EDENHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35806_h3_aa.png" width="360"/>
-	</channel><channel id="I553.61621.schedulesdirect.org">
-		<display-name>553 CIHD</display-name>
-		<display-name>553</display-name>
-		<display-name>CIHD</display-name>
-		<display-name>Crime &amp; Investigation Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61621_h3_aa.png" width="360"/>
-	</channel><channel id="I555.50976.schedulesdirect.org">
-		<display-name>555 Crime &amp; Investigation Network</display-name>
-		<display-name>555</display-name>
-		<display-name>Crime &amp; Investigation Network</display-name>
-		<display-name>Crime and Investigation Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50976_h3_aa.png" width="360"/>
-	</channel><channel id="I559.35806.schedulesdirect.org">
-		<display-name>559 Eden</display-name>
-		<display-name>559</display-name>
-		<display-name>Eden</display-name>
-		<display-name>EDENHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35806_h3_aa.png" width="360"/>
-	</channel><channel id="I563.35806.schedulesdirect.org">
-		<display-name>563 Eden</display-name>
-		<display-name>563</display-name>
-		<display-name>Eden</display-name>
-		<display-name>EDENHD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s35806_h3_aa.png" width="360"/>
-	</channel><channel id="I570.19037.schedulesdirect.org">
-		<display-name>570 BBC News</display-name>
-		<display-name>570</display-name>
-		<display-name>BBC News</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19037_h3_aa.png" width="360"/>
-	</channel><channel id="I579.68053.schedulesdirect.org">
-		<display-name>579 CNN International</display-name>
-		<display-name>579</display-name>
-		<display-name>CNN International</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68053_h3_aa.png" width="360"/>
-	</channel><channel id="I690.28452.schedulesdirect.org">
-		<display-name>690 Arirang TV</display-name>
-		<display-name>690</display-name>
-		<display-name>Arirang TV</display-name>
-		<display-name>ARANG (Arirang TV, Korea World Network)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28452_h3_aa.png" width="360"/>
-	</channel><channel id="I690.49968.schedulesdirect.org">
-		<display-name>690 Al Jazeera</display-name>
-		<display-name>690</display-name>
-		<display-name>Al Jazeera</display-name>
-		<display-name>Al Jazeera English</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49968_h3_aa.png" width="360"/>
-	</channel><channel id="I692.20711.schedulesdirect.org">
-		<display-name>692 Bloomberg TV UK</display-name>
-		<display-name>692</display-name>
-		<display-name>Bloomberg TV UK</display-name>
-		<display-name>Bloomberg TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20711_h3_aa.png" width="360"/>
-	</channel><channel id="I160.18169.schedulesdirect.org">
-		<display-name>160 MultiPremier</display-name>
-		<display-name>160</display-name>
-		<display-name>MultiPremier</display-name>
-		<display-name>Multipremier</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18169_h3_aa.png" width="360"/>
-	</channel><channel id="I162.15296.schedulesdirect.org">
-		<display-name>162 CineLatino</display-name>
-		<display-name>162</display-name>
-		<display-name>CineLatino</display-name>
-		<display-name>Cine Latino</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s15296_h3_aa.png" width="360"/>
-	</channel><channel id="I202.15688.schedulesdirect.org">
-		<display-name>202 Fox Latinoamerica HD</display-name>
-		<display-name>202</display-name>
-		<display-name>Fox Latinoamerica HD</display-name>
-		<display-name>CANAL FOX MEX</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75423_h3_aa.png" width="360"/>
-	</channel><channel id="I206.16799.schedulesdirect.org">
-		<display-name>206 Universal Channel America Latina</display-name>
-		<display-name>206</display-name>
-		<display-name>Universal Channel America Latina</display-name>
-		<display-name>Universal Latin North</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16799_h3_aa.png" width="360"/>
-	</channel><channel id="I208.19385.schedulesdirect.org">
-		<display-name>208 Canal Sony HD</display-name>
-		<display-name>208</display-name>
-		<display-name>Canal Sony HD</display-name>
-		<display-name>Sony Ent TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19385_h3_aa.png" width="360"/>
-	</channel><channel id="I210.16213.schedulesdirect.org">
-		<display-name>210 Warner Channel Latinoamerica</display-name>
-		<display-name>210</display-name>
-		<display-name>Warner Channel Latinoamerica</display-name>
-		<display-name>Warner Channel Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16213_h3_aa.png" width="360"/>
-	</channel><channel id="I214.92090.schedulesdirect.org">
-		<display-name>214 TNT Series Latinoamerica HD</display-name>
-		<display-name>214</display-name>
-		<display-name>TNT Series Latinoamerica HD</display-name>
-		<display-name>TNT Series Panamericano</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s91993_h3_aa.png" width="360"/>
-	</channel><channel id="I218.16800.schedulesdirect.org">
-		<display-name>218 Antena 3</display-name>
-		<display-name>218</display-name>
-		<display-name>Antena 3</display-name>
-		<display-name>Antena 3 Internacional</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16800_h3_aa.png" width="360"/>
-	</channel><channel id="I222.17484.schedulesdirect.org">
-		<display-name>222 AXN Latinoamerica</display-name>
-		<display-name>222</display-name>
-		<display-name>AXN Latinoamerica</display-name>
-		<display-name>AXN (Mexico West)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17484_h3_aa.png" width="360"/>
-	</channel><channel id="I224.46442.schedulesdirect.org">
-		<display-name>224 FX Latino</display-name>
-		<display-name>224</display-name>
-		<display-name>FX Latino</display-name>
-		<display-name>FX Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46442_h3_aa.png" width="360"/>
-	</channel><channel id="I226.60801.schedulesdirect.org">
-		<display-name>226 SPACE HD</display-name>
-		<display-name>226</display-name>
-		<display-name>SPACE HD</display-name>
-		<display-name>Space Latin Am Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60801_h3_aa.png" width="360"/>
-	</channel><channel id="I228.56727.schedulesdirect.org">
-		<display-name>228 SyFy Latinoamerica</display-name>
-		<display-name>228</display-name>
-		<display-name>SyFy Latinoamerica</display-name>
-		<display-name>SyFy Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56727_h3_aa.png" width="360"/>
-	</channel><channel id="IInvestigation Discovery SP.25793.schedulesdirect.org">
-		<display-name>Investigation Discovery SP Investigation Discovery Latinoamerica HD</display-name>
-		<display-name>Investigation Discovery SP</display-name>
-		<display-name>Investigation Discovery Latinoamerica HD</display-name>
-		<display-name>Investigacion Discovery Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25793_h3_aa.png" width="360"/>
-	</channel><channel id="I236.59582.schedulesdirect.org">
-		<display-name>236 Discovery Home &amp; Health Latinoamerica</display-name>
-		<display-name>236</display-name>
-		<display-name>Discovery Home &amp; Health Latinoamerica</display-name>
-		<display-name>Discovery Home and Health Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s59582_h3_aa.png" width="360"/>
-	</channel><channel id="I240.74420.schedulesdirect.org">
-		<display-name>240 TLC Latinoamerica</display-name>
-		<display-name>240</display-name>
-		<display-name>TLC Latinoamerica</display-name>
-		<display-name>TLC Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73822_h3_aa.png" width="360"/>
-	</channel><channel id="I242.90682.schedulesdirect.org">
-		<display-name>242 Lifetime Latinoamerica</display-name>
-		<display-name>242</display-name>
-		<display-name>Lifetime Latinoamerica</display-name>
-		<display-name>Lifetime</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10918_h3_aa.png" width="360"/>
-	</channel><channel id="I244.49263.schedulesdirect.org">
-		<display-name>244 FOX Life</display-name>
-		<display-name>244</display-name>
-		<display-name>FOX Life</display-name>
-		<display-name>Fox Life Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49263_h3_aa.png" width="360"/>
-	</channel><channel id="I248.30259.schedulesdirect.org">
-		<display-name>248 E! Latinoamerica</display-name>
-		<display-name>248</display-name>
-		<display-name>E! Latinoamerica</display-name>
-		<display-name>E! TV Latin America North Beam</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30259_h3_aa.png" width="360"/>
-	</channel><channel id="I250.75073.schedulesdirect.org">
-		<display-name>250 TBS America Latina</display-name>
-		<display-name>250</display-name>
-		<display-name>TBS America Latina</display-name>
-		<display-name>TBS Espa&#xF1;ol Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11867_h3_aa.png" width="360"/>
-	</channel><channel id="I252.74528.schedulesdirect.org">
-		<display-name>252 Comedy Central Latinoamerica</display-name>
-		<display-name>252</display-name>
-		<display-name>Comedy Central Latinoamerica</display-name>
-		<display-name>Comedy Central Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s76326_h3_aa.png" width="360"/>
-	</channel><channel id="I260.12712.schedulesdirect.org">
-		<display-name>260 MTV Latinoamerica</display-name>
-		<display-name>260</display-name>
-		<display-name>MTV Latinoamerica</display-name>
-		<display-name>MTV Latino Norte</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s12712_h3_aa.png" width="360"/>
-	</channel><channel id="I262.67787.schedulesdirect.org">
-		<display-name>262 MTV Hits Latinoamerica</display-name>
-		<display-name>262</display-name>
-		<display-name>MTV Hits Latinoamerica</display-name>
-		<display-name>MTV Hits Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s67787_h3_aa.png" width="360"/>
-	</channel><channel id="I270.42567.schedulesdirect.org">
-		<display-name>270 VH1 Latino Norte</display-name>
-		<display-name>270</display-name>
-		<display-name>VH1 Latino Norte</display-name>
-		<display-name>VH1 Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s42567_h3_aa.png" width="360"/>
-	</channel><channel id="I282.19234.schedulesdirect.org">
-		<display-name>282 Disney Channel Norte</display-name>
-		<display-name>282</display-name>
-		<display-name>Disney Channel Norte</display-name>
-		<display-name>Canal Disney LatinAm</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19234_h3_aa.png" width="360"/>
-	</channel><channel id="I283.61311.schedulesdirect.org">
-		<display-name>283 Disney Junior Norte</display-name>
-		<display-name>283</display-name>
-		<display-name>Disney Junior Norte</display-name>
-		<display-name>Disney Junior Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60506_h3_aa.png" width="360"/>
-	</channel><channel id="I286.16707.schedulesdirect.org">
-		<display-name>286 Nickelodeon Latinoamerica</display-name>
-		<display-name>286</display-name>
-		<display-name>Nickelodeon Latinoamerica</display-name>
-		<display-name>Nickelodeon Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16707_h3_aa.png" width="360"/>
-	</channel><channel id="I288.60295.schedulesdirect.org">
-		<display-name>288 Nickelodeon Jr Latinoamerica</display-name>
-		<display-name>288</display-name>
-		<display-name>Nickelodeon Jr Latinoamerica</display-name>
-		<display-name>Nick Junior Latin Am Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60295_h3_aa.png" width="360"/>
-	</channel><channel id="I290.16141.schedulesdirect.org">
-		<display-name>290 Cartoon Network Latinoamerica</display-name>
-		<display-name>290</display-name>
-		<display-name>Cartoon Network Latinoamerica</display-name>
-		<display-name>Cartoon Network Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16141_h3_aa.png" width="360"/>
-	</channel><channel id="I292.45955.schedulesdirect.org">
-		<display-name>292 Discovery Kids America Latina</display-name>
-		<display-name>292</display-name>
-		<display-name>Discovery Kids America Latina</display-name>
-		<display-name>Discovery Kids Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16680_h3_aa.png" width="360"/>
-	</channel><channel id="IDiscovery SP.25788.schedulesdirect.org">
-		<display-name>Discovery SP Discovery en Espa&#xF1;ol HD</display-name>
-		<display-name>Discovery SP</display-name>
-		<display-name>Discovery en Espa&#xF1;ol HD</display-name>
-		<display-name>Discovery Channel Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25788_h3_aa.png" width="360"/>
-	</channel><channel id="INational Geographic SP.25068.schedulesdirect.org">
-		<display-name>National Geographic SP National Geographic Latinoamerica HD</display-name>
-		<display-name>National Geographic SP</display-name>
-		<display-name>National Geographic Latinoamerica HD</display-name>
-		<display-name>National Geographic Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25068_h3_aa.png" width="360"/>
-	</channel><channel id="I314.66491.schedulesdirect.org">
-		<display-name>314 Nat Geo Wild Latino America</display-name>
-		<display-name>314</display-name>
-		<display-name>Nat Geo Wild Latino America</display-name>
-		<display-name>National Geographic Wild Lat Amer</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s66491_h3_aa.png" width="360"/>
-	</channel><channel id="IAnimal Planet SP.96445.schedulesdirect.org">
-		<display-name>Animal Planet SP Animal Planet Latinoamerica</display-name>
-		<display-name>Animal Planet SP</display-name>
-		<display-name>Animal Planet Latinoamerica</display-name>
-		<display-name>Animal Planet Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18649_h3_aa.png" width="360"/>
-	</channel><channel id="IHistory Latino.40137.schedulesdirect.org">
-		<display-name>History Latino History Channel Latinoamerica</display-name>
-		<display-name>History Latino</display-name>
-		<display-name>History Channel Latinoamerica</display-name>
-		<display-name>History Channel Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s40137_h3_aa.png" width="360"/>
-	</channel><channel id="IH2 SP.80374.schedulesdirect.org">
-		<display-name>H2 SP H2 Latinoamerica</display-name>
-		<display-name>H2 SP</display-name>
-		<display-name>H2 Latinoamerica</display-name>
-		<display-name>H2 - History International Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s80374_h3_aa.png" width="360"/>
-	</channel><channel id="I334.47374.schedulesdirect.org">
-		<display-name>334 Fox Sports 3 Latinoamerica</display-name>
-		<display-name>334</display-name>
-		<display-name>Fox Sports 3 Latinoamerica</display-name>
-		<display-name>Fox Sports3</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s47374_h3_aa.png" width="360"/>
-	</channel><channel id="I342.67765.schedulesdirect.org">
-		<display-name>342 ESPN 2 Latinoamerica</display-name>
-		<display-name>342</display-name>
-		<display-name>ESPN 2 Latinoamerica</display-name>
-		<display-name>ESPN Dos Mexico (214A)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17725_h3_aa.png" width="360"/>
-	</channel><channel id="I354.87311.schedulesdirect.org">
-		<display-name>354 El Financiero Bloomberg</display-name>
-		<display-name>354</display-name>
-		<display-name>El Financiero Bloomberg</display-name>
-		<display-name>El Financiero - Bloomberg TV</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s87311_h3_aa.png" width="360"/>
-	</channel><channel id="I370.19384.schedulesdirect.org">
-		<display-name>370 TNT America Latina</display-name>
-		<display-name>370</display-name>
-		<display-name>TNT America Latina</display-name>
-		<display-name>TNT LatinAm - CST Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19384_h3_aa.png" width="360"/>
-	</channel><channel id="I374.16794.schedulesdirect.org">
-		<display-name>374 Cinemax Latinoamerica</display-name>
-		<display-name>374</display-name>
-		<display-name>Cinemax Latinoamerica</display-name>
-		<display-name>Cinemax Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16794_h3_aa.png" width="360"/>
-	</channel><channel id="I376.18169.schedulesdirect.org">
-		<display-name>376 MultiPremier</display-name>
-		<display-name>376</display-name>
-		<display-name>MultiPremier</display-name>
-		<display-name>Multipremier</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18169_h3_aa.png" width="360"/>
-	</channel><channel id="I378.16435.schedulesdirect.org">
-		<display-name>378 CineCanal</display-name>
-		<display-name>378</display-name>
-		<display-name>CineCanal</display-name>
-		<display-name>CineCanal Mex</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82428_h3_aa.png" width="360"/>
-	</channel><channel id="I380.16435.schedulesdirect.org">
-		<display-name>380 CineCanal</display-name>
-		<display-name>380</display-name>
-		<display-name>CineCanal</display-name>
-		<display-name>CineCanal Mex</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82428_h3_aa.png" width="360"/>
-	</channel><channel id="I382.15296.schedulesdirect.org">
-		<display-name>382 CineLatino</display-name>
-		<display-name>382</display-name>
-		<display-name>CineLatino</display-name>
-		<display-name>Cine Latino</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s15296_h3_aa.png" width="360"/>
-	</channel><channel id="I384.19787.schedulesdirect.org">
-		<display-name>384 Film Zone</display-name>
-		<display-name>384</display-name>
-		<display-name>Film Zone</display-name>
-		<display-name>Film Zone Mexico (Oeste)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19787_h3_aa.png" width="360"/>
-	</channel><channel id="I386.29017.schedulesdirect.org">
-		<display-name>386 Studio Universal</display-name>
-		<display-name>386</display-name>
-		<display-name>Studio Universal</display-name>
-		<display-name>Studio Universal Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29017_h3_aa.png" width="360"/>
-	</channel><channel id="I388.91029.schedulesdirect.org">
-		<display-name>388 Paramount Channel Latinoamerica</display-name>
-		<display-name>388</display-name>
-		<display-name>Paramount Channel Latinoamerica</display-name>
-		<display-name>Paramount Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s91029_h3_aa.png" width="360"/>
-	</channel><channel id="I402.16795.schedulesdirect.org">
-		<display-name>402 HBO Latinoamerica</display-name>
-		<display-name>402</display-name>
-		<display-name>HBO Latinoamerica</display-name>
-		<display-name>HBO Oeste (LatAm)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s12288_h3_aa.png" width="360"/>
-	</channel><channel id="I406.68140.schedulesdirect.org">
-		<display-name>406 HBO 2 Latinoamerica</display-name>
-		<display-name>406</display-name>
-		<display-name>HBO 2 Latinoamerica</display-name>
-		<display-name>HBO2 Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68140_h3_aa.png" width="360"/>
-	</channel><channel id="I410.34879.schedulesdirect.org">
-		<display-name>410 HBO Family Latinoamerica</display-name>
-		<display-name>410</display-name>
-		<display-name>HBO Family Latinoamerica</display-name>
-		<display-name>HBO Family Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34879_h3_aa.png" width="360"/>
-	</channel><channel id="I414.34725.schedulesdirect.org">
-		<display-name>414 HBO Plus Oeste</display-name>
-		<display-name>414</display-name>
-		<display-name>HBO Plus Oeste</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16797_h3_aa.png" width="360"/>
-	</channel><channel id="I422.34887.schedulesdirect.org">
-		<display-name>422 May Prime Oeste</display-name>
-		<display-name>422</display-name>
-		<display-name>May Prime Oeste</display-name>
-		<display-name>Max Prime Latin America Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34887_h3_aa.png" width="360"/>
-	</channel><channel id="I426.18812.schedulesdirect.org">
-		<display-name>426 Fox 1 Este</display-name>
-		<display-name>426</display-name>
-		<display-name>Fox 1 Este</display-name>
-		<display-name>Fox Premium Series Este</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18812_h3_aa.png" width="360"/>
-	</channel><channel id="I430.58833.schedulesdirect.org">
-		<display-name>430 Fox Movies Latinoamerica</display-name>
-		<display-name>430</display-name>
-		<display-name>Fox Movies Latinoamerica</display-name>
-		<display-name>Fox Premium Movies Este</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58833_h3_aa.png" width="360"/>
-	</channel><channel id="I434.58835.schedulesdirect.org">
-		<display-name>434 Fox Action Oeste</display-name>
-		<display-name>434</display-name>
-		<display-name>Fox Action Oeste</display-name>
-		<display-name>Fox Premium Action Oeste</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58835_h3_aa.png" width="360"/>
-	</channel><channel id="I438.65400.schedulesdirect.org">
-		<display-name>438 Fox Family</display-name>
-		<display-name>438</display-name>
-		<display-name>Fox Family</display-name>
-		<display-name>Fox Premium Family Oeste</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65400_h3_aa.png" width="360"/>
-	</channel><channel id="I446.71662.schedulesdirect.org">
-		<display-name>446 Fox Cinema</display-name>
-		<display-name>446</display-name>
-		<display-name>Fox Cinema</display-name>
-		<display-name>Fox Premium Cinema</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71662_h3_aa.png" width="360"/>
-	</channel><channel id="I450.44028.schedulesdirect.org">
-		<display-name>450 Fox Classics Latinomaerica</display-name>
-		<display-name>450</display-name>
-		<display-name>Fox Classics Latinomaerica</display-name>
-		<display-name>Fox Premium Classics</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44028_h3_aa.png" width="360"/>
-	</channel><channel id="I484.16788.schedulesdirect.org">
-		<display-name>484 Playboy TV Latin America</display-name>
-		<display-name>484</display-name>
-		<display-name>Playboy TV Latin America</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16788_h3_aa.png" width="360"/>
-	</channel><channel id="I488.16498.schedulesdirect.org">
-		<display-name>488 Venus</display-name>
-		<display-name>488</display-name>
-		<display-name>Venus</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16498_h3_aa.png" width="360"/>
-	</channel><channel id="I490.72143.schedulesdirect.org">
-		<display-name>490 Sextreme</display-name>
-		<display-name>490</display-name>
-		<display-name>Sextreme</display-name>
-		<display-name>SeXtreme</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s72143_h3_aa.png" width="360"/>
-	</channel><channel id="I738.66488.schedulesdirect.org">
-		<display-name>738 Discovery World HD</display-name>
-		<display-name>738</display-name>
-		<display-name>Discovery World HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s66488_h3_aa.png" width="360"/>
-	</channel><channel id="I810.65940.schedulesdirect.org">
-		<display-name>810 Discovery Theater HD</display-name>
-		<display-name>810</display-name>
-		<display-name>Discovery Theater HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65940_h3_aa.png" width="360"/>
-	</channel><channel id="I832.71328.schedulesdirect.org">
-		<display-name>832 Fox Sports 2 Latinoamerica</display-name>
-		<display-name>832</display-name>
-		<display-name>Fox Sports 2 Latinoamerica</display-name>
-		<display-name>Fox Sports2 HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71328_h3_aa.png" width="360"/>
-	</channel><channel id="I918.68301.schedulesdirect.org">
-		<display-name>918 Max Up Latinoamerica</display-name>
-		<display-name>918</display-name>
-		<display-name>Max Up Latinoamerica</display-name>
-		<display-name>Max Up Mexico</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68301_h3_aa.png" width="360"/>
-	</channel><channel id="I922.80115.schedulesdirect.org">
-		<display-name>922 Max Prime Este</display-name>
-		<display-name>922</display-name>
-		<display-name>Max Prime Este</display-name>
-		<display-name>Max Prime Latin America Mexico HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s80211_h3_aa.png" width="360"/>
-	</channel><channel id="I210.10091.schedulesdirect.org">
-		<display-name>210 CBC</display-name>
-		<display-name>210</display-name>
-		<display-name>CBC</display-name>
-		<display-name>CBLT - CBC Toronto</display-name>
-		<display-name>CBC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10091_h3_aa.png" width="360"/>
-	</channel><channel id="I212.10108.schedulesdirect.org">
-		<display-name>212 CTV</display-name>
-		<display-name>212</display-name>
-		<display-name>CTV</display-name>
-		<display-name>CTV Toronto</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10108_h3_aa.png" width="360"/>
-	</channel><channel id="I214.10125.schedulesdirect.org">
-		<display-name>214 CityTV</display-name>
-		<display-name>214</display-name>
-		<display-name>CityTV</display-name>
-		<display-name>CITY Toronto</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10125_h3_aa.png" width="360"/>
-	</channel><channel id="I215.10105.schedulesdirect.org">
-		<display-name>215 Omni 1</display-name>
-		<display-name>215</display-name>
-		<display-name>Omni 1</display-name>
-		<display-name>CFMT (OMNI 1)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10105_h3_aa.png" width="360"/>
-	</channel><channel id="I216.31558.schedulesdirect.org">
-		<display-name>216 Omni 2</display-name>
-		<display-name>216</display-name>
-		<display-name>Omni 2</display-name>
-		<display-name>CJMT - Omni2 Television</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31558_h3_aa.png" width="360"/>
-	</channel><channel id="I218.10112.schedulesdirect.org">
-		<display-name>218 CHching!</display-name>
-		<display-name>218</display-name>
-		<display-name>CHching!</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10112_h3_aa.png" width="360"/>
-	</channel><channel id="I250.17594.schedulesdirect.org">
-		<display-name>250 CTV Vancouver</display-name>
-		<display-name>250</display-name>
-		<display-name>CTV Vancouver</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17594_h3_aa.png" width="360"/>
-	</channel><channel id="I251.10100.schedulesdirect.org">
-		<display-name>251 CBC Vancover</display-name>
-		<display-name>251</display-name>
-		<display-name>CBC Vancover</display-name>
-		<display-name>CBC (Vancouver) (CBUT)</display-name>
-		<display-name>CBC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10084_h3_aa.png" width="360"/>
-	</channel><channel id="I252.10050.schedulesdirect.org">
-		<display-name>252 Global</display-name>
-		<display-name>252</display-name>
-		<display-name>Global</display-name>
-		<display-name>Global BC</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10050_h3_aa.png" width="360"/>
-	</channel><channel id="I253.10136.schedulesdirect.org">
-		<display-name>253 City TV Vancouver</display-name>
-		<display-name>253</display-name>
-		<display-name>City TV Vancouver</display-name>
-		<display-name>CKVU (City Vancouver)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10136_h3_aa.png" width="360"/>
-	</channel><channel id="I400.11182.schedulesdirect.org">
-		<display-name>400 TSN 1</display-name>
-		<display-name>400</display-name>
-		<display-name>TSN 1</display-name>
-		<display-name>The Sports Network 1</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s11182_h3_aa.png" width="360"/>
-	</channel><channel id="I401.18990.schedulesdirect.org">
-		<display-name>401 TSN 2</display-name>
-		<display-name>401</display-name>
-		<display-name>TSN 2</display-name>
-		<display-name>The Sports Network 2</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18990_h3_aa.png" width="360"/>
-	</channel><channel id="I402.90118.schedulesdirect.org">
-		<display-name>402 TSN 3</display-name>
-		<display-name>402</display-name>
-		<display-name>TSN 3</display-name>
-		<display-name>The Sports Network 3</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90118_h3_aa.png" width="360"/>
-	</channel><channel id="I403.90122.schedulesdirect.org">
-		<display-name>403 TSN 4</display-name>
-		<display-name>403</display-name>
-		<display-name>TSN 4</display-name>
-		<display-name>The Sports Network 4</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90122_h3_aa.png" width="360"/>
-	</channel><channel id="I404.90124.schedulesdirect.org">
-		<display-name>404 TSN 5</display-name>
-		<display-name>404</display-name>
-		<display-name>TSN 5</display-name>
-		<display-name>The Sports Network 5</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90124_h3_aa.png" width="360"/>
-	</channel><channel id="I405.18799.schedulesdirect.org">
-		<display-name>405 Sportsnet Ontario</display-name>
-		<display-name>405</display-name>
-		<display-name>Sportsnet Ontario</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18799_h3_aa.png" width="360"/>
-	</channel><channel id="I406.18798.schedulesdirect.org">
-		<display-name>406 Sportsnet East</display-name>
-		<display-name>406</display-name>
-		<display-name>Sportsnet East</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18798_h3_aa.png" width="360"/>
-	</channel><channel id="I407.18801.schedulesdirect.org">
-		<display-name>407 Sportsnet Pacific</display-name>
-		<display-name>407</display-name>
-		<display-name>Sportsnet Pacific</display-name>
-		<display-name>Sportsnet (Pacific)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18801_h3_aa.png" width="360"/>
-	</channel><channel id="I408.18800.schedulesdirect.org">
-		<display-name>408 Sportsnet West</display-name>
-		<display-name>408</display-name>
-		<display-name>Sportsnet West</display-name>
-		<display-name>Sportsnet MST</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18800_h3_aa.png" width="360"/>
-	</channel><channel id="I409.68858.schedulesdirect.org">
-		<display-name>409 Sportsnet One</display-name>
-		<display-name>409</display-name>
-		<display-name>Sportsnet One</display-name>
-		<display-name>Rogers Sportsnet One</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68858_h3_aa.png" width="360"/>
-	</channel><channel id="I410.20203.schedulesdirect.org">
-		<display-name>410 Sportsnet 360</display-name>
-		<display-name>410</display-name>
-		<display-name>Sportsnet 360</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20203_h3_aa.png" width="360"/>
-	</channel><channel id="I420.57735.schedulesdirect.org">
-		<display-name>420 Sportsnet World</display-name>
-		<display-name>420</display-name>
-		<display-name>Sportsnet World</display-name>
-		<display-name>Rogers Sportsnet World</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57735_h3_aa.png" width="360"/>
-	</channel><channel id="I501.17615.schedulesdirect.org">
-		<display-name>501 CTV News</display-name>
-		<display-name>501</display-name>
-		<display-name>CTV News</display-name>
-		<display-name>CTV News Channel</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17615_h3_aa.png" width="360"/>
-	</channel><channel id="I502.10094.schedulesdirect.org">
-		<display-name>502 CBC News</display-name>
-		<display-name>502</display-name>
-		<display-name>CBC News</display-name>
-		<display-name>CBC News Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10094_h3_aa.png" width="360"/>
-	</channel><channel id="I503.18168.schedulesdirect.org">
-		<display-name>503 CP24</display-name>
-		<display-name>503</display-name>
-		<display-name>CP24</display-name>
-		<display-name>Cable Pulse 24 (CP24)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s18168_h3_aa.png" width="360"/>
-	</channel><channel id="I504.20709.schedulesdirect.org">
-		<display-name>504 BNN</display-name>
-		<display-name>504</display-name>
-		<display-name>BNN</display-name>
-		<display-name>Business News Network</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20709_h3_aa.png" width="360"/>
-	</channel><channel id="I505.10170.schedulesdirect.org">
-		<display-name>505 The Weather Network</display-name>
-		<display-name>505</display-name>
-		<display-name>The Weather Network</display-name>
-		<display-name>Weather Network (CWEA)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10170_h3_aa.png" width="360"/>
-	</channel><channel id="I510.89542.schedulesdirect.org">
-		<display-name>510 BBC World News</display-name>
-		<display-name>510</display-name>
-		<display-name>BBC World News</display-name>
-		<display-name>BBC World News (North America)</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s36844_h3_aa.png" width="360"/>
-	</channel><channel id="I601.15181.schedulesdirect.org">
-		<display-name>601 Slice</display-name>
-		<display-name>601</display-name>
-		<display-name>Slice</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s15181_h3_aa.png" width="360"/>
-	</channel><channel id="I722.21063.schedulesdirect.org">
-		<display-name>722 RT International</display-name>
-		<display-name>722</display-name>
-		<display-name>RT International</display-name>
-		<display-name>RTV International</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21063_h3_aa.png" width="360"/>
-	</channel><channel id="I724.58333.schedulesdirect.org">
-		<display-name>724 RT US</display-name>
-		<display-name>724</display-name>
-		<display-name>RT US</display-name>
-		<display-name>RT</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58333_h3_aa.png" width="360"/>
-	</channel><channel id="I810.52745.schedulesdirect.org">
-		<display-name>810 Love Nature</display-name>
-		<display-name>810</display-name>
-		<display-name>Love Nature</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52745_h3_aa.png" width="360"/>
-	</channel><channel id="I1446.91306.schedulesdirect.org">
-		<display-name>1446 WWE Network</display-name>
-		<display-name>1446</display-name>
-		<display-name>WWE Network</display-name>
-		<display-name>WWE Network HD</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s91306_h3_aa.png" width="360"/>
-	</channel><channel id="I1625.52745.schedulesdirect.org">
-		<display-name>1625 Love Nature</display-name>
-		<display-name>1625</display-name>
-		<display-name>Love Nature</display-name>
-		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52745_h3_aa.png" width="360"/>
-	</channel><channel id=".kazer.org">
+  </channel><channel id="Watania 1">
+    <display-name lang="ar">Watania 1</display-name>
+    <icon src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"/>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 2">
+    <display-name lang="ar">Watania 2</display-name>
+    <icon src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"/>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 2 +2">
+    <display-name lang="ar">Watania 2 +4</display-name>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 1 +4">
+    <display-name lang="ar">Watania 1 +4</display-name>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 1 +2">
+    <display-name lang="ar">Watania 1 +2</display-name>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="hd1">
+    <display-name lang="en">Bein sports 1 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd2">
+    <display-name lang="en">Bein sports 2 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd3">
+    <display-name lang="en">Bein sports 3 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd4">
+    <display-name lang="en">Bein sports 4 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd5">
+    <display-name lang="en">Bein sports 5 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd6">
+    <display-name lang="en">Bein sports 6 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd7">
+    <display-name lang="en">Bein sports 7 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd8">
+    <display-name lang="en">Bein sports 8 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd9">
+    <display-name lang="en">Bein sports 9 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd10">
+    <display-name lang="en">Bein sports 10 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd11">
+    <display-name lang="en">Bein sports 11 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd12">
+    <display-name lang="en">Bein sports 12 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd13">
+    <display-name lang="en">Bein sports 13 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd14">
+    <display-name lang="en">Bein sports 14 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd15">
+    <display-name lang="en">Bein sports 15 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd16">
+    <display-name lang="en">Bein sports 16 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="hd17">
+    <display-name lang="en">Bein sports 17 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="news_ar">
+    <display-name lang="en">Bein news</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="global">
+    <display-name lang="en">Bein global</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="BS NBA">
+    <display-name lang="en">BS NBA</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/Global.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="global_us">
+    <display-name lang="en">Bein global (us)</display-name>
+    <icon src="http://epg.beinsports.com/us_sports/Global.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="spanish">
+    <display-name lang="en">Bein sports (es)</display-name>
+    <icon src="http://epg.beinsports.com/us_sports/Global.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="movieshd1">
+    <display-name lang="en">Bein movies 1 hd</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 1 hd +2">
+    <display-name lang="en">Bein movies 1 hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 1 hd +4">
+    <display-name lang="en">Bein movies 1 hd +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="movieshd2">
+    <display-name lang="en">Bein movies 2 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 2 hd +2">
+    <display-name lang="en">Bein movies 2 hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 2 hd +4">
+    <display-name lang="en">Bein movies 2 hd +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="movieshd3">
+    <display-name lang="en">Bein movies 3 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 3 hd +2">
+    <display-name lang="en">Bein movies 3 hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 3 hd +4">
+    <display-name lang="en">Bein movies 3 hd +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="movieshd4">
+    <display-name lang="en">Bein movies 4 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 4 hd +2">
+    <display-name lang="en">Bein movies 4 hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bein movies 4 hd +4">
+    <display-name lang="en">Bein movies 4 hd +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="serieshd1">
+    <display-name lang="en">Bein Series hd 1</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="serieshd1 +2">
+    <display-name lang="en">Bein Series hd 1 +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beJUNIOR">
+    <display-name lang="en">Bein junior hd 1</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="fox_movies_hd">
+    <display-name lang="en">Fox movies hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="fox_movies_hd +2">
+    <display-name lang="en">Fox movies hd +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="fox_movies_hd +4">
+    <display-name lang="en">Fox movies hd +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="starmovieshd">
+    <display-name lang="en">Star movies hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="starw_orld_hd">
+    <display-name lang="en">Star world hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="fox_hd">
+    <display-name lang="en">Fox hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeo_hd">
+    <display-name lang="en">Natgeo HD (en)</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeo_hd +1">
+    <display-name lang="en">Natgeo HD (en) +1</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeo_hd +2">
+    <display-name lang="en">Natgeo HD (en) +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="NatGeoPeople_HD">
+    <display-name lang="en">NatGeo People HD (en)</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeowild_hd">
+    <display-name lang="en">natgeo wild HD (en)</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeowild_hd +1">
+    <display-name lang="en">natgeo wild HD (en) +1</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeowild_hd +2">
+    <display-name lang="en">natgeo wild HD (en) +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="natgeowild_hd +4">
+    <display-name lang="en">natgeo wild HD (en) +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="baby_tv">
+    <display-name lang="en">Baby tv</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="jeem">
+    <display-name lang="en">Jeem</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="baraem">
+    <display-name lang="en">Baraem</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="baraem +4">
+    <display-name lang="en">baraem +4</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="baraem +8">
+    <display-name lang="en">baraem +8</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN Gourmet">
+    <display-name lang="en">beIN Groummet HD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN Gourmet +1">
+    <display-name lang="en">beIN Groummet HD +1</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN Gourmet +2">
+    <display-name lang="en">beIN Groummet HD +2</display-name>
+    <url>http://www.bein.net</url>
+  </channel><channel id="BoxOffice_HD1">
+    <display-name lang="en">beIN BoxOffice HD1</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="DTX">
+    <display-name lang="en">beIN DTX HD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CBeebies">
+    <display-name lang="en">beIN BBC CBEEBIES</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="V_HD">
+    <display-name lang="en">V_HD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CNNHD">
+    <display-name lang="en">CNNHD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="TCM">
+    <display-name lang="en">TCM</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CartoonNetworkAR">
+    <display-name lang="en">CartoonNetworkAR</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CartoonNetworkHD">
+    <display-name lang="en">CartoonNetworkHD</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="HLN">
+    <display-name lang="en">HLN</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Boomerang">
+    <display-name lang="en">Boomerang</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="OSN Movies HD">
+    <display-name lang="en">OSN Movies HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OM1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies First HD">
+    <display-name lang="en">OSN Movies First HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OM1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies First HD +2h">
+    <display-name lang="en">OSN Movies First HD +2h</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Action HD">
+    <display-name lang="en">OSN Movies Action HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AHD.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Action HD +2">
+    <display-name lang="en">OSN Movies Action HD +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Action HD +4">
+    <display-name lang="en">OSN Movies Action HD +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Action HD +6">
+    <display-name lang="en">OSN Movies Action HD +6</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Action HD +8">
+    <display-name lang="en">OSN Movies Action HD +8</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Action +2">
+    <display-name lang="en">OSN Movies Action +2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies HD Premier">
+    <display-name lang="en">OSN Movies HD Premier</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OPR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies +2h">
+    <display-name lang="en">OSN Movies +2h</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OPX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Thriller HD">
+    <display-name lang="en">OSN Movies Thriller HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OCM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Thriller +2h">
+    <display-name lang="en">OSN Movies Thriller +2h</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OC2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Festival HD">
+    <display-name lang="en">OSN Movies Festival HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMF.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Kids HD">
+    <display-name lang="en">OSN Movies Kids HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMK.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Family HD">
+    <display-name lang="en">OSN Movies Family HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OFM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Family +2">
+    <display-name lang="en">OSN Movies Family +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Family +4">
+    <display-name lang="en">OSN Movies Family +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Comedy HD">
+    <display-name lang="en">OSN Movies Comedy HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Comedy HD +2">
+    <display-name lang="en">OSN Movies Comedy HD +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Comedy HD +4">
+    <display-name lang="en">OSN Movies Comedy HD +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Box Office 1 HD">
+    <display-name lang="en">OSN Movies Box Office 1 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BO1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Box Office 2">
+    <display-name lang="en">OSN Movies Box Office 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BO2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Movies Box Office 3">
+    <display-name lang="en">OSN Movies Box Office 3</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BO3.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sundance TV">
+    <display-name lang="en">Sundance TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SUN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Star Movies HD">
+    <display-name lang="en">Star Movies HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/STM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sony Max Middle East">
+    <display-name lang="en">Sony Max Middle East</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SEM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Star Gold">
+    <display-name lang="en">Star Gold</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/STG.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Zee Cinema">
+    <display-name lang="en">Zee Cinema</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ZEC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="UTV Movies">
+    <display-name lang="en">UTV Movies</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/UTM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Ya Hala Al Oula">
+    <display-name lang="en">OSN Ya Hala Al Oula</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OYH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Ya Hala Al Oula +2h">
+    <display-name lang="en">OSN Ya Hala Al Oula +2h</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OYX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Ya Hala HD">
+    <display-name lang="en">OSN Ya Hala HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OYA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Yahala Cinema HD">
+    <display-name lang="en">OSN Yahala Cinema HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OYC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Series Channel">
+    <display-name lang="en">Series Channel</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SER.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Series +2">
+    <display-name lang="en">Series +2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SE4.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Al Yawm">
+    <display-name lang="en">Al Yawm</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/YAW.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Al Safwa">
+    <display-name lang="en">Al Safwa</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SAF.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Fann">
+    <display-name lang="en">Fann</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FAN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 1">
+    <display-name lang="en">Cinema 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CM1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 1 +2">
+    <display-name lang="en">Cinema 1 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 1 +4">
+    <display-name lang="en">Cinema 1 +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 2">
+    <display-name lang="en">Cinema 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CM2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 2 +2">
+    <display-name lang="en">Cinema 2 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema 2 +4">
+    <display-name lang="en">Cinema 2 +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Music Now">
+    <display-name lang="en">Music Now</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NOW.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Hekayat">
+    <display-name lang="en">Hekayat</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/HK1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Hekayat 2">
+    <display-name lang="en">Hekayat 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/HK2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 1">
+    <display-name lang="en">ART Aflam 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AF1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 1 +2">
+    <display-name lang="en">ART Aflam 1 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 1 +4">
+    <display-name lang="en">ART Aflam 1 +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 2">
+    <display-name lang="en">ART Aflam 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AF2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 2 +2">
+    <display-name lang="en">ART Aflam 2 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Aflam 2 +4">
+    <display-name lang="en">ART Aflam 2 +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ART Cinema">
+    <display-name lang="en">ART Cinema</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ACM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="AD Drama + HD">
+    <display-name lang="en">AD Drama + HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ADH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Series First HD">
+    <display-name lang="en">OSN Series First HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OFH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN First HBO HD">
+    <display-name lang="en">OSN First HBO HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OFS.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Series HD">
+    <display-name lang="en">OSN Series HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OFX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Series Comedy HD">
+    <display-name lang="en">OSN Series Comedy HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OCO.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Series Comedy HD +2h">
+    <display-name lang="en">OSN Series Comedy HD +2h</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OCX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Comedy Central">
+    <display-name lang="en">Comedy Central</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CCE.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Syfy HD">
+    <display-name lang="en">Syfy HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SFY.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Star World HD">
+    <display-name lang="en">Star World HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/STW.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="TLC HD">
+    <display-name lang="en">TLC HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TLC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="E! Entertainment HD">
+    <display-name lang="en">E! Entertainment HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ETV.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="BBC First HD">
+    <display-name lang="en">BBC First HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BBE.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ITV Choice HD">
+    <display-name lang="en">ITV Choice HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GUK.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Food Network HD">
+    <display-name lang="en">Food Network HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FNH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Fine Living">
+    <display-name lang="en">Fine Living</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FIN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Fashion TV HD">
+    <display-name lang="en">Fashion TV HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FTH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Travel Channel">
+    <display-name lang="en">Travel Channel</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TRA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="\\u0026 TV">
+    <display-name lang="en">\\u0026 TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ATV.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Star Plus Middle East">
+    <display-name lang="en">Star Plus Middle East</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/STP.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Zee TV">
+    <display-name lang="en">Zee TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ZET.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="SET Middle East">
+    <display-name lang="en">SET Middle East</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SET.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Colors">
+    <display-name lang="en">Colors</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/COL.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Hum TV Middle East">
+    <display-name lang="en">Hum TV Middle East</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/HUM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Rishtey TV">
+    <display-name lang="en">Rishtey TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/RIS.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Life OK Middle East">
+    <display-name lang="en">Life OK Middle East</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/LIF.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sab TV">
+    <display-name lang="en">Sab TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SAB.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Ary Digital TV">
+    <display-name lang="en">Ary Digital TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ARY.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="GEO TV">
+    <display-name lang="en">GEO TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GEO.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Masala TV">
+    <display-name lang="en">Masala TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MAS.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Kiran TV">
+    <display-name lang="en">Kiran TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/KIR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Urdu 1">
+    <display-name lang="en">Urdu 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/URD.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sun TV">
+    <display-name lang="en">Sun TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/STV.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Star Vijay International">
+    <display-name lang="en">Star Vijay International</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SVI.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Asianet">
+    <display-name lang="en">Asianet</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ASN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Surya TV">
+    <display-name lang="en">Surya TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SUR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Udaya TV">
+    <display-name lang="en">Udaya TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/UDA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Gemini TV">
+    <display-name lang="en">Gemini TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GEM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Star Jalsha">
+    <display-name lang="en">Star Jalsha</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/STJ.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Star Pravah">
+    <display-name lang="en">Star Pravah</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SPR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MTV Live HD">
+    <display-name lang="en">MTV Live HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MTL.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="VH1">
+    <display-name lang="en">VH1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/VH1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Trace Urban">
+    <display-name lang="en">Trace Urban</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TRM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sony MIX">
+    <display-name lang="en">Sony MIX</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SMX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MTV India">
+    <display-name lang="en">MTV India</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MIN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Bindaas">
+    <display-name lang="en">Bindaas</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/UTV.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Disney HD">
+    <display-name lang="en">Disney HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DIS.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Disney XD">
+    <display-name lang="en">Disney XD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DXD.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DJR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Nickelodeon HD">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NIC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Nick Jr">
+    <display-name lang="en">Nick Jr</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NJR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="NickToons">
+    <display-name lang="en">NickToons</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NKT.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Kid Zone TV">
+    <display-name lang="en">OSN Kid Zone TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/KDZ.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Baby TV Europe">
+    <display-name lang="en">Baby TV Europe</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BAB.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN News">
+    <display-name lang="en">OSN News</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ONS.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sky News HD">
+    <display-name lang="en">Sky News HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SKH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="BBC World">
+    <display-name lang="en">BBC World</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BBW.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Fox News">
+    <display-name lang="en">Fox News</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FXN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="CNBC">
+    <display-name lang="en">CNBC</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CNB.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Bloomberg">
+    <display-name lang="en">Bloomberg</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BTV.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="CCTV News">
+    <display-name lang="en">CCTV News</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CT9.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="France 24 English">
+    <display-name lang="en">France 24 English</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FRE.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="NHK World TV">
+    <display-name lang="en">NHK World TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NHK.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Dunya News">
+    <display-name lang="en">Dunya News</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DUN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ARY News">
+    <display-name lang="en">ARY News</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AYN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Geo News">
+    <display-name lang="en">Geo News</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GON.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ABP News India">
+    <display-name lang="en">ABP News India</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ABP.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Aaj Tak">
+    <display-name lang="en">Aaj Tak</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ZEN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Times Now">
+    <display-name lang="en">Times Now</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TIM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="NDTV 24x7">
+    <display-name lang="en">NDTV 24x7</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NDT.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Asianet News">
+    <display-name lang="en">Asianet News</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ANN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sky News Arabia HD">
+    <display-name lang="en">Sky News Arabia HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SNH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Sky News Arabia">
+    <display-name lang="en">Sky News Arabia</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SNA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Alarabiya">
+    <display-name lang="en">Alarabiya</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ARH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="France 24">
+    <display-name lang="en">France 24</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FRA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="CCTV Arabic">
+    <display-name lang="en">CCTV Arabic</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CTA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Discovery HD">
+    <display-name lang="en">Discovery HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DSC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Discovery Family HD">
+    <display-name lang="en">Discovery Family HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DCF.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Discovery Science HD">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SCI.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="IDX HD">
+    <display-name lang="en">IDX HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DCX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="IDX HD +1">
+    <display-name lang="en">IDX HD +1</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="IDX HD +2">
+    <display-name lang="en">IDX HD +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="IDX HD +4">
+    <display-name lang="en">IDX HD +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Crime \\u0026 Investigation Network">
+    <display-name lang="en">Crime and Investigation Network</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CAI.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="History HD">
+    <display-name lang="en">History HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/HIS.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="H2 HD">
+    <display-name lang="en">H2 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/HI2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Animal Planet HD">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/APL.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Nat Geo HD">
+    <display-name lang="en">Nat Geo HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NGO.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Nat Geo Wild HD">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NHD.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Nat Geo People HD">
+    <display-name lang="en">Nat Geo People HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NAH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Sports Action 1 HD">
+    <display-name lang="en">OSN Sports Action 1 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SPH.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Sports Action 2 HD">
+    <display-name lang="en">OSN Sports Action 2 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Sports 3 HD">
+    <display-name lang="en">OSN Sports 3 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP3.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Sports 4 HD">
+    <display-name lang="en">OSN Sports 4 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP4.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Sports 5 HD">
+    <display-name lang="en">OSN Sports 5 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP5.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN WWE Network HD">
+    <display-name lang="en">OSN WWE Network HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/WWE.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Sports Cricket HD">
+    <display-name lang="en">OSN Sports Cricket HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CRI.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Ten Cricket International">
+    <display-name lang="en">Ten Cricket International</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TCR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="OSN Fight Network HD">
+    <display-name lang="en">OSN Fight Network HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FNW.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Fuel TV">
+    <display-name lang="en">Fuel TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FUE.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Ginx Esports TV HD">
+    <display-name lang="en">Ginx Esports TV HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GNX.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="AD Sports 3 HD">
+    <display-name lang="en">AD Sports 3 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD3.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="AD Sports 4 HD">
+    <display-name lang="en">AD Sports 4 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD4.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="AD Sports 5 HD">
+    <display-name lang="en">AD Sports 5 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD5.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="AD Sports 6 HD">
+    <display-name lang="en">AD Sports 6 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD6.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Edge Sport HD">
+    <display-name lang="en">Edge Sport HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD7.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Dubai Sports 4 HD">
+    <display-name lang="en">Dubai Sports 4 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DS5.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Dubai Sports 2 HD">
+    <display-name lang="en">Dubai Sports 2 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DH2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="TFC">
+    <display-name lang="en">TFC</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TFC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ABS-CBN Sports+Action">
+    <display-name lang="en">ABS-CBN Sports+Action</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BRO.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cinema One Global">
+    <display-name lang="en">Cinema One Global</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/COG.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="ANC">
+    <display-name lang="en">ANC</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ANC.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="DZMM Teleradyo">
+    <display-name lang="en">DZMM Teleradyo</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DZM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="DWRR 101.9">
+    <display-name lang="en">DWRR 101.9</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DWR.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Viva TV">
+    <display-name lang="en">Viva TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/VIV.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Kapatid TV5">
+    <display-name lang="en">Kapatid TV5</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TV5.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Aksyon TV">
+    <display-name lang="en">Aksyon TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AKS.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Cine Mo">
+    <display-name lang="en">Cine Mo</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CIN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Lifestyle Network">
+    <display-name lang="en">Lifestyle Network</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/LSN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="GMA Pinoy TV">
+    <display-name lang="en">GMA Pinoy TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GMA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="GMA Life TV">
+    <display-name lang="en">GMA Life TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GML.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="GMA News TV">
+    <display-name lang="en">GMA News TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GMN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 1">
+    <display-name lang="en">MBC 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 1 +2">
+    <display-name lang="en">MBC 1 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 1 +4">
+    <display-name lang="en">MBC 1 +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 1 +8">
+    <display-name lang="en">MBC 1 +8</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 4">
+    <display-name lang="en">MBC 4</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH4.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 4 +2">
+    <display-name lang="en">MBC 4 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 4 +4">
+    <display-name lang="en">MBC 4 +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 4 +8">
+    <display-name lang="en">MBC 4 +8</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Drama">
+    <display-name lang="en">MBC Drama</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHD.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Drama +2">
+    <display-name lang="en">MBC Drama +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Drama +4">
+    <display-name lang="en">MBC Drama +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Drama +8">
+    <display-name lang="en">MBC Drama +8</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 2">
+    <display-name lang="en">MBC 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 2 +2">
+    <display-name lang="en">MBC 2 +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 2 +4">
+    <display-name lang="en">MBC 2 +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 2 +8">
+    <display-name lang="en">MBC 2 +8</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC MAX">
+    <display-name lang="en">MBC MAX</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC MAX +2">
+    <display-name lang="en">MBC MAX +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC MAX +4">
+    <display-name lang="en">MBC MAX +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC MAX +8">
+    <display-name lang="en">MBC MAX +8</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Action">
+    <display-name lang="en">MBC Action</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Action +2">
+    <display-name lang="en">MBC Action +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Action +4">
+    <display-name lang="en">MBC Action +4</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Action +8">
+    <display-name lang="en">MBC Action +8</display-name>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Setanta">
+    <display-name lang="en">Setanta</display-name>
+    <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/Setanta.png"/>
+    <url>http://www.eirsport.ie</url>
+  </channel><channel id=".kazer.org">
 <display-name>13EME RUE HD</display-name>
 </channel><channel id="2BE1.kazer.org">
 <display-name>2BE</display-name>
