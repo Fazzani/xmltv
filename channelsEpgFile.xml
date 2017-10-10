@@ -1990,7 +1990,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="beJUNIOR">
     <display-name lang="en">Bein junior hd 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
   </channel><channel id="fox_movies_hd">
     <display-name lang="en">Fox movies hd</display-name>
