@@ -27,6 +27,10 @@
     <display-name lang="it">Italia 1 HD</display-name>
     <icon src="http://www.mediaset.it/include/img/loghi/I1.png"/>
     <url>http://www.mediaset.it</url>
+  </channel><channel id="Italia 2">
+    <display-name lang="it">Italia 2</display-name>
+    <icon src="http://www.mediaset.it/include/img/loghi/I2.png"/>
+    <url>http://www.mediaset.it</url>
   </channel><channel id="Rsi La1 HD">
     <display-name lang="de">Rsi La1 HD</display-name>
     <url>http://www.horizon.tv</url>
@@ -36,6 +40,16 @@
   </channel><channel id="LA7">
     <display-name lang="it">LA7</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24064_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="TV 8">
+    <display-name lang="it">TV 8</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Nove HD">
+    <display-name lang="it">Nove HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Top Crime">
+    <display-name lang="it">Top Crime</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24031_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Mediaset Extra">
     <display-name lang="it">Mediaset Extra</display-name>
@@ -49,16 +63,13 @@
     <display-name lang="it">Iris</display-name>
     <icon src="http://www.mediaset.it/include/img/loghi/KI.png"/>
     <url>http://www.mediaset.it</url>
-  </channel><channel id="SportItalia">
-    <display-name lang="it">SportItalia</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8793_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Rai Sport 1 HD">
     <display-name lang="it">Rai Sport 1 HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/807_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Rai Sport 2 HD">
     <display-name lang="it">Rai Sport 2 HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6612_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Rai Premium HD">
     <display-name lang="it">Rai Premium HD</display-name>
@@ -86,7 +97,7 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="LaEffe">
     <display-name lang="it">LaEffe</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23838_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8128_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="La3">
     <display-name lang="it">La3</display-name>
@@ -157,23 +168,19 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky TG24">
     <display-name lang="it">Sky TG24</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/22943_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="SKY 3D HD">
-    <display-name lang="it">SKY 3D HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6781_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/362_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Uno HD">
     <display-name lang="it">Sky Uno HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/30073_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9217_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Uno +1">
     <display-name lang="it">Sky Uno +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/30085_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/120_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="SKY CLASSICA HD">
     <display-name lang="it">SKY CLASSICA HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24875_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8007_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Atlantic HD">
     <display-name lang="it">Sky Atlantic HD</display-name>
@@ -219,9 +226,9 @@
     <display-name lang="it">Sky Fox Animation HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8853_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky CrimeInvestigation HD">
-    <display-name lang="it">Sky CrimeInvestigation HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27646_home.png"/>
+  </channel><channel id="CI Crime+Investigation HD">
+    <display-name lang="it">CI Crime+Investigation HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8336_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky AXN">
     <display-name lang="it">Sky AXN</display-name>
@@ -245,16 +252,17 @@
     <display-name lang="it">Sky motoGP superHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8434_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Bike Channel HD">
-    <display-name lang="it">Bike Channel HD</display-name>
+  </channel><channel id="Bike Channel">
+    <display-name lang="it">Bike Channel</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9253_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Eurosport 1">
     <display-name lang="it">Eurosport 1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/22686_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/307_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Eurosport 2">
     <display-name lang="it">Eurosport 2</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/22687_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/391_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Sport 24 HD">
     <display-name lang="it">Sky Sport 24 HD</display-name>
@@ -306,9 +314,11 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Eurosport 1 Italia">
     <display-name lang="it">Eurosport 1 Italia</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/307_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Eurosport 2 Italia">
     <display-name lang="it">Eurosport 2 Italia</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/391_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Calcio 1 HD">
     <display-name lang="it">Sky Calcio 1 HD</display-name>
@@ -330,8 +340,8 @@
     <display-name lang="it">Sky Calcio 4 HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8715_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 5 sd">
-    <display-name lang="it">Sky Calcio 5 sd</display-name>
+  </channel><channel id="Sky Calcio 5 HD">
+    <display-name lang="it">Sky Calcio 5 HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8634_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Calcio 6 sd">
@@ -368,11 +378,11 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Milan Channel">
     <display-name lang="it">Milan Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/322_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9513_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Juventus Channel">
     <display-name lang="it">Juventus Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/20858_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9193_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Inter Channel">
     <display-name lang="it">Inter Channel</display-name>
@@ -380,7 +390,7 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Roma Channel">
     <display-name lang="it">Roma Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/478_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9194_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Lazio Style Channel">
     <display-name lang="it">Lazio Style Channel</display-name>
@@ -388,6 +398,7 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky arte hd">
     <display-name lang="it">Sky arte hd</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8193_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Discovery Channel HD">
     <display-name lang="it">Sky Discovery Channel HD</display-name>
@@ -427,7 +438,7 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Dmax">
     <display-name lang="it">Dmax</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8129_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8933_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Real Time HD">
     <display-name lang="it">Real Time HD</display-name>
@@ -435,11 +446,11 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Caccia e Pesca">
     <display-name lang="it">Sky Caccia e Pesca</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23750_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23731_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Pesca e Caccia">
     <display-name lang="it">Sky Pesca e Caccia</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23731_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23750_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Cielo">
     <display-name lang="it">Cielo</display-name>
@@ -521,6 +532,10 @@
     <display-name lang="it">K2</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6240_home.png"/>
     <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Boomerang">
+    <display-name lang="it">Boomerang</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/472_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Premium Cinema HD">
     <display-name lang="it">Premium Cinema HD</display-name>
     <url>http://www.mediasetpremium.it</url>
@@ -542,6 +557,12 @@
   </channel><channel id="Premium Cinema Comedy">
     <display-name lang="it">Premium Cinema Comedy</display-name>
     <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Investigation Discovery">
+    <display-name lang="it">Premium Investigation Discovery</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Studio Universal">
+    <display-name lang="it">Studio Universal</display-name>
+    <url>http://www.mediasetpremium.it</url>
   </channel><channel id="Paramount Channel">
     <display-name lang="it">Paramount Channel</display-name>
     <url>http://www.mediasetpremium.it</url>
@@ -562,6 +583,9 @@
     <url>http://www.mediasetpremium.it</url>
   </channel><channel id="Premium Sport superHD">
     <display-name lang="it">Premium Sport superHD</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel><channel id="Premium Sport 2 HD">
+    <display-name lang="it">Premium Sport 2 HD</display-name>
     <url>http://www.mediasetpremium.it</url>
   </channel><channel id="Premium Calcio 1">
     <display-name lang="it">Premium Calcio 1</display-name>
