@@ -37,16 +37,22 @@
   </channel><channel id="Rsi La2 HD">
     <display-name lang="de">Rsi La2 HD</display-name>
     <url>http://www.horizon.tv</url>
+  </channel><channel id="La 5">
+    <display-name lang="it">La 5</display-name>
+    <url>http://www.staseraintv.com</url>
   </channel><channel id="LA7">
     <display-name lang="it">LA7</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24064_home.png"/>
     <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="LA7 D">
+    <display-name lang="it">LA7 D</display-name>
+    <url>http://www.staseraintv.com</url>
   </channel><channel id="TV 8">
     <display-name lang="it">TV 8</display-name>
-    <url>http://www.guidatv.sky.it</url>
+    <url>http://www.staseraintv.com</url>
   </channel><channel id="Nove HD">
     <display-name lang="it">Nove HD</display-name>
-    <url>http://www.guidatv.sky.it</url>
+    <url>http://www.staseraintv.com</url>
   </channel><channel id="Top Crime">
     <display-name lang="it">Top Crime</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24031_home.png"/>
@@ -170,6 +176,12 @@
     <display-name lang="it">Sky TG24</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/362_home.png"/>
     <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="TGcom 24">
+    <display-name lang="it">TGcom 24</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel><channel id="Rai News 24">
+    <display-name lang="it">Rai News 24</display-name>
+    <url>http://www.laguidatv.it</url>
   </channel><channel id="Sky Uno HD">
     <display-name lang="it">Sky Uno HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9217_home.png"/>
@@ -376,6 +388,10 @@
     <display-name lang="it">Sky Calcio 13 sd</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/619_home.png"/>
     <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Super Tennis HD">
+    <display-name lang="it">Super Tennis HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/25900_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Milan Channel">
     <display-name lang="it">Milan Channel</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9513_home.png"/>
@@ -464,6 +480,26 @@
     <display-name lang="it">Gambero Rosso</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/524_home.png"/>
     <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Alice">
+    <display-name lang="en">Alice</display-name>
+    <url>http://www.italiasmart.tv</url>
+  </channel><channel id="Marcopolo">
+    <display-name lang="en">Marcopolo</display-name>
+    <url>http://www.italiasmart.tv</url>
+  </channel><channel id="Dove TV">
+    <display-name lang="it">Dove TV</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6360_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Cielo HD">
+    <display-name lang="it">Cielo HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24560_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Rai Gulp HD">
+    <display-name lang="it">Rai Gulp HD</display-name>
+    <url>http://www.rai.it</url>
+  </channel><channel id="Rai YoYo HD">
+    <display-name lang="it">Rai YoYo HD</display-name>
+    <url>http://www.rai.it</url>
   </channel><channel id="Cartoon Network">
     <display-name lang="it">Cartoon Network</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27420_home.png"/>
