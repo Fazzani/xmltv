@@ -106,8 +106,8 @@
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8128_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="La3">
-    <display-name lang="it">La3</display-name>
-    <url>http://www.guidatv.sky.it</url>
+    <display-name lang="fr">La3</display-name>
+    <url>http://www.programmi-tv.eu</url>
   </channel><channel id="Sky Cinema 1 HD">
     <display-name lang="it">Sky Cinema 1 HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/101_home.png"/>
@@ -177,11 +177,11 @@
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/362_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="TGcom 24">
-    <display-name lang="it">TGcom 24</display-name>
-    <url>http://www.laguidatv.it</url>
+    <display-name lang="fr">TGcom 24</display-name>
+    <url>http://www.programmi-tv.eu</url>
   </channel><channel id="Rai News 24">
-    <display-name lang="it">Rai News 24</display-name>
-    <url>http://www.laguidatv.it</url>
+    <display-name lang="fr">Rai News 24</display-name>
+    <url>http://www.programmi-tv.eu</url>
   </channel><channel id="Sky Uno HD">
     <display-name lang="it">Sky Uno HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9217_home.png"/>
@@ -2029,7 +2029,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="movieshd3">
     <display-name lang="en">Bein movies 3 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
     <url>http://www.bein.net</url>
   </channel><channel id="Bein movies 3 hd +2">
     <display-name lang="en">Bein movies 3 hd +2</display-name>
