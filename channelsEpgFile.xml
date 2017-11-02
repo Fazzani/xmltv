@@ -2049,7 +2049,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="serieshd1">
     <display-name lang="en">Bein Series hd 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2017"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
   </channel><channel id="serieshd1 +2">
     <display-name lang="en">Bein Series hd 1 +2</display-name>
