@@ -2060,7 +2060,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="fox_movies_hd">
     <display-name lang="en">Fox movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
   </channel><channel id="fox_movies_hd +2">
     <display-name lang="en">Fox movies hd +2</display-name>
