@@ -2039,7 +2039,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="movieshd4">
     <display-name lang="en">Bein movies 4 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="Bein movies 4 hd +2">
     <display-name lang="en">Bein movies 4 hd +2</display-name>
@@ -2056,11 +2056,11 @@
     <url>http://www.bein.net</url>
   </channel><channel id="beJUNIOR">
     <display-name lang="en">Bein junior hd 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="fox_movies_hd">
     <display-name lang="en">Fox movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="fox_movies_hd +2">
     <display-name lang="en">Fox movies hd +2</display-name>
@@ -2070,19 +2070,19 @@
     <url>http://www.bein.net</url>
   </channel><channel id="starmovieshd">
     <display-name lang="en">Star movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="starw_orld_hd">
     <display-name lang="en">Star world hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="fox_hd">
     <display-name lang="en">Fox hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="natgeo_hd">
     <display-name lang="en">Natgeo HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="natgeo_hd +1">
     <display-name lang="en">Natgeo HD (en) +1</display-name>
@@ -2092,11 +2092,11 @@
     <url>http://www.bein.net</url>
   </channel><channel id="NatGeoPeople_HD">
     <display-name lang="en">NatGeo People HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="natgeowild_hd">
     <display-name lang="en">natgeo wild HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="natgeowild_hd +1">
     <display-name lang="en">natgeo wild HD (en) +1</display-name>
@@ -2109,15 +2109,15 @@
     <url>http://www.bein.net</url>
   </channel><channel id="baby_tv">
     <display-name lang="en">Baby tv</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="jeem">
     <display-name lang="en">Jeem</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="baraem">
     <display-name lang="en">Baraem</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="baraem +4">
     <display-name lang="en">baraem +4</display-name>
@@ -2127,7 +2127,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="beIN Gourmet">
     <display-name lang="en">beIN Groummet HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="beIN Gourmet +1">
     <display-name lang="en">beIN Groummet HD +1</display-name>
@@ -2137,43 +2137,43 @@
     <url>http://www.bein.net</url>
   </channel><channel id="BoxOffice_HD1">
     <display-name lang="en">beIN BoxOffice HD1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="DTX">
     <display-name lang="en">beIN DTX HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="CBeebies">
     <display-name lang="en">beIN BBC CBEEBIES</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="V_HD">
     <display-name lang="en">V_HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="CNNHD">
     <display-name lang="en">CNNHD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="TCM">
     <display-name lang="en">TCM</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="CartoonNetworkAR">
     <display-name lang="en">CartoonNetworkAR</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="CartoonNetworkHD">
     <display-name lang="en">CartoonNetworkHD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="HLN">
     <display-name lang="en">HLN</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="Boomerang">
     <display-name lang="en">Boomerang</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="OSN Movies HD">
     <display-name lang="en">OSN Movies HD</display-name>
