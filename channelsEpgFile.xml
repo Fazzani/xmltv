@@ -1149,6 +1149,10 @@
     <display-name lang="fr">FRANCE 3</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_543.PNG"/>
     <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE 4">
+    <display-name lang="fr">FRANCE 4</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"/>
+    <url>http://www.canalsat.fr</url>
   </channel><channel id="FRANCE 5">
     <display-name lang="fr">FRANCE 5</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_545.PNG"/>
@@ -1257,10 +1261,6 @@
     <display-name lang="fr">DORA TV</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_185.PNG"/>
     <url>http://www.canalsat.fr</url>
-  </channel><channel id="FRANCE 4">
-    <display-name lang="fr">FRANCE 4</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"/>
-    <url>http://www.canalsat.fr</url>
   </channel><channel id="CSTAR">
     <display-name lang="fr">CSTAR</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_513.PNG"/>
@@ -1309,6 +1309,10 @@
     <display-name lang="fr">LCI</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_553.PNG"/>
     <url>http://www.canalsat.fr</url>
+  </channel><channel id="SYFY">
+    <display-name lang="fr">SYFY</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
+    <url>http://www.canalsat.fr</url>
   </channel><channel id="VOYAGE HD">
     <display-name lang="fr">VOYAGE HD</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_477.PNG"/>
@@ -1351,6 +1355,14 @@
   </channel><channel id="LA CHAINE METEO">
     <display-name lang="fr">LA CHAINE METEO</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NATIONAL GEO">
+    <display-name lang="fr">NAT GEO fr</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_201.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NAT GEO WILD">
+    <display-name lang="fr">NAT GEO WILD fr</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_290.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="BEIN SPORTS 1">
     <display-name lang="fr">BEIN SPORTS 1 (fr)</display-name>
@@ -1452,6 +1464,25 @@
     <display-name lang="fr">GULLI</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_549.PNG"/>
     <url>http://www.canalsat.fr</url>
+  </channel><channel id="GOLF+">
+    <display-name lang="fr">GOLF+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_378.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="EXTREME SPORTS">
+    <display-name lang="fr">EXTREME SPORTS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_541.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MOTORSPORT TV">
+    <display-name lang="fr">MOTORSPORT TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_561.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="L'EQUIPE">
+    <display-name lang="fr">L'EQUIPE</display-name>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FOOT+ 24/24">
+    <display-name lang="fr">FOOT+ 24/24</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_542.PNG"/>
+    <url>http://www.canalsat.fr</url>
   </channel><channel id="6ter">
     <display-name lang="fr">6ter</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
@@ -1484,9 +1515,6 @@
     <display-name lang="fr">La Cha&#xEE;ne parlementaire</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
-  </channel><channel id="L'Equipe">
-    <display-name lang="fr">L'Equipe</display-name>
-    <url>http://www.telerama.fr</url>
   </channel><channel id="NRJ 12">
     <display-name lang="fr">NRJ 12</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
@@ -1501,6 +1529,10 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="RMC Découverte">
     <display-name lang="fr">RMC D&#xE9;couverte</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <url>http://www.telerama.fr</url>
+  </channel><channel id="Canal+ Séries">
+    <display-name lang="fr">Canal+ S&#xE9;ries</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TMC">
@@ -1524,7 +1556,7 @@
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Polar">
-    <display-name lang="fr">Polar</display-name>
+    <display-name lang="fr">Cin&#xE9;+ Polar</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Ciné+ Club">
@@ -1584,11 +1616,11 @@
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Discovery Channel">
-    <display-name lang="fr">Discovery Channel</display-name>
+    <display-name lang="fr">Discovery Channel fr</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Discovery Science">
-    <display-name lang="fr">Discovery Science</display-name>
+    <display-name lang="fr">Discovery Science fr</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Equidia Life">
@@ -1597,10 +1629,6 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="Equidia Live">
     <display-name lang="fr">Equidia Live</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
-    <url>http://www.telerama.fr</url>
-  </channel><channel id="National Geographic">
-    <display-name lang="fr">National Geographic fr</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Science &amp; Vie TV">
@@ -2039,7 +2067,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="movieshd4">
     <display-name lang="en">Bein movies 4 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
   </channel><channel id="Bein movies 4 hd +2">
     <display-name lang="en">Bein movies 4 hd +2</display-name>
