@@ -1934,7 +1934,8 @@
     <icon src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"/>
     <url>http://www.watania.tn</url>
   </channel><channel id="HD1">
-    <display-name lang="en">Bein sports 1 hd</display-name>
+    <display-name lang="en">beIN sports 1 hd</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="HD2">
     <display-name lang="en">beIN sports 2 hd</display-name>
