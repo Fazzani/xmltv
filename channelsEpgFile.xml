@@ -2039,10 +2039,12 @@
     <display-name lang="en">Bein movies 3</display-name>
     <url>http://www.bein.net</url>
   </channel><channel id="MoviesHD4">
-    <display-name lang="en">Bein movies 4</display-name>
+    <display-name lang="en">beIN movies 4</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
   </channel><channel id="SeriesHD1">
-    <display-name lang="en">Bein Series 1</display-name>
+    <display-name lang="en">beIN Series 1</display-name>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
   </channel><channel id="SeriesHD2">
     <display-name lang="en">beIN Series 2</display-name>
