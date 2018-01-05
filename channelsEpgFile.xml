@@ -2080,7 +2080,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="Baby_TV">
     <display-name lang="en">Baby tv</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg"/>
+    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
   </channel><channel id="Jeem">
     <display-name lang="en">Jeem</display-name>
