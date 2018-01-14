@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.kazer.org/xmltv.dtd">
 <tv generator-info-name="KaZeR's XMLTV" generator-info-url="http://www.kazer.org">
-<!-- offset : 1, DST : 1 -> +0100 , d = 0 u=1 2018-01-10 06:03:02 1515560582 1515301382 259200-->
+<!-- offset : 1, DST : 1 -> +0100 , d = 0 u=1 2018-01-14 06:03:01 1515906181 1515560582 345599-->
 <channel id=".kazer.org">
 <display-name>13EME RUE HD</display-name>
 </channel>
@@ -1237,52 +1237,4 @@
 <channel id="ZDF1.kazer.org">
 <display-name>ZDF</display-name>
 </channel>
-<programme start="20180109100000 +0100" stop="20180109120000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993968 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
-<programme start="20180109120000 +0100" stop="20180109140000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993969 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
-<programme start="20180109140000 +0100" stop="20180109160000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993970 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
-<programme start="20180109160000 +0100" stop="20180109180000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993971 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
-<programme start="20180109180000 +0100" stop="20180109200000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993972 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
-<programme start="20180109200000 +0100" stop="20180109220000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993973 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
-<programme start="20180109220000 +0100" stop="20180110000000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993974 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
-<programme start="20180110000000 +0100" stop="20180110020000 +0100" channel="RTI1.kazer.org">
-                <!-- pid = 993975 -->
-                <title>La télévision ivoirienne pour tous </title>
-		<category lang="fr"></category>
-                <length units="minutes">0</length>
-        </programme>
 </tv>
