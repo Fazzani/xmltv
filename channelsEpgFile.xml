@@ -2489,6 +2489,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="Nick Jr">
     <display-name lang="en">Nick Jr</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NJR.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="NickToons">
     <display-name lang="en">NickToons</display-name>
