@@ -2575,6 +2575,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="Discovery Science HD">
     <display-name lang="en">Discovery Science HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SCI.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="IDX HD">
     <display-name lang="en">IDX HD</display-name>
