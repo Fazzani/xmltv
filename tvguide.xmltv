@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.kazer.org/xmltv.dtd">
 <tv generator-info-name="KaZeR's XMLTV" generator-info-url="http://www.kazer.org">
-<!-- offset : 1, DST : 1 -> +0200 , d = 1 u=1 2018-03-28 04:03:01 1522209781 1521943381 266400-->
+<!-- offset : 1, DST : 1 -> +0200 , d = 1 u=1 2018-04-01 04:03:01 1522555381 1522202581 352800-->
 <channel id=".kazer.org">
 <display-name>13EME RUE HD</display-name>
 </channel>
