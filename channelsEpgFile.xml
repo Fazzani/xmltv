@@ -630,11 +630,11 @@
     <url>http://www.tv.orange.fr</url>
   </channel><channel id="SCIENCE et VIE TV">
     <display-name lang="fr">SCIENCE et VIE TV</display-name>
-    <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F26c%2F04a%2Ffae1085cad337ab8b3a6c6b7e5%2Fsc-et-vie%7Cclair_63.png?facedetect=1&amp;quality=85"/>
+    <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F26c%2F04a%2Ffae1085cad337ab8b3a6c6b7e5%2Fscience-vie-tv%7Cclair_63.png?facedetect=1&amp;quality=85"/>
     <url>http://www.tv.orange.fr</url>
   </channel><channel id="CHASSE PECHE">
     <display-name lang="fr">CHASSE PECHE</display-name>
-    <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F860%2F2fe%2Ff551bf0006cc126ad5028d31ad%2Fch-peche%7Cclair_38.png?facedetect=1&amp;quality=85"/>
+    <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F860%2F2fe%2Ff551bf0006cc126ad5028d31ad%2Fchasse-peche%7Cclair_38.png?facedetect=1&amp;quality=85"/>
     <url>http://www.tv.orange.fr</url>
   </channel><channel id="Future TV">
     <display-name lang="ar">Future TV</display-name>
