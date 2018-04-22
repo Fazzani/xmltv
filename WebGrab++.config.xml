@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <settings>
-   <filename>test.xmltv</filename>
+   <filename>/data/guide.xmltv</filename>
   <mode>m</mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <logging>on</logging>
