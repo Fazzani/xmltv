@@ -9,6 +9,6 @@
   <update>i</update>
 
  <channel update="i" site="bein.net" site_id="mena_sports/hd1" xmltv_id="hd1">Bein sports 1 hd</channel>
- <channel update="i" site="bein.net" site_id="mena_sports/hd2" xmltv_id="hd2">Bein sports 2 hd</channel>
+ <channel update="i" site="bein.net" site_id="mena_sports/hd3" xmltv_id="hd2">Bein sports 3 hd</channel>
 
 </settings>
