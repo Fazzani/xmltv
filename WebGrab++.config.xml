@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <settings>
-   <filename>test.xmltv</filename>
+   <filename>/data/guide.xmltv</filename>
   <mode>m</mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <logging>on</logging>
@@ -8,7 +8,7 @@
   <timespan>1</timespan>
   <update>i</update>
 
- <channel update="i" site="bein.net" site_id="mena_sports/hd1" xmltv_id="hd1">Bein sports 1 hd</channel>
  <channel update="i" site="bein.net" site_id="mena_sports/hd2" xmltv_id="hd2">Bein sports 2 hd</channel>
+ <channel update="i" site="bein.net" site_id="mena_sports/hd3" xmltv_id="hd3">Bein sports 3 hd</channel>
 
 </settings>
