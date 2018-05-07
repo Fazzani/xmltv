@@ -2706,12 +2706,15 @@
     <url>http://www.osn.com</url>
   </channel><channel id="MBC 4">
     <display-name lang="en">MBC 4</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH4.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC Drama">
     <display-name lang="en">MBC Drama</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHD.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC 2">
     <display-name lang="en">MBC 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH2.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC MAX">
     <display-name lang="en">MBC MAX</display-name>
@@ -2719,6 +2722,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="MBC Action">
     <display-name lang="en">MBC Action</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHA.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="Setanta">
     <display-name lang="en">Setanta</display-name>
