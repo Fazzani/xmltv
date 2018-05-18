@@ -2638,15 +2638,19 @@
     <url>http://www.osn.com</url>
   </channel><channel id="AD Sports 3 HD">
     <display-name lang="en">AD Sports 3 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD3.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="AD Sports 4 HD">
     <display-name lang="en">AD Sports 4 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD4.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="AD Sports 5 HD">
     <display-name lang="en">AD Sports 5 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD5.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="AD Sports 6 HD">
     <display-name lang="en">AD Sports 6 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AD6.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="Edge Sport HD">
     <display-name lang="en">Edge Sport HD</display-name>
