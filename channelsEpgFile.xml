@@ -2732,10 +2732,6 @@
     <display-name lang="en">Setanta</display-name>
     <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/Setanta.png"/>
     <url>http://www.eirsport.ie</url>
-  </channel><channel id="D8">
-    <display-name lang="fr">D8</display-name>
-    <icon src="http://media1.woopic.com/api/v1/images/201%2Fchannel%2F295%2F71e%2F0b94af0a2f62a15142d5f9ec0b%2Fc8%7Cclair_445.png?facedetect=1&amp;quality=85"/>
-    <url>http://www.tv.orange.fr</url>
   </channel><channel id=".kazer.org">
 <display-name>13EME RUE HD</display-name>
 </channel><channel id="2BE1.kazer.org">
