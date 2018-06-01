@@ -2542,6 +2542,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="Aaj Tak">
     <display-name lang="en">Aaj Tak</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ZEN.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="Times Now">
     <display-name lang="en">Times Now</display-name>
