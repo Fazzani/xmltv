@@ -2306,6 +2306,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="Al Safwa">
     <display-name lang="en">Al Safwa</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SAF.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="Fann">
     <display-name lang="en">Fann</display-name>
