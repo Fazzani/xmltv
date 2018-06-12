@@ -2045,6 +2045,22 @@
     <display-name lang="en">beIN movies 4</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
+  </channel><channel id="max1">
+    <display-name lang="en">max1</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="max2">
+    <display-name lang="en">max2</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="max3">
+    <display-name lang="en">max3</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="max4">
+    <display-name lang="en">max4</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
+    <url>http://www.bein.net</url>
   </channel><channel id="SeriesHD1">
     <display-name lang="en">beIN Series 1</display-name>
     <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
@@ -2606,18 +2622,23 @@
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Sports Action 1 HD">
     <display-name lang="en">OSN Sports Action 1 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SPH.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Sports Action 2 HD">
     <display-name lang="en">OSN Sports Action 2 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP2.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Sports 3 HD">
     <display-name lang="en">OSN Sports 3 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP3.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Sports 4 HD">
     <display-name lang="en">OSN Sports 4 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP4.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Sports 5 HD">
     <display-name lang="en">OSN Sports 5 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SP5.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN WWE Network HD">
     <display-name lang="en">OSN WWE Network HD</display-name>
