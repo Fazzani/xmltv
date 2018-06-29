@@ -1479,27 +1479,27 @@
     <url>http://www.canalsat.fr</url>
   </channel><channel id="6ter">
     <display-name lang="fr">6ter</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Chérie 25">
     <display-name lang="fr">Ch&#xE9;rie 25</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="C8">
     <display-name lang="fr">C8</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="CSTAR">
     <display-name lang="fr">CSTAR</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="France Ô">
     <display-name lang="fr">France &#xD4;</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Franceinfo">
     <display-name lang="fr">Franceinfo</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="HD1">
     <display-name lang="fr">HD1</display-name>
@@ -1507,11 +1507,11 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="La Chaîne parlementaire">
     <display-name lang="fr">La Cha&#xEE;ne parlementaire</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="NRJ 12">
     <display-name lang="fr">NRJ 12</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="NT 1">
     <display-name lang="fr">NT 1</display-name>
@@ -1519,51 +1519,51 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="Numéro 23">
     <display-name lang="fr">Num&#xE9;ro 23</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="RMC Découverte">
     <display-name lang="fr">RMC D&#xE9;couverte</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Canal+ Séries">
     <display-name lang="fr">Canal+ S&#xE9;ries</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TMC">
     <display-name lang="fr">TMC</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="W9">
     <display-name lang="fr">W9</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="IDF1">
     <display-name lang="fr">IDF1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Action">
     <display-name lang="fr">Action</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Ciné FX">
     <display-name lang="fr">Cin&#xE9; FX</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Polar">
     <display-name lang="fr">Cin&#xE9;+ Polar</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Ciné+ Club">
     <display-name lang="fr">Cin&#xE9;+ Club</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Paramount Channel">
     <display-name lang="fr">Paramount Channel</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TCM Cinéma">
     <display-name lang="fr">TCM Cin&#xE9;ma</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="13e Rue">
     <display-name lang="fr">13e Rue</display-name>
@@ -1571,11 +1571,11 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="AB 1">
     <display-name lang="fr">AB 1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="AB 3">
     <display-name lang="fr">AB 3</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="AB 4">
     <display-name lang="fr">AB 4</display-name>
@@ -1583,43 +1583,43 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="E !">
     <display-name lang="fr">E! (fr)</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Paris Première">
     <display-name lang="fr">Paris Premi&#xE8;re</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="RTL 9">
     <display-name lang="fr">RTL 9</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="serieclub">
     <display-name lang="fr">s&#xE9;rie club</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Téva">
     <display-name lang="fr">T&#xE9;va</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TvBreizh">
     <display-name lang="fr">TvBreizh</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Chasse et pêche">
     <display-name lang="fr">Chasse et p&#xEA;che</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Discovery Channel">
     <display-name lang="fr">Discovery Channel fr</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Discovery Science">
     <display-name lang="fr">Discovery Science fr</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Equidia Life">
     <display-name lang="fr">Equidia Life</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Equidia Live">
     <display-name lang="fr">Equidia Live</display-name>
@@ -1627,47 +1627,47 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="Science &amp; Vie TV">
     <display-name lang="fr">Science &amp; Vie TV</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Eurosport 1">
     <display-name lang="fr">Eurosport 1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Eurosport 2">
     <display-name lang="fr">Eurosport 2</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Extreme Sports Channel">
     <display-name lang="fr">Extreme Sports Channel</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Infosport+">
     <display-name lang="fr">Infosport+</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Motorsport TV">
     <display-name lang="fr">Motorsport TV</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="OLTV">
     <display-name lang="fr">OLTV</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="OMTV">
     <display-name lang="fr">OMTV</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Onzéo">
     <display-name lang="fr">Onz&#xE9;o</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="SFR Sport 1">
     <display-name lang="fr">SFR Sport 1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="SFR Sport 2">
     <display-name lang="fr">SFR Sport 2</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="SFR Sport 3">
     <display-name lang="fr">SFR Sport 3</display-name>
@@ -1675,255 +1675,255 @@
     <url>http://www.telerama.fr</url>
   </channel><channel id="SFR Sport 4K">
     <display-name lang="fr">SFR Sport 4K</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="SFR Sport 5">
     <display-name lang="fr">SFR Sport 5</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Canal J">
     <display-name lang="fr">Canal J</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Disney Channel +1">
     <display-name lang="fr">Disney Channel +1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Disney Cinema">
     <display-name lang="fr">Disney Cinema</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Disney Junior">
     <display-name lang="fr">Disney Junior</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Game One">
     <display-name lang="fr">Game One</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="ElleGirl">
     <display-name lang="fr">ElleGirl</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Mangas">
     <display-name lang="fr">Mangas</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TéléToon+1">
     <display-name lang="fr">T&#xE9;l&#xE9;Toon+1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="M6 Music">
     <display-name lang="fr">M6 Music</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="MCM">
     <display-name lang="fr">MCM</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="RFM TV">
     <display-name lang="fr">RFM TV</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="MCM Top">
     <display-name lang="fr">MCM Top</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Melody">
     <display-name lang="fr">Melody</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Mezzo">
     <display-name lang="fr">Mezzo</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Mezzo Live HD">
     <display-name lang="fr">Mezzo Live HD</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="MTV">
     <display-name lang="fr">MTV</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="MTV Rocks">
     <display-name lang="fr">MTV Rocks</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="MTV Base">
     <display-name lang="fr">MTV Base</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="MTV Hits">
     <display-name lang="fr">MTV Hits</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="NRJ Hits">
     <display-name lang="fr">NRJ Hits</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Trace Urban">
     <display-name lang="fr">Trace Urban</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Classica English">
     <display-name lang="fr">Classica English</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="VH1 Classic">
     <display-name lang="fr">VH1 Classic</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="VH1">
     <display-name lang="fr">VH1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="BFM Business">
     <display-name lang="fr">BFM Business</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Euronews">
     <display-name lang="fr">Euronews</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="France 24">
     <display-name lang="fr">France 24</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TV5MONDE">
     <display-name lang="fr">TV5MONDE</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Al Jazeera English">
     <display-name lang="fr">Al Jazeera English</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="BBC World News">
     <display-name lang="fr">BBC World News</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Bloomberg UK-Europe">
     <display-name lang="fr">Bloomberg UK-Europe</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="CNN">
     <display-name lang="fr">CNN</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="DW (English)">
     <display-name lang="fr">DW (English)</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="2M Monde">
     <display-name lang="fr">2M Monde</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Q2">
     <display-name lang="fr">Q2</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="BE 1">
     <display-name lang="fr">BE 1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Be Ciné">
     <display-name lang="fr">Be Cin&#xE9;</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Be Séries">
     <display-name lang="fr">Be S&#xE9;ries</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="VOOsport World 1">
     <display-name lang="fr">VOOsport World 1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="VOOsport World 2">
     <display-name lang="fr">VOOsport World 2</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="La Deux">
     <display-name lang="fr">La Deux</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="La Trois">
     <display-name lang="fr">La Trois</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="La Une">
     <display-name lang="fr">La Une</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Plug RTL">
     <display-name lang="fr">Plug RTL</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Vijf">
     <display-name lang="fr">Vijf</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Vier">
     <display-name lang="fr">Vier</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="VTM">
     <display-name lang="fr">VTM</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Real Madrid TV">
     <display-name lang="fr">Real Madrid TV</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TVE">
     <display-name lang="fr">TVE</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="TVE 1">
     <display-name lang="fr">TVE 1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Rai Due">
     <display-name lang="fr">Rai Due</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Rai Tre">
     <display-name lang="fr">Rai Tre</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Rai Uno">
     <display-name lang="fr">Rai Uno</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="RTPI">
     <display-name lang="fr">RTPI</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="RTS Un">
     <display-name lang="fr">RTS Un</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="RTS Deux">
     <display-name lang="fr">RTS Deux</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="SRF 1">
     <display-name lang="fr">SRF 1</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="SRF 2">
     <display-name lang="fr">SRF 2</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Stingray Brava">
     <display-name lang="fr">Stingray Brava</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Boing">
     <display-name lang="fr">Boing</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Nickelodeon Junior">
     <display-name lang="fr">Nickelodeon Junior</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
   </channel><channel id="Watania 1">
     <display-name lang="ar">Watania 1</display-name>
@@ -2262,6 +2262,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Movies Festival HD">
     <display-name lang="en">OSN Movies Festival HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMF.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="OSN Movies Kids HD">
     <display-name lang="en">OSN Movies Kids HD</display-name>
