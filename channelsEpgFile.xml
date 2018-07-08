@@ -284,37 +284,53 @@
     <display-name lang="it">Sky Sport 24 SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/929_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 1 HD">
-    <display-name lang="it">Sky Sport 1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 1 SuperHD">
-    <display-name lang="it">Sky Sport 1 SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 2 HD">
-    <display-name lang="it">Sky Sport 2 HD</display-name>
+  </channel><channel id="Sky Sport Arena SuperHD">
+    <display-name lang="it">Sky Sport Arena SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7507_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 3 HD">
-    <display-name lang="it">Sky Sport 3 HD</display-name>
+  </channel><channel id="Sky Sport Arena HD">
+    <display-name lang="it">Sky Sport Arena HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7507_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport Uno HD">
+    <display-name lang="it">Sky Sport Uno HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport Uno SuperHD">
+    <display-name lang="it">Sky Sport Uno SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport SerieA SuperHD">
+    <display-name lang="it">Sky Sport SerieA SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport SerieA HD">
+    <display-name lang="it">Sky Sport SerieA HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport Football SuperHD">
+    <display-name lang="it">Sky Sport Football SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8693_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Plus HD">
-    <display-name lang="it">Sky Sport Plus HD</display-name>
+  </channel><channel id="Sky Sport Football HD">
+    <display-name lang="it">Sky Sport Football HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8693_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Sport NBA SuperHD">
+    <display-name lang="it">Sky Sport NBA SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8753_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Mix">
-    <display-name lang="it">Sky Sport Mix</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9433_home.png"/>
+  </channel><channel id="Sky Sport NBA HD">
+    <display-name lang="it">Sky Sport NBA HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8753_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox Sports HD">
-    <display-name lang="it">Fox Sports HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/21464_home.png"/>
+  </channel><channel id="Sky Sport Golf SuperHD">
+    <display-name lang="it">Sky Sport Golf SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/10254_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox Sports SuperHD">
-    <display-name lang="it">Fox Sports SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/21464_home.png"/>
+  </channel><channel id="Sky Sport Golf HD">
+    <display-name lang="it">Sky Sport Golf HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/10254_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Supercalcio HD">
     <display-name lang="it">Sky Supercalcio HD</display-name>
