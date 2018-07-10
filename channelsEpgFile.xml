@@ -428,36 +428,52 @@
     <display-name lang="it">Lazio Style Channel</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7527_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky arte hd">
-    <display-name lang="it">Sky arte hd</display-name>
+  </channel><channel id="Sky Arte SuperHD">
+    <display-name lang="it">Sky Arte SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8473_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Channel HD">
-    <display-name lang="it">Sky Discovery Channel HD</display-name>
+  </channel><channel id="Sky arte HD">
+    <display-name lang="it">Sky arte HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8473_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Discovery Channel SuperHD">
+    <display-name lang="it">Discovery Channel SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/931_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Science">
-    <display-name lang="it">Discovery Science</display-name>
+  </channel><channel id="Discovery Channel HD">
+    <display-name lang="it">Discovery Channel HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/931_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Discovery Science SuperHD">
+    <display-name lang="it">Discovery Science SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/467_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Travel Living">
-    <display-name lang="it">Discovery Travel Living</display-name>
+  </channel><channel id="Discovery Science HD">
+    <display-name lang="it">Discovery Science HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/467_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Discovery Travel Living HD">
+    <display-name lang="it">Discovery Travel Living HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/465_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="NatGeoWild">
-    <display-name lang="it">NatGeoWild</display-name>
+  </channel><channel id="NatGeoWild SuperHD">
+    <display-name lang="it">NatGeoWild SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/126_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="National Geographic">
-    <display-name lang="it">National Geographic</display-name>
+  </channel><channel id="NatGeoWild HD">
+    <display-name lang="it">NatGeoWild HD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/126_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="National Geographic HD">
+    <display-name lang="it">National Geographic HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/641_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="National geo H265">
-    <display-name lang="it">National geo H265</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/641_home.png"/>
+  </channel><channel id="NatGeoPeople SuperHD">
+    <display-name lang="it">NatGeoPeople SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7407_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="NatGeoPeople">
-    <display-name lang="it">NatGeoPeople</display-name>
+  </channel><channel id="NatGeoPeople HD">
+    <display-name lang="it">NatGeoPeople HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7407_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="History Channel HD">
