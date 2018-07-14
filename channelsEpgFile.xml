@@ -2565,6 +2565,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="CNBC">
     <display-name lang="en">CNBC</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CNB.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="Bloomberg">
     <display-name lang="en">Bloomberg</display-name>
