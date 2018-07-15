@@ -19,10 +19,6 @@
     <display-name lang="it">Canale 5 HD</display-name>
     <icon src="http://www.mediaset.it/include/img/loghi/C5.png"/>
     <url>http://www.mediaset.it</url>
-  </channel><channel id="Canale 5 HD H265">
-    <display-name lang="it">Canale 5 HD H265</display-name>
-    <icon src="http://www.mediaset.it/include/img/loghi/C5.png"/>
-    <url>http://www.mediaset.it</url>
   </channel><channel id="Italia 1 HD">
     <display-name lang="it">Italia 1 HD</display-name>
     <icon src="http://www.mediaset.it/include/img/loghi/I1.png"/>
@@ -116,16 +112,20 @@
     <display-name lang="it">Sky Cinema 1 SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/101_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema +1">
-    <display-name lang="it">Sky Cinema +1</display-name>
+  </channel><channel id="Sky Cinema +1 SuperHD">
+    <display-name lang="it">Sky Cinema +1 SuperHD</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png"/>
+    <url>http://www.guidatv.sky.it</url>
+  </channel><channel id="Sky Cinema +1 HD">
+    <display-name lang="it">Sky Cinema +1 HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Cinema +24 SuperHD">
     <display-name lang="it">Sky Cinema +24 SuperHD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png"/>
     <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema +24">
-    <display-name lang="it">Sky Cinema +24</display-name>
+  </channel><channel id="Sky Cinema +24 HD">
+    <display-name lang="it">Sky Cinema +24 HD</display-name>
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Cinema Hits HD">
