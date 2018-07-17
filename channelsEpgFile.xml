@@ -528,7 +528,7 @@
     <url>http://www.rai.it</url>
   </channel><channel id="Cartoon Network">
     <display-name lang="it">Cartoon Network</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27420_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/129_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Disney XD">
     <display-name lang="it">Disney XD</display-name>
