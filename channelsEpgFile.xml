@@ -1513,6 +1513,10 @@
     <display-name lang="fr">6ter</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
+  </channel><channel id="Warner TV">
+    <display-name lang="fr">Warner TV</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
+    <url>http://www.telerama.fr</url>
   </channel><channel id="Chérie 25">
     <display-name lang="fr">Ch&#xE9;rie 25</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
