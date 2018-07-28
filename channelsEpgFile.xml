@@ -2326,6 +2326,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="Sony Max Middle East">
     <display-name lang="en">Sony Max Middle East</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/SEM.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="Star Gold">
     <display-name lang="en">Star Gold</display-name>
