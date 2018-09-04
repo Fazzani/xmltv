@@ -2652,6 +2652,7 @@
     <url>http://www.osn.com</url>
   </channel><channel id="Animal Planet HD">
     <display-name lang="en">Animal Planet HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/APL.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="Nat Geo HD">
     <display-name lang="en">Nat Geo HD</display-name>
