@@ -176,7 +176,7 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky TG24">
     <display-name lang="it">Sky TG24</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/362_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9313_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="TGcom 24">
     <display-name lang="fr">TGcom 24</display-name>
@@ -198,7 +198,7 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Atlantic HD">
     <display-name lang="it">Sky Atlantic HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8456_home.png"/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images&#10;Expression canale.img_home is undefined on line 116, column 81 in canale/page.ftl.&#10;The problematic instruction:&#10;----------&#10;==&gt; ${canale.img_home} [on line 116, column 79 in canale/page.ftl]&#10;----------&#10;&#10;Java backtrace for programmers:&#10;----------&#10;freemarker.core.InvalidReferenceException: Expression canale.img_home is undefined on line 116, column 81 in canale/page.ftl.&#10; at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)&#10; at freemarker.core.Expression.getStringValue(Expression.java:118)&#10; at freemarker.core.Expression.getStringValue(Expression.java:93)&#10; at freemarker.core.DollarVariable.accept(DollarVariable.java:76)&#10; at freemarker.core.Environment.visit(Environment.java:208)&#10; at freemarker.core.MixedContent.accept(MixedContent.java:92)&#10; at freemarker.core.Environment.visit(Environment.java:208)&#10; at freemarker.core.Environment.process(Environment.java:188)&#10; at freemarker.template.Template.process(Template.java:237)&#10; at com.sky.epg.dao.FreeMarkerBaseDao.fillTemplateByWriter(Unknown Source)&#10; at com.sky.epg.apps.brick.canale.CanaleGenerator.writePage(Unknown Source)&#10; at com.sky.cli.epg.scripts.ScriptGenerazioneCanali.main(Unknown Source)&#10;&lt;/h1&gt;&lt;img src="/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Atlantic +1">
     <display-name lang="it">Sky Atlantic +1</display-name>
