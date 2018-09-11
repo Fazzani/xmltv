@@ -198,7 +198,7 @@
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Atlantic HD">
     <display-name lang="it">Sky Atlantic HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images&#10;Expression canale.img_home is undefined on line 116, column 81 in canale/page.ftl.&#10;The problematic instruction:&#10;----------&#10;==&gt; ${canale.img_home} [on line 116, column 79 in canale/page.ftl]&#10;----------&#10;&#10;Java backtrace for programmers:&#10;----------&#10;freemarker.core.InvalidReferenceException: Expression canale.img_home is undefined on line 116, column 81 in canale/page.ftl.&#10; at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)&#10; at freemarker.core.Expression.getStringValue(Expression.java:118)&#10; at freemarker.core.Expression.getStringValue(Expression.java:93)&#10; at freemarker.core.DollarVariable.accept(DollarVariable.java:76)&#10; at freemarker.core.Environment.visit(Environment.java:208)&#10; at freemarker.core.MixedContent.accept(MixedContent.java:92)&#10; at freemarker.core.Environment.visit(Environment.java:208)&#10; at freemarker.core.Environment.process(Environment.java:188)&#10; at freemarker.template.Template.process(Template.java:237)&#10; at com.sky.epg.dao.FreeMarkerBaseDao.fillTemplateByWriter(Unknown Source)&#10; at com.sky.epg.apps.brick.canale.CanaleGenerator.writePage(Unknown Source)&#10; at com.sky.cli.epg.scripts.ScriptGenerazioneCanali.main(Unknown Source)&#10;&lt;/h1&gt;&lt;img src="/>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8456_home.png"/>
     <url>http://www.guidatv.sky.it</url>
   </channel><channel id="Sky Atlantic +1">
     <display-name lang="it">Sky Atlantic +1</display-name>
@@ -664,7 +664,7 @@
     <url>http://www.tv.orange.fr</url>
   </channel><channel id="SCIENCE et VIE TV">
     <display-name lang="fr">SCIENCE et VIE TV</display-name>
-    <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F26c%2F04a%2Ffae1085cad337ab8b3a6c6b7e5%2Fscience-vie-tv%7Cclair_63.png?facedetect=1&amp;quality=85"/>
+    <icon src="//media2.woopic.com/api/v1/images/201%2Fchannel%2Ff72%2F5b5%2F39f01b04fa87927f1e8812f065%2Fscience-vie-tv%7Cclair_63.png?facedetect=1&amp;quality=85"/>
     <url>http://www.tv.orange.fr</url>
   </channel><channel id="CHASSE PECHE">
     <display-name lang="fr">CHASSE PECHE</display-name>
