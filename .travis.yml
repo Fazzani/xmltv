@@ -4,11 +4,10 @@ script:
   - DATE=`date '+%Y-%m-%d %H:%M:%S'`
 after_success:
   - git status
-  - git remote
-  - git remote add origin https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
+  - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
   - git config user.email tunisienheni@outlook.com
   - git config user.name Fazzani
-  - git add --all && git commit -m "Daily update from travis" && git push origin HEAD:master
+  - git add --all && git commit -m "Daily update from travis" && git push origin2 HEAD:master
 deploy:
   provider: releases
   api_key: $GITHUB_API_TOKEN
