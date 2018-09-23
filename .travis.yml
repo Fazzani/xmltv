@@ -1,6 +1,7 @@
 language: minimal
 sudo: true
 dist: trusty
+if: (commit_message =~ ^daily) AND (branch = master)
 before_install:
  - sudo apt-get --yes install xmltv-util
  - sudo chmod +x merge.sh
@@ -9,7 +10,6 @@ script:
  - git status
  - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
  - git add --all && git commit -m "Pushing compressed version to GIYHUB from travis" && git push origin2 HEAD:master
- if: (commit_message =~ ^daily) AND (branch = master)
 notifications:
   email:
     recipients:
