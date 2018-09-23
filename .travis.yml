@@ -10,7 +10,7 @@ branches:
 if: (commit_message =~ ^daily) AND (branch = master)
 before_install:
  - sudo apt-get update -qq
- - sudo apt-get install -qq unixodbc unixodbc-dev
+ - cpanm --quiet --installdeps --notest . 
  - sudo apt-get -y install xmltv-util
  - sudo chmod +x merge.sh
 script: 
