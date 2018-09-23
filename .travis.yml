@@ -5,9 +5,10 @@ jobs:
       script: tar zcvf guide.tar.gz *.xmltv
       if: (commit_message =~ ^daily) AND (branch = master)
     - stage: Pushing to Git
-      script:|
-        git status && \
-        git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1 && \
+      script:
+       - |
+        git status && 
+        git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1 && 
         git add --all && git commit -m "Daily update from travis" && git push origin2 HEAD:master
       if: (commit_message =~ ^daily) AND (branch = master)
 notifications:
