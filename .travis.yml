@@ -1,0 +1,7 @@
+language: minimal
+script: tar zcvf guide.tar.gz *.xmltv
+deploy:
+  provider: releases
+  api_key: $GITHUB_API_TOKEN
+  file: "guide.tar.gz"
+  skip_cleanup: true
