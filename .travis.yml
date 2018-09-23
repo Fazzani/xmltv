@@ -6,7 +6,7 @@ jobs:
       before_install:
        - sudo apt-get install xmltv-util
       script: 
-       - chmod +x merge.sh && ./merge.sh
+       - chmod +x merge.sh && ./merge.sh "./*.xmltv"
        - git status
        - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
        - git add --all && git commit -m "Pushing compressed version to GIYHUB from travis" && git push origin2 HEAD:master
