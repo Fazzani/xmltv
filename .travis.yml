@@ -3,6 +3,8 @@ sudo: true
 jobs:
   include: 
     - stage: Merging & Compression xmltv files
+      before_install:
+       - sudo apt-get install xmltv-utils
       script: 
        - chmod +x merge.sh && ./merge.sh
        - git status
