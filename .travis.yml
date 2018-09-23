@@ -2,14 +2,11 @@ language: minimal
 jobs:
   include: 
     - stage: Compression xmltv files
-      script: tar zcvf guide.tar.gz *.xmltv
-      if: (commit_message =~ ^daily) AND (branch = master)
-    - stage: Pushing to Git
-      script:
+      script: 
+       - tar zcvf guide.tar.gz *.xmltv
        - git status
-       - |
-        git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1 && 
-        git add --all && git commit -m "Pushing compressed version to GIYHUB from travis" && git push origin2 HEAD:master
+       - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
+       - git add --all && git commit -m "Pushing compressed version to GIYHUB from travis" && git push origin2 HEAD:master
       if: (commit_message =~ ^daily) AND (branch = master)
 notifications:
   email:
