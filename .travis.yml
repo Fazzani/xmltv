@@ -1,6 +1,5 @@
 language: perl
 sudo: true
-dist: trusty
 git:
   depth: false
 branches:
