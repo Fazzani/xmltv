@@ -1,10 +1,15 @@
-language: minimal
+language: perl
 sudo: true
 dist: trusty
+git:
+  depth: false
+branches:
+  only:
+  - master
 if: (commit_message =~ ^daily) AND (branch = master)
 before_install:
- - sudo apt-get update
- - sudo apt-get --yes install xmltv-util
+ - sudo apt-get update -q
+ - sudo apt-get -y install xmltv-util
  - sudo chmod +x merge.sh
 script: 
  - ./merge.sh "./*.xmltv"
