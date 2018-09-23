@@ -1,10 +1,11 @@
 language: minimal
 sudo: true
+dist: trusty
 jobs:
   include: 
     - stage: Merging & Compression xmltv files
       before_install:
-       - sudo apt-get install -y xmltv-util
+       - sudo apt-get --yes install xmltv-util
        - sudo chmod +x merge.sh
       script: 
        - ./merge.sh "./*.xmltv"
