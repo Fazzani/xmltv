@@ -7,7 +7,7 @@ script:
 after_success:
   - git status
   - git remote add origin https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
-  - git add --all && git commit -m "$DATE: Daily update from travis" && git push  
+  - git add --all && git commit -m "Daily update from travis" && git push  
 deploy:
   provider: releases
   api_key: $GITHUB_API_TOKEN
