@@ -1,6 +1,6 @@
 language: perl
 perl:
- - "5.26"
+ - "5.8"
 sudo: true
 git:
   depth: false
@@ -10,7 +10,8 @@ branches:
 if: (commit_message =~ ^daily) AND (branch = master)
 before_install:
  - sudo apt-get update -qq
- - cpanm --quiet --installdeps --notest . 
+ - git clone git://github.com/travis-perl/helpers ~/travis-perl-helpers
+ - source ~/travis-perl-helpers/init --auto
  - sudo apt-get -y install xmltv-util
  - sudo chmod +x merge.sh
 script: 
