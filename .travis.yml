@@ -3,6 +3,7 @@ sudo: true
 dist: trusty
 if: (commit_message =~ ^daily) AND (branch = master)
 before_install:
+ - sudo apt-get update
  - sudo apt-get --yes install xmltv-util
  - sudo chmod +x merge.sh
 script: 
