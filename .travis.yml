@@ -5,4 +5,4 @@ script:
 after_success:
   - git status
   - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
-  - git add --all && git commit -m ${DATE}": Daily update from travis" && git push origin2 HEAD:master
+  - git add --all && git commit -m "Daily update from travis" && git push origin2 HEAD:master
