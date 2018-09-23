@@ -1,6 +1,4 @@
-language: ruby
-rvm:
-  - 2.0.0
+language: minimal
 script: 
   - tar zcvf guide.tar.gz *.xmltv
   - DATE=`date '+%Y-%m-%d %H:%M:%S'`
