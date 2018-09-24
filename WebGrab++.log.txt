@@ -1,0 +1,3946 @@
+
+             WebGrab+Plus/w MDB & REX Postprocess -- version  V2.1              
+
+                                Jan van Straaten                                
+                             Francis De Paemeleere                              
+
+            thanks to Paul Weterings and all the contributing users             
+--------------------------------------------------------------------------------
+
+Job started at 24/09/2018 23:10:16
+timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+found: /home/pi/wg++/siteini.pack/Tunisia/watania.tn.ini -- Revision 00
+timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
+found: /home/pi/wg++/siteini.pack/International/bein.net.ini -- Revision 14
+found: /home/pi/wg++/siteini.pack/Saudi Arabia/osn.com.ini -- Revision 07
+found: /home/pi/wg++/siteini.pack/Ireland/eirsport.ie.ini -- Revision 00
+processing /home/pi/wg++/guide.xmltv ...
+Found existing channel (xmltv_id=Watania 1) in the config file
+Found existing channel (xmltv_id=Watania 2) in the config file
+Found existing channel (xmltv_id=HD1) in the config file
+Found existing channel (xmltv_id=HD2) in the config file
+Found existing channel (xmltv_id=HD3) in the config file
+Found existing channel (xmltv_id=HD4) in the config file
+Found existing channel (xmltv_id=HD5) in the config file
+Found existing channel (xmltv_id=HD6) in the config file
+Found existing channel (xmltv_id=HD7) in the config file
+Found existing channel (xmltv_id=HD8) in the config file
+Found existing channel (xmltv_id=HD9) in the config file
+Found existing channel (xmltv_id=HD10) in the config file
+Found existing channel (xmltv_id=SportsHD11) in the config file
+Found existing channel (xmltv_id=SportsHD12) in the config file
+Found existing channel (xmltv_id=SportsHD13) in the config file
+Found existing channel (xmltv_id=SportsHD14) in the config file
+Found existing channel (xmltv_id=SportsHD15) in the config file
+Found existing channel (xmltv_id=SportsHD16) in the config file
+Found existing channel (xmltv_id=SportsHD17) in the config file
+Found existing channel (xmltv_id=News_ar) in the config file
+Found existing channel (xmltv_id=SportsGlobalHD) in the config file
+Found existing channel (xmltv_id=BS NBA) in the config file
+Found existing channel (xmltv_id=4K) in the config file
+Found existing channel (xmltv_id=OlympicChannel) in the config file
+Found existing channel (xmltv_id=Global) in the config file
+Found existing channel (xmltv_id=Spanish) in the config file
+Found existing channel (xmltv_id=MoviesHD1) in the config file
+Found existing channel (xmltv_id=MoviesHD2) in the config file
+Found existing channel (xmltv_id=MoviesHD3) in the config file
+Found existing channel (xmltv_id=MoviesHD4) in the config file
+Found existing channel (xmltv_id=max1) in the config file
+Found existing channel (xmltv_id=max2) in the config file
+Found existing channel (xmltv_id=max3) in the config file
+Found existing channel (xmltv_id=max4) in the config file
+Found existing channel (xmltv_id=SeriesHD1) in the config file
+Found existing channel (xmltv_id=SeriesHD2) in the config file
+Found existing channel (xmltv_id=beJUNIOR) in the config file
+Found existing channel (xmltv_id=fox_movies_hd) in the config file
+Found existing channel (xmltv_id=starmovieshd) in the config file
+Found existing channel (xmltv_id=starw_orld_hd) in the config file
+Found existing channel (xmltv_id=NatGeo_HD) in the config file
+Found existing channel (xmltv_id=NatGeoPeople_HD) in the config file
+Found existing channel (xmltv_id=NatGeoWild_HD) in the config file
+Found existing channel (xmltv_id=Baby_TV) in the config file
+Found existing channel (xmltv_id=Jeem) in the config file
+Found existing channel (xmltv_id=Baraem) in the config file
+Found existing channel (xmltv_id=gourmet) in the config file
+Found existing channel (xmltv_id=BoxOffice_HD1) in the config file
+Found existing channel (xmltv_id=DTX) in the config file
+Found existing channel (xmltv_id=CBeebies) in the config file
+Found existing channel (xmltv_id=V_HD) in the config file
+Found existing channel (xmltv_id=CNNHD) in the config file
+Found existing channel (xmltv_id=TCM) in the config file
+Found existing channel (xmltv_id=CartoonNetworkAR) in the config file
+Found existing channel (xmltv_id=CartoonNetworkHD) in the config file
+Found existing channel (xmltv_id=CartoonNetworkHindi) in the config file
+Found existing channel (xmltv_id=HLN) in the config file
+Found existing channel (xmltv_id=Boomerang) in the config file
+Found existing channel (xmltv_id=DramaHD1) in the config file
+Found existing channel (xmltv_id=Star_Movies_HD) in the config file
+Found existing channel (xmltv_id=amc) in the config file
+Found existing channel (xmltv_id=CBSreality) in the config file
+Found existing channel (xmltv_id=FoxActMovHD) in the config file
+Found existing channel (xmltv_id=FoxFamHD) in the config file
+Found existing channel (xmltv_id=FXHD) in the config file
+Found existing channel (xmltv_id=FoxNews) in the config file
+Found existing channel (xmltv_id=AnimalPlanetHD) in the config file
+Found existing channel (xmltv_id=DLife) in the config file
+Found existing channel (xmltv_id=DreamWorks) in the config file
+Found existing channel (xmltv_id=DKids) in the config file
+Found existing channel (xmltv_id=DMAX) in the config file
+Found existing channel (xmltv_id=OutdoorChannel) in the config file
+Found existing channel (xmltv_id=Extreme) in the config file
+Found existing channel (xmltv_id=TravelChannel) in the config file
+Found existing channel (xmltv_id=HGTV) in the config file
+Found existing channel (xmltv_id=OSN Movies HD) in the config file
+Found existing channel (xmltv_id=OSN Movies First HD) in the config file
+Found existing channel (xmltv_id=OSN Movies First HD +2h) in the config file
+Found existing channel (xmltv_id=OSN Movies Action HD) in the config file
+Found existing channel (xmltv_id=OSN Movies Action +2) in the config file
+Found existing channel (xmltv_id=OSN Movies HD Premier) in the config file
+Found existing channel (xmltv_id=OSN Movies +2h) in the config file
+Found existing channel (xmltv_id=OSN Movies Thriller HD) in the config file
+Found existing channel (xmltv_id=OSN Movies Thriller +2h) in the config file
+Found existing channel (xmltv_id=OSN Movies Festival HD) in the config file
+Found existing channel (xmltv_id=OSN Movies Kids HD) in the config file
+Found existing channel (xmltv_id=OSN Movies Family HD) in the config file
+Found existing channel (xmltv_id=OSN Movies Comedy HD) in the config file
+Found existing channel (xmltv_id=OSN Movies Box Office 1 HD) in the config file
+Found existing channel (xmltv_id=OSN Movies Box Office 2) in the config file
+Found existing channel (xmltv_id=OSN Movies Box Office 3) in the config file
+Found existing channel (xmltv_id=Sundance TV) in the config file
+Found existing channel (xmltv_id=Star Movies HD) in the config file
+Found existing channel (xmltv_id=Sony Max Middle East) in the config file
+Found existing channel (xmltv_id=Star Gold) in the config file
+Found existing channel (xmltv_id=Zee Cinema) in the config file
+Found existing channel (xmltv_id=UTV Movies) in the config file
+Found existing channel (xmltv_id=OSN Ya Hala Al Oula) in the config file
+Found existing channel (xmltv_id=OSN Ya Hala Al Oula +2h) in the config file
+Found existing channel (xmltv_id=OSN Ya Hala HD) in the config file
+Found existing channel (xmltv_id=OSN Yahala Cinema HD) in the config file
+Found existing channel (xmltv_id=Series Channel) in the config file
+Found existing channel (xmltv_id=Series +2) in the config file
+Found existing channel (xmltv_id=Al Yawm) in the config file
+Found existing channel (xmltv_id=Al Safwa) in the config file
+Found existing channel (xmltv_id=Fann) in the config file
+Found existing channel (xmltv_id=Cinema 1) in the config file
+Found existing channel (xmltv_id=Cinema 2) in the config file
+Found existing channel (xmltv_id=Music Now) in the config file
+Found existing channel (xmltv_id=Hekayat) in the config file
+Found existing channel (xmltv_id=Hekayat 2) in the config file
+Found existing channel (xmltv_id=ART Aflam 1) in the config file
+Found existing channel (xmltv_id=ART Aflam 2) in the config file
+Found existing channel (xmltv_id=ART Cinema) in the config file
+Found existing channel (xmltv_id=AD Drama + HD) in the config file
+Found existing channel (xmltv_id=OSN Series First HD) in the config file
+Found existing channel (xmltv_id=OSN First HBO HD) in the config file
+Found existing channel (xmltv_id=OSN Series HD) in the config file
+Found existing channel (xmltv_id=OSN Series Comedy HD) in the config file
+Found existing channel (xmltv_id=OSN Series Comedy HD +2h) in the config file
+Found existing channel (xmltv_id=Comedy Central) in the config file
+Found existing channel (xmltv_id=Syfy HD) in the config file
+Found existing channel (xmltv_id=Star World HD) in the config file
+Found existing channel (xmltv_id=TLC HD) in the config file
+Found existing channel (xmltv_id=E! Entertainment HD) in the config file
+Found existing channel (xmltv_id=BBC First HD) in the config file
+Found existing channel (xmltv_id=ITV Choice HD) in the config file
+Found existing channel (xmltv_id=Food Network HD) in the config file
+Found existing channel (xmltv_id=Fine Living) in the config file
+Found existing channel (xmltv_id=Fashion TV HD) in the config file
+Found existing channel (xmltv_id=Travel Channel) in the config file
+Found existing channel (xmltv_id=\\u0026 TV) in the config file
+Found existing channel (xmltv_id=Star Plus Middle East) in the config file
+Found existing channel (xmltv_id=Zee TV) in the config file
+Found existing channel (xmltv_id=SET Middle East) in the config file
+Found existing channel (xmltv_id=Colors) in the config file
+Found existing channel (xmltv_id=Hum TV Middle East) in the config file
+Found existing channel (xmltv_id=Rishtey TV) in the config file
+Found existing channel (xmltv_id=Life OK Middle East) in the config file
+Found existing channel (xmltv_id=Sab TV) in the config file
+Found existing channel (xmltv_id=Ary Digital TV) in the config file
+Found existing channel (xmltv_id=GEO TV) in the config file
+Found existing channel (xmltv_id=Masala TV) in the config file
+Found existing channel (xmltv_id=Kiran TV) in the config file
+Found existing channel (xmltv_id=Urdu 1) in the config file
+Found existing channel (xmltv_id=Sun TV) in the config file
+Found existing channel (xmltv_id=Star Vijay International) in the config file
+Found existing channel (xmltv_id=Asianet) in the config file
+Found existing channel (xmltv_id=Surya TV) in the config file
+Found existing channel (xmltv_id=Udaya TV) in the config file
+Found existing channel (xmltv_id=Gemini TV) in the config file
+Found existing channel (xmltv_id=Star Jalsha) in the config file
+Found existing channel (xmltv_id=Star Pravah) in the config file
+Found existing channel (xmltv_id=MTV Live HD) in the config file
+Found existing channel (xmltv_id=VH1) in the config file
+Found existing channel (xmltv_id=Trace Urban) in the config file
+Found existing channel (xmltv_id=Sony MIX) in the config file
+Found existing channel (xmltv_id=MTV India) in the config file
+Found existing channel (xmltv_id=Bindaas) in the config file
+Found existing channel (xmltv_id=Disney HD) in the config file
+Found existing channel (xmltv_id=Disney XD) in the config file
+Found existing channel (xmltv_id=Disney Junior) in the config file
+Found existing channel (xmltv_id=Nickelodeon HD) in the config file
+Found existing channel (xmltv_id=Nick Jr) in the config file
+Found existing channel (xmltv_id=NickToons) in the config file
+Found existing channel (xmltv_id=OSN Kid Zone TV) in the config file
+Found existing channel (xmltv_id=Baby TV Europe) in the config file
+Found existing channel (xmltv_id=OSN News) in the config file
+Found existing channel (xmltv_id=Sky News HD) in the config file
+Found existing channel (xmltv_id=BBC World) in the config file
+Found existing channel (xmltv_id=Fox News) in the config file
+Found existing channel (xmltv_id=CNBC) in the config file
+Found existing channel (xmltv_id=Bloomberg) in the config file
+Found existing channel (xmltv_id=CCTV News) in the config file
+Found existing channel (xmltv_id=France 24 English) in the config file
+Found existing channel (xmltv_id=NHK World TV) in the config file
+Found existing channel (xmltv_id=Dunya News) in the config file
+Found existing channel (xmltv_id=ARY News) in the config file
+Found existing channel (xmltv_id=Geo News) in the config file
+Found existing channel (xmltv_id=ABP News India) in the config file
+Found existing channel (xmltv_id=Aaj Tak) in the config file
+Found existing channel (xmltv_id=Times Now) in the config file
+Found existing channel (xmltv_id=NDTV 24x7) in the config file
+Found existing channel (xmltv_id=Asianet News) in the config file
+Found existing channel (xmltv_id=Sky News Arabia HD) in the config file
+Found existing channel (xmltv_id=Sky News Arabia) in the config file
+Found existing channel (xmltv_id=Alarabiya) in the config file
+Found existing channel (xmltv_id=France 24) in the config file
+Found existing channel (xmltv_id=CCTV Arabic) in the config file
+Found existing channel (xmltv_id=Discovery HD) in the config file
+Found existing channel (xmltv_id=Discovery Family HD) in the config file
+Found existing channel (xmltv_id=Discovery Science HD) in the config file
+Found existing channel (xmltv_id=IDX HD) in the config file
+Found existing channel (xmltv_id=Crime \\u0026 Investigation Network) in the config file
+Found existing channel (xmltv_id=History HD) in the config file
+Found existing channel (xmltv_id=H2 HD) in the config file
+Found existing channel (xmltv_id=Animal Planet HD) in the config file
+Found existing channel (xmltv_id=Nat Geo HD) in the config file
+Found existing channel (xmltv_id=Nat Geo Wild HD) in the config file
+Found existing channel (xmltv_id=Nat Geo People HD) in the config file
+Found existing channel (xmltv_id=OSN Sports Action 1 HD) in the config file
+Found existing channel (xmltv_id=OSN Sports Action 2 HD) in the config file
+Found existing channel (xmltv_id=OSN Sports 3 HD) in the config file
+Found existing channel (xmltv_id=OSN Sports 4 HD) in the config file
+Found existing channel (xmltv_id=OSN Sports 5 HD) in the config file
+Found existing channel (xmltv_id=OSN WWE Network HD) in the config file
+Found existing channel (xmltv_id=OSN Sports Cricket HD) in the config file
+Found existing channel (xmltv_id=Ten Cricket International) in the config file
+Found existing channel (xmltv_id=OSN Fight Network HD) in the config file
+Found existing channel (xmltv_id=Fuel TV) in the config file
+Found existing channel (xmltv_id=Ginx Esports TV HD) in the config file
+Found existing channel (xmltv_id=AD Sports 3 HD) in the config file
+Found existing channel (xmltv_id=AD Sports 4 HD) in the config file
+Found existing channel (xmltv_id=AD Sports 5 HD) in the config file
+Found existing channel (xmltv_id=AD Sports 6 HD) in the config file
+Found existing channel (xmltv_id=Edge Sport HD) in the config file
+Found existing channel (xmltv_id=Dubai Sports 4 HD) in the config file
+Found existing channel (xmltv_id=Dubai Sports 2 HD) in the config file
+Found existing channel (xmltv_id=TFC) in the config file
+Found existing channel (xmltv_id=ABS-CBN Sports+Action) in the config file
+Found existing channel (xmltv_id=Cinema One Global) in the config file
+Found existing channel (xmltv_id=ANC) in the config file
+Found existing channel (xmltv_id=DZMM Teleradyo) in the config file
+Found existing channel (xmltv_id=DWRR 101.9) in the config file
+Found existing channel (xmltv_id=Viva TV) in the config file
+Found existing channel (xmltv_id=Kapatid TV5) in the config file
+Found existing channel (xmltv_id=Aksyon TV) in the config file
+Found existing channel (xmltv_id=Cine Mo) in the config file
+Found existing channel (xmltv_id=Lifestyle Network) in the config file
+Found existing channel (xmltv_id=GMA Pinoy TV) in the config file
+Found existing channel (xmltv_id=GMA Life TV) in the config file
+Found existing channel (xmltv_id=GMA News TV) in the config file
+Found existing channel (xmltv_id=MBC 1) in the config file
+Found existing channel (xmltv_id=MBC 4) in the config file
+Found existing channel (xmltv_id=MBC Drama) in the config file
+Found existing channel (xmltv_id=MBC 2) in the config file
+Found existing channel (xmltv_id=MBC MAX) in the config file
+Found existing channel (xmltv_id=MBC Action) in the config file
+Found existing channel (xmltv_id=Setanta) in the config file
+.................................................................................................................................................................................................................................................
+
+
+      i=index  .=same  c=change  g=gab  r=replace  n=new
+
+
+Group (0) :
+update requested for - 239 - out of - 239 - channels for 2 day(s)
+(   1/239 ) WATANIA.TN -- chan. (xmltv_id=Watania 1) -- mode Incremental
+iinnnnnnnn.cccccccccccc...ccccccc..gcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+(   2/239 ) WATANIA.TN -- chan. (xmltv_id=Watania 2) -- mode Incremental
+iinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+(   3/239 ) BEIN.NET -- chan. (xmltv_id=HD1) -- mode Incremental
+ii...........................nnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       HD1
+     missing shows added       0
+     changed shows updated     0
+     new shows added           22
+     unchanged shows inspected 27
+     total after update        49
+
+     elapstime / updated show  0.02 seconds
+(   4/239 ) BEIN.NET -- chan. (xmltv_id=HD2) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:46:00 stop = 26/09/2018 01:30:00 title = Crystal Palace vs Newcastle United
+      Replaces ----- start = 25/09/2018 23:45:00 stop = 26/09/2018 01:30:00 title = Crystal Palace vs Newcastle United
+nnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       HD2
+     missing shows added       0
+     changed shows updated     1
+     new shows added           20
+     unchanged shows inspected 0
+     total after update        21
+
+     elapstime / updated show  0.02 seconds
+(   5/239 ) BEIN.NET -- chan. (xmltv_id=HD3) -- mode Incremental
+ii.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 03:45:00 stop = 25/09/2018 05:31:00 title = Rayo Vallecano vs Deportivo Alavés
+      Replaces ----- start = 25/09/2018 03:45:00 stop = 25/09/2018 05:30:00 title = Rayo Vallecano vs Deportivo Alavés
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:30:00 title = La Liga Highlights 2018/2019 Week 5
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:31:00 stop = 25/09/2018 06:30:00 title = La Liga Highlights 2018/2019 Week 5
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:30:00 title = La Liga Highlights 2018/2019 Week 5
+.............n
+0.02 sec/update
+   Summary for update of       HD3
+     missing shows added       0
+     changed shows updated     2
+     new shows added           1
+     unchanged shows inspected 18
+     total after update        21
+
+     elapstime / updated show  0.02 seconds
+(   6/239 ) BEIN.NET -- chan. (xmltv_id=HD4) -- mode Incremental
+ii....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:00:00 stop = 25/09/2018 06:50:00 title = Parma vs Cagliari
+      Replaces ----- start = 25/09/2018 05:00:00 stop = 25/09/2018 06:45:00 title = Parma vs Cagliari
+      Replaces ----- start = 25/09/2018 06:45:00 stop = 25/09/2018 08:30:00 title = Sassuolo vs Empoli
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 06:50:00 stop = 25/09/2018 08:30:00 title = Sassuolo vs Empoli
+      Replaces ----- start = 25/09/2018 06:45:00 stop = 25/09/2018 08:30:00 title = Sassuolo vs Empoli
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 09:00:00 stop = 25/09/2018 10:43:00 title = Torino vs Napoli
+      Replaces ----- start = 25/09/2018 09:00:00 stop = 25/09/2018 10:45:00 title = Torino vs Napoli
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:43:00 stop = 25/09/2018 12:30:00 title = Bologna vs Roma
+      Replaces ----- start = 25/09/2018 09:00:00 stop = 25/09/2018 10:45:00 title = Torino vs Napoli
+      Replaces ----- start = 25/09/2018 10:45:00 stop = 25/09/2018 12:30:00 title = Bologna vs Roma
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:00:00 stop = 25/09/2018 17:30:00 title = UEFA Europa League Highlights Show 2018/2019
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:00:00 title = UEFA Europa League Highlights Show 2018/2019
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:30:00 stop = 25/09/2018 18:00:00 title = FOOTBALLUEFANATIONSLEAGUE2018GOALSMD1&2
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:00:00 title = UEFA Europa League Highlights Show 2018/2019
+......n
+0.02 sec/update
+   Summary for update of       HD4
+     missing shows added       0
+     changed shows updated     6
+     new shows added           1
+     unchanged shows inspected 14
+     total after update        21
+
+     elapstime / updated show  0.02 seconds
+(   7/239 ) BEIN.NET -- chan. (xmltv_id=HD5) -- mode Incremental
+ii...............c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 19:00:00 stop = 25/09/2018 21:28:00 title = SV Werder Bremen vs Hertha Berlin
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 21:30:00 title = SV Werder Bremen vs Hertha Berlin
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:28:00 stop = 26/09/2018 00:00:00 title = FC Bayern München vs FC Augsburg
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 21:30:00 title = SV Werder Bremen vs Hertha Berlin
+      Replaces ----- start = 25/09/2018 21:30:00 stop = 26/09/2018 00:00:00 title = FC Bayern München vs FC Augsburg
+nnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       HD5
+     missing shows added       0
+     changed shows updated     2
+     new shows added           15
+     unchanged shows inspected 15
+     total after update        32
+
+     elapstime / updated show  0.02 seconds
+(   8/239 ) BEIN.NET -- chan. (xmltv_id=HD6) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:00:00 stop = 26/09/2018 00:45:00 title = Guingamp vs Bordeaux
+      Replaces ----- start = 25/09/2018 23:00:00 stop = 26/09/2018 00:45:00 title = Strasbourg vs Amiens
+nnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       HD6
+     missing shows added       0
+     changed shows updated     1
+     new shows added           19
+     unchanged shows inspected 0
+     total after update        20
+
+     elapstime / updated show  0.02 seconds
+(   9/239 ) BEIN.NET -- chan. (xmltv_id=HD7) -- mode Incremental
+ii..........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:20:00 stop = 25/09/2018 15:08:00 title = Boca vs River
+      Replaces ----- start = 25/09/2018 13:20:00 stop = 25/09/2018 15:05:00 title = Boca vs River
+      Replaces ----- start = 25/09/2018 15:05:00 stop = 25/09/2018 15:35:00 title = NBA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:08:00 stop = 25/09/2018 15:35:00 title = NBA
+      Replaces ----- start = 25/09/2018 15:05:00 stop = 25/09/2018 15:35:00 title = NBA
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:40:00 stop = 25/09/2018 19:25:00 title = Bursaspor Medipol vs Basaksehir Fk
+      Replaces ----- start = 25/09/2018 17:40:00 stop = 25/09/2018 19:25:00 title = Fenerbache vs Besiktas
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:00:00 stop = 26/09/2018 00:00:00 title = Cycling Tour De Hongrie
+      Replaces ----- start = 25/09/2018 23:00:00 stop = 25/09/2018 23:59:00 title = Cycling Tour De Hongrie
+nnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       HD7
+     missing shows added       0
+     changed shows updated     4
+     new shows added           16
+     unchanged shows inspected 13
+     total after update        33
+
+     elapstime / updated show  0.02 seconds
+(  10/239 ) BEIN.NET -- chan. (xmltv_id=HD8) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:00:00 stop = 25/09/2018 00:48:00 title = Coppa Shell  Race 1
+      Replaces ----- start = 25/09/2018 00:00:00 stop = 25/09/2018 00:45:00 title = Coppa Shell  Race 1
+      Replaces ----- start = 25/09/2018 00:45:00 stop = 25/09/2018 01:30:00 title = Coppa Shell Race 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:48:00 stop = 25/09/2018 01:33:00 title = Coppa Shell Race 2
+      Replaces ----- start = 25/09/2018 00:45:00 stop = 25/09/2018 01:30:00 title = Coppa Shell Race 2
+      Replaces ----- start = 25/09/2018 01:30:00 stop = 25/09/2018 02:15:00 title = Trofeo Pirelli Race 1
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 01:33:00 stop = 25/09/2018 02:22:00 title = Trofeo Pirelli Race 1
+      Replaces ----- start = 25/09/2018 01:30:00 stop = 25/09/2018 02:15:00 title = Trofeo Pirelli Race 1
+      Replaces ----- start = 25/09/2018 02:15:00 stop = 25/09/2018 03:00:00 title = Trofeo Pirelli Race 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:22:00 stop = 25/09/2018 03:11:00 title = Trofeo Pirelli Race 2
+      Replaces ----- start = 25/09/2018 02:15:00 stop = 25/09/2018 03:00:00 title = Trofeo Pirelli Race 2
+      Replaces ----- start = 25/09/2018 03:00:00 stop = 25/09/2018 03:30:00 title = The Insiders Series 2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 03:11:00 stop = 25/09/2018 03:39:00 title = The Insiders Series 2018
+      Replaces ----- start = 25/09/2018 03:00:00 stop = 25/09/2018 03:30:00 title = The Insiders Series 2018
+      Replaces ----- start = 25/09/2018 03:30:00 stop = 25/09/2018 04:00:00 title = 500 Great Goals
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 03:39:00 stop = 25/09/2018 04:06:00 title = 500 Great Goals
+      Replaces ----- start = 25/09/2018 03:30:00 stop = 25/09/2018 04:00:00 title = 500 Great Goals
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = China vs USA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:06:00 stop = 25/09/2018 05:30:00 title = China vs USA
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = China vs USA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:30:00 stop = 25/09/2018 07:15:00 title = Nigeria vs Turkey
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = China vs USA
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 08:00:00 title = Nigeria vs Turkey
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:15:00 stop = 25/09/2018 08:50:00 title = Saul Alvarez vs Gennady Golovkin II
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 08:00:00 title = Nigeria vs Turkey
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:30:00 title = Saul Alvarez vs Gennady Golovkin II
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:50:00 stop = 25/09/2018 09:25:00 title = Race 1
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:30:00 title = Saul Alvarez vs Gennady Golovkin II
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 09:25:00 stop = 25/09/2018 10:05:00 title = Race 2
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:30:00 title = Saul Alvarez vs Gennady Golovkin II
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 10:30:00 title = Race 1
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:05:00 stop = 25/09/2018 11:30:00 title = China vs USA
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 10:30:00 title = Race 1
+      Replaces ----- start = 25/09/2018 10:30:00 stop = 25/09/2018 11:30:00 title = Race 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 11:30:00 stop = 25/09/2018 12:19:00 title = Trofeo Pirelli Race 1
+      Replaces ----- start = 25/09/2018 11:30:00 stop = 25/09/2018 13:30:00 title = China vs USA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:19:00 stop = 25/09/2018 13:15:00 title = Trofeo Pirelli Race 2
+      Replaces ----- start = 25/09/2018 11:30:00 stop = 25/09/2018 13:30:00 title = China vs USA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:15:00 stop = 25/09/2018 13:45:00 title = FAST ZONE 2018
+      Replaces ----- start = 25/09/2018 11:30:00 stop = 25/09/2018 13:30:00 title = China vs USA
+      Replaces ----- start = 25/09/2018 13:30:00 stop = 25/09/2018 15:30:00 title = Nigeria vs Turkey
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:45:00 stop = 25/09/2018 15:30:00 title = Nigeria vs Turkey
+      Replaces ----- start = 25/09/2018 13:30:00 stop = 25/09/2018 15:30:00 title = Nigeria vs Turkey
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:55:00 stop = 25/09/2018 17:54:00 title = Senegal vs China
+      Replaces ----- start = 25/09/2018 15:55:00 stop = 25/09/2018 17:55:00 title = Senegal vs China
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:54:00 stop = 25/09/2018 19:25:00 title = Barcelona vs Veszprem
+      Replaces ----- start = 25/09/2018 15:55:00 stop = 25/09/2018 17:55:00 title = Senegal vs China
+      Replaces ----- start = 25/09/2018 17:55:00 stop = 25/09/2018 19:25:00 title = Barcelona vs Veszprem
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 19:25:00 stop = 25/09/2018 21:26:00 title = Fc Koln vs Ingolstadt
+      Replaces ----- start = 25/09/2018 19:25:00 stop = 25/09/2018 21:30:00 title = Fc Koln vs Ingolstadt
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:26:00 stop = 25/09/2018 21:55:00 title = Sporting Greats
+      Replaces ----- start = 25/09/2018 19:25:00 stop = 25/09/2018 21:30:00 title = Fc Koln vs Ingolstadt
+      Replaces ----- start = 25/09/2018 21:30:00 stop = 25/09/2018 21:55:00 title = Sporting Greats
+nnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       HD8
+     missing shows added       0
+     changed shows updated     20
+     new shows added           17
+     unchanged shows inspected 1
+     total after update        38
+
+     elapstime / updated show  0.02 seconds
+(  11/239 ) BEIN.NET -- chan. (xmltv_id=HD9) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:45:00 stop = 26/09/2018 00:15:00 title = Sporting Greats
+      Replaces ----- start = 25/09/2018 23:45:00 stop = 26/09/2018 01:00:00 title = Sporting Greats
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/09/2018 00:15:00 stop = 26/09/2018 01:15:00 title = Best of US Open 2018
+      Replaces ----- start = 25/09/2018 23:45:00 stop = 26/09/2018 01:00:00 title = Sporting Greats
+nnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       HD9
+     missing shows added       0
+     changed shows updated     2
+     new shows added           13
+     unchanged shows inspected 0
+     total after update        15
+
+     elapstime / updated show  0.02 seconds
+(  12/239 ) BEIN.NET -- chan. (xmltv_id=HD10) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  13/239 ) BEIN.NET -- chan. (xmltv_id=SportsHD11) -- mode Incremental
+ii...............................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:30:00 stop = 25/09/2018 21:15:00 title = Sports Hub 2018/19
+      Replaces ----- start = 25/09/2018 20:30:00 stop = 25/09/2018 21:00:00 title = Sports Hub 2018/19
+      Replaces ----- start = 25/09/2018 21:00:00 stop = 25/09/2018 21:45:00 title = EPL News
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:15:00 stop = 25/09/2018 21:45:00 title = EPL News
+      Replaces ----- start = 25/09/2018 21:00:00 stop = 25/09/2018 21:45:00 title = EPL News
+.nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       SportsHD11
+     missing shows added       0
+     changed shows updated     2
+     new shows added           29
+     unchanged shows inspected 32
+     total after update        63
+
+     elapstime / updated show  0.02 seconds
+(  14/239 ) BEIN.NET -- chan. (xmltv_id=SportsHD12) -- mode Incremental
+ii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:00:00 stop = 25/09/2018 10:00:00 title = Detroit Lions vs New England Patriots
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 11:00:00 title = Detroit Lions vs New England Patriots
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:00:00 stop = 25/09/2018 11:05:00 title = UEFA Europa League Highlights 2018/19
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 11:00:00 title = Detroit Lions vs New England Patriots
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 11:15:00 title = The Premier League Show 2018/19
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 11:05:00 stop = 25/09/2018 11:15:00 title = The Premier League Show 2018/19
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 11:15:00 title = The Premier League Show 2018/19
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:15:00 stop = 25/09/2018 14:00:00 title = QPR vs Norwich City
+      Replaces ----- start = 25/09/2018 12:15:00 stop = 25/09/2018 15:45:00 title = QPR vs Norwich City
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 14:00:00 stop = 25/09/2018 15:45:00 title = Burnley vs A.F.C. Bournemouth
+      Replaces ----- start = 25/09/2018 12:15:00 stop = 25/09/2018 15:45:00 title = QPR vs Norwich City
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 16:45:00 stop = 25/09/2018 17:40:00 title = French Ligue 1 Highlights 2018/19
+      Replaces ----- start = 25/09/2018 16:45:00 stop = 25/09/2018 17:45:00 title = French Ligue 1 Highlights 2018/19
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:40:00 stop = 25/09/2018 19:30:00 title = Aston Villa vs Sheffield Wednesday
+      Replaces ----- start = 25/09/2018 16:45:00 stop = 25/09/2018 17:45:00 title = French Ligue 1 Highlights 2018/19
+      Replaces ----- start = 25/09/2018 17:45:00 stop = 25/09/2018 19:30:00 title = Aston Villa vs Sheffield Wednesday
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:10:00 stop = 25/09/2018 21:19:00 title = The Premier League Show 2018/19
+      Replaces ----- start = 25/09/2018 21:10:00 stop = 25/09/2018 21:35:00 title = The Premier League Show 2018/19
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:19:00 stop = 25/09/2018 21:50:00 title = Footbrazil 2018
+      Replaces ----- start = 25/09/2018 21:10:00 stop = 25/09/2018 21:35:00 title = The Premier League Show 2018/19
+      Replaces ----- start = 25/09/2018 21:35:00 stop = 26/09/2018 00:00:00 title = West Bromwich Albion vs Crystal Palace
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:50:00 stop = 26/09/2018 00:00:00 title = West Bromwich Albion vs Crystal Palace
+      Replaces ----- start = 25/09/2018 21:35:00 stop = 26/09/2018 00:00:00 title = West Bromwich Albion vs Crystal Palace
+nnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       SportsHD12
+     missing shows added       0
+     changed shows updated     10
+     new shows added           15
+     unchanged shows inspected 11
+     total after update        36
+
+     elapstime / updated show  0.02 seconds
+(  15/239 ) BEIN.NET -- chan. (xmltv_id=SportsHD13) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:00:00 title = D. Gavrilova AUS v J. Ostapenko LAT Tennis WTA Wuhan
+      Replaces ----- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:00:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:00:00 stop = 25/09/2018 04:00:00 title = J. Konta GBR v A. Barty AUS Tennis WTA Wuhan
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 04:00:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = D. Gavrilova AUS v J. Ostapenko LAT Tennis WTA Wuhan
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 06:00:00 stop = 25/09/2018 08:00:00 title = Rebecca Peterson vs Caroline Wozniacki
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 08:00:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:00:00 stop = 25/09/2018 10:00:00 title = Angelique Kerber vs  Madison Keys
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 10:00:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:00:00 stop = 25/09/2018 12:00:00 title = Aleksandra Krunic vs  Petra Kvitova
+      Replaces ----- start = 25/09/2018 10:00:00 stop = 25/09/2018 12:00:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:00:00 stop = 25/09/2018 14:30:00 title = Karolina Pliskova vs   Qiang Wang
+      Replaces ----- start = 25/09/2018 12:00:00 stop = 25/09/2018 14:30:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 14:30:00 stop = 25/09/2018 16:30:00 title = Katerina Sinikova vs  Caroline Garcia
+      Replaces ----- start = 25/09/2018 14:30:00 stop = 25/09/2018 16:30:00 title = Tennis WTA Wuhan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 16:30:00 stop = 25/09/2018 18:30:00 title = Simona Halep vs  Dominika Cibulkova
+      Replaces ----- start = 25/09/2018 16:30:00 stop = 25/09/2018 18:30:00 title = Tennis WTA Wuhan
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 19:00:00 stop = 25/09/2018 21:00:00 title = Angelique Kerber vs  Madison Keys
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 21:00:00 title = Tennis WTA Wuhan
+..nnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       SportsHD13
+     missing shows added       0
+     changed shows updated     10
+     new shows added           13
+     unchanged shows inspected 3
+     total after update        26
+
+     elapstime / updated show  0.02 seconds
+(  16/239 ) BEIN.NET -- chan. (xmltv_id=SportsHD14) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:30:00 stop = 26/09/2018 01:05:00 title = LE DECRASSAGE DE LUIS
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 26/09/2018 01:15:00 title = LE DECRASSAGE DE LUIS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/09/2018 01:05:00 stop = 26/09/2018 02:10:00 title = Label Boxe
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 26/09/2018 01:15:00 title = LE DECRASSAGE DE LUIS
+nnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       SportsHD14
+     missing shows added       0
+     changed shows updated     2
+     new shows added           16
+     unchanged shows inspected 0
+     total after update        18
+
+     elapstime / updated show  0.02 seconds
+(  17/239 ) BEIN.NET -- chan. (xmltv_id=SportsHD15) -- mode Incremental
+ii..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 01:00:00 stop = 25/09/2018 03:00:00 title = LIGUE 2
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 07:00:00 title = LIGUE 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 03:00:00 stop = 25/09/2018 04:40:00 title = SERIE a
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 07:00:00 title = LIGUE 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:40:00 stop = 25/09/2018 05:30:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 07:00:00 title = LIGUE 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:15:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 07:00:00 title = LIGUE 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 06:15:00 stop = 25/09/2018 07:00:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 07:00:00 title = LIGUE 2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:00:00 stop = 25/09/2018 07:45:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 07:00:00 stop = 25/09/2018 08:40:00 title = FOOTBALL LEAGUE
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:45:00 stop = 25/09/2018 09:00:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 07:00:00 stop = 25/09/2018 08:40:00 title = FOOTBALL LEAGUE
+      Replaces ----- start = 25/09/2018 08:40:00 stop = 25/09/2018 09:25:00 title = CA SE PASSE SUR BEIN SPORTS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 09:00:00 stop = 25/09/2018 11:30:00 title = LIGA
+      Replaces ----- start = 25/09/2018 08:40:00 stop = 25/09/2018 09:25:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 09:25:00 stop = 25/09/2018 10:15:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 10:15:00 stop = 25/09/2018 11:00:00 title = CA SE PASSE SUR BEIN SPORTS
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 13:00:00 title = BUNDESLIGA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 11:30:00 stop = 25/09/2018 12:00:00 title = This Is Paris
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 13:00:00 title = BUNDESLIGA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:00:00 stop = 25/09/2018 12:30:00 title = CLUB EUROPE GIGA LIGA
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 13:00:00 title = BUNDESLIGA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:30:00 stop = 25/09/2018 13:00:00 title = CLUB EUROPE TUTTA SERIE A
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 13:00:00 title = BUNDESLIGA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:00:00 stop = 25/09/2018 13:30:00 title = CLUB EUROPE DIE BULISCHAU
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 15:00:00 title = LIGA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:30:00 stop = 25/09/2018 14:30:00 title = CLUB EUROPE
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 15:00:00 title = LIGA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 14:30:00 stop = 25/09/2018 16:30:00 title = SERIE a
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 15:00:00 title = LIGA
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 17:00:00 title = SERIE a
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 16:30:00 stop = 25/09/2018 18:30:00 title = LIGA
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 17:00:00 title = SERIE a
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:40:00 title = BUNDESLIGA
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 18:30:00 stop = 25/09/2018 20:45:00 title = BUNDESLIGA
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:40:00 title = BUNDESLIGA
+      Replaces ----- start = 25/09/2018 18:40:00 stop = 25/09/2018 19:45:00 title = LIGUE DES CHAMPIONS MASCULINE
+      Replaces ----- start = 25/09/2018 19:45:00 stop = 25/09/2018 21:50:00 title = CHAMPIONS LEAGUE J01
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:45:00 stop = 25/09/2018 21:15:00 title = This Is Paris
+      Replaces ----- start = 25/09/2018 19:45:00 stop = 25/09/2018 21:50:00 title = CHAMPIONS LEAGUE J01
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:15:00 stop = 25/09/2018 21:25:00 title = CHAMPIONS ARENA
+      Replaces ----- start = 25/09/2018 19:45:00 stop = 25/09/2018 21:50:00 title = CHAMPIONS LEAGUE J01
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 21:25:00 stop = 25/09/2018 23:15:00 title = CHAMPIONS ARENA
+      Replaces ----- start = 25/09/2018 19:45:00 stop = 25/09/2018 21:50:00 title = CHAMPIONS LEAGUE J01
+      Replaces ----- start = 25/09/2018 21:50:00 stop = 26/09/2018 00:05:00 title = CHAMPIONS LEAGUE J01
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:15:00 stop = 26/09/2018 00:45:00 title = CHAMPIONS ARENA
+      Replaces ----- start = 25/09/2018 21:50:00 stop = 26/09/2018 00:05:00 title = CHAMPIONS LEAGUE J01
+n
+0.04 sec/update
+   Summary for update of       SportsHD15
+     missing shows added       0
+     changed shows updated     20
+     new shows added           1
+     unchanged shows inspected 2
+     total after update        23
+
+     elapstime / updated show  0.04 seconds
+(  18/239 ) BEIN.NET -- chan. (xmltv_id=SportsHD16) -- mode Incremental
+ii.nnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       SportsHD16
+     missing shows added       0
+     changed shows updated     0
+     new shows added           15
+     unchanged shows inspected 1
+     total after update        16
+
+     elapstime / updated show  0.02 seconds
+(  19/239 ) BEIN.NET -- chan. (xmltv_id=SportsHD17) -- mode Incremental
+iinn
+0.02 sec/update
+   Summary for update of       SportsHD17
+     missing shows added       0
+     changed shows updated     0
+     new shows added           2
+     unchanged shows inspected 0
+     total after update        2
+
+     elapstime / updated show  0.03 seconds
+(  20/239 ) BEIN.NET -- chan. (xmltv_id=News_ar) -- mode Incremental
+ii..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:07:00 stop = 25/09/2018 00:16:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 00:07:00 stop = 25/09/2018 00:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 00:15:00 stop = 25/09/2018 00:30:00 title = Special Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:16:00 stop = 25/09/2018 00:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 00:15:00 stop = 25/09/2018 00:30:00 title = Special Report
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:07:00 stop = 25/09/2018 04:16:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 04:07:00 stop = 25/09/2018 04:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 04:15:00 stop = 25/09/2018 04:30:00 title = Special Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:16:00 stop = 25/09/2018 04:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 04:15:00 stop = 25/09/2018 04:30:00 title = Special Report
+.......................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       News_ar
+     missing shows added       0
+     changed shows updated     4
+     new shows added           70
+     unchanged shows inspected 66
+     total after update        140
+
+     elapstime / updated show  0.02 seconds
+(  21/239 ) BEIN.NET -- chan. (xmltv_id=SportsGlobalHD) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:35:00 title = South Korea vs Japan
+      Replaces ----- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:00:00 title = South Korea vs Japan
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 03:45:00 title = Qatar vs Bahrain
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:35:00 stop = 25/09/2018 04:45:00 title = Qatar vs Bahrain
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 03:45:00 title = Qatar vs Bahrain
+      Replaces ----- start = 25/09/2018 03:45:00 stop = 25/09/2018 05:30:00 title = Al Sadd vs Al Rayyan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:45:00 stop = 25/09/2018 05:15:00 title = Dream Team Catalogue
+      Replaces ----- start = 25/09/2018 03:45:00 stop = 25/09/2018 05:30:00 title = Al Sadd vs Al Rayyan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:15:00 stop = 25/09/2018 07:00:00 title = Al Sadd vs Al Rayyan
+      Replaces ----- start = 25/09/2018 03:45:00 stop = 25/09/2018 05:30:00 title = Al Sadd vs Al Rayyan
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 07:15:00 title = Al Duhail vs Al Gharafa
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:00:00 stop = 25/09/2018 08:45:00 title = Al Duhail vs Al Gharafa
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 07:15:00 title = Al Duhail vs Al Gharafa
+      Replaces ----- start = 25/09/2018 07:15:00 stop = 25/09/2018 07:45:00 title = Dream Team Catalogue
+      Replaces ----- start = 25/09/2018 07:45:00 stop = 25/09/2018 09:30:00 title = IRT vs MAT
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:45:00 stop = 25/09/2018 10:30:00 title = IRT vs MAT
+      Replaces ----- start = 25/09/2018 07:45:00 stop = 25/09/2018 09:30:00 title = IRT vs MAT
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 11:15:00 title = Hamburger Sv vs Jahn Regensburg
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:30:00 stop = 25/09/2018 12:15:00 title = Hamburger Sv vs Jahn Regensburg
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 11:15:00 title = Hamburger Sv vs Jahn Regensburg
+      Replaces ----- start = 25/09/2018 11:15:00 stop = 25/09/2018 13:00:00 title = DTM Motorsport
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:15:00 stop = 25/09/2018 13:30:00 title = DTM Motorsport
+      Replaces ----- start = 25/09/2018 11:15:00 stop = 25/09/2018 13:00:00 title = DTM Motorsport
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:45:00 title = Paris Fc vs Metz
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:30:00 stop = 25/09/2018 15:15:00 title = Paris Fc vs Metz
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:45:00 title = Paris Fc vs Metz
+      Replaces ----- start = 25/09/2018 14:45:00 stop = 25/09/2018 16:30:00 title = Las Palmas vs Malaga
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:15:00 stop = 25/09/2018 17:00:00 title = Las Palmas vs Malaga
+      Replaces ----- start = 25/09/2018 14:45:00 stop = 25/09/2018 16:30:00 title = Las Palmas vs Malaga
+      Replaces ----- start = 25/09/2018 16:30:00 stop = 25/09/2018 18:15:00 title = Pick Szegued vs Nantes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:30:00 title = Pick Szegued vs Nantes
+      Replaces ----- start = 25/09/2018 16:30:00 stop = 25/09/2018 18:15:00 title = Pick Szegued vs Nantes
+      Replaces ----- start = 25/09/2018 18:15:00 stop = 25/09/2018 20:15:00 title = Iran  vs China
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 18:30:00 stop = 25/09/2018 20:30:00 title = Iran  vs China
+      Replaces ----- start = 25/09/2018 18:15:00 stop = 25/09/2018 20:15:00 title = Iran  vs China
+      Replaces ----- start = 25/09/2018 20:15:00 stop = 25/09/2018 22:15:00 title = Japan vs India
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:30:00 stop = 25/09/2018 22:15:00 title = Japan vs India
+      Replaces ----- start = 25/09/2018 20:15:00 stop = 25/09/2018 22:15:00 title = Japan vs India
+..n
+0.03 sec/update
+   Summary for update of       SportsGlobalHD
+     missing shows added       0
+     changed shows updated     13
+     new shows added           1
+     unchanged shows inspected 2
+     total after update        16
+
+     elapstime / updated show  0.04 seconds
+(  22/239 ) BEIN.NET -- chan. (xmltv_id=BS NBA) -- mode Incremental
+ii.................nnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       BS NBA
+     missing shows added       0
+     changed shows updated     0
+     new shows added           17
+     unchanged shows inspected 17
+     total after update        34
+
+     elapstime / updated show  0.02 seconds
+(  23/239 ) BEIN.NET -- chan. (xmltv_id=4K) -- mode Incremental
+ii.nnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       4K
+     missing shows added       0
+     changed shows updated     0
+     new shows added           11
+     unchanged shows inspected 1
+     total after update        12
+
+     elapstime / updated show  0.02 seconds
+(  24/239 ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       OlympicChannel
+     missing shows added       0
+     changed shows updated     0
+     new shows added           20
+     unchanged shows inspected 1
+     total after update        21
+
+     elapstime / updated show  0.02 seconds
+(  25/239 ) BEIN.NET -- chan. (xmltv_id=Global) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       Global
+     missing shows added       0
+     changed shows updated     0
+     new shows added           21
+     unchanged shows inspected 1
+     total after update        40
+
+     elapstime / updated show  0.02 seconds
+(  26/239 ) BEIN.NET -- chan. (xmltv_id=Spanish) -- mode Incremental
+iinc
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 01:00:00 stop = 25/09/2018 01:30:00 title = FC Barcelona vs. Girona
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 02:00:00 title = El Club
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 01:30:00 stop = 25/09/2018 02:00:00 title = Fenerbahce vs Besiktas
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 02:00:00 title = El Club
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:00:00 stop = 25/09/2018 02:30:00 title = Getafe vs. Atlético de Madrid
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 04:00:00 title = Stade Rennes vs. Paris SaintGermain FC
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:30:00 title = La Liga Highlight Zone
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 04:00:00 title = Stade Rennes vs. Paris SaintGermain FC
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 03:30:00 stop = 25/09/2018 04:00:00 title = The Xtra
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 04:00:00 title = Stade Rennes vs. Paris SaintGermain FC
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:00:00 stop = 25/09/2018 05:00:00 title = The Locker Room
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = Barcelona vs. Girona
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:00:00 stop = 25/09/2018 05:30:00 title = FC Barcelona vs. Girona
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = Barcelona vs. Girona
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:00:00 title = Stade Rennes vs. Paris Saint Germain
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 06:00:00 title = Barcelona vs. Girona
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 06:00:00 stop = 25/09/2018 06:30:00 title = Fenerbahce vs Besiktas
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 08:00:00 title = Real Madrid vs. Espanyol
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 06:30:00 stop = 25/09/2018 07:00:00 title = Real Madrid vs. Espanyol
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 08:00:00 title = Real Madrid vs. Espanyol
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:00:00 stop = 25/09/2018 09:00:00 title = Real Betis vs. Athletic Bilbao
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 08:00:00 title = Real Madrid vs. Espanyol
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = The Xtra
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 09:00:00 stop = 25/09/2018 10:00:00 title = The Locker Room
+      Replaces ----- start = 25/09/2018 09:00:00 stop = 25/09/2018 10:00:00 title = El Club
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:00:00 stop = 25/09/2018 13:30:00 title = The Xtra
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = The Xtra
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:30:00 stop = 25/09/2018 14:30:00 title = The Locker Room
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = The Xtra
+      Replaces ----- start = 25/09/2018 14:00:00 stop = 25/09/2018 16:00:00 title = Villarreal vs. Valencia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 14:30:00 stop = 25/09/2018 15:00:00 title = FC Barcelona vs. Girona
+      Replaces ----- start = 25/09/2018 14:00:00 stop = 25/09/2018 16:00:00 title = Villarreal vs. Valencia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:00:00 stop = 25/09/2018 16:00:00 title = La Liga Highlight Zone
+      Replaces ----- start = 25/09/2018 14:00:00 stop = 25/09/2018 16:00:00 title = Villarreal vs. Valencia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 16:00:00 stop = 25/09/2018 16:30:00 title = The Xtra
+      Replaces ----- start = 25/09/2018 16:00:00 stop = 25/09/2018 17:00:00 title = The Xtra
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 16:30:00 stop = 25/09/2018 17:30:00 title = The Locker Room
+      Replaces ----- start = 25/09/2018 16:00:00 stop = 25/09/2018 17:00:00 title = The Xtra
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 17:30:00 title = Stade Rennes vs. Paris Saint Germain
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:30:00 stop = 25/09/2018 18:00:00 title = FC Barcelona vs. Girona
+      Replaces ----- start = 25/09/2018 17:30:00 stop = 25/09/2018 18:00:00 title = Getafe vs. Atlético de Madrid
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 18:00:00 stop = 25/09/2018 20:00:00 title = Real Madrid vs. Espanyol
+      Replaces ----- start = 25/09/2018 18:00:00 stop = 25/09/2018 19:00:00 title = El Club
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 20:00:00 title = El Club
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:00:00 stop = 25/09/2018 20:50:00 title = Imparables
+      Replaces ----- start = 25/09/2018 20:00:00 stop = 25/09/2018 20:55:00 title = Imparables
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:50:00 stop = 25/09/2018 22:55:00 title = Espanyol vs. Eibar
+      Replaces ----- start = 25/09/2018 20:00:00 stop = 25/09/2018 20:55:00 title = Imparables
+      Replaces ----- start = 25/09/2018 20:55:00 stop = 25/09/2018 23:00:00 title = Fenerbahce SK vs. Besiktas JK
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 22:55:00 stop = 26/09/2018 01:00:00 title = Atlético Madrid vs. Huesca
+      Replaces ----- start = 25/09/2018 20:55:00 stop = 25/09/2018 23:00:00 title = Fenerbahce SK vs. Besiktas JK
+      Replaces ----- start = 25/09/2018 23:00:00 stop = 25/09/2018 23:30:00 title = Real Madrid vs. Espanyol
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 26/09/2018 00:00:00 title = Stade Rennes vs. Paris Saint Germain
+n
+0.03 sec/update
+   Summary for update of       Spanish
+     missing shows added       0
+     changed shows updated     23
+     new shows added           2
+     unchanged shows inspected 6
+     total after update        31
+
+     elapstime / updated show  0.03 seconds
+(  27/239 ) BEIN.NET -- chan. (xmltv_id=MoviesHD1) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 1 times
+Unable to update channel MoviesHD1
+Generic syntax exception:
+   message: 
+no index page data received from MoviesHD1
+unable to update channel, try again later
+Existing guide data restored!
+(  27/239 ) BEIN.NET -- chan. (xmltv_id=MoviesHD2) -- mode Incremental
+ii
+error downloading page: The request timed out (5sec)
+Retry 1 of 1 times
+Unable to update channel MoviesHD2
+Generic syntax exception:
+   message: 
+no index page data received from MoviesHD2
+unable to update channel, try again later
+Existing guide data restored!
+(  27/239 ) BEIN.NET -- chan. (xmltv_id=MoviesHD3) -- mode Incremental
+ii.nnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       MoviesHD3
+     missing shows added       0
+     changed shows updated     0
+     new shows added           12
+     unchanged shows inspected 1
+     total after update        13
+
+     elapstime / updated show  0.02 seconds
+(  28/239 ) BEIN.NET -- chan. (xmltv_id=MoviesHD4) -- mode Incremental
+ii
+error downloading page: The request timed out (5sec)
+Retry 1 of 1 times
+Unable to update channel MoviesHD4
+Generic syntax exception:
+   message: 
+no index page data received from MoviesHD4
+unable to update channel, try again later
+Existing guide data restored!
+(  28/239 ) BEIN.NET -- chan. (xmltv_id=max1) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:35:00 title = South Korea vs Japan
+      Replaces ----- start = 25/09/2018 00:00:00 stop = 25/09/2018 00:05:00 title = Briefs @0000 2018
+      Replaces ----- start = 25/09/2018 00:05:00 stop = 25/09/2018 00:07:00 title = News Stars
+      Replaces ----- start = 25/09/2018 00:07:00 stop = 25/09/2018 00:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 00:15:00 stop = 25/09/2018 00:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 00:30:00 stop = 25/09/2018 01:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 02:00:00 title = Sports News Hasad
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 02:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 02:05:00 stop = 25/09/2018 02:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 02:15:00 stop = 25/09/2018 02:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:35:00 stop = 25/09/2018 04:45:00 title = Qatar vs Bahrain
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 03:00:00 stop = 25/09/2018 04:00:00 title = News Hour
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 04:07:00 title = Briefs
+      Replaces ----- start = 25/09/2018 04:07:00 stop = 25/09/2018 04:09:00 title = News Stars
+      Replaces ----- start = 25/09/2018 04:09:00 stop = 25/09/2018 04:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 04:15:00 stop = 25/09/2018 04:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:45:00 stop = 25/09/2018 05:15:00 title = Dream Team Catalogue
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 05:00:00 stop = 25/09/2018 05:15:00 title = Briefs
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:15:00 stop = 25/09/2018 07:00:00 title = Al Sadd vs Al Rayyan
+      Replaces ----- start = 25/09/2018 05:15:00 stop = 25/09/2018 05:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 07:00:00 title = News Hour
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:00:00 stop = 25/09/2018 08:45:00 title = Al Duhail vs Al Gharafa
+      Replaces ----- start = 25/09/2018 07:00:00 stop = 25/09/2018 07:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 07:05:00 stop = 25/09/2018 07:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 07:10:00 stop = 25/09/2018 07:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 07:15:00 stop = 25/09/2018 07:30:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 07:30:00 stop = 25/09/2018 08:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:45:00 stop = 25/09/2018 10:30:00 title = IRT vs MAT
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 09:00:00 stop = 25/09/2018 09:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 09:05:00 stop = 25/09/2018 09:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 09:10:00 stop = 25/09/2018 09:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 09:15:00 stop = 25/09/2018 09:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 10:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 10:00:00 stop = 25/09/2018 10:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:30:00 stop = 25/09/2018 12:15:00 title = Hamburger Sv vs Jahn Regensburg
+      Replaces ----- start = 25/09/2018 10:30:00 stop = 25/09/2018 10:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 10:45:00 stop = 25/09/2018 11:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 12:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 12:00:00 stop = 25/09/2018 12:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 12:05:00 stop = 25/09/2018 12:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 12:10:00 stop = 25/09/2018 12:15:00 title = News Stars
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:15:00 stop = 25/09/2018 13:30:00 title = DTM Motorsport
+      Replaces ----- start = 25/09/2018 12:15:00 stop = 25/09/2018 12:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 12:30:00 stop = 25/09/2018 13:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:30:00 stop = 25/09/2018 15:15:00 title = Paris Fc vs Metz
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+      Replaces ----- start = 25/09/2018 14:00:00 stop = 25/09/2018 14:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 14:05:00 stop = 25/09/2018 14:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 14:15:00 stop = 25/09/2018 14:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 14:30:00 stop = 25/09/2018 15:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:15:00 stop = 25/09/2018 17:00:00 title = Las Palmas vs Malaga
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 15:30:00 stop = 25/09/2018 15:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 15:45:00 stop = 25/09/2018 16:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 16:00:00 stop = 25/09/2018 17:00:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:30:00 title = Pick Szegued vs Nantes
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 17:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 17:05:00 stop = 25/09/2018 17:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 17:15:00 stop = 25/09/2018 17:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 17:30:00 stop = 25/09/2018 18:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 18:00:00 stop = 25/09/2018 18:30:00 title = Sign Bulletn
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 18:30:00 stop = 25/09/2018 20:30:00 title = Iran  vs China
+      Replaces ----- start = 25/09/2018 18:30:00 stop = 25/09/2018 18:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 18:45:00 stop = 25/09/2018 19:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 20:00:00 title = Evening News
+      Replaces ----- start = 25/09/2018 20:00:00 stop = 25/09/2018 20:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 20:05:00 stop = 25/09/2018 20:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 20:15:00 stop = 25/09/2018 20:30:00 title = Special Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:30:00 stop = 25/09/2018 22:15:00 title = Japan vs India
+      Replaces ----- start = 25/09/2018 20:30:00 stop = 25/09/2018 21:00:00 title = ARAB STARS
+      Replaces ----- start = 25/09/2018 21:00:00 stop = 25/09/2018 21:15:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 21:15:00 stop = 25/09/2018 23:30:00 title = The Best
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 22:15:00 stop = 25/09/2018 23:45:00 title = PSG vs St Raphael
+      Replaces ----- start = 25/09/2018 21:15:00 stop = 25/09/2018 23:30:00 title = The Best
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 26/09/2018 00:00:00 title = EPL NEWS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:45:00 stop = 26/09/2018 01:15:00 title = Montpellier vs Istres
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 26/09/2018 00:00:00 title = EPL NEWS
+0.06 sec/update
+   Summary for update of       max1
+     missing shows added       0
+     changed shows updated     15
+     new shows added           0
+     unchanged shows inspected 0
+     total after update        15
+
+     elapstime / updated show  0.07 seconds
+(  29/239 ) BEIN.NET -- chan. (xmltv_id=max2) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:35:00 title = South Korea vs Japan
+      Replaces ----- start = 25/09/2018 00:00:00 stop = 25/09/2018 00:05:00 title = Briefs @0000 2018
+      Replaces ----- start = 25/09/2018 00:05:00 stop = 25/09/2018 00:07:00 title = News Stars
+      Replaces ----- start = 25/09/2018 00:07:00 stop = 25/09/2018 00:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 00:15:00 stop = 25/09/2018 00:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 00:30:00 stop = 25/09/2018 01:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 02:00:00 title = Sports News Hasad
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 02:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 02:05:00 stop = 25/09/2018 02:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 02:15:00 stop = 25/09/2018 02:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:35:00 stop = 25/09/2018 04:45:00 title = Qatar vs Bahrain
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 03:00:00 stop = 25/09/2018 04:00:00 title = News Hour
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 04:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 04:05:00 stop = 25/09/2018 04:07:00 title = News Stars
+      Replaces ----- start = 25/09/2018 04:07:00 stop = 25/09/2018 04:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 04:15:00 stop = 25/09/2018 04:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:45:00 stop = 25/09/2018 05:15:00 title = Dream Team Catalogue
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 05:00:00 stop = 25/09/2018 05:15:00 title = Briefs
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:15:00 stop = 25/09/2018 07:00:00 title = Al Sadd vs Al Rayyan
+      Replaces ----- start = 25/09/2018 05:15:00 stop = 25/09/2018 05:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 07:00:00 title = News Hour
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:00:00 stop = 25/09/2018 08:45:00 title = Al Duhail vs Al Gharafa
+      Replaces ----- start = 25/09/2018 07:00:00 stop = 25/09/2018 07:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 07:05:00 stop = 25/09/2018 07:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 07:10:00 stop = 25/09/2018 07:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 07:15:00 stop = 25/09/2018 07:30:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 07:30:00 stop = 25/09/2018 08:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:45:00 stop = 25/09/2018 10:30:00 title = IRT vs MAT
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 09:00:00 stop = 25/09/2018 09:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 09:05:00 stop = 25/09/2018 09:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 09:10:00 stop = 25/09/2018 09:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 09:15:00 stop = 25/09/2018 09:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 10:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 10:00:00 stop = 25/09/2018 10:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:30:00 stop = 25/09/2018 12:15:00 title = Hamburger Sv vs Jahn Regensburg
+      Replaces ----- start = 25/09/2018 10:30:00 stop = 25/09/2018 10:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 10:45:00 stop = 25/09/2018 11:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 12:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 12:00:00 stop = 25/09/2018 12:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 12:05:00 stop = 25/09/2018 12:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 12:10:00 stop = 25/09/2018 12:15:00 title = News Stars
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:15:00 stop = 25/09/2018 13:30:00 title = DTM Motorsport
+      Replaces ----- start = 25/09/2018 12:15:00 stop = 25/09/2018 12:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 12:30:00 stop = 25/09/2018 13:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:30:00 stop = 25/09/2018 15:15:00 title = Paris Fc vs Metz
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+      Replaces ----- start = 25/09/2018 14:00:00 stop = 25/09/2018 14:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 14:05:00 stop = 25/09/2018 14:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 14:15:00 stop = 25/09/2018 14:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 14:30:00 stop = 25/09/2018 15:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:15:00 stop = 25/09/2018 17:00:00 title = Las Palmas vs Malaga
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 15:30:00 stop = 25/09/2018 15:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 15:45:00 stop = 25/09/2018 16:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 16:00:00 stop = 25/09/2018 17:00:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:30:00 title = Pick Szegued vs Nantes
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 17:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 17:05:00 stop = 25/09/2018 17:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 17:15:00 stop = 25/09/2018 17:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 17:30:00 stop = 25/09/2018 18:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 18:00:00 stop = 25/09/2018 18:30:00 title = Sign Bulletn
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 18:30:00 stop = 25/09/2018 20:30:00 title = Iran  vs China
+      Replaces ----- start = 25/09/2018 18:30:00 stop = 25/09/2018 18:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 18:45:00 stop = 25/09/2018 19:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 20:00:00 title = Evening News
+      Replaces ----- start = 25/09/2018 20:00:00 stop = 25/09/2018 20:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 20:05:00 stop = 25/09/2018 20:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 20:15:00 stop = 25/09/2018 20:30:00 title = Special Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:30:00 stop = 25/09/2018 22:15:00 title = Japan vs India
+      Replaces ----- start = 25/09/2018 20:30:00 stop = 25/09/2018 22:00:00 title = The Best
+      Replaces ----- start = 25/09/2018 22:00:00 stop = 25/09/2018 22:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 22:15:00 stop = 25/09/2018 23:45:00 title = PSG vs St Raphael
+      Replaces ----- start = 25/09/2018 22:00:00 stop = 25/09/2018 22:30:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 22:30:00 stop = 25/09/2018 23:00:00 title = ARAB STARS
+      Replaces ----- start = 25/09/2018 23:00:00 stop = 25/09/2018 23:30:00 title = EPL NEWS
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 25/09/2018 23:45:00 title = Magazine Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:45:00 stop = 26/09/2018 01:15:00 title = Montpellier vs Istres
+      Replaces ----- start = 25/09/2018 23:45:00 stop = 26/09/2018 00:00:00 title = Interview Report
+0.07 sec/update
+   Summary for update of       max2
+     missing shows added       0
+     changed shows updated     15
+     new shows added           0
+     unchanged shows inspected 0
+     total after update        15
+
+     elapstime / updated show  0.07 seconds
+(  30/239 ) BEIN.NET -- chan. (xmltv_id=max3) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:35:00 title = South Korea vs Japan
+      Replaces ----- start = 25/09/2018 00:00:00 stop = 25/09/2018 00:05:00 title = Briefs @0000 2018
+      Replaces ----- start = 25/09/2018 00:05:00 stop = 25/09/2018 00:07:00 title = News Stars
+      Replaces ----- start = 25/09/2018 00:07:00 stop = 25/09/2018 00:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 00:15:00 stop = 25/09/2018 00:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 00:30:00 stop = 25/09/2018 01:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 02:00:00 title = Sports News Hasad
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 02:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 02:05:00 stop = 25/09/2018 02:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 02:15:00 stop = 25/09/2018 02:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:35:00 stop = 25/09/2018 04:45:00 title = Qatar vs Bahrain
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 03:00:00 stop = 25/09/2018 04:00:00 title = News Hour
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 04:07:00 title = Briefs
+      Replaces ----- start = 25/09/2018 04:07:00 stop = 25/09/2018 04:09:00 title = News Stars
+      Replaces ----- start = 25/09/2018 04:09:00 stop = 25/09/2018 04:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 04:15:00 stop = 25/09/2018 04:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:45:00 stop = 25/09/2018 05:15:00 title = Dream Team Catalogue
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 05:00:00 stop = 25/09/2018 05:15:00 title = Briefs
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:15:00 stop = 25/09/2018 07:00:00 title = Al Sadd vs Al Rayyan
+      Replaces ----- start = 25/09/2018 05:15:00 stop = 25/09/2018 05:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 07:00:00 title = News Hour
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:00:00 stop = 25/09/2018 08:45:00 title = Al Duhail vs Al Gharafa
+      Replaces ----- start = 25/09/2018 07:00:00 stop = 25/09/2018 07:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 07:05:00 stop = 25/09/2018 07:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 07:10:00 stop = 25/09/2018 07:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 07:15:00 stop = 25/09/2018 07:30:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 07:30:00 stop = 25/09/2018 08:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:45:00 stop = 25/09/2018 10:30:00 title = IRT vs MAT
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 09:00:00 stop = 25/09/2018 09:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 09:05:00 stop = 25/09/2018 09:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 09:10:00 stop = 25/09/2018 09:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 09:15:00 stop = 25/09/2018 09:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 10:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 10:00:00 stop = 25/09/2018 10:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:30:00 stop = 25/09/2018 12:15:00 title = Hamburger Sv vs Jahn Regensburg
+      Replaces ----- start = 25/09/2018 10:30:00 stop = 25/09/2018 10:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 10:45:00 stop = 25/09/2018 11:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 12:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 12:00:00 stop = 25/09/2018 12:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 12:05:00 stop = 25/09/2018 12:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 12:10:00 stop = 25/09/2018 12:15:00 title = News Stars
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:15:00 stop = 25/09/2018 13:30:00 title = DTM Motorsport
+      Replaces ----- start = 25/09/2018 12:15:00 stop = 25/09/2018 12:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 12:30:00 stop = 25/09/2018 13:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:30:00 stop = 25/09/2018 15:15:00 title = Paris Fc vs Metz
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+      Replaces ----- start = 25/09/2018 14:00:00 stop = 25/09/2018 14:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 14:05:00 stop = 25/09/2018 14:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 14:15:00 stop = 25/09/2018 14:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 14:30:00 stop = 25/09/2018 15:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:15:00 stop = 25/09/2018 17:00:00 title = Las Palmas vs Malaga
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 15:30:00 stop = 25/09/2018 15:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 15:45:00 stop = 25/09/2018 16:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 16:00:00 stop = 25/09/2018 17:00:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:30:00 title = Pick Szegued vs Nantes
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 17:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 17:05:00 stop = 25/09/2018 17:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 17:15:00 stop = 25/09/2018 17:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 17:30:00 stop = 25/09/2018 18:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 18:00:00 stop = 25/09/2018 18:30:00 title = Sign Bulletn
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 18:30:00 stop = 25/09/2018 20:30:00 title = Iran  vs China
+      Replaces ----- start = 25/09/2018 18:30:00 stop = 25/09/2018 18:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 18:45:00 stop = 25/09/2018 19:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 20:00:00 title = Evening News
+      Replaces ----- start = 25/09/2018 20:00:00 stop = 25/09/2018 20:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 20:05:00 stop = 25/09/2018 20:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 20:15:00 stop = 25/09/2018 20:30:00 title = Special Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:30:00 stop = 25/09/2018 22:15:00 title = Japan vs India
+      Replaces ----- start = 25/09/2018 20:30:00 stop = 25/09/2018 21:00:00 title = ARAB STARS
+      Replaces ----- start = 25/09/2018 21:00:00 stop = 25/09/2018 21:15:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 21:15:00 stop = 25/09/2018 23:30:00 title = The Best
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 22:15:00 stop = 25/09/2018 23:45:00 title = PSG vs St Raphael
+      Replaces ----- start = 25/09/2018 21:15:00 stop = 25/09/2018 23:30:00 title = The Best
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 26/09/2018 00:00:00 title = EPL NEWS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:45:00 stop = 26/09/2018 01:15:00 title = Montpellier vs Istres
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 26/09/2018 00:00:00 title = EPL NEWS
+0.07 sec/update
+   Summary for update of       max3
+     missing shows added       0
+     changed shows updated     15
+     new shows added           0
+     unchanged shows inspected 0
+     total after update        15
+
+     elapstime / updated show  0.07 seconds
+(  31/239 ) BEIN.NET -- chan. (xmltv_id=max4) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 00:00:00 stop = 25/09/2018 02:35:00 title = South Korea vs Japan
+      Replaces ----- start = 25/09/2018 00:00:00 stop = 25/09/2018 00:05:00 title = Briefs @0000 2018
+      Replaces ----- start = 25/09/2018 00:05:00 stop = 25/09/2018 00:07:00 title = News Stars
+      Replaces ----- start = 25/09/2018 00:07:00 stop = 25/09/2018 00:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 00:15:00 stop = 25/09/2018 00:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 00:30:00 stop = 25/09/2018 01:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 01:00:00 stop = 25/09/2018 02:00:00 title = Sports News Hasad
+      Replaces ----- start = 25/09/2018 02:00:00 stop = 25/09/2018 02:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 02:05:00 stop = 25/09/2018 02:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 02:15:00 stop = 25/09/2018 02:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 02:35:00 stop = 25/09/2018 04:45:00 title = Qatar vs Bahrain
+      Replaces ----- start = 25/09/2018 02:30:00 stop = 25/09/2018 03:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 03:00:00 stop = 25/09/2018 04:00:00 title = News Hour
+      Replaces ----- start = 25/09/2018 04:00:00 stop = 25/09/2018 04:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 04:05:00 stop = 25/09/2018 04:07:00 title = News Stars
+      Replaces ----- start = 25/09/2018 04:07:00 stop = 25/09/2018 04:15:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 04:15:00 stop = 25/09/2018 04:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 04:45:00 stop = 25/09/2018 05:15:00 title = Dream Team Catalogue
+      Replaces ----- start = 25/09/2018 04:30:00 stop = 25/09/2018 05:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 05:00:00 stop = 25/09/2018 05:15:00 title = Briefs
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 05:15:00 stop = 25/09/2018 07:00:00 title = Al Sadd vs Al Rayyan
+      Replaces ----- start = 25/09/2018 05:15:00 stop = 25/09/2018 05:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 05:30:00 stop = 25/09/2018 06:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 06:00:00 stop = 25/09/2018 07:00:00 title = News Hour
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 07:00:00 stop = 25/09/2018 08:45:00 title = Al Duhail vs Al Gharafa
+      Replaces ----- start = 25/09/2018 07:00:00 stop = 25/09/2018 07:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 07:05:00 stop = 25/09/2018 07:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 07:10:00 stop = 25/09/2018 07:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 07:15:00 stop = 25/09/2018 07:30:00 title = Magazine Report
+      Replaces ----- start = 25/09/2018 07:30:00 stop = 25/09/2018 08:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 08:45:00 stop = 25/09/2018 10:30:00 title = IRT vs MAT
+      Replaces ----- start = 25/09/2018 08:00:00 stop = 25/09/2018 09:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 09:00:00 stop = 25/09/2018 09:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 09:05:00 stop = 25/09/2018 09:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 09:10:00 stop = 25/09/2018 09:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 09:15:00 stop = 25/09/2018 09:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 09:30:00 stop = 25/09/2018 10:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 10:00:00 stop = 25/09/2018 10:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 10:30:00 stop = 25/09/2018 12:15:00 title = Hamburger Sv vs Jahn Regensburg
+      Replaces ----- start = 25/09/2018 10:30:00 stop = 25/09/2018 10:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 10:45:00 stop = 25/09/2018 11:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 11:00:00 stop = 25/09/2018 12:00:00 title = Morning show
+      Replaces ----- start = 25/09/2018 12:00:00 stop = 25/09/2018 12:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 12:05:00 stop = 25/09/2018 12:10:00 title = The Weather
+      Replaces ----- start = 25/09/2018 12:10:00 stop = 25/09/2018 12:15:00 title = News Stars
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 12:15:00 stop = 25/09/2018 13:30:00 title = DTM Motorsport
+      Replaces ----- start = 25/09/2018 12:15:00 stop = 25/09/2018 12:30:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 12:30:00 stop = 25/09/2018 13:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 13:30:00 stop = 25/09/2018 15:15:00 title = Paris Fc vs Metz
+      Replaces ----- start = 25/09/2018 13:00:00 stop = 25/09/2018 14:00:00 title = Day News
+      Replaces ----- start = 25/09/2018 14:00:00 stop = 25/09/2018 14:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 14:05:00 stop = 25/09/2018 14:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 14:15:00 stop = 25/09/2018 14:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 14:30:00 stop = 25/09/2018 15:00:00 title = Arab NEWS
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 15:15:00 stop = 25/09/2018 17:00:00 title = Las Palmas vs Malaga
+      Replaces ----- start = 25/09/2018 15:00:00 stop = 25/09/2018 15:30:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 15:30:00 stop = 25/09/2018 15:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 15:45:00 stop = 25/09/2018 16:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 16:00:00 stop = 25/09/2018 17:00:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 17:00:00 stop = 25/09/2018 18:30:00 title = Pick Szegued vs Nantes
+      Replaces ----- start = 25/09/2018 17:00:00 stop = 25/09/2018 17:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 17:05:00 stop = 25/09/2018 17:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 17:15:00 stop = 25/09/2018 17:30:00 title = Special Report
+      Replaces ----- start = 25/09/2018 17:30:00 stop = 25/09/2018 18:00:00 title = WOMEN SHOW
+      Replaces ----- start = 25/09/2018 18:00:00 stop = 25/09/2018 18:30:00 title = Sign Bulletn
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 18:30:00 stop = 25/09/2018 20:30:00 title = Iran  vs China
+      Replaces ----- start = 25/09/2018 18:30:00 stop = 25/09/2018 18:45:00 title = News Stars
+      Replaces ----- start = 25/09/2018 18:45:00 stop = 25/09/2018 19:00:00 title = Interview Report
+      Replaces ----- start = 25/09/2018 19:00:00 stop = 25/09/2018 20:00:00 title = Evening News
+      Replaces ----- start = 25/09/2018 20:00:00 stop = 25/09/2018 20:05:00 title = Briefs
+      Replaces ----- start = 25/09/2018 20:05:00 stop = 25/09/2018 20:15:00 title = News Stars
+      Replaces ----- start = 25/09/2018 20:15:00 stop = 25/09/2018 20:30:00 title = Special Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 20:30:00 stop = 25/09/2018 22:15:00 title = Japan vs India
+      Replaces ----- start = 25/09/2018 20:30:00 stop = 25/09/2018 22:00:00 title = The Best
+      Replaces ----- start = 25/09/2018 22:00:00 stop = 25/09/2018 22:30:00 title = NEWS BULLETIN
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 22:15:00 stop = 25/09/2018 23:45:00 title = PSG vs St Raphael
+      Replaces ----- start = 25/09/2018 22:00:00 stop = 25/09/2018 22:30:00 title = NEWS BULLETIN
+      Replaces ----- start = 25/09/2018 22:30:00 stop = 25/09/2018 23:00:00 title = ARAB STARS
+      Replaces ----- start = 25/09/2018 23:00:00 stop = 25/09/2018 23:30:00 title = EPL NEWS
+      Replaces ----- start = 25/09/2018 23:30:00 stop = 25/09/2018 23:45:00 title = Magazine Report
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/09/2018 23:45:00 stop = 26/09/2018 01:15:00 title = Montpellier vs Istres
+      Replaces ----- start = 25/09/2018 23:45:00 stop = 26/09/2018 00:00:00 title = Interview Report
+0.07 sec/update
+   Summary for update of       max4
+     missing shows added       0
+     changed shows updated     15
+     new shows added           0
+     unchanged shows inspected 0
+     total after update        15
+
+     elapstime / updated show  0.07 seconds
+(  32/239 ) BEIN.NET -- chan. (xmltv_id=SeriesHD1) -- mode Incremental
+ii...........................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       SeriesHD1
+     missing shows added       0
+     changed shows updated     0
+     new shows added           25
+     unchanged shows inspected 27
+     total after update        52
+
+     elapstime / updated show  0.02 seconds
+(  33/239 ) BEIN.NET -- chan. (xmltv_id=SeriesHD2) -- mode Incremental
+ii........................nnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       SeriesHD2
+     missing shows added       0
+     changed shows updated     0
+     new shows added           24
+     unchanged shows inspected 24
+     total after update        48
+
+     elapstime / updated show  0.02 seconds
+(  34/239 ) BEIN.NET -- chan. (xmltv_id=beJUNIOR) -- mode Incremental
+ii............................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       beJUNIOR
+     missing shows added       0
+     changed shows updated     0
+     new shows added           76
+     unchanged shows inspected 76
+     total after update        152
+
+     elapstime / updated show  0.02 seconds
+(  35/239 ) BEIN.NET -- chan. (xmltv_id=fox_movies_hd) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  36/239 ) BEIN.NET -- chan. (xmltv_id=starmovieshd) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  37/239 ) BEIN.NET -- chan. (xmltv_id=starw_orld_hd) -- mode Incremental
+ii............................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       starw_orld_hd
+     missing shows added       0
+     changed shows updated     0
+     new shows added           28
+     unchanged shows inspected 28
+     total after update        56
+
+     elapstime / updated show  0.02 seconds
+(  38/239 ) BEIN.NET -- chan. (xmltv_id=NatGeo_HD) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       NatGeo_HD
+     missing shows added       0
+     changed shows updated     0
+     new shows added           28
+     unchanged shows inspected 1
+     total after update        29
+
+     elapstime / updated show  0.02 seconds
+(  39/239 ) BEIN.NET -- chan. (xmltv_id=NatGeoPeople_HD) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       NatGeoPeople_HD
+     missing shows added       0
+     changed shows updated     0
+     new shows added           43
+     unchanged shows inspected 1
+     total after update        44
+
+     elapstime / updated show  0.02 seconds
+(  40/239 ) BEIN.NET -- chan. (xmltv_id=NatGeoWild_HD) -- mode Incremental
+ii...............................nnnnnnnnnnnnnnnnnnnnnnnnnn
+0.01 sec/update
+   Summary for update of       NatGeoWild_HD
+     missing shows added       0
+     changed shows updated     0
+     new shows added           26
+     unchanged shows inspected 31
+     total after update        57
+
+     elapstime / updated show  0.02 seconds
+(  41/239 ) BEIN.NET -- chan. (xmltv_id=Baby_TV) -- mode Incremental
+iinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       Baby_TV
+     missing shows added       0
+     changed shows updated     0
+     new shows added           123
+     unchanged shows inspected 0
+     total after update        245
+
+     elapstime / updated show  0.02 seconds
+(  42/239 ) BEIN.NET -- chan. (xmltv_id=Jeem) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       Jeem
+     missing shows added       0
+     changed shows updated     0
+     new shows added           96
+     unchanged shows inspected 1
+     total after update        97
+
+     elapstime / updated show  0.02 seconds
+(  43/239 ) BEIN.NET -- chan. (xmltv_id=Baraem) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       Baraem
+     missing shows added       0
+     changed shows updated     0
+     new shows added           103
+     unchanged shows inspected 1
+     total after update        104
+
+     elapstime / updated show  0.02 seconds
+(  44/239 ) BEIN.NET -- chan. (xmltv_id=gourmet) -- mode Incremental
+ii...................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       gourmet
+     missing shows added       0
+     changed shows updated     0
+     new shows added           35
+     unchanged shows inspected 35
+     total after update        70
+
+     elapstime / updated show  0.02 seconds
+(  45/239 ) BEIN.NET -- chan. (xmltv_id=BoxOffice_HD1) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       BoxOffice_HD1
+     missing shows added       0
+     changed shows updated     0
+     new shows added           18
+     unchanged shows inspected 1
+     total after update        19
+
+     elapstime / updated show  0.03 seconds
+(  46/239 ) BEIN.NET -- chan. (xmltv_id=DTX) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  47/239 ) BEIN.NET -- chan. (xmltv_id=CBeebies) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  48/239 ) BEIN.NET -- chan. (xmltv_id=V_HD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  49/239 ) BEIN.NET -- chan. (xmltv_id=CNNHD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  50/239 ) BEIN.NET -- chan. (xmltv_id=TCM) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  51/239 ) BEIN.NET -- chan. (xmltv_id=CartoonNetworkAR) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       CartoonNetworkAR
+     missing shows added       0
+     changed shows updated     0
+     new shows added           55
+     unchanged shows inspected 1
+     total after update        56
+
+     elapstime / updated show  0.02 seconds
+(  52/239 ) BEIN.NET -- chan. (xmltv_id=CartoonNetworkHD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  53/239 ) BEIN.NET -- chan. (xmltv_id=CartoonNetworkHindi) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  54/239 ) BEIN.NET -- chan. (xmltv_id=HLN) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  55/239 ) BEIN.NET -- chan. (xmltv_id=Boomerang) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  56/239 ) BEIN.NET -- chan. (xmltv_id=DramaHD1) -- mode Incremental
+ii................nnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       DramaHD1
+     missing shows added       0
+     changed shows updated     0
+     new shows added           16
+     unchanged shows inspected 16
+     total after update        32
+
+     elapstime / updated show  0.02 seconds
+(  57/239 ) BEIN.NET -- chan. (xmltv_id=Star_Movies_HD) -- mode Incremental
+ii.nnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       Star_Movies_HD
+     missing shows added       0
+     changed shows updated     0
+     new shows added           13
+     unchanged shows inspected 1
+     total after update        14
+
+     elapstime / updated show  0.02 seconds
+(  58/239 ) BEIN.NET -- chan. (xmltv_id=amc) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  59/239 ) BEIN.NET -- chan. (xmltv_id=CBSreality) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  60/239 ) BEIN.NET -- chan. (xmltv_id=FoxActMovHD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  61/239 ) BEIN.NET -- chan. (xmltv_id=FoxFamHD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  62/239 ) BEIN.NET -- chan. (xmltv_id=FXHD) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnn
+0.02 sec/update
+   Summary for update of       FXHD
+     missing shows added       0
+     changed shows updated     0
+     new shows added           19
+     unchanged shows inspected 1
+     total after update        20
+
+     elapstime / updated show  0.02 seconds
+(  63/239 ) BEIN.NET -- chan. (xmltv_id=FoxNews) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  64/239 ) BEIN.NET -- chan. (xmltv_id=AnimalPlanetHD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  65/239 ) BEIN.NET -- chan. (xmltv_id=DLife) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  66/239 ) BEIN.NET -- chan. (xmltv_id=DreamWorks) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  67/239 ) BEIN.NET -- chan. (xmltv_id=DKids) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  68/239 ) BEIN.NET -- chan. (xmltv_id=DMAX) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  69/239 ) BEIN.NET -- chan. (xmltv_id=OutdoorChannel) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  70/239 ) BEIN.NET -- chan. (xmltv_id=Extreme) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  71/239 ) BEIN.NET -- chan. (xmltv_id=TravelChannel) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  72/239 ) BEIN.NET -- chan. (xmltv_id=HGTV) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:19:57
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies First HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies First HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:19:58
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies First HD +2h) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies First HD +2h
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:19:59
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Action HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Action HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:00
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Action +2) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Action +2
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:01
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies HD Premier) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies HD Premier
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:03
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies +2h) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies +2h
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:04
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Thriller HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Thriller HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:05
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Thriller +2h) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Thriller +2h
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:06
+Existing guide data restored!
+(  73/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Festival HD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Kids HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Kids HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:08
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Family HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Family HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:10
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Comedy HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Comedy HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:11
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Box Office 1 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Box Office 1 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:12
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Box Office 2) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Box Office 2
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:13
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Movies Box Office 3) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Movies Box Office 3
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:14
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Sundance TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sundance TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:15
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Star Movies HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Star Movies HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:16
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Sony Max Middle East) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sony Max Middle East
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:17
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Star Gold) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Star Gold
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:19
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Zee Cinema) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Zee Cinema
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:20
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=UTV Movies) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel UTV Movies
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:21
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Ya Hala Al Oula) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Ya Hala Al Oula
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:23
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Ya Hala Al Oula +2h) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Ya Hala Al Oula +2h
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:24
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Ya Hala HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Ya Hala HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:26
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Yahala Cinema HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Yahala Cinema HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:27
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Series Channel) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Series Channel
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:28
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Series +2) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Series +2
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:29
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Al Yawm) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Al Yawm
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:30
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Al Safwa) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Al Safwa
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:32
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Fann) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Fann
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:33
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Cinema 1) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Cinema 1
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:34
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Cinema 2) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Cinema 2
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:35
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Music Now) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Music Now
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:36
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Hekayat) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Hekayat
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:37
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Hekayat 2) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Hekayat 2
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:38
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=ART Aflam 1) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ART Aflam 1
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:39
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=ART Aflam 2) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ART Aflam 2
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:40
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=ART Cinema) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ART Cinema
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:41
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=AD Drama + HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel AD Drama + HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:43
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Series First HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Series First HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:44
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN First HBO HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN First HBO HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:46
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Series HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Series HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:47
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Series Comedy HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Series Comedy HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:49
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=OSN Series Comedy HD +2h) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Series Comedy HD +2h
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:50
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Comedy Central) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Comedy Central
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:52
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Syfy HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Syfy HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:53
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Star World HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Star World HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:55
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=TLC HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel TLC HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:56
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=E! Entertainment HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel E! Entertainment HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:57
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=BBC First HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel BBC First HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:20:59
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=ITV Choice HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ITV Choice HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:01
+Existing guide data restored!
+(  74/239 ) OSN.COM -- chan. (xmltv_id=Food Network HD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  75/239 ) OSN.COM -- chan. (xmltv_id=Fine Living) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  76/239 ) OSN.COM -- chan. (xmltv_id=Fashion TV HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Fashion TV HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:04
+Existing guide data restored!
+(  76/239 ) OSN.COM -- chan. (xmltv_id=Travel Channel) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  77/239 ) OSN.COM -- chan. (xmltv_id=\\u0026 TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel \\u0026 TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:06
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Star Plus Middle East) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Star Plus Middle East
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:08
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Zee TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Zee TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:09
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=SET Middle East) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel SET Middle East
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:10
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Colors) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Colors
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:11
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Hum TV Middle East) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Hum TV Middle East
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:12
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Rishtey TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Rishtey TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:13
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Life OK Middle East) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Life OK Middle East
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:15
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Sab TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sab TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:17
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Ary Digital TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Ary Digital TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:18
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=GEO TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel GEO TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:19
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Masala TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Masala TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:20
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Kiran TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Kiran TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:21
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Urdu 1) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Urdu 1
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:22
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Sun TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sun TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:24
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Star Vijay International) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Star Vijay International
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:26
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Asianet) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Asianet
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:27
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Surya TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Surya TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:28
+Existing guide data restored!
+(  77/239 ) OSN.COM -- chan. (xmltv_id=Udaya TV) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  78/239 ) OSN.COM -- chan. (xmltv_id=Gemini TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Gemini TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:30
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=Star Jalsha) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Star Jalsha
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:32
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=Star Pravah) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Star Pravah
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:33
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=MTV Live HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel MTV Live HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:34
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=VH1) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel VH1
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:35
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=Trace Urban) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Trace Urban
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:36
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=Sony MIX) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sony MIX
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:38
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=MTV India) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel MTV India
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:39
+Existing guide data restored!
+(  78/239 ) OSN.COM -- chan. (xmltv_id=Bindaas) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Disney HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Disney HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:41
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Disney XD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Disney XD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:43
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Disney Junior) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Disney Junior
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:45
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Nickelodeon HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Nickelodeon HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:46
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Nick Jr) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Nick Jr
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:48
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=NickToons) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel NickToons
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:49
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=OSN Kid Zone TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Kid Zone TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:51
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Baby TV Europe) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Baby TV Europe
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:55
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=OSN News) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN News
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:56
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Sky News HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sky News HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:57
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=BBC World) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel BBC World
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:21:58
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Fox News) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Fox News
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:00
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=CNBC) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel CNBC
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:01
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Bloomberg) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Bloomberg
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:02
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=CCTV News) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel CCTV News
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:04
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=France 24 English) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel France 24 English
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:05
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=NHK World TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel NHK World TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:06
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Dunya News) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Dunya News
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:08
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=ARY News) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ARY News
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:09
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Geo News) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Geo News
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:11
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=ABP News India) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ABP News India
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:12
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Aaj Tak) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Aaj Tak
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:13
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Times Now) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Times Now
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:14
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=NDTV 24x7) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel NDTV 24x7
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:15
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Asianet News) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Asianet News
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:17
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Sky News Arabia HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sky News Arabia HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:18
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Sky News Arabia) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Sky News Arabia
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:19
+Existing guide data restored!
+(  79/239 ) OSN.COM -- chan. (xmltv_id=Alarabiya) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  80/239 ) OSN.COM -- chan. (xmltv_id=France 24) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel France 24
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:23
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=CCTV Arabic) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel CCTV Arabic
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:24
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Discovery HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Discovery HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:26
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Discovery Family HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Discovery Family HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:28
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Discovery Science HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:29
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=IDX HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel IDX HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:31
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Crime \\u0026 Investigation Network) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Crime \\u0026 Investigation Network
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:32
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=History HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel History HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:33
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=H2 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel H2 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:34
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Animal Planet HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Animal Planet HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:36
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Nat Geo HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Nat Geo HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:37
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Nat Geo Wild HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Nat Geo Wild HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:38
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Nat Geo People HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Nat Geo People HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:39
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN Sports Action 1 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Sports Action 1 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:41
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN Sports Action 2 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Sports Action 2 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:42
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN Sports 3 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Sports 3 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:43
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN Sports 4 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Sports 4 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:44
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN Sports 5 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Sports 5 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:45
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN WWE Network HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN WWE Network HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:46
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN Sports Cricket HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel OSN Sports Cricket HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:47
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=Ten Cricket International) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Ten Cricket International
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:49
+Existing guide data restored!
+(  80/239 ) OSN.COM -- chan. (xmltv_id=OSN Fight Network HD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  81/239 ) OSN.COM -- chan. (xmltv_id=Fuel TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Fuel TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:51
+Existing guide data restored!
+(  81/239 ) OSN.COM -- chan. (xmltv_id=Ginx Esports TV HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Ginx Esports TV HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:52
+Existing guide data restored!
+(  81/239 ) OSN.COM -- chan. (xmltv_id=AD Sports 3 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel AD Sports 3 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:53
+Existing guide data restored!
+(  81/239 ) OSN.COM -- chan. (xmltv_id=AD Sports 4 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel AD Sports 4 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:54
+Existing guide data restored!
+(  81/239 ) OSN.COM -- chan. (xmltv_id=AD Sports 5 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel AD Sports 5 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:56
+Existing guide data restored!
+(  81/239 ) OSN.COM -- chan. (xmltv_id=AD Sports 6 HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel AD Sports 6 HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:56
+Existing guide data restored!
+(  81/239 ) OSN.COM -- chan. (xmltv_id=Edge Sport HD) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Edge Sport HD
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:22:57
+Existing guide data restored!
+(  81/239 ) OSN.COM -- chan. (xmltv_id=Dubai Sports 4 HD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  82/239 ) OSN.COM -- chan. (xmltv_id=Dubai Sports 2 HD) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  83/239 ) OSN.COM -- chan. (xmltv_id=TFC) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel TFC
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:01
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=ABS-CBN Sports+Action) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ABS-CBN Sports+Action
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:02
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=Cinema One Global) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Cinema One Global
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:03
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=ANC) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel ANC
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:04
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=DZMM Teleradyo) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel DZMM Teleradyo
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:05
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=DWRR 101.9) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel DWRR 101.9
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:06
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=Viva TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Viva TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:08
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=Kapatid TV5) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Kapatid TV5
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:09
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=Aksyon TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Aksyon TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:10
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=Cine Mo) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Cine Mo
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:11
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=Lifestyle Network) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel Lifestyle Network
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:12
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=GMA Pinoy TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel GMA Pinoy TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:14
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=GMA Life TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel GMA Life TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:15
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=GMA News TV) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel GMA News TV
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:16
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=MBC 1) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel MBC 1
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:18
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=MBC 4) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel MBC 4
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:20
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=MBC Drama) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel MBC Drama
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:21
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=MBC 2) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel MBC 2
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:22
+Existing guide data restored!
+(  83/239 ) OSN.COM -- chan. (xmltv_id=MBC MAX) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  84/239 ) OSN.COM -- chan. (xmltv_id=MBC Action) -- mode Incremental
+ii
+
+Arithmetic operation resulted in an overflow.
+Unable to update channel MBC Action
+Generic syntax exception:
+   message: 
+Current culture: en-GB
+time parsing error : String was not recognized as a valid DateTime.
+stoptime time scrubbed : -62135596800000
+computer date/time format: 24/09/2018 23:23:25
+Existing guide data restored!
+(  84/239 ) EIRSPORT.IE -- chan. (xmltv_id=Setanta) -- mode Incremental
+iinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.19 sec/update
+
+
+Job finished at 24/09/2018 23:23:39 done in 13m 23s
