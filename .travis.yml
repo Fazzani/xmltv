@@ -25,7 +25,7 @@ notifications:
     on_success: change
     on_failure: change
   pushover:
-  api_key: ${PH_TOKEN}
-  users:
-    - ${PH_USER}
-  template: "%{repository_slug} (%{commit}) : %{message} xmltv compression completed - Build details: %{build_url}"
+    api_key: ${PH_TOKEN}
+    users:
+      - ${PH_USER}
+    template: "%{repository_slug} (%{commit}) (duration : %{duration}) : %{message} xmltv compression completed - Build details: %{build_url}"
