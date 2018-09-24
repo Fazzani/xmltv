@@ -29,5 +29,5 @@ do
    i=$((i+1))
 
 done;
-tar zcvf merge.tar.gz merge.xmltv
+tar zcvf merge.tar.gz merge.xmltv && rm merge.xmltv
 exit 0
