@@ -1,7 +1,5 @@
 #!/bin/bash
 
-source $(dirname $0)/.conf
-
 set -e
 
 command -v tv_merge >/dev/null 2>&1 || { echo >&2 "I require tv_merge but it's not installed. Please install xmltv-util package. Aborting."; exit 1; }
