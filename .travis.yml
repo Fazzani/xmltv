@@ -8,6 +8,7 @@ branches:
   - master
 if: (commit_message =~ ^daily) AND (branch = master)
 before_install:
+- chmod +x docker/merge.sh
 - docker pull synker/xmltv_merge:latest
 - docker run -d -v .:/work synker/xmltv_merge
 
