@@ -1,15 +1,16 @@
 sudo: true
+services:
+  - docker
 git:
   depth: false
 branches:
   only:
   - master
 if: (commit_message =~ ^daily) AND (branch = master)
-script:
- - tar zcvf guide.tar.gz merge.xmltv
- - git status
- - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
- - git add guide.tar.gz && git commit -m "Pushing compressed version to GITHUB from travis" && git push origin2 HEAD:master
+before_install:
+- docker pull synker/xmltv_merge:latest
+- docker run -d -v .:/work synker/xmltv_merge
+
 notifications:
   email:
     recipients:
