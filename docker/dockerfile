@@ -1,10 +1,14 @@
 FROM debian 
 ENV GITHUB_API_TOKEN xxxx
-
-RUN apt-get -qq -y update && apt-get -y install xmltv-util
+LABEL maintainer="fazzani.heni@outlook.com" \
+      description="debian image with préinstalled xmltv_util package" \
+      system.dist="linux" \
+	  multi.name="xmltv_util"
 
 WORKDIR /work
 
-VOLUME ["/work"]
-RUN sudo chmod +x /work/docker/merge.sh
-ENTRYPOINT /work/docker/merge.sh *.xmltv
+RUN apt-get -qq update \
+   && apt-get -y upgrade \
+   && apt-get -y install xmltv-util
+CMD [ "/bin/bash" ]
+
