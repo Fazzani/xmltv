@@ -31,6 +31,6 @@ do
 done;
 tar zcvf merge.tar.gz merge.xmltv
 git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/xmltv.git > /dev/null 2>&1
-git add merge.tar.gz && git commit -m "daily pushing merged xmltv file to GITHUB" && git push origin2 HEAD:master
+git add merge.tar.gz && git commit -m "compression and mergin xmltv files and pushing them to GITHUB" && git push origin2 HEAD:master
 
 exit 0
