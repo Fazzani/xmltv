@@ -1,659 +1,1751 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="Rai 1 HD">
-    <display-name lang="it">Rai 1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/899_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai 2 HD">
-    <display-name lang="it">Rai 2 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/898_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai 3 HD">
-    <display-name lang="it">Rai 3 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/897_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rete 4 HD">
-    <display-name lang="it">Rete 4 HD</display-name>
-    <icon src="http://www.mediaset.it/include/img/loghi/R4.png"/>
-    <url>http://www.mediaset.it</url>
-  </channel><channel id="Canale 5 HD">
-    <display-name lang="it">Canale 5 HD</display-name>
-    <icon src="http://www.mediaset.it/include/img/loghi/C5.png"/>
-    <url>http://www.mediaset.it</url>
-  </channel><channel id="Italia 1 HD">
-    <display-name lang="it">Italia 1 HD</display-name>
-    <icon src="http://www.mediaset.it/include/img/loghi/I1.png"/>
-    <url>http://www.mediaset.it</url>
-  </channel><channel id="Italia 2">
-    <display-name lang="it">Italia 2</display-name>
-    <icon src="http://www.mediaset.it/include/img/loghi/I2.png"/>
-    <url>http://www.mediaset.it</url>
-  </channel><channel id="Rsi La1 HD">
-    <display-name lang="de">Rsi La1 HD</display-name>
-    <url>http://www.horizon.tv</url>
-  </channel><channel id="Rsi La2 HD">
-    <display-name lang="de">Rsi La2 HD</display-name>
-    <url>http://www.horizon.tv</url>
-  </channel><channel id="La 5">
-    <display-name lang="it">La 5</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="LA7">
-    <display-name lang="it">LA7</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24064_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="LA7 D">
-    <display-name lang="it">LA7 D</display-name>
-    <url>http://www.staseraintv.com</url>
-  </channel><channel id="TV 8">
-    <display-name lang="it">TV 8</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8195_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Nove HD">
-    <display-name lang="it">Nove HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9753_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Top Crime">
-    <display-name lang="it">Top Crime</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24031_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Mediaset Extra">
-    <display-name lang="it">Mediaset Extra</display-name>
-    <icon src="http://www.mediaset.it/include/img/loghi/KQ.png"/>
-    <url>http://www.mediaset.it</url>
-  </channel><channel id="Rai Storia">
-    <display-name lang="it">Rai Storia</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6630_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Iris">
-    <display-name lang="it">Iris</display-name>
-    <icon src="http://www.mediaset.it/include/img/loghi/KI.png"/>
-    <url>http://www.mediaset.it</url>
-  </channel><channel id="Rai Sport 1 HD">
-    <display-name lang="it">Rai Sport 1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/807_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai Sport 2 HD">
-    <display-name lang="it">Rai Sport 2 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6612_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai Premium HD">
-    <display-name lang="it">Rai Premium HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6623_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai 4 HD">
-    <display-name lang="it">Rai 4 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9213_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai 5 HD">
-    <display-name lang="it">Rai 5 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6607_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai Movie HD">
-    <display-name lang="it">Rai Movie HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6608_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Giallo">
-    <display-name lang="it">Giallo</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8131_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="LEI">
-    <display-name lang="it">LEI</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/423_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="LaEffe">
-    <display-name lang="it">LaEffe</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8128_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="La3">
-    <display-name lang="fr">La3</display-name>
-    <url>http://www.programmi-tv.eu</url>
-  </channel><channel id="Sky Cinema 1 HD">
-    <display-name lang="it">Sky Cinema 1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/101_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema 1 SuperHD">
-    <display-name lang="it">Sky Cinema 1 SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/101_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema +1 SuperHD">
-    <display-name lang="it">Sky Cinema +1 SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema +1 HD">
-    <display-name lang="it">Sky Cinema +1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema +24 SuperHD">
-    <display-name lang="it">Sky Cinema +24 SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema +24 HD">
-    <display-name lang="it">Sky Cinema +24 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Hits HD">
-    <display-name lang="it">Sky Cinema Hits HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/724_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Hits SuperHD">
-    <display-name lang="it">Sky Cinema Hits SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/724_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Family HD">
-    <display-name lang="it">Sky Cinema Family HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/105_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Family SuperHD">
-    <display-name lang="it">Sky Cinema Family SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/105_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Passion HD">
-    <display-name lang="it">Sky Cinema Passion HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6581_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Comedy">
-    <display-name lang="it">Sky Cinema Comedy</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6561_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Classics">
-    <display-name lang="it">Sky Cinema Classics</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/723_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Max HD">
-    <display-name lang="it">Sky Cinema Max HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/115_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Max Super hd">
-    <display-name lang="it">Sky Cinema Max Super hd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/115_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Max +1">
-    <display-name lang="it">Sky Cinema Max +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/451_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Cinema Cult HD">
-    <display-name lang="it">Sky Cinema Cult HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6141_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky TG24">
-    <display-name lang="it">Sky TG24</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9313_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="TGcom 24">
-    <display-name lang="fr">TGcom 24</display-name>
-    <url>http://www.programmi-tv.eu</url>
-  </channel><channel id="Rai News 24">
-    <display-name lang="fr">Rai News 24</display-name>
-    <url>http://www.programmi-tv.eu</url>
-  </channel><channel id="Sky Uno HD">
-    <display-name lang="it">Sky Uno HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9217_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Uno +1">
-    <display-name lang="it">Sky Uno +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/120_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="SKY CLASSICA HD">
-    <display-name lang="it">SKY CLASSICA HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8007_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Atlantic HD">
-    <display-name lang="it">Sky Atlantic HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8456_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Atlantic +1">
-    <display-name lang="it">Sky Atlantic +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8453_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox HD">
-    <display-name lang="it">Fox HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/122_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox +1">
-    <display-name lang="it">Fox +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/635_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox Life HD">
-    <display-name lang="it">Fox Life HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/133_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox Life +1">
-    <display-name lang="it">Fox Life +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/529_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox Crime HD">
-    <display-name lang="it">Fox Crime HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/139_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox Crime +1">
-    <display-name lang="it">Fox Crime +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/588_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Fox Comedy HD">
-    <display-name lang="it">Fox Comedy HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8833_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Comedy Central">
-    <display-name lang="it">Comedy Central</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27071_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Fox Animation HD">
-    <display-name lang="it">Sky Fox Animation HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8853_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="CI Crime+Investigation HD">
-    <display-name lang="it">CI Crime+Investigation HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8336_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky AXN">
-    <display-name lang="it">Sky AXN</display-name>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky AXN SciFi">
-    <display-name lang="it">Sky AXN SciFi</display-name>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport F1 HD">
-    <display-name lang="it">Sky Sport F1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8413_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport F1 SuperHD">
-    <display-name lang="it">Sky Sport F1 SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8413_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky MotoGP HD">
-    <display-name lang="it">Sky MotoGP HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8434_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky motoGP superHD">
-    <display-name lang="it">Sky motoGP superHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8434_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Bike Channel">
-    <display-name lang="it">Bike Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9253_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Eurosport 1">
-    <display-name lang="it">Eurosport 1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/307_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Eurosport 2">
-    <display-name lang="it">Eurosport 2</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/391_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 24 HD">
-    <display-name lang="it">Sky Sport 24 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/929_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport 24 SuperHD">
-    <display-name lang="it">Sky Sport 24 SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/929_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Arena SuperHD">
-    <display-name lang="it">Sky Sport Arena SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7507_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Arena HD">
-    <display-name lang="it">Sky Sport Arena HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7507_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Uno HD">
-    <display-name lang="it">Sky Sport Uno HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Uno SuperHD">
-    <display-name lang="it">Sky Sport Uno SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8714_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport SerieA SuperHD">
-    <display-name lang="it">Sky Sport SerieA SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport SerieA HD">
-    <display-name lang="it">Sky Sport SerieA HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Football SuperHD">
-    <display-name lang="it">Sky Sport Football SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8693_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Football HD">
-    <display-name lang="it">Sky Sport Football HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8693_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport NBA SuperHD">
-    <display-name lang="it">Sky Sport NBA SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8753_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport NBA HD">
-    <display-name lang="it">Sky Sport NBA HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8753_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Golf SuperHD">
-    <display-name lang="it">Sky Sport Golf SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/10254_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Sport Golf HD">
-    <display-name lang="it">Sky Sport Golf HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/10254_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Supercalcio HD">
-    <display-name lang="it">Sky Supercalcio HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Supercalcio SuperHD">
-    <display-name lang="it">Sky Supercalcio SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Eurosport 1 Italia">
-    <display-name lang="it">Eurosport 1 Italia</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/307_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Eurosport 2 Italia">
-    <display-name lang="it">Eurosport 2 Italia</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/391_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 1 HD">
-    <display-name lang="it">Sky Calcio 1 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/719_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 1 SuperHDD">
-    <display-name lang="it">Sky Calcio 1 SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/719_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 2 HD">
-    <display-name lang="it">Sky Calcio 2 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8713_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 3 HD">
-    <display-name lang="it">Sky Calcio 3 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8733_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 4 HD">
-    <display-name lang="it">Sky Calcio 4 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8715_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 5 HD">
-    <display-name lang="it">Sky Calcio 5 HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8634_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 6 sd">
-    <display-name lang="it">Sky Calcio 6 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8636_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 7 sd">
-    <display-name lang="it">Sky Calcio 7 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8635_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 8 sd">
-    <display-name lang="it">Sky Calcio 8 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8633_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 9 sd">
-    <display-name lang="it">Sky Calcio 9 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8613_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 10 sd">
-    <display-name lang="it">Sky Calcio 10 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/615_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 11 sd">
-    <display-name lang="it">Sky Calcio 11 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/617_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 12 sd">
-    <display-name lang="it">Sky Calcio 12 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/618_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Calcio 13 sd">
-    <display-name lang="it">Sky Calcio 13 sd</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/619_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Super Tennis HD">
-    <display-name lang="it">Super Tennis HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/25900_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Milan Channel">
-    <display-name lang="it">Milan Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9513_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Juventus Channel">
-    <display-name lang="it">Juventus Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9193_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Inter Channel">
-    <display-name lang="it">Inter Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/456_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Roma Channel">
-    <display-name lang="it">Roma Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9194_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Lazio Style Channel">
-    <display-name lang="it">Lazio Style Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7527_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Arte SuperHD">
-    <display-name lang="it">Sky Arte SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8473_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky arte HD">
-    <display-name lang="it">Sky arte HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8473_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Channel SuperHD">
-    <display-name lang="it">Discovery Channel SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/931_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Channel HD">
-    <display-name lang="it">Discovery Channel HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/931_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Science SuperHD">
-    <display-name lang="it">Discovery Science SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/467_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Science HD">
-    <display-name lang="it">Discovery Science HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/467_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Discovery Travel Living HD">
-    <display-name lang="it">Discovery Travel Living HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/465_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="NatGeoWild SuperHD">
-    <display-name lang="it">NatGeoWild SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/126_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="NatGeoWild HD">
-    <display-name lang="it">NatGeoWild HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/126_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="National Geographic HD">
-    <display-name lang="it">National Geographic HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/641_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="NatGeoPeople SuperHD">
-    <display-name lang="it">NatGeoPeople SuperHD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7407_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="NatGeoPeople HD">
-    <display-name lang="it">NatGeoPeople HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7407_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="History Channel HD">
-    <display-name lang="it">History Channel HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/639_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Focus">
-    <display-name lang="it">Focus</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8130_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Dmax">
-    <display-name lang="it">Dmax</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8933_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Real Time HD">
-    <display-name lang="it">Real Time HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/522_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Caccia e Pesca">
-    <display-name lang="it">Sky Caccia e Pesca</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23731_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Pesca e Caccia">
-    <display-name lang="it">Sky Pesca e Caccia</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23750_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Cielo">
-    <display-name lang="it">Cielo</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24560_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Animal Planet">
-    <display-name lang="it">Animal Planet</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/519_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Gambero Rosso">
-    <display-name lang="it">Gambero Rosso</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/524_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Dove TV">
-    <display-name lang="it">Dove TV</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6360_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Cielo HD">
-    <display-name lang="it">Cielo HD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/24560_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Rai Gulp HD">
-    <display-name lang="it">Rai Gulp HD</display-name>
-    <url>http://www.rai.it</url>
-  </channel><channel id="Rai YoYo HD">
-    <display-name lang="it">Rai YoYo HD</display-name>
-    <url>http://www.rai.it</url>
-  </channel><channel id="Cartoon Network">
-    <display-name lang="it">Cartoon Network</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/129_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Disney XD">
-    <display-name lang="it">Disney XD</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/131_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Disney Channel">
-    <display-name lang="it">Disney Channel</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/118_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Disney Channel +1">
-    <display-name lang="it">Disney Channel +1</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/450_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Cartonito">
-    <display-name lang="it">Cartonito</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23821_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Baby TV">
-    <display-name lang="it">Baby TV</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6160_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Nickelodeon">
-    <display-name lang="it">Nickelodeon</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/320_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="DeA Junior">
-    <display-name lang="it">DeA Junior</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7427_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="DeAKids">
-    <display-name lang="it">DeAKids</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/460_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Sky Teen Nick">
-    <display-name lang="it">Sky Teen Nick</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9235_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Disney Junior">
-    <display-name lang="it">Disney Junior</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/20150_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Super !">
-    <display-name lang="it">Super !</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6460_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Boing">
-    <display-name lang="it">Boing</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6628_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Man-Ga">
-    <display-name lang="it">Man-Ga</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6440_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Frisbee">
-    <display-name lang="it">Frisbee</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6610_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Nick Junior">
-    <display-name lang="it">Nick Junior</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/461_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="K2">
-    <display-name lang="it">K2</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6240_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Boomerang">
-    <display-name lang="it">Boomerang</display-name>
-    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/472_home.png"/>
-    <url>http://www.guidatv.sky.it</url>
-  </channel><channel id="Premium Cinema HD">
-    <display-name lang="it">Premium Cinema HD</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Cinema +24">
-    <display-name lang="it">Premium Cinema +24</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Cinema 2">
-    <display-name lang="it">Premium Cinema 2</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Cinema 2 +24">
-    <display-name lang="it">Premium Cinema 2 +24</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Cinema Energy">
-    <display-name lang="it">Premium Cinema Energy</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Cinema Emotion">
-    <display-name lang="it">Premium Cinema Emotion</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Cinema Comedy">
-    <display-name lang="it">Premium Cinema Comedy</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Investigation Discovery">
-    <display-name lang="it">Premium Investigation Discovery</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Studio Universal">
-    <display-name lang="it">Studio Universal</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Paramount Channel">
-    <display-name lang="it">Paramount Channel</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Action HD">
-    <display-name lang="it">Premium Action HD</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Action +24">
-    <display-name lang="it">Premium Action +24</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Crime">
-    <display-name lang="it">Premium Crime</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Joy">
-    <display-name lang="it">Premium Joy</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Stories">
-    <display-name lang="it">Premium Stories</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Sport superHD">
-    <display-name lang="it">Premium Sport superHD</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Sport 2 HD">
-    <display-name lang="it">Premium Sport 2 HD</display-name>
-    <url>http://www.mediasetpremium.it</url>
-  </channel><channel id="Premium Calcio 1">
-    <display-name lang="it">Premium Calcio 1</display-name>
-    <url>http://www.mediasetpremium.it</url>
+<channel id="003b31fb0fd63bd8fd171c7d7a1d0249">
+    <display-name>GEO News</display-name>
+  </channel><channel id="0092ad6b181b813d9e2ceed1cfbf5bf1">
+    <display-name>Notts TV</display-name>
+  </channel><channel id="00dfea977320f17bb419abaa1f079f39">
+    <display-name>Good Food</display-name>
+    <icon src="/images/channels/00dfea977320f17bb419abaa1f079f39.png"/>
+  </channel><channel id="013983523257bbdfa4691c23f55ff485">
+    <display-name>Word Network</display-name>
+  </channel><channel id="015ac32387fbc90e1e920d780d43787c">
+    <display-name>Zee Cinema</display-name>
+    <icon src="/images/channels/015ac32387fbc90e1e920d780d43787c.png"/>
+  </channel><channel id="018202232e044b504f9dc5263617d496">
+    <display-name>The Box</display-name>
+    <icon src="/images/channels/018202232e044b504f9dc5263617d496.png"/>
+  </channel><channel id="023413d97766c36675c833b9ef5b142d">
+    <display-name>BBC RB1</display-name>
+  </channel><channel id="024b23b2655b8da3afbcc962721aeb65">
+    <display-name>Starz TV</display-name>
+  </channel><channel id="028a7d98207d6cccdde2dee7da3fd185">
+    <display-name>BT Sport 3</display-name>
+    <icon src="/images/channels/028a7d98207d6cccdde2dee7da3fd185.png"/>
+  </channel><channel id="02e7cec9b8d396bc10da66133b63ead4">
+    <display-name>Islam Ch Urdu</display-name>
+  </channel><channel id="02eed36d345a7f565866afe7f6409f00">
+    <display-name>5Spike+1</display-name>
+    <icon src="/images/channels/02eed36d345a7f565866afe7f6409f00.png"/>
+  </channel><channel id="0362f98aba4d61f956cf3ffbd200540e">
+    <display-name>ITV</display-name>
+  </channel><channel id="03c9f88a54910f471bb80c039e2a8fa1">
+    <display-name>BT Sport 1</display-name>
+    <icon src="/images/channels/03c9f88a54910f471bb80c039e2a8fa1.png"/>
+  </channel><channel id="03d7b4cb6f0ab05ab55a2c1d110e149e">
+    <display-name>Quest Red</display-name>
+    <icon src="/images/channels/03d7b4cb6f0ab05ab55a2c1d110e149e.png"/>
+  </channel><channel id="042598c79dabdb520f8414a9bbbbf558">
+    <display-name>Venus TV</display-name>
+  </channel><channel id="04df85a11da44f11b7d78ad62ddd7765">
+    <display-name>ITV</display-name>
+  </channel><channel id="0512e2131974be342de255a52914590d">
+    <display-name>12060</display-name>
+  </channel><channel id="057f708c91376b3b0d217f03a61638af">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="058b961ceac5ac8cbfc1a12ecbe3b2af">
+    <display-name>JML Direct</display-name>
+  </channel><channel id="05d96061752e1bf3b209870ab6c1f534">
+    <display-name>Sky Arts HD</display-name>
+  </channel><channel id="05e20cdfe3043ceac92a189460515de1">
+    <display-name>Sky Prem+1</display-name>
+  </channel><channel id="06063be956777f47bfd0fffb2a727259">
+    <display-name>Disney XD</display-name>
+    <icon src="/images/channels/06063be956777f47bfd0fffb2a727259.png"/>
+  </channel><channel id="06b2b933c94d8b002edcd9aa2aedc657">
+    <display-name>Hochanda</display-name>
+  </channel><channel id="070ac8e585e098bbdab60263386d8d6a">
+    <display-name>Zee Cinema</display-name>
+  </channel><channel id="096bdc0ddbafcf1d51669267e655ed99">
+    <display-name>Star GOLD</display-name>
+  </channel><channel id="097da2937ee0b71bab49fd933b35f1d6">
+    <display-name>Sony Crime+1</display-name>
+  </channel><channel id="098e290941196d586f996593fe125280">
+    <display-name>CAPITAL TV</display-name>
+  </channel><channel id="099658a1c06e369007870c5dffbd0510">
+    <display-name>Peace TV Urdu</display-name>
+  </channel><channel id="09f38a3a1aad9ffbeba393fb2ff18577">
+    <display-name>5536</display-name>
+  </channel><channel id="0a3b0330f5a6b06f77af10daa644bbed">
+    <display-name>54110</display-name>
+  </channel><channel id="0a558a7e0a06b63b5d5738a6d8b66c8a">
+    <display-name>Climax</display-name>
+  </channel><channel id="0af2fe973606b5bc0d554287ec653c91">
+    <display-name>SEE TV</display-name>
+  </channel><channel id="0b2bc0cdb0f3e43552867a2c6f90fe47">
+    <display-name>Bike</display-name>
+  </channel><channel id="0b657675e05eafa861a77b5641260035">
+    <display-name>ITV Encore</display-name>
+    <icon src="/images/channels/0b657675e05eafa861a77b5641260035.png"/>
+  </channel><channel id="0bc75effca09773d4cc76c4487279b8b">
+    <display-name>RT</display-name>
+    <icon src="/images/channels/0bc75effca09773d4cc76c4487279b8b.png"/>
+  </channel><channel id="0beade5a72b33b0c65186cf24d410be8">
+    <display-name>Good Food +1</display-name>
+    <icon src="/images/channels/0beade5a72b33b0c65186cf24d410be8.png"/>
+  </channel><channel id="0c4a551adde377ff6b913db7be436a5f">
+    <display-name>Real Lives+1</display-name>
+    <icon src="/images/channels/0c4a551adde377ff6b913db7be436a5f.png"/>
+  </channel><channel id="0d40bd7f14bf462905304ce38cc1705b">
+    <display-name>5552</display-name>
+  </channel><channel id="0dab86726667ffb474848948fd8f8197">
+    <display-name>Abu Dhabi TV</display-name>
+  </channel><channel id="0e46bce23a1cca2747bc7536e2ce53d7">
+    <display-name>Sky Premiere</display-name>
+  </channel><channel id="0e7aba1b2308186c6ce54b902731b712">
+    <display-name>Word Network</display-name>
+  </channel><channel id="0ee8319601778d57d0220af3a855b379">
+    <display-name>Thane</display-name>
+  </channel><channel id="0f7ddfd79c6e71ea8d5df0fcda5ea1c5">
+    <display-name>5Spike</display-name>
+    <icon src="/images/channels/0f7ddfd79c6e71ea8d5df0fcda5ea1c5.png"/>
+  </channel><channel id="108b54c805dd8347b727d630f3498d48">
+    <display-name>QVC EXTRA</display-name>
+  </channel><channel id="10bf52f504558692eb8ac07b8442e43b">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="10f9777516de224f7acbb8c3cec1ba94">
+    <display-name>W +1</display-name>
+    <icon src="/images/channels/10f9777516de224f7acbb8c3cec1ba94.png"/>
+  </channel><channel id="112ce9072699c61a05cb76b79416fcb8">
+    <display-name>GEO TEZ</display-name>
+  </channel><channel id="1153b74a8a07e9e75cd91e0bfd33f01e">
+    <display-name>Keep It Country</display-name>
+    <icon src="/images/channels/1153b74a8a07e9e75cd91e0bfd33f01e.png"/>
+  </channel><channel id="1168d8a557d99ffe3eed82f2fb2b6935">
+    <display-name>A1TV</display-name>
+  </channel><channel id="11b98f3ffc8923022694acaf336c205d">
+    <display-name>VH1</display-name>
+    <icon src="/images/channels/11b98f3ffc8923022694acaf336c205d.png"/>
+  </channel><channel id="11d6a895629633f5662d3b99bc4be8cc">
+    <display-name>Sky News</display-name>
+    <icon src="/images/channels/11d6a895629633f5662d3b99bc4be8cc.png"/>
+  </channel><channel id="128a7580c55d84a3e84df19860decc2b">
+    <display-name>ABN TV</display-name>
+  </channel><channel id="12a96c752e231f49d57c5a16324327a2">
+    <display-name>Studio 66 2</display-name>
+  </channel><channel id="12bee972bdc618a6a920e7e7b27ee7f8">
+    <display-name>Vox Africa</display-name>
+  </channel><channel id="136c4d2d3fc9394756acc97bd2f1d8f4">
+    <display-name>RishteyCine</display-name>
+    <icon src="/images/channels/136c4d2d3fc9394756acc97bd2f1d8f4.png"/>
+  </channel><channel id="13b1613a71974cdb56217ea29a9325f6">
+    <display-name>TLC</display-name>
+    <icon src="/images/channels/13b1613a71974cdb56217ea29a9325f6.png"/>
+  </channel><channel id="13bbe09e1f966c884c19d20b1c9421af">
+    <display-name>DMAX+1</display-name>
+    <icon src="/images/channels/13bbe09e1f966c884c19d20b1c9421af.png"/>
+  </channel><channel id="1409857232d6f1ea9f619431a3e1a1e7">
+    <display-name>ITV +1</display-name>
+  </channel><channel id="140cabb76ce0bacf709687649c20b8ab">
+    <display-name>Film4+1</display-name>
+    <icon src="/images/channels/140cabb76ce0bacf709687649c20b8ab.png"/>
+  </channel><channel id="14314ac62a528a3841988a41450ee7e6">
+    <display-name>Olive TV</display-name>
+  </channel><channel id="1475611020f8d0be2662c20838ddc555">
+    <display-name>AMC from BT</display-name>
+    <icon src="/images/channels/1475611020f8d0be2662c20838ddc555.png"/>
+  </channel><channel id="15add9faf102bd3a52cc0180a0e7abd8">
+    <display-name>ID</display-name>
+  </channel><channel id="162fb25a7ed04ac189e59860a4bf66fd">
+    <display-name>Get Lucky TV</display-name>
+  </channel><channel id="164aa7d19a90e7324a836ad6dd6331cb">
+    <display-name>52092</display-name>
+  </channel><channel id="167da9622b841fff169e95e939b36540">
+    <display-name>54230</display-name>
+  </channel><channel id="1845402d49d523325367abb0b4932f4e">
+    <display-name>BabyTV</display-name>
+    <icon src="/images/channels/1845402d49d523325367abb0b4932f4e.png"/>
+  </channel><channel id="185b06a33a60411caca78f3a72848aae">
+    <display-name>Ideal Extra</display-name>
+  </channel><channel id="18f7e3c26cd5b32b3198fafd138dab47">
+    <display-name>Zing</display-name>
+    <icon src="/images/channels/18f7e3c26cd5b32b3198fafd138dab47.png"/>
+  </channel><channel id="192ca16be1d1ab619e11a1c3e6778e16">
+    <display-name>TCM+1</display-name>
+  </channel><channel id="1953f440a6e4fd26ae568f4c6dfa2610">
+    <display-name>Studio 66 2</display-name>
+  </channel><channel id="19ac677721da64584660d92c75040e2e">
+    <display-name>E4+1</display-name>
+    <icon src="/images/channels/19ac677721da64584660d92c75040e2e.png"/>
+  </channel><channel id="19d1fea146f20fc954bc2e3e98ad259e">
+    <display-name>Samaa</display-name>
+  </channel><channel id="19e1f0746783d01b1d4ac489df16ed4d">
+    <display-name>News18</display-name>
+  </channel><channel id="1a8f000cc4f76243164756dbee5a1437">
+    <display-name>Ultra HD</display-name>
+  </channel><channel id="1bae85f1b1b5405f2ddbbd32090d9d01">
+    <display-name>Sky Living+1</display-name>
+    <icon src="/images/channels/1bae85f1b1b5405f2ddbbd32090d9d01.png"/>
+  </channel><channel id="1be8c93feb12194583e8f9cc0ffef3da">
+    <display-name>TVC News</display-name>
+  </channel><channel id="1c1e044e692deb5275bf7748bd89b599">
+    <display-name>Islam Channel</display-name>
+  </channel><channel id="1c66f0fd447fae90cd0ad83e187dd960">
+    <display-name>Channel 5</display-name>
+    <icon src="/images/channels/1c66f0fd447fae90cd0ad83e187dd960.png"/>
+  </channel><channel id="1cb386b8b9d36d73b008507e75c53645">
+    <display-name>High Street TV 3</display-name>
+  </channel><channel id="1cb62c5d290051888b0a585550a35e80">
+    <display-name>5550</display-name>
+  </channel><channel id="1d1578c39ef691271f3b74f32ba14578">
+    <display-name>XXX Taboo</display-name>
+  </channel><channel id="1db2df134af089a7bb0a0a82a2577517">
+    <display-name>Sky1 +1</display-name>
+    <icon src="/images/channels/1db2df134af089a7bb0a0a82a2577517.png"/>
+  </channel><channel id="1ddbe73e276c79c2e19b14ab9fb774de">
+    <display-name>Ideal World</display-name>
+    <icon src="/images/channels/1ddbe73e276c79c2e19b14ab9fb774de.png"/>
+  </channel><channel id="1ddf9f639cd138d32646f2d8f35c316a">
+    <display-name>PaversShoes.tv</display-name>
+  </channel><channel id="1de1fe9ec9356e4db358c6e33fd46e82">
+    <display-name>More4</display-name>
+    <icon src="/images/channels/1de1fe9ec9356e4db358c6e33fd46e82.png"/>
+  </channel><channel id="1e1987c87c25afc0fa387eb56dc2d24e">
+    <display-name>DAYSTAR HD</display-name>
+  </channel><channel id="1f7e63ca623acba6cc5e2cf671d2f0c4">
+    <display-name>52109</display-name>
+  </channel><channel id="1f81b569ecc52d2e12aa05b1b48d071f">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="1fa4d8448aace47170786ff00c0b91bb">
+    <display-name>ABN TV</display-name>
+  </channel><channel id="207aea0d6fed9bc5ece17efb8c7c8516">
+    <display-name>XXX Girl Girl</display-name>
+  </channel><channel id="20d4fc0530776510fa21acdd19caacd8">
+    <display-name>Lucky Star</display-name>
+  </channel><channel id="20dfc512a9057f9da78d03260f922e69">
+    <display-name>Bangla TV</display-name>
+  </channel><channel id="211dd9395f88dd251662595ab89e262b">
+    <display-name>DMAX</display-name>
+    <icon src="/images/channels/211dd9395f88dd251662595ab89e262b.png"/>
+  </channel><channel id="213dcf33eb84a0c19e5e500c76a30fbb">
+    <display-name>Sky Arts</display-name>
+    <icon src="/images/channels/213dcf33eb84a0c19e5e500c76a30fbb.png"/>
+  </channel><channel id="214bce9d5839e34d70371ef7fdc38c93">
+    <display-name>Challenge+1</display-name>
+    <icon src="/images/channels/214bce9d5839e34d70371ef7fdc38c93.png"/>
+  </channel><channel id="215daa0e2b30c2bc37cf1c598817abd3">
+    <display-name>TLC+2</display-name>
+    <icon src="/images/channels/215daa0e2b30c2bc37cf1c598817abd3.png"/>
+  </channel><channel id="21ac99e5777680aaf28e3b3f2d8ecc1d">
+    <display-name>FreeSports</display-name>
+    <icon src="/images/channels/21ac99e5777680aaf28e3b3f2d8ecc1d.png"/>
+  </channel><channel id="220bec41e1012e0bf686cf4f0428d305">
+    <display-name>VIVA</display-name>
+    <icon src="/images/channels/220bec41e1012e0bf686cf4f0428d305.png"/>
+  </channel><channel id="2226d68184ae9f5ec2c0678c58c360f9">
+    <display-name>Ary Family</display-name>
+  </channel><channel id="2230a465f3a71bda15692776471f8a12">
+    <display-name>Xpanded TV</display-name>
+  </channel><channel id="233b8a8b016f96ce691526ab1456f292">
+    <display-name>H2</display-name>
+    <icon src="/images/channels/233b8a8b016f96ce691526ab1456f292.png"/>
+  </channel><channel id="2396478de1c6eb8a0e3b1399f9e505aa">
+    <display-name>Times Now</display-name>
+  </channel><channel id="23af0e15603e9500d9851c9eea7be826">
+    <display-name>QUEST</display-name>
+    <icon src="/images/channels/23af0e15603e9500d9851c9eea7be826.png"/>
+  </channel><channel id="23b748af3fdee798e8c48f2bbd68803a">
+    <display-name>British Muslim</display-name>
+  </channel><channel id="23bd2cd3b93dbf991d6f1f24cb62ce80">
+    <display-name>Nick Jr+1</display-name>
+    <icon src="/images/channels/23bd2cd3b93dbf991d6f1f24cb62ce80.png"/>
+  </channel><channel id="23e2a80b87f6816b2e28bcc04a1525eb">
+    <display-name>KTV</display-name>
+  </channel><channel id="24010a3a6e3f331cfd831c80db501e8c">
+    <display-name>CBS Reality+1</display-name>
+    <icon src="/images/channels/24010a3a6e3f331cfd831c80db501e8c.png"/>
+  </channel><channel id="2405905763689cdcfa4e6acb969426c2">
+    <display-name>BBC One NI</display-name>
+    <icon src="/images/channels/2405905763689cdcfa4e6acb969426c2.png"/>
+  </channel><channel id="24aa4dbde344534fe733bbc9e0141a6d">
+    <display-name>New Vision TV</display-name>
+  </channel><channel id="24b31f95c5d7a7572a63e5d7f44147af">
+    <display-name>Kanshi TV</display-name>
+  </channel><channel id="24b8bd00be70f0b4da7497d080e7d53b">
+    <display-name>Sky News HD</display-name>
+  </channel><channel id="254f096966159aafdd0a5cf0f15e3cf9">
+    <display-name>Travel Ch +1</display-name>
+    <icon src="/images/channels/254f096966159aafdd0a5cf0f15e3cf9.png"/>
+  </channel><channel id="25a50fa139f71c15535a3e3b0f84440b">
+    <display-name>Pick+1</display-name>
+    <icon src="/images/channels/25a50fa139f71c15535a3e3b0f84440b.png"/>
+  </channel><channel id="25cea89202edc5ccf71184a9a2c1cf37">
+    <display-name>IQRA BANGLA</display-name>
+  </channel><channel id="25f75d101898e040b394503b942d82ca">
+    <display-name>Hidayat TV</display-name>
+  </channel><channel id="2694d26b490185a2c2631dec36e85127">
+    <display-name>Inspiration TV</display-name>
+  </channel><channel id="2789b9ab858da8d0521ead4419533ca2">
+    <display-name>Property Show</display-name>
+  </channel><channel id="28784a4ab682778366e520315c95af64">
+    <display-name>BBC Four</display-name>
+    <icon src="/images/channels/28784a4ab682778366e520315c95af64.png"/>
+  </channel><channel id="28993a036d87b2c4b49e69a1123a2ea3">
+    <display-name>ITV+1</display-name>
+  </channel><channel id="28e95acf1548bbdba77adb58831e44a1">
+    <display-name>SEE TV</display-name>
+  </channel><channel id="290c979ee3bae1a9da1fd659b00a1fd5">
+    <display-name>New Vision TV</display-name>
+  </channel><channel id="292cc86d86843e997d42cda43a917f29">
+    <display-name>5561</display-name>
+  </channel><channel id="29b262e05aafa394c0e5101a20b8f213">
+    <display-name>Disc.History</display-name>
+  </channel><channel id="29f37fc10363d52ed60036575aa0fd01">
+    <display-name>Channel i</display-name>
+  </channel><channel id="2a69d841615cf6a8f102559f55412acf">
+    <display-name>4Music</display-name>
+    <icon src="/images/channels/2a69d841615cf6a8f102559f55412acf.png"/>
+  </channel><channel id="2a6d71646800341a603476f79825c098">
+    <display-name>propeller</display-name>
+    <icon src="/images/channels/2a6d71646800341a603476f79825c098.png"/>
+  </channel><channel id="2a86e8a428a5f6ccdfcf7f9c0947d3b0">
+    <display-name>Dave ja vu</display-name>
+    <icon src="/images/channels/2a86e8a428a5f6ccdfcf7f9c0947d3b0.png"/>
+  </channel><channel id="2ad347f1bd0a08c5739bd7ca5e2a25ae">
+    <display-name>XXX Brits</display-name>
+  </channel><channel id="2b116daa89b3d6e3a1b6c9a3c97d5768">
+    <display-name>FOX HD</display-name>
+  </channel><channel id="2b2fd9ec48effbd41695e49846e7ba7d">
+    <display-name>SONY SAB</display-name>
+    <icon src="/images/channels/2b2fd9ec48effbd41695e49846e7ba7d.png"/>
+  </channel><channel id="2b86eebea4354f37dd75f754bbd7ae9a">
+    <display-name>Ahlulbayt TV</display-name>
+  </channel><channel id="2b87aee75b1f14e025fcf100d33ed244">
+    <display-name>Universal+1</display-name>
+    <icon src="/images/channels/2b87aee75b1f14e025fcf100d33ed244.png"/>
+  </channel><channel id="2c0cfb712eaca9490f1d7f52934c907b">
+    <display-name>Rishtey</display-name>
+  </channel><channel id="2c5ca8b55f5b0bca21a2780091d27ccb">
+    <display-name>ITV</display-name>
+  </channel><channel id="2c61195a05b06df2193eb99ff482c7d7">
+    <display-name>Disney Chnl</display-name>
+  </channel><channel id="2c968bbf2457452d1bea80e7e8f8366b">
+    <display-name>Urdu1 Europe</display-name>
+  </channel><channel id="2cccf23299ce0d68155b5ab98d4821c1">
+    <display-name>TBN UK</display-name>
+  </channel><channel id="2cf4c6671618602a2dd5b0382f208585">
+    <display-name>BBC One South</display-name>
+    <icon src="/images/channels/2cf4c6671618602a2dd5b0382f208585.png"/>
+  </channel><channel id="2d0b9d1ad3d0feced94f7e989392c4d8">
+    <display-name>QVC Beauty</display-name>
+  </channel><channel id="2d0d8c1e9af4e29e7cb618aeaf5c0fcb">
+    <display-name>BBC One YkandLi</display-name>
+    <icon src="/images/channels/2d0d8c1e9af4e29e7cb618aeaf5c0fcb.png"/>
+  </channel><channel id="2d1aa09d26092ce1333150a3e6be4576">
+    <display-name>ITV4+1</display-name>
+    <icon src="/images/channels/2d1aa09d26092ce1333150a3e6be4576.png"/>
+  </channel><channel id="2d9467affe501f458acc01636d6b3253">
+    <display-name>Made In Bristol</display-name>
+  </channel><channel id="2dba9b7f2c5bb8fcbc5e9dd4bf434c29">
+    <display-name>ITV +1</display-name>
+  </channel><channel id="2e040380d9fe16f8aa36d628a5a42190">
+    <display-name>Sky Sports 4</display-name>
+  </channel><channel id="2e52a10ba03307248f006180e4122438">
+    <display-name>Nickelodeon+1</display-name>
+    <icon src="/images/channels/2e52a10ba03307248f006180e4122438.png"/>
+  </channel><channel id="2f78c83f5d905ff4b53cf7589f3b56dd">
+    <display-name>5558</display-name>
+  </channel><channel id="3220f5e63f67acafb31b5ff6c7740fa4">
+    <display-name>Star GOLD HD</display-name>
+  </channel><channel id="325c3eb4e4fe19dba95d639cfe862371">
+    <display-name>PTV Global</display-name>
+  </channel><channel id="326dd00aae64da7370389dab0d785268">
+    <display-name>Nick Jr Too</display-name>
+    <icon src="/images/channels/326dd00aae64da7370389dab0d785268.png"/>
+  </channel><channel id="328b56fabf370b980f103d591c0892c3">
+    <display-name>Star Bharat</display-name>
+  </channel><channel id="32952a5725b7a13fae060a28e4966fe0">
+    <display-name>BBC Two Scot</display-name>
+    <icon src="/images/channels/32952a5725b7a13fae060a28e4966fe0.png"/>
+  </channel><channel id="330ae719dfce658ce69138c97618181f">
+    <display-name>Horse and Country</display-name>
+    <icon src="/images/channels/330ae719dfce658ce69138c97618181f.png"/>
+  </channel><channel id="33ccdd2bf67affadf6afde235e7495df">
+    <display-name>5532</display-name>
+  </channel><channel id="33dd5244df0749033b041a77512bb1a4">
+    <display-name>Star Plus HD</display-name>
+    <icon src="/images/channels/33dd5244df0749033b041a77512bb1a4.png"/>
+  </channel><channel id="33fc6ccbe091934f80e4128338ba5458">
+    <display-name>Retro Movies</display-name>
+    <icon src="/images/channels/33fc6ccbe091934f80e4128338ba5458.png"/>
+  </channel><channel id="342b85b49743d9c866cea85216207ac9">
+    <display-name>ITV +1</display-name>
+  </channel><channel id="34406e072ad207daebd1ca3cc615d4da">
+    <display-name>Crime+Inv</display-name>
+    <icon src="/images/channels/34406e072ad207daebd1ca3cc615d4da.png"/>
+  </channel><channel id="34fddc52b14ef82c629ccee783efe8f0">
+    <display-name>BBC One East E</display-name>
+    <icon src="/images/channels/34fddc52b14ef82c629ccee783efe8f0.png"/>
+  </channel><channel id="3545ace8befb5646f2ee9a8d0f1053b2">
+    <display-name>Sky Greats</display-name>
+  </channel><channel id="35c61938ce862c50f00e342a1d3058c8">
+    <display-name>Channels 24</display-name>
+  </channel><channel id="35d66ab3381cf2511ca26fb8ea515a5a">
+    <display-name>CBeebies</display-name>
+    <icon src="/images/channels/35d66ab3381cf2511ca26fb8ea515a5a.png"/>
+  </channel><channel id="3614bd56f908b58253cc40dd545b23b2">
+    <display-name>Star Plus</display-name>
+  </channel><channel id="36e17fe3a26dfa8b55d58ee0ba50fed8">
+    <display-name>Disney Junior</display-name>
+    <icon src="/images/channels/36e17fe3a26dfa8b55d58ee0ba50fed8.png"/>
+  </channel><channel id="36e4b97f122981c91ce82c197ee5086b">
+    <display-name>Word Network</display-name>
+  </channel><channel id="3849035859fb2d08e826a5eb8b6666f4">
+    <display-name>Boomerang</display-name>
+    <icon src="/images/channels/3849035859fb2d08e826a5eb8b6666f4.png"/>
+  </channel><channel id="3888707778c9ea3f2668eb4ebeb94e26">
+    <display-name>Cartoon Netwrk</display-name>
+    <icon src="/images/channels/3888707778c9ea3f2668eb4ebeb94e26.png"/>
+  </channel><channel id="38b19c8c758bf8d46d4b3bcd9f713617">
+    <display-name>Chat Box</display-name>
+  </channel><channel id="38b4844b067c5bf9481956f48e82b3a9">
+    <display-name>Kix+1</display-name>
+    <icon src="/images/channels/38b4844b067c5bf9481956f48e82b3a9.png"/>
+  </channel><channel id="38d838452faeb22b5850b8d08997345c">
+    <display-name>Quest Red+1</display-name>
+  </channel><channel id="3932fa4d11310596e0c3eba7dc8caf4c">
+    <display-name>Channel 4</display-name>
+    <icon src="/images/channels/3932fa4d11310596e0c3eba7dc8caf4c.png"/>
+  </channel><channel id="398cdc264482b9b4960d1b1cc7726ad7">
+    <display-name>ITV3</display-name>
+    <icon src="/images/channels/398cdc264482b9b4960d1b1cc7726ad7.png"/>
+  </channel><channel id="398fe9bc5ee3b47556d06f9b9cb95562">
+    <display-name>BBC One W Mid</display-name>
+    <icon src="/images/channels/398fe9bc5ee3b47556d06f9b9cb95562.png"/>
+  </channel><channel id="39980de827eda179da61bfe3075993b2">
+    <display-name>Home and Health</display-name>
+  </channel><channel id="39df0b98bb5aa9fd9ea8128e7a661f11">
+    <display-name>True Movies+1</display-name>
+    <icon src="/images/channels/39df0b98bb5aa9fd9ea8128e7a661f11.png"/>
+  </channel><channel id="3a639242a29cde57fe8853c8cb44aa5f">
+    <display-name>EWTN Catholic</display-name>
+  </channel><channel id="3b34177f2eac35c1a2612d54d39b526e">
+    <display-name>Home+1</display-name>
+    <icon src="/images/channels/3b34177f2eac35c1a2612d54d39b526e.png"/>
+  </channel><channel id="3b3e398abd02b34e8c32a1bf7d236620">
+    <display-name>ITV +1</display-name>
+  </channel><channel id="3b6502b3044459f0cd7383cd44733da9">
+    <display-name>ITV3+1</display-name>
+    <icon src="/images/channels/3b6502b3044459f0cd7383cd44733da9.png"/>
+  </channel><channel id="3bf3a980aaf2469cc8cec8e4f73846ad">
+    <display-name>Disney XD+1</display-name>
+    <icon src="/images/channels/3bf3a980aaf2469cc8cec8e4f73846ad.png"/>
+  </channel><channel id="3c62fa946e9fcbca7be754d058c102d5">
+    <display-name>Food Netwrk+1</display-name>
+    <icon src="/images/channels/3c62fa946e9fcbca7be754d058c102d5.png"/>
+  </channel><channel id="3c79d405c7a8fd116f6622fb773b4ad2">
+    <display-name>Nick Jr.</display-name>
+    <icon src="/images/channels/3c79d405c7a8fd116f6622fb773b4ad2.png"/>
+  </channel><channel id="3d3fc771fc90ce14eb68b50756e65b32">
+    <display-name>Eman Channel</display-name>
+  </channel><channel id="3dad73dcfd571e674621df8d9d5225a6">
+    <display-name>BBC One E Mid</display-name>
+    <icon src="/images/channels/3dad73dcfd571e674621df8d9d5225a6.png"/>
+  </channel><channel id="3e0a6101680560172a5f79d33be73b03">
+    <display-name>Hillsong</display-name>
+  </channel><channel id="3e4bba4257532b3e9e37241416797a46">
+    <display-name>TV One</display-name>
+  </channel><channel id="3ec7460e9abeb3b9aa713016d20fb999">
+    <display-name>Syfy +1</display-name>
+    <icon src="/images/channels/3ec7460e9abeb3b9aa713016d20fb999.png"/>
+  </channel><channel id="3f03c21f059931d2ffeff1981451e03f">
+    <display-name>Sky Sports 5</display-name>
+  </channel><channel id="3f62ab2b9cbc58ff426498e850aba48b">
+    <display-name>Sony Channel</display-name>
+  </channel><channel id="3ff73c569d75ddfc60e99e8ceb5890a1">
+    <display-name>1196</display-name>
+  </channel><channel id="409058d126899df829aa34a2e52614ca">
+    <display-name>GEO TV</display-name>
+  </channel><channel id="409e9a3603939b28921bda0f3065715f">
+    <display-name>Times Now</display-name>
+    <icon src="/images/channels/409e9a3603939b28921bda0f3065715f.png"/>
+  </channel><channel id="412dd2e345e82bb9d64cc39d695d3568">
+    <display-name>ARY Digital</display-name>
+  </channel><channel id="4184a4682f41a1ad22fecf8e558637a4">
+    <display-name>Safeer TV</display-name>
+  </channel><channel id="4194683d66505e6da4152698add03676">
+    <display-name>XXX Mums</display-name>
+  </channel><channel id="41c1a6aaa289a16288c9fc6c54046e69">
+    <display-name>revelation</display-name>
+  </channel><channel id="426ac769993983d1fd4afb6ebf7372fb">
+    <display-name>ExGirlfriends</display-name>
+  </channel><channel id="42a385908abbb0b9619b56c6824aab31">
+    <display-name>KICC TV</display-name>
+  </channel><channel id="42b061a90a2cedafb80a6892a7ba294a">
+    <display-name>Brit Asia TV</display-name>
+  </channel><channel id="42bcb89a343befe7d8ce0c290de56f16">
+    <display-name>Euronews</display-name>
+    <icon src="/images/channels/42bcb89a343befe7d8ce0c290de56f16.png"/>
+  </channel><channel id="42f62d6ad77a1151d8bce34b34c6a4e1">
+    <display-name>Disney Junior+</display-name>
+    <icon src="/images/channels/42f62d6ad77a1151d8bce34b34c6a4e1.png"/>
+  </channel><channel id="42fad9205b794860e1c64f52bba70e54">
+    <display-name>1194</display-name>
+  </channel><channel id="436fb980e3451095b4efe58f0b3f3825">
+    <display-name>Get Lucky TV</display-name>
+  </channel><channel id="44478b092c7d31a6ef0466acfea41b37">
+    <display-name>BEN</display-name>
+  </channel><channel id="4451993d5bce7f186d3557663fd567fa">
+    <display-name>MTV Music +1</display-name>
+  </channel><channel id="44afc6cdf79dad1d5a34fbe26ff1ed18">
+    <display-name>SONY MAX</display-name>
+  </channel><channel id="44bf2241dab72a0b76f7e08ae03d36f9">
+    <display-name>ITVBe+1</display-name>
+    <icon src="/images/channels/44bf2241dab72a0b76f7e08ae03d36f9.png"/>
+  </channel><channel id="44d8e01df807626056dc7d67f5180bf7">
+    <display-name>TJC Choice</display-name>
+  </channel><channel id="454c4b83ca8f73b9fc866e4883dd6185">
+    <display-name>Chart Show TV</display-name>
+    <icon src="/images/channels/454c4b83ca8f73b9fc866e4883dd6185.png"/>
+  </channel><channel id="45c60831c9324f5931173d3145543ad5">
+    <display-name>ComedyCentral</display-name>
+    <icon src="/images/channels/45c60831c9324f5931173d3145543ad5.png"/>
+  </channel><channel id="45fabd4d4fd497a7855158d80ba8b253">
+    <display-name>Sky AtlanticVIP</display-name>
+  </channel><channel id="468a086e508a10a8c4f09e3818885d8b">
+    <display-name>mta-muslim tv</display-name>
+  </channel><channel id="468a48e59aa457c4962806bde6a7a6d6">
+    <display-name>Ahlulbayt TV</display-name>
+  </channel><channel id="46b38fbe3b45042e5a416790a2ec49fb">
+    <display-name>DBN</display-name>
+  </channel><channel id="477d051b5f0bf7ead5e77503b3cf9c11">
+    <display-name>Channel 44</display-name>
+  </channel><channel id="481ab8643016e6f61dc90078996eb70a">
+    <display-name>Tiny Pop</display-name>
+    <icon src="/images/channels/481ab8643016e6f61dc90078996eb70a.png"/>
+  </channel><channel id="482a69654c5b6df81a2403bd05b14f43">
+    <display-name>E! +1</display-name>
+    <icon src="/images/channels/482a69654c5b6df81a2403bd05b14f43.png"/>
+  </channel><channel id="4845dbc4669f384c117ec26e2a01ffc8">
+    <display-name>Channel AKA</display-name>
+  </channel><channel id="49539b01696ac03b03d372d315652aa2">
+    <display-name>53395</display-name>
+  </channel><channel id="4a126382298472de46d09df1cd8616ba">
+    <display-name>Channel 4 +1</display-name>
+    <icon src="/images/channels/4a126382298472de46d09df1cd8616ba.png"/>
+  </channel><channel id="4a9e6bbd5519f56baafe95fd3899f6f6">
+    <display-name>Sky Atlantic HD</display-name>
+  </channel><channel id="4ac96c7b5a197152b593d474a93dcc0a">
+    <display-name>Disc.Turbo</display-name>
+    <icon src="/images/channels/4ac96c7b5a197152b593d474a93dcc0a.png"/>
+  </channel><channel id="4b376d32b4142c2bed2495c140c94675">
+    <display-name>Nicktoons</display-name>
+    <icon src="/images/channels/4b376d32b4142c2bed2495c140c94675.png"/>
+  </channel><channel id="4b950a7249ec0ba400e017a2c3e8e727">
+    <display-name>Urdu1 Europe</display-name>
+  </channel><channel id="4beaf9e251085d51ac9456b240da0a5e">
+    <display-name>CBS Drama</display-name>
+    <icon src="/images/channels/4beaf9e251085d51ac9456b240da0a5e.png"/>
+  </channel><channel id="4bf63e69f9f550a9b1482833bba068fc">
+    <display-name>V Channel</display-name>
+  </channel><channel id="4c0dcee021af79bf6ff8d3dac8cc8a72">
+    <display-name>Sangat</display-name>
+  </channel><channel id="4c172b21b1361b36f06defbe661e0f94">
+    <display-name>ITV</display-name>
+  </channel><channel id="4d90cfaaa6834c610bb7b8ffadd840c4">
+    <display-name>XXX Swingers</display-name>
+  </channel><channel id="4d97c4346442f0625266832b4b3a9b9a">
+    <display-name>Made In TnandWr</display-name>
+  </channel><channel id="4e0ad8bc96bc54ce79493d45c8b8d2eb">
+    <display-name>Sky Thriller HD</display-name>
+  </channel><channel id="4ec7f79d411db57735a27644f35a9836">
+    <display-name>Tiny Pop +1</display-name>
+    <icon src="/images/channels/4ec7f79d411db57735a27644f35a9836.png"/>
+  </channel><channel id="4f6148422746fafbaa060c5cceb5571c">
+    <display-name>Reset TV PIN</display-name>
+  </channel><channel id="4fabd9ef6d8a323e60fb1994dbc46257">
+    <display-name>50300</display-name>
+  </channel><channel id="4fbff2200aad8aec7bdb2fdf23a0ed6a">
+    <display-name>FRANCE Eng</display-name>
+    <icon src="/images/channels/4fbff2200aad8aec7bdb2fdf23a0ed6a.png"/>
+  </channel><channel id="50356836340f4785d2a224c677ffa7e7">
+    <display-name>SkySpBoxOffHD</display-name>
+  </channel><channel id="507b6bf3fae8abffba92a962b39b43ba">
+    <display-name>Channel 4</display-name>
+    <icon src="/images/channels/3932fa4d11310596e0c3eba7dc8caf4c.png"/>
+  </channel><channel id="5099490c0d064515fd0c52bda6659ddc">
+    <display-name>Star GOLD</display-name>
+  </channel><channel id="50b5cd90dd6a05612913b0444bd8a883">
+    <display-name>SkyNws Arabia</display-name>
+  </channel><channel id="50f5416688345e6e3bd100338972e32a">
+    <display-name>SEE TV</display-name>
+  </channel><channel id="510eda38863731dc46f03a8fc0299621">
+    <display-name>DM Plus TV</display-name>
+  </channel><channel id="511367cf2dd9eaaf8bd70fa6bffab696">
+    <display-name>MTV ROCKS</display-name>
+    <icon src="/images/channels/511367cf2dd9eaaf8bd70fa6bffab696.png"/>
+  </channel><channel id="513688aeeaa74b8c1f2ead04a1426ada">
+    <display-name>Rishtey</display-name>
+  </channel><channel id="5139a43db6f2c160c716ab07be30ea0c">
+    <display-name>Sony Crime</display-name>
+  </channel><channel id="518bd3dabe5ead082d7f5db5590955cf">
+    <display-name>Star GOLD</display-name>
+    <icon src="/images/channels/518bd3dabe5ead082d7f5db5590955cf.png"/>
+  </channel><channel id="519b6651d2b24b1d3077652eb4c0ef29">
+    <display-name>Samaa</display-name>
+  </channel><channel id="51b103140e2dc5cf33f49b263b2e8196">
+    <display-name>Rishtey</display-name>
+    <icon src="/images/channels/51b103140e2dc5cf33f49b263b2e8196.png"/>
+  </channel><channel id="52344fc3e2d98ff6853b28601f2950f4">
+    <display-name>GEO News</display-name>
+  </channel><channel id="52363b0c905d1227e1d8907bfe4046a1">
+    <display-name>CHSTV</display-name>
+  </channel><channel id="52a3d989729ce3abf56cf0798d95260e">
+    <display-name>5554</display-name>
+  </channel><channel id="52ac09dc732fe3663187113fe7304dfc">
+    <display-name>TJC</display-name>
+  </channel><channel id="52bc133ff4c5cba4d73baad810116820">
+    <display-name>ROK</display-name>
+  </channel><channel id="54003c8ad971eb93e17e4c35a6d78bba">
+    <display-name>News18</display-name>
+  </channel><channel id="54208cb9730676aad63383b0033254e0">
+    <display-name>Channel 5+1</display-name>
+    <icon src="/images/channels/54208cb9730676aad63383b0033254e0.png"/>
+  </channel><channel id="54278b5ae2da78dcee97d0942c5bc26f">
+    <display-name>ATN Bangla UK</display-name>
+  </channel><channel id="5471b5385d6f5f560c77e38788366cf3">
+    <display-name>alibi</display-name>
+    <icon src="/images/channels/5471b5385d6f5f560c77e38788366cf3.png"/>
+  </channel><channel id="54ae1d3209c0d008c252a3db3743ac7f">
+    <display-name>SEE TV</display-name>
+  </channel><channel id="54dd4940d5ce57b5c11861ece8ec8792">
+    <display-name>HomeHealth+1</display-name>
+  </channel><channel id="556f367aae732c1b9469929835be3535">
+    <display-name>ITV</display-name>
+  </channel><channel id="55faaff371deb657c6f4dd3e22330ecc">
+    <display-name>Sony Movies</display-name>
+    <icon src="/images/channels/55faaff371deb657c6f4dd3e22330ecc.png"/>
+  </channel><channel id="5609a274c57433b162e31a1c40830abc">
+    <display-name>Ultra HD</display-name>
+  </channel><channel id="5632f06ddf66ca578ec89cb9206a31dd">
+    <display-name>E4 HD</display-name>
+    <icon src="/images/channels/1e916a35f149ad0bc3b98f955888b5a0.png"/>
+  </channel><channel id="5636a0479067a6335663a6164ab1eb2f">
+    <display-name>Home and Leisure</display-name>
+  </channel><channel id="566450021f3b7621bc277565f6bc4550">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="56b72d1cb3a8c1623c3c32859898f13b">
+    <display-name>Star Plus</display-name>
+  </channel><channel id="56c45cc73bee3c988a0e02f81cd61fcb">
+    <display-name>Kix</display-name>
+    <icon src="/images/channels/56c45cc73bee3c988a0e02f81cd61fcb.png"/>
+  </channel><channel id="56c4f75ea63c6551ad59b4cd4c9e54da">
+    <display-name>Magic</display-name>
+    <icon src="/images/channels/56c4f75ea63c6551ad59b4cd4c9e54da.png"/>
+  </channel><channel id="56f90d5949aa070067aca40cdec9d92e">
+    <display-name>AMC from BTHD</display-name>
+    <icon src="/images/channels/56f90d5949aa070067aca40cdec9d92e.png"/>
+  </channel><channel id="57209bb0d314cbb57db0413f7f166add">
+    <display-name>Animal Plnt+1</display-name>
+    <icon src="/images/channels/57209bb0d314cbb57db0413f7f166add.png"/>
+  </channel><channel id="5729a1fdb1920b9f818182d692e97f2c">
+    <display-name>Gems TV</display-name>
+  </channel><channel id="57ae1f46b606b7797141eda5025fd96e">
+    <display-name>ABN TV</display-name>
+  </channel><channel id="57d7b72e4efb06a98c1555d49d279a2f">
+    <display-name>More4+1</display-name>
+    <icon src="/images/channels/57d7b72e4efb06a98c1555d49d279a2f.png"/>
+  </channel><channel id="5972317695ae5d79d3d07db301d607f6">
+    <display-name>Animal Planet</display-name>
+    <icon src="/images/channels/5972317695ae5d79d3d07db301d607f6.png"/>
+  </channel><channel id="59b6f19511d50cec3fe100ce905159c9">
+    <display-name>5551</display-name>
+  </channel><channel id="5a45b9003708257ec17f5c879d541c7f">
+    <display-name>Clubland TV</display-name>
+  </channel><channel id="5a8650ad8f2933a75a89261f698e9e7a">
+    <display-name>Home and Leisure</display-name>
+    <icon src="/images/channels/5a8650ad8f2933a75a89261f698e9e7a.png"/>
+  </channel><channel id="5adb9a6fe7e228bc43cdcaaaca063ca9">
+    <display-name>Takbeer TV</display-name>
+  </channel><channel id="5bd401555c301122a64f370e3911d324">
+    <display-name>Bloomberg HD</display-name>
+  </channel><channel id="5c1ca57d2b2fd9a91dac04d3d2f9be08">
+    <display-name>Channel 44</display-name>
+  </channel><channel id="5c4b67a5e0873abd6378170c170a341f">
+    <display-name>ITV</display-name>
+  </channel><channel id="5c73aa99fcd5b3affc6877a04a5bacb5">
+    <display-name>BT Sport 1 HD</display-name>
+    <icon src="/images/channels/5c73aa99fcd5b3affc6877a04a5bacb5.png"/>
+  </channel><channel id="5cd51344fc695beb9f586573d4092db4">
+    <display-name>E!</display-name>
+    <icon src="/images/channels/5cd51344fc695beb9f586573d4092db4.png"/>
+  </channel><channel id="5d12e9fe7f543bed7ca29f5944b6d0c5">
+    <display-name>propeller</display-name>
+  </channel><channel id="5d7b20088b083352806283100224b44d">
+    <display-name>GR SHOP</display-name>
+  </channel><channel id="5dc4bdd7e104a9982c5f45e2cda19db1">
+    <display-name>Sky Atlantic+1</display-name>
+  </channel><channel id="5ddf3caef59625062f013b428eecf7c0">
+    <display-name>ITV4</display-name>
+    <icon src="/images/channels/5ddf3caef59625062f013b428eecf7c0.png"/>
+  </channel><channel id="5edaa1d2c9aa5067664698eca9dded68">
+    <display-name>AIT Int'l</display-name>
+    <icon src="/images/channels/5edaa1d2c9aa5067664698eca9dded68.png"/>
+  </channel><channel id="5f4ba547aefc8f4719d3a56254fef9fd">
+    <display-name>Made In TnandWr</display-name>
+  </channel><channel id="5f6f33d13f1d9d26a20c3ccbff8d1bf3">
+    <display-name>BBC One West</display-name>
+    <icon src="/images/channels/5f6f33d13f1d9d26a20c3ccbff8d1bf3.png"/>
+  </channel><channel id="5fd00ec74fdb102a62abbb8450668818">
+    <display-name>SONY MAX</display-name>
+  </channel><channel id="60afbba0adc420a2a2bab609c93ac462">
+    <display-name>BBC One East W</display-name>
+  </channel><channel id="60e7040b33c6ae35553270046cbaaed0">
+    <display-name>MTV DANCE</display-name>
+    <icon src="/images/channels/60e7040b33c6ae35553270046cbaaed0.png"/>
+  </channel><channel id="614f16e46336ed534fdcf13b2a6c21b2">
+    <display-name>Channel AKA</display-name>
+  </channel><channel id="618c6af8c086d247d9f0eaf47601ded9">
+    <display-name>PTC PUNJABI</display-name>
+  </channel><channel id="61aea460a812f53868e37cb9a0bcca68">
+    <display-name>Chartshow Hits</display-name>
+    <icon src="/images/channels/61aea460a812f53868e37cb9a0bcca68.png"/>
+  </channel><channel id="621cd41b7bf4f1800f295305f0d9acb2">
+    <display-name>tru TV</display-name>
+    <icon src="/images/channels/621cd41b7bf4f1800f295305f0d9acb2.png"/>
+  </channel><channel id="62febf531628016dbd0753f23fcbfa7d">
+    <display-name>Universal</display-name>
+    <icon src="/images/channels/62febf531628016dbd0753f23fcbfa7d.png"/>
+  </channel><channel id="632f814e8a32429a395ec866ec886953">
+    <display-name>SONY MAX</display-name>
+  </channel><channel id="63f7dd69f43aeedf785f30b127f6f458">
+    <display-name>ITV +1</display-name>
+  </channel><channel id="642a38f130c55de307a16fe7e9b23425">
+    <display-name>More4 HD</display-name>
+    <icon src="/images/channels/642a38f130c55de307a16fe7e9b23425.png"/>
+  </channel><channel id="652eb330d095f9a0759bc2e704ed5d3f">
+    <display-name>Sky Select</display-name>
+  </channel><channel id="653ac76e1e9a63d1fc506332ce240f2f">
+    <display-name>DM Plus TV</display-name>
+  </channel><channel id="65acd0fae5ca077713966064dff708e6">
+    <display-name>Cruise1st.tv</display-name>
+  </channel><channel id="65bcf489bfd6e708c44169e678baba24">
+    <display-name>Aplus TV</display-name>
+  </channel><channel id="663c501f8df4a004d9ebd750becc441b">
+    <display-name>GOD Channel</display-name>
+    <icon src="/images/channels/663c501f8df4a004d9ebd750becc441b.png"/>
+  </channel><channel id="664f46377cad62c571d8c373f63a82f1">
+    <display-name>3274</display-name>
+  </channel><channel id="6801f46d4291026e78a8429d9faa5340">
+    <display-name>NDTV 24x7</display-name>
+  </channel><channel id="693662d6c04b828aea43b05103d767cd">
+    <display-name>Sky Family</display-name>
+  </channel><channel id="69566cbc1d41b569c27a77cdba2b1d42">
+    <display-name>London Live</display-name>
+    <icon src="/images/channels/69566cbc1d41b569c27a77cdba2b1d42.png"/>
+  </channel><channel id="69c484970d29ef3124bbbd6b8bfce425">
+    <display-name>GOLD</display-name>
+    <icon src="/images/channels/69c484970d29ef3124bbbd6b8bfce425.png"/>
+  </channel><channel id="69e7fac80aa09760869a8105d4e3fee8">
+    <display-name>FAME TV</display-name>
+  </channel><channel id="6b34136577216ca02534911e1ee87829">
+    <display-name>Movies 24</display-name>
+    <icon src="/images/channels/6b34136577216ca02534911e1ee87829.png"/>
+  </channel><channel id="6b66bdb0faeb30550e023456fd5152ca">
+    <display-name>TV 99</display-name>
+  </channel><channel id="6b8909b79c05f49cd08dc64f882e0109">
+    <display-name>QUEST</display-name>
+    <icon src="/images/channels/6b8909b79c05f49cd08dc64f882e0109.png"/>
+  </channel><channel id="6bca4f67b89d31571a700d89ee587312">
+    <display-name>50470</display-name>
+  </channel><channel id="6beca6023f011e8a5538f974ece5f61a">
+    <display-name>TLC+1</display-name>
+    <icon src="/images/channels/6beca6023f011e8a5538f974ece5f61a.png"/>
+  </channel><channel id="6c898d98da1e8bfdc71f75afd408d41a">
+    <display-name>mov4men+1</display-name>
+    <icon src="/images/channels/6c898d98da1e8bfdc71f75afd408d41a.png"/>
+  </channel><channel id="6c8996a206e41bc71c77c884a3f78a19">
+    <display-name>KTV</display-name>
+  </channel><channel id="6c8c1edfabd8529de5b4a84f09f52404">
+    <display-name>movies4men</display-name>
+    <icon src="/images/channels/6c8c1edfabd8529de5b4a84f09f52404.png"/>
+  </channel><channel id="6c8d73c7c69438c9968a31a7acf1dca7">
+    <display-name>Sky Sp NewsHQ</display-name>
+  </channel><channel id="6ca74f6c0f10d879318809a3c8e23db3">
+    <display-name>FrontRunner</display-name>
+  </channel><channel id="6d3bc642fbad05b5cebe4d865992c49c">
+    <display-name>Adult Channel</display-name>
+  </channel><channel id="6d82f000e8e83a354a7719fc0f03fba2">
+    <display-name>Faith World TV</display-name>
+  </channel><channel id="6e86b6ae4c3052f7f962a7a42669a796">
+    <display-name>Sky Select HD</display-name>
+  </channel><channel id="6ee6aab34bd74a97e54d0460d3f55152">
+    <display-name>Chilled 90s</display-name>
+    <icon src="/images/channels/6ee6aab34bd74a97e54d0460d3f55152.png"/>
+  </channel><channel id="6f09b2ea2d41b95094dc3ed7a60fe042">
+    <display-name>Syfy</display-name>
+    <icon src="/images/channels/6f09b2ea2d41b95094dc3ed7a60fe042.png"/>
+  </channel><channel id="6f4683d68e4e1fc445f6e9834e5e0f1e">
+    <display-name>S4C HD</display-name>
+    <icon src="/images/channels/6f4683d68e4e1fc445f6e9834e5e0f1e.png"/>
+  </channel><channel id="6f4af88ce04bb4d9753c6d9fd698df71">
+    <display-name>Made in Bham</display-name>
+  </channel><channel id="6faa70cb8a1ec11ceaef67297588e031">
+    <display-name>Nat Geo+1hr</display-name>
+    <icon src="/images/channels/6faa70cb8a1ec11ceaef67297588e031.png"/>
+  </channel><channel id="6fde9481da6fa5e136524a29c3bff21e">
+    <display-name>AAJ TAK</display-name>
+  </channel><channel id="707562dc9b6760336e39fc4b54532071">
+    <display-name>Sky Sports 3</display-name>
+  </channel><channel id="707934c20a178dfb1612542dd384ac9d">
+    <display-name>Kerrang!</display-name>
+    <icon src="/images/channels/707934c20a178dfb1612542dd384ac9d.png"/>
+  </channel><channel id="70ee176fa7da400beab520159355290b">
+    <display-name>BET:BlackEntTv</display-name>
+    <icon src="/images/channels/70ee176fa7da400beab520159355290b.png"/>
+  </channel><channel id="7101f2eeea3a9d8814b849b64adb3c5b">
+    <display-name>PTV Global</display-name>
+  </channel><channel id="715719904dad21c604e2eb4e1964c6a6">
+    <display-name>ITVBe</display-name>
+    <icon src="/images/channels/715719904dad21c604e2eb4e1964c6a6.png"/>
+  </channel><channel id="715bcdb3cd8ee24584bb8013d46de959">
+    <display-name>Tristar</display-name>
+  </channel><channel id="71e70c220e630ce8218db98a42a1669e">
+    <display-name>STV</display-name>
+  </channel><channel id="725823494d8b0e6cfde5dcbed1193b25">
+    <display-name>V Channel</display-name>
+  </channel><channel id="725887226ec406a63ce7d90a1b21e331">
+    <display-name>LFCTV</display-name>
+    <icon src="/images/channels/725887226ec406a63ce7d90a1b21e331.png"/>
+  </channel><channel id="72c6eab7ffb77bf644a0a88ce905db58">
+    <display-name>Bike</display-name>
+    <icon src="/images/channels/72c6eab7ffb77bf644a0a88ce905db58.png"/>
+  </channel><channel id="7400e8d0bf61a2fa7b1d7afcf8caf6ce">
+    <display-name>ITV</display-name>
+  </channel><channel id="748894eb9fc94de17f97a246482cba61">
+    <display-name>Times Now</display-name>
+  </channel><channel id="752c926ddac0a65a42c29f3dc4ff09c2">
+    <display-name>ITV</display-name>
+  </channel><channel id="759c4b98ea62e6f56f476a7a29a82fc1">
+    <display-name>True Movies</display-name>
+    <icon src="/images/channels/759c4b98ea62e6f56f476a7a29a82fc1.png"/>
+  </channel><channel id="76295449c516b9b81f7d94d6f6a535c9">
+    <display-name>Movies24+</display-name>
+    <icon src="/images/channels/76295449c516b9b81f7d94d6f6a535c9.png"/>
+  </channel><channel id="7692460194071a472b6de8a78cbb18f6">
+    <display-name>ITV</display-name>
+  </channel><channel id="7711351b24810d263ba97b7506d75aba">
+    <display-name>Sky AtlanticVIP</display-name>
+  </channel><channel id="77b9351ec3feebe0a1674381390442e4">
+    <display-name>Adult Channel</display-name>
+  </channel><channel id="77f5fe9f36d2f19ac8438362f92d7caa">
+    <display-name>CNN</display-name>
+    <icon src="/images/channels/77f5fe9f36d2f19ac8438362f92d7caa.png"/>
+  </channel><channel id="78a4e768ddba8492ded6e671547b5523">
+    <display-name>Boomerang +1</display-name>
+    <icon src="/images/channels/78a4e768ddba8492ded6e671547b5523.png"/>
+  </channel><channel id="7900f982b988cf51767a4bc49bc60e30">
+    <display-name>Gay Network</display-name>
+  </channel><channel id="791a240e6f35fed437328c85588503b2">
+    <display-name>YESTERDAY+1</display-name>
+    <icon src="/images/channels/791a240e6f35fed437328c85588503b2.png"/>
+  </channel><channel id="792bb5560f6a57a2a4cded1d0bdfe57f">
+    <display-name>Akaal Channel</display-name>
+  </channel><channel id="7960214c07b79cc89dc65dc6e702b54c">
+    <display-name>MTV BASE</display-name>
+    <icon src="/images/channels/7960214c07b79cc89dc65dc6e702b54c.png"/>
+  </channel><channel id="79bb6a03583717142c111b9ad07ee2ae">
+    <display-name>Nickelodeon</display-name>
+    <icon src="/images/channels/79bb6a03583717142c111b9ad07ee2ae.png"/>
+  </channel><channel id="7a14fab6140063995ad9d905e5d2cdf6">
+    <display-name>BT Sport//ESPN</display-name>
+    <icon src="/images/channels/7a14fab6140063995ad9d905e5d2cdf6.png"/>
+  </channel><channel id="7a776fbe2494f67a8ed53d207fe8df3b">
+    <display-name>BBC One Yorks</display-name>
+  </channel><channel id="7b472a3b30b78adafe356da28d656780">
+    <display-name>Forces TV</display-name>
+    <icon src="/images/channels/7b472a3b30b78adafe356da28d656780.png"/>
+  </channel><channel id="7b507552220f364896cf419089b309ec">
+    <display-name>QVC</display-name>
+    <icon src="/images/channels/7b507552220f364896cf419089b309ec.png"/>
+  </channel><channel id="7b598f6550a8f0dff30cc4a4e5c73b68">
+    <display-name>B4U Music</display-name>
+  </channel><channel id="7bdca00a6570df2079858772bbc953ee">
+    <display-name>Channel 4 +1</display-name>
+    <icon src="/images/channels/4a126382298472de46d09df1cd8616ba.png"/>
+  </channel><channel id="7c1153235893f8be84abdaa1d9773f67">
+    <display-name>50475</display-name>
+  </channel><channel id="7c5c233178bd952460121d89865e52e5">
+    <display-name>Film4</display-name>
+    <icon src="/images/channels/7c5c233178bd952460121d89865e52e5.png"/>
+  </channel><channel id="7caa65d1a4fa00c3ed34cae183ecc19f">
+    <display-name>Food Network</display-name>
+    <icon src="/images/channels/7caa65d1a4fa00c3ed34cae183ecc19f.png"/>
+  </channel><channel id="7cf6a62de7df1297c8c8f3e540a6c390">
+    <display-name>Studio 66 3</display-name>
+  </channel><channel id="7d14904108244a85f5f0df1732327bfb">
+    <display-name>JUS Punjabi</display-name>
+  </channel><channel id="7d5d5c5dcfe772feec28ec65b04bf1b6">
+    <display-name>COLORS HD</display-name>
+  </channel><channel id="7dc4011f3cab461c8766132d8058adae">
+    <display-name>Glory TV</display-name>
+  </channel><channel id="7e946019dd9fd196c4c47c878ae88844">
+    <display-name>ITV+1</display-name>
+  </channel><channel id="7e9dcfd7abd67117e68acca085ca58ea">
+    <display-name>SonLife</display-name>
+  </channel><channel id="7eb3ebfd23a3e97be37cde0055f1b04c">
+    <display-name>QVC Style</display-name>
+  </channel><channel id="7f83f6b999beb1bde55293e738562617">
+    <display-name>Islam Channel</display-name>
+  </channel><channel id="7fb7dcdb937e26e96b69c922b9b584c6">
+    <display-name>Ummah CH</display-name>
+  </channel><channel id="7fdd84effea16a26441b993615bc1201">
+    <display-name>5556</display-name>
+  </channel><channel id="80151cb5ad72c1bd1bc989138fe78578">
+    <display-name>Zee Punjabi</display-name>
+  </channel><channel id="80699c85d7baba09e37200756a3a165a">
+    <display-name>ABP News</display-name>
+  </channel><channel id="81d6c425b625dc55bcd8e2aee8c53630">
+    <display-name>TalkingPictures</display-name>
+    <icon src="/images/channels/81d6c425b625dc55bcd8e2aee8c53630.png"/>
+  </channel><channel id="8266450ce09233bd8cf076d556939a8a">
+    <display-name>LOVEWORLD TV</display-name>
+  </channel><channel id="827de2d68d335768600440370a0bcf23">
+    <display-name>ITV2+1</display-name>
+    <icon src="/images/channels/827de2d68d335768600440370a0bcf23.png"/>
+  </channel><channel id="82f9406172ec5f3d243e6c2c89204d89">
+    <display-name>Studio 66 3</display-name>
+  </channel><channel id="83930b54c7460f64d2a1e221ac999231">
+    <display-name>PTV Prime</display-name>
+  </channel><channel id="840024068629d545629155c7439fc745">
+    <display-name>Discovery</display-name>
+  </channel><channel id="84db38524d1b409ef246260ec746db0f">
+    <display-name>Scuzz</display-name>
+    <icon src="/images/channels/84db38524d1b409ef246260ec746db0f.png"/>
+  </channel><channel id="84f0690bb3f52d94361f217d5c98e755">
+    <display-name>Star Bharat</display-name>
+  </channel><channel id="84f3d662dc0130026e4f943861249665">
+    <display-name>Home and Leisure</display-name>
+  </channel><channel id="85380fc246adf2b889a4bd7e5ac76f90">
+    <display-name>Adult Channel</display-name>
+  </channel><channel id="856165fd0763feac65276470faf09a84">
+    <display-name>TV Warehouse</display-name>
+  </channel><channel id="85c7e3daad7734497e2b54961c63e089">
+    <display-name>Eurosport 2 HD</display-name>
+    <icon src="/images/channels/85c7e3daad7734497e2b54961c63e089.png"/>
+  </channel><channel id="85d056f5ab481924c0a39e0983fdc0cc">
+    <display-name>Channel 4</display-name>
+    <icon src="/images/channels/3932fa4d11310596e0c3eba7dc8caf4c.png"/>
+  </channel><channel id="85d65015a4adc1cf030f136c5d2a12d8">
+    <display-name>True Ent +1</display-name>
+    <icon src="/images/channels/85d65015a4adc1cf030f136c5d2a12d8.png"/>
+  </channel><channel id="86550be28bcdc36df6eccaa168264d13">
+    <display-name>KTV</display-name>
+  </channel><channel id="86c6aa67f7804f14472458708bd2c073">
+    <display-name>Lifetime+1</display-name>
+    <icon src="/images/channels/86c6aa67f7804f14472458708bd2c073.png"/>
+  </channel><channel id="87090579b8fddb4f696d1794dfe731a8">
+    <display-name>ITV</display-name>
+  </channel><channel id="893a18b81a3998c143a1b2f11ef88228">
+    <display-name>Channel 5 HD</display-name>
+    <icon src="/images/channels/893a18b81a3998c143a1b2f11ef88228.png"/>
+  </channel><channel id="899a333c79b9d9e3c4cd8bd7cedabdbc">
+    <display-name>Really</display-name>
+    <icon src="/images/channels/899a333c79b9d9e3c4cd8bd7cedabdbc.png"/>
+  </channel><channel id="89c17a55dd8ebd6804279d6e215358af">
+    <display-name>FAME TV</display-name>
+  </channel><channel id="89fdca0c2446cc5cc909e707c932e408">
+    <display-name>BBC One S East</display-name>
+    <icon src="/images/channels/89fdca0c2446cc5cc909e707c932e408.png"/>
+  </channel><channel id="8b27baecbdd1b14ef312c03d2ce08766">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="8b2d219b9ec3a4d61d15cea45ed58b64">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="8b3239f6b6c9eab929eb7ebc5a10f56e">
+    <display-name>Dunya News</display-name>
+  </channel><channel id="8b37baeb87b2b04453b96b4eaf15d890">
+    <display-name>CGTN</display-name>
+  </channel><channel id="8b879da4a2ec1b2a4ced47a02b1d144d">
+    <display-name>GN TV</display-name>
+  </channel><channel id="8bd0f79005d5531f5e85f31504f20b97">
+    <display-name>SkySpBoxOff</display-name>
+  </channel><channel id="8c0830557568d0820716e523ff61dbcc">
+    <display-name>ComedyXtra</display-name>
+    <icon src="/images/channels/8c0830557568d0820716e523ff61dbcc.png"/>
+  </channel><channel id="8c25adb82327b5070195c8b0b7484657">
+    <display-name>COLORS</display-name>
+    <icon src="/images/channels/8c25adb82327b5070195c8b0b7484657.png"/>
+  </channel><channel id="8c3d62f92387ee00d8d68e06fefbc0bd">
+    <display-name>YESTERDAY</display-name>
+    <icon src="/images/channels/8c3d62f92387ee00d8d68e06fefbc0bd.png"/>
+  </channel><channel id="8c6870c33f2a82bb8f8df10f099b4858">
+    <display-name>Al Arabiya</display-name>
+  </channel><channel id="8cb022f76ca3d8fbd3dd3a0eda490137">
+    <display-name>High Street TV</display-name>
+  </channel><channel id="8de763fdbaa2662bd53159ed9ab9e5f4">
+    <display-name>Crime+Inv +1</display-name>
+  </channel><channel id="8dfc0604ed0d473a3d8d7f0854d47f24">
+    <display-name>Box Hits</display-name>
+    <icon src="/images/channels/8dfc0604ed0d473a3d8d7f0854d47f24.png"/>
+  </channel><channel id="8e948f38d8d99a7ee7495f8d4be529d4">
+    <display-name>52092</display-name>
+  </channel><channel id="8ea6d0f5cc51e2ce5c84ad53a2a0029e">
+    <display-name>BT Sport 2</display-name>
+    <icon src="/images/channels/8ea6d0f5cc51e2ce5c84ad53a2a0029e.png"/>
+  </channel><channel id="8ec0e832fdb499bd41b9a67547de6ba6">
+    <display-name>E4</display-name>
+    <icon src="/images/channels/1e916a35f149ad0bc3b98f955888b5a0.png"/>
+  </channel><channel id="8ed60dea05e83d911bdd828e3e27ae00">
+    <display-name>SkyPremiereHD</display-name>
+  </channel><channel id="8f13e289f6e2ce54e0549f5ca507d7b0">
+    <display-name>Boomerang</display-name>
+  </channel><channel id="8f32387e564c7531802d2452abcc7bcd">
+    <display-name>TRT World</display-name>
+  </channel><channel id="8f50b7e27df31817b4dc5dd049ead607">
+    <display-name>SONY TV</display-name>
+  </channel><channel id="8f80bfbebcf524e86a4dcb8d0fa26a1a">
+    <display-name>ATN Bangla UK</display-name>
+  </channel><channel id="903f24102477c15860a2fd1df10b6387">
+    <display-name>XXX HomeVids</display-name>
+  </channel><channel id="904d02331293cea663c34a8522c1f7af">
+    <display-name>Olive TV</display-name>
+  </channel><channel id="905dd56b387d829abc34a5e797e66785">
+    <display-name>B4U Movies</display-name>
+  </channel><channel id="9072cc313123dc3bfaec4c8097812d29">
+    <display-name>ITV</display-name>
+  </channel><channel id="908df813654ac994c9b7711c1c1e97b8">
+    <display-name>SEE TV</display-name>
+  </channel><channel id="90ddbc1ed2456c6df0c75b5a6bf15440">
+    <display-name>High Street TV 2</display-name>
+  </channel><channel id="90e2cc2c4a3a91409ba5adb4ed937ba4">
+    <display-name>Quest Red+1</display-name>
+    <icon src="/images/channels/90e2cc2c4a3a91409ba5adb4ed937ba4.png"/>
+  </channel><channel id="90e6248bdb363140bb311e0417610360">
+    <display-name>PTV Global</display-name>
+  </channel><channel id="93108e7c42bde7f26b88bb92cdb8c4f2">
+    <display-name>Sky Hits HD</display-name>
+  </channel><channel id="93400603245f324ec64d192b68e1035f">
+    <display-name>History</display-name>
+    <icon src="/images/channels/93400603245f324ec64d192b68e1035f.png"/>
+  </channel><channel id="939845c59bc38f67e1b7620753c8cf2a">
+    <display-name>Made In Bristol</display-name>
+  </channel><channel id="942751ef3c8e258ffdd92194cdec62c1">
+    <display-name>MTV</display-name>
+    <icon src="/images/channels/942751ef3c8e258ffdd92194cdec62c1.png"/>
+  </channel><channel id="947fcbce6f52ec1b105815029404adb3">
+    <display-name>Channel 4</display-name>
+    <icon src="/images/channels/3932fa4d11310596e0c3eba7dc8caf4c.png"/>
+  </channel><channel id="951471491fef51c3c950ec42d561c106">
+    <display-name>Racing UK</display-name>
+    <icon src="/images/channels/951471491fef51c3c950ec42d561c106.png"/>
+  </channel><channel id="9541c5ae851380689e5170355c4c389a">
+    <display-name>BBC One NEandC</display-name>
+    <icon src="/images/channels/9541c5ae851380689e5170355c4c389a.png"/>
+  </channel><channel id="95bd1e03c4b988fa7d81e13cc6d3b47b">
+    <display-name>QUEST+1</display-name>
+    <icon src="/images/channels/95bd1e03c4b988fa7d81e13cc6d3b47b.png"/>
+  </channel><channel id="96804ee7c37705e3937e4e7a82ad31d4">
+    <display-name>Climax</display-name>
+  </channel><channel id="9712778fe6336a1797bbf3d31ec0e3a8">
+    <display-name>NTV</display-name>
+  </channel><channel id="9846e967e8313c5cd8aa3122518e335d">
+    <display-name>52560</display-name>
+  </channel><channel id="9888561b1e3779b8ba7451e4f2bd1895">
+    <display-name>xratedhookups</display-name>
+    <icon src="/images/channels/9888561b1e3779b8ba7451e4f2bd1895.png"/>
+  </channel><channel id="98dfa5432f7fffc53f28b69c657f9032">
+    <display-name>STV Edinburgh</display-name>
+  </channel><channel id="9a1607a79fff6e539796e3c991286012">
+    <display-name>PBS America</display-name>
+    <icon src="/images/channels/9a1607a79fff6e539796e3c991286012.png"/>
+  </channel><channel id="9a2f4f8f6b243ab2fcbfdd2e236daf06">
+    <display-name>TCM+1</display-name>
+  </channel><channel id="9a6a25fe5c18c368a911bfe32f2a44ba">
+    <display-name>LOVEWORLD TV</display-name>
+  </channel><channel id="9a86e25bec9c33d577d55013a7a37d9c">
+    <display-name>Babenation</display-name>
+  </channel><channel id="9d38c4c9b63166c97ecf34a593139d94">
+    <display-name>Psychic Today</display-name>
+  </channel><channel id="9d4d33ac9441830813448a5df94f388c">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="9dab84040c7770564405aa74b7f61d8a">
+    <display-name>4seven</display-name>
+    <icon src="/images/channels/9dab84040c7770564405aa74b7f61d8a.png"/>
+  </channel><channel id="9db218bc3cd2ce8ff50b709976f562f1">
+    <display-name>Eurosport 1</display-name>
+    <icon src="/images/channels/9db218bc3cd2ce8ff50b709976f562f1.png"/>
+  </channel><channel id="9e769b287fc7e5498e00d9ae99528051">
+    <display-name>andTV</display-name>
+  </channel><channel id="9edcf10eb1bfcdc5ea968c956aa61f3e">
+    <display-name>Lifetime</display-name>
+    <icon src="/images/channels/9edcf10eb1bfcdc5ea968c956aa61f3e.png"/>
+  </channel><channel id="9f685fee9d9bab035b02f38a3d8c24c0">
+    <display-name>Star Plus</display-name>
+    <icon src="/images/channels/9f685fee9d9bab035b02f38a3d8c24c0.png"/>
+  </channel><channel id="9f9f239a6703943f78cda8a76c476a47">
+    <display-name>Ahlebait TV</display-name>
+  </channel><channel id="a09999f400d3adeff642e2a18e229eb7">
+    <display-name>Sky Action</display-name>
+  </channel><channel id="a0ae36f2a04248803ca7840b908b9914">
+    <display-name>Eurosport 1 HD</display-name>
+    <icon src="/images/channels/a0ae36f2a04248803ca7840b908b9914.png"/>
+  </channel><channel id="a1abcbf1ee973fee7defba1ffe467b97">
+    <display-name>Boomerang +1</display-name>
+  </channel><channel id="a253157075a32150b7c01e8e5a8b4a67">
+    <display-name>Eden</display-name>
+    <icon src="/images/channels/a253157075a32150b7c01e8e5a8b4a67.png"/>
+  </channel><channel id="a26316e3ac2c186fc4dfdacc2253ec91">
+    <display-name>Channel AKA</display-name>
+  </channel><channel id="a290a5f186cf436c8c1be66aa144ae5e">
+    <display-name>Lifetime HD</display-name>
+    <icon src="/images/channels/a290a5f186cf436c8c1be66aa144ae5e.png"/>
+  </channel><channel id="a36498eb8f8e6912096fdb6b2765dba7">
+    <display-name>Ultra HD</display-name>
+  </channel><channel id="a3c70f4c25110a9ca84f7c604023ee6c">
+    <display-name>Dave</display-name>
+    <icon src="/images/channels/a3c70f4c25110a9ca84f7c604023ee6c.png"/>
+  </channel><channel id="a646a42ebeb2a084d947b35a4f3d11a7">
+    <display-name>Believe TV</display-name>
+  </channel><channel id="a697fa970bdbffe2e82a1e195e9329d9">
+    <display-name>Jewelry Maker</display-name>
+  </channel><channel id="a6e4f9dcf1aba9fd8b77e10f0bd8e71a">
+    <display-name>Create and Craft</display-name>
+    <icon src="/images/channels/a6e4f9dcf1aba9fd8b77e10f0bd8e71a.png"/>
+  </channel><channel id="a6f80e48e139b4e7f529c90af4b3a760">
+    <display-name>COLORS HD</display-name>
+  </channel><channel id="a7afbf9b8cc829165ead18c3611425be">
+    <display-name>Hillsong</display-name>
+  </channel><channel id="a82123a148015a99a78b0b07fcfabc0e">
+    <display-name>MATV National</display-name>
+  </channel><channel id="a9502a82427b09ac46232615bc488a41">
+    <display-name>News18</display-name>
+  </channel><channel id="a95fd2381fd4e095b8c96080850c5e11">
+    <display-name>Sky One HD</display-name>
+  </channel><channel id="a9d1c61172a52309522a7a4405923981">
+    <display-name>Bangla TV</display-name>
+  </channel><channel id="a9fc5d4e7e825d589a9336ca1c49157f">
+    <display-name>XXX 18 and Dirty</display-name>
+  </channel><channel id="aa2e1d137d2928caf97eaab80d92201c">
+    <display-name>8341</display-name>
+  </channel><channel id="aabc59f7325a66b736fb5194161352f4">
+    <display-name>Home</display-name>
+    <icon src="/images/channels/aabc59f7325a66b736fb5194161352f4.png"/>
+  </channel><channel id="aac28c7dc31d8f40babb73042b4724e0">
+    <display-name>Made In TnandWr</display-name>
+  </channel><channel id="aac4e3d2cdf8eb5470ffa39c9e8976bb">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="ab3c1806ca324e38c8080256eb9539bf">
+    <display-name>Ummah CH</display-name>
+  </channel><channel id="ab5ba836bad947c4f128d71f709b032b">
+    <display-name>5STAR+1</display-name>
+    <icon src="/images/channels/ab5ba836bad947c4f128d71f709b032b.png"/>
+  </channel><channel id="ab627a69633229d95d8bb820ccb08e3e">
+    <display-name>Glory TV</display-name>
+  </channel><channel id="abd15559bef0dfc5e006827c067cf157">
+    <display-name>Believe TV</display-name>
+  </channel><channel id="ac7909356a344898e277cc6419c6ad1d">
+    <display-name>SkySpBoxOffHD</display-name>
+  </channel><channel id="ad067a3111eec7edf767f5d36f394342">
+    <display-name>MTV HITS</display-name>
+    <icon src="/images/channels/ad067a3111eec7edf767f5d36f394342.png"/>
+  </channel><channel id="ad39457e02d0790ccbd7a923a7eccbd6">
+    <display-name>BoxNation</display-name>
+    <icon src="/images/channels/ad39457e02d0790ccbd7a923a7eccbd6.png"/>
+  </channel><channel id="ad45ef8ce10701b83cf91650b4c9a796">
+    <display-name>XXX Real Wives</display-name>
+  </channel><channel id="ad77ef763d7ebc3ab5531f10c4673158">
+    <display-name>Faith UK</display-name>
+  </channel><channel id="ada4ed3c7edbce7a0bcffc8f1783eab6">
+    <display-name>Bangla TV</display-name>
+  </channel><channel id="adc8364b222cd9f88b26f3055ba0b414">
+    <display-name>Made In Cardiff</display-name>
+  </channel><channel id="ae9aeb8d59396c209a38773cbf91158e">
+    <display-name>Ideal Extra</display-name>
+  </channel><channel id="af19875e5b47a41f5f31bc4c556a9b72">
+    <display-name>BBC One N West</display-name>
+    <icon src="/images/channels/af19875e5b47a41f5f31bc4c556a9b72.png"/>
+  </channel><channel id="af465a80811c17205a307bad1a0aff20">
+    <display-name>ShoppingNation</display-name>
+  </channel><channel id="b02f7c3972ece2972db321d9d4bea5df">
+    <display-name>Al Jazeera Eng</display-name>
+    <icon src="/images/channels/b02f7c3972ece2972db321d9d4bea5df.png"/>
+  </channel><channel id="b0816807dd0e3c6513f6430d7ccd9736">
+    <display-name>Zee Punjabi</display-name>
+  </channel><channel id="b0be61fdb354559b03f9e5646faa0960">
+    <display-name>Chat Box</display-name>
+  </channel><channel id="b0c389ae74ebe8cc15c483a7ad029a58">
+    <display-name>horror channel</display-name>
+    <icon src="/images/channels/b0c389ae74ebe8cc15c483a7ad029a58.png"/>
+  </channel><channel id="b0f892ce8e9ad534881a904d6ffe1bdc">
+    <display-name>Sky ScFi/Horror</display-name>
+  </channel><channel id="b11a3f5cad14203c0a2f03f93b4fe282">
+    <display-name>Program Your Remote</display-name>
+  </channel><channel id="b1b3993f2e979f521226328c28a44f72">
+    <display-name>BBC One Oxford</display-name>
+    <icon src="/images/channels/b1b3993f2e979f521226328c28a44f72.png"/>
+  </channel><channel id="b22d89876464c54d0ea13c88756c4d5f">
+    <display-name>BBC Two NI</display-name>
+    <icon src="/images/channels/b22d89876464c54d0ea13c88756c4d5f.png"/>
+  </channel><channel id="b250217ed046cb463e08fa55f39676dc">
+    <display-name>Bloomberg</display-name>
+    <icon src="/images/channels/b250217ed046cb463e08fa55f39676dc.png"/>
+  </channel><channel id="b27095b4f7cc07d0eaeae633823d4c02">
+    <display-name>ComedyCent+1</display-name>
+    <icon src="/images/channels/b27095b4f7cc07d0eaeae633823d4c02.png"/>
+  </channel><channel id="b2ce7385f89568970df40a1b93458af7">
+    <display-name>Flow TV</display-name>
+  </channel><channel id="b2e2db6a3c5a5875153755bc43822605">
+    <display-name>Vox Africa</display-name>
+  </channel><channel id="b2ef30421b19fa97018b22543da32cc2">
+    <display-name>Channel 4</display-name>
+    <icon src="/images/channels/3932fa4d11310596e0c3eba7dc8caf4c.png"/>
+  </channel><channel id="b2fec16d3c204d7c7d3f24cc813199cb">
+    <display-name>Sky Disney</display-name>
+  </channel><channel id="b362c420be861a3ae20c523a0427ecfa">
+    <display-name>Channel i</display-name>
+  </channel><channel id="b36eca5bd5caf271012666997bfcadb7">
+    <display-name>W</display-name>
+    <icon src="/images/channels/b36eca5bd5caf271012666997bfcadb7.png"/>
+  </channel><channel id="b38a89e38840ffcf2dc1f9436a373751">
+    <display-name>Lucky Star</display-name>
+  </channel><channel id="b3b0d813023655177be42dbdc6e7db88">
+    <display-name>True Ent</display-name>
+  </channel><channel id="b3c0b22cb6444e31c825c2672d82eea7">
+    <display-name>CBS Reality</display-name>
+    <icon src="/images/channels/b3c0b22cb6444e31c825c2672d82eea7.png"/>
+  </channel><channel id="b3c13b7e0b1d49f414101b9dedec3669">
+    <display-name>Star Utsav</display-name>
+    <icon src="/images/channels/b3c13b7e0b1d49f414101b9dedec3669.png"/>
+  </channel><channel id="b3fd7e82ddf41a40f178c354fa3a4cff">
+    <display-name>Safeer TV</display-name>
+  </channel><channel id="b4ac5274450e9049d76638f93c505c7d">
+    <display-name>Television X</display-name>
+    <icon src="/images/channels/b4ac5274450e9049d76638f93c505c7d.png"/>
+  </channel><channel id="b520e3741b3d130580b5a32a36a47c60">
+    <display-name>Psychic Today</display-name>
+  </channel><channel id="b59c97068e1b45a29e1b3ce6aafa07bb">
+    <display-name>5555</display-name>
+  </channel><channel id="b681a2870b1fcefc9cb0baacc6c34739">
+    <display-name>Create and Craft</display-name>
+  </channel><channel id="b69cddeb44033d2dbe49159bda81f11a">
+    <display-name>Brit Asia TV</display-name>
+  </channel><channel id="b6a8f10754ea2f32328d89fabd71e237">
+    <display-name>holiday+cruise</display-name>
+    <icon src="/images/channels/b6a8f10754ea2f32328d89fabd71e237.png"/>
+  </channel><channel id="b6c5893620c7b9712c5a2375112cce64">
+    <display-name>Sky Sports 2</display-name>
+  </channel><channel id="b702354e879f81f4d08432d62c80188c">
+    <display-name>Sony Channel</display-name>
+    <icon src="/images/channels/b702354e879f81f4d08432d62c80188c.png"/>
+  </channel><channel id="b813e79848fedd1349f2d5dfb55668b7">
+    <display-name>5557</display-name>
+  </channel><channel id="b9517cecffc59b84af341bba24a0fb25">
+    <display-name>Sky Living HD</display-name>
+  </channel><channel id="ba03578c1b8e26baeab5d86a57090d51">
+    <display-name>BT Sport 3 HD</display-name>
+    <icon src="/images/channels/ba03578c1b8e26baeab5d86a57090d51.png"/>
+  </channel><channel id="ba1b396beee82e94ea80c4f99eb5e48e">
+    <display-name>FAME TV</display-name>
+  </channel><channel id="ba52645652dafe197d3a0dabfe4ae128">
+    <display-name>Sky Thriller</display-name>
+  </channel><channel id="ba7d6bf1bc88e8dfed439330dac47a56">
+    <display-name>ITV2</display-name>
+    <icon src="/images/channels/ba7d6bf1bc88e8dfed439330dac47a56.png"/>
+  </channel><channel id="ba9be8244303d5b9a76b8834281af151">
+    <display-name>BBC One Scot</display-name>
+    <icon src="/images/channels/ba9be8244303d5b9a76b8834281af151.png"/>
+  </channel><channel id="bb04d178ba2004d011e6734c8944038c">
+    <display-name>Community</display-name>
+    <icon src="/images/channels/bb04d178ba2004d011e6734c8944038c.png"/>
+  </channel><channel id="bb1303f6423c6f10a615e99790e3b909">
+    <display-name>FOX+1</display-name>
+    <icon src="/images/channels/bb1303f6423c6f10a615e99790e3b909.png"/>
+  </channel><channel id="bb4182ff7dbb1f9c35aa46804a68913a">
+    <display-name>SEE TV</display-name>
+  </channel><channel id="bb5d99dff477659e8fe6fde07be05a0b">
+    <display-name>Cartoonito</display-name>
+    <icon src="/images/channels/bb5d99dff477659e8fe6fde07be05a0b.png"/>
+  </channel><channel id="bb9fb30cb96b128f23e090e7861284a3">
+    <display-name>Eman Channel</display-name>
+  </channel><channel id="bc61003d26fd4ee7ab3b6bff76b0439c">
+    <display-name>BBC NEWS</display-name>
+    <icon src="/images/channels/bc61003d26fd4ee7ab3b6bff76b0439c.png"/>
+  </channel><channel id="bc63d44a0ea6f25810b5f78a7c9a6226">
+    <display-name>TVC News +1</display-name>
+  </channel><channel id="bd854b815638d9e2c7a26e60e1b4ac24">
+    <display-name>Real Lives</display-name>
+    <icon src="/images/channels/bd854b815638d9e2c7a26e60e1b4ac24.png"/>
+  </channel><channel id="bdd569a539ce58e19c7a912b6ad5721d">
+    <display-name>GOLD +1</display-name>
+    <icon src="/images/channels/bdd569a539ce58e19c7a912b6ad5721d.png"/>
+  </channel><channel id="bdeed8272ebab720c3c36cc875527bbd">
+    <display-name>BLAZE</display-name>
+    <icon src="/images/channels/bdeed8272ebab720c3c36cc875527bbd.png"/>
+  </channel><channel id="be93e6f92853cae6c4b95399ecec71c1">
+    <display-name>STV2</display-name>
+  </channel><channel id="bea3fda6dc5af6dfa1bb1bfe7470461b">
+    <display-name>Bangla TV</display-name>
+  </channel><channel id="bec922196bff6c6245230bb646827920">
+    <display-name>Showcase</display-name>
+  </channel><channel id="bf1a3ba9998369c95128202d8d768747">
+    <display-name>Sky Comedy</display-name>
+  </channel><channel id="bf24b0cc4b36503a32b9cf73269f4388">
+    <display-name>52580</display-name>
+  </channel><channel id="bfe6b8f3361f46588365ee7af4b46306">
+    <display-name>horror ch+1</display-name>
+    <icon src="/images/channels/bfe6b8f3361f46588365ee7af4b46306.png"/>
+  </channel><channel id="c0416c2494757d526a960500f341b615">
+    <display-name>Noor TV</display-name>
+  </channel><channel id="c0f6bddd63720e31f07d6e4008ed5729">
+    <display-name>Sky1</display-name>
+    <icon src="/images/channels/c0f6bddd63720e31f07d6e4008ed5729.png"/>
+  </channel><channel id="c123c3c37b038c92a6d73fbe0e917c99">
+    <display-name>Nat Geo</display-name>
+    <icon src="/images/channels/c123c3c37b038c92a6d73fbe0e917c99.png"/>
+  </channel><channel id="c1809a9d84886a2c773775daf1c98868">
+    <display-name>Madani Chnl</display-name>
+  </channel><channel id="c197eb814ad75faee3d107d7acc2d8f6">
+    <display-name>Retail TV</display-name>
+  </channel><channel id="c2333c7fc897c615f0289447c64215f3">
+    <display-name>Sky Family HD</display-name>
+  </channel><channel id="c247ae377b5050cd16bcfb969d4bc5ad">
+    <display-name>POP</display-name>
+    <icon src="/images/channels/c247ae377b5050cd16bcfb969d4bc5ad.png"/>
+  </channel><channel id="c29307f69650937608dffcea8cdda6e0">
+    <display-name>BBC Two Eng</display-name>
+    <icon src="/images/channels/c29307f69650937608dffcea8cdda6e0.png"/>
+  </channel><channel id="c2cf597130de5783058f7c65f63506ec">
+    <display-name>XXX Brits</display-name>
+  </channel><channel id="c344959956963ca4de1e40301b495c8a">
+    <display-name>Sky Atlantic</display-name>
+    <icon src="/images/channels/c344959956963ca4de1e40301b495c8a.png"/>
+  </channel><channel id="c44129839aaf5bff0947ee578310b81b">
+    <display-name>Zing</display-name>
+  </channel><channel id="c4566a503657bfa56865a9aaec018567">
+    <display-name>Channel i</display-name>
+  </channel><channel id="c4a367ebbea6234816576526a588444d">
+    <display-name>Islam Channel</display-name>
+  </channel><channel id="c5349829ff41260719fd8534be4201eb">
+    <display-name>Box Upfront</display-name>
+    <icon src="/images/channels/c5349829ff41260719fd8534be4201eb.png"/>
+  </channel><channel id="c600b2f91c8a80f2ee562d8c94db3508">
+    <display-name>Showcase+1</display-name>
+  </channel><channel id="c620b1bdf414abebbc5cd4b545a07cd7">
+    <display-name>Drama</display-name>
+    <icon src="/images/channels/c620b1bdf414abebbc5cd4b545a07cd7.png"/>
+  </channel><channel id="c62ebe420bb17ab21716c3aeff105df0">
+    <display-name>Channel 44</display-name>
+  </channel><channel id="c67f6844aee73da15e145a90c5b5a7e6">
+    <display-name>xrated40+</display-name>
+    <icon src="/images/channels/c67f6844aee73da15e145a90c5b5a7e6.png"/>
+  </channel><channel id="c6d408c96d945359f6de6847801054f3">
+    <display-name>9241</display-name>
+  </channel><channel id="c6d9faf10bbf85af83bbbf6de795ba25">
+    <display-name>ID+1</display-name>
+  </channel><channel id="c6ea7815004def62c76ec3c1af32fbc8">
+    <display-name>Playboy TV</display-name>
+    <icon src="/images/channels/c6ea7815004def62c76ec3c1af32fbc8.png"/>
+  </channel><channel id="c6f684c19f3db5715210d664ac0ff7fc">
+    <display-name>Disc.Sci+1</display-name>
+    <icon src="/images/channels/c6f684c19f3db5715210d664ac0ff7fc.png"/>
+  </channel><channel id="c73ed9580aea95de9c790b5076c477ee">
+    <display-name>Premier Sports</display-name>
+    <icon src="/images/channels/c73ed9580aea95de9c790b5076c477ee.png"/>
+  </channel><channel id="c75ceb984ddf88916ae88411e7c5acbc">
+    <display-name>BBC ALBA</display-name>
+    <icon src="/images/channels/afd51eed5fa493cbdf9fdf0dd626bd5b.png"/>
+  </channel><channel id="c77cc4b6c12efa068e3eed0484c00a62">
+    <display-name>Eurosport 2</display-name>
+    <icon src="/images/channels/c77cc4b6c12efa068e3eed0484c00a62.png"/>
+  </channel><channel id="c8569ec8b48d6cffe716e6d731933ed4">
+    <display-name>BBC Parliament</display-name>
+    <icon src="/images/channels/c8569ec8b48d6cffe716e6d731933ed4.png"/>
+  </channel><channel id="c8c7145da2cb0b57db74a1292c360b69">
+    <display-name>Urdu1 Europe</display-name>
+  </channel><channel id="c8d210f6f3cc128845f0381402f6e8c6">
+    <display-name>XXX Brits</display-name>
+  </channel><channel id="c90cc353f020a1051050b39f1d91c29f">
+    <display-name>53090</display-name>
+  </channel><channel id="c92bafe772de8e4a88c5bea25e4e84fc">
+    <display-name>FOX News</display-name>
+  </channel><channel id="c952f8be945112d99b7ea4ce77e0b2d5">
+    <display-name>ITV</display-name>
+  </channel><channel id="c9be70ffb89d473d53ee770ed37bfa19">
+    <display-name>Disney Chnl+1</display-name>
+    <icon src="/images/channels/c9be70ffb89d473d53ee770ed37bfa19.png"/>
+  </channel><channel id="c9de728be57a901a2708a5449dd2c46e">
+    <display-name>Vox Africa</display-name>
+  </channel><channel id="c9ef5848ab352e36e2c05b39f93d270e">
+    <display-name>Sky DramaRom</display-name>
+  </channel><channel id="c9f52a91f6b8e079d3c9b15cd74cc99b">
+    <display-name>CNN</display-name>
+  </channel><channel id="ca1edb2641e56e6b894b31fa76b4ed53">
+    <display-name>Showcase 3</display-name>
+  </channel><channel id="ca288745f2e8cca94cc9ee11ccbae5cc">
+    <display-name>5USA+1</display-name>
+    <icon src="/images/channels/ca288745f2e8cca94cc9ee11ccbae5cc.png"/>
+  </channel><channel id="ca771dd7385b650c67e970aeaa96d79c">
+    <display-name>Chelsea TV</display-name>
+    <icon src="/images/channels/ca771dd7385b650c67e970aeaa96d79c.png"/>
+  </channel><channel id="ca9c4204c6a1c7ec833fabab5207f613">
+    <display-name>5549</display-name>
+  </channel><channel id="cbe79960af90dfbcb580b9c1a2e2777b">
+    <display-name>Ultra HD</display-name>
+  </channel><channel id="cc3bed557e73a7fd2110f7df2b55690f">
+    <display-name>3272</display-name>
+  </channel><channel id="cc44dc5da9d57a8f4308ea159bc88e9e">
+    <display-name>Flow TV</display-name>
+  </channel><channel id="cdb67e6449101028ececebc0d1bc655a">
+    <display-name>22618</display-name>
+  </channel><channel id="cdf6209bacee487911c3dc5ce90159df">
+    <display-name>Pick</display-name>
+    <icon src="/images/channels/cdf6209bacee487911c3dc5ce90159df.png"/>
+  </channel><channel id="ce22517246c958e11b50afebce1fbaa4">
+    <display-name>Made In Leeds</display-name>
+  </channel><channel id="ceaf8429ac1b8c0e98a05d7690ecc8b3">
+    <display-name>POP+1</display-name>
+    <icon src="/images/channels/ceaf8429ac1b8c0e98a05d7690ecc8b3.png"/>
+  </channel><channel id="ceb0c4d36bfdc391b566deeb92789474">
+    <display-name>5535</display-name>
+  </channel><channel id="d00222e3c33bcdef7ee9f742c57ebc9a">
+    <display-name>BoxNation HD</display-name>
+    <icon src="/images/channels/d00222e3c33bcdef7ee9f742c57ebc9a.png"/>
+  </channel><channel id="d05910e04bdf5603bf9dc38a0015189c">
+    <display-name>At The Races</display-name>
+    <icon src="/images/channels/d05910e04bdf5603bf9dc38a0015189c.png"/>
+  </channel><channel id="d072c4b027cf5893778ef9c6069e456b">
+    <display-name>MTV CLASSIC</display-name>
+    <icon src="/images/channels/d072c4b027cf5893778ef9c6069e456b.png"/>
+  </channel><channel id="d0a36c81f8ca7b4987b8e22da7da7ee8">
+    <display-name>Disc.History+1</display-name>
+    <icon src="/images/channels/d0a36c81f8ca7b4987b8e22da7da7ee8.png"/>
+  </channel><channel id="d105594ea7f43f872fc3890b81d03acc">
+    <display-name>Best Direct</display-name>
+    <icon src="/images/channels/d105594ea7f43f872fc3890b81d03acc.png"/>
+  </channel><channel id="d25d42115ce5bae5a3e912ef7bd41e2f">
+    <display-name>Brit Asia TV</display-name>
+  </channel><channel id="d2ec286dac0f362ecf1a1728f1b323a1">
+    <display-name>Vintage TV</display-name>
+    <icon src="/images/channels/d2ec286dac0f362ecf1a1728f1b323a1.png"/>
+  </channel><channel id="d311d8f2eaea350766f5bccd049c5d76">
+    <display-name>5559</display-name>
+  </channel><channel id="d343bb6e36690ffa66e70453c2dfb1ad">
+    <display-name>Star Utsav</display-name>
+  </channel><channel id="d466d442f2bc096c7b632868f2e6ec09">
+    <display-name>STB Dev App</display-name>
+  </channel><channel id="d49341327464be34db66b0a2fecf7a72">
+    <display-name>CBBC</display-name>
+    <icon src="/images/channels/d49341327464be34db66b0a2fecf7a72.png"/>
+  </channel><channel id="d5485d1cd47a71f7df5c0602386ef3dc">
+    <display-name>5553</display-name>
+  </channel><channel id="d601b44af8943df0ba0b248935c860d3">
+    <display-name>CNN HD</display-name>
+  </channel><channel id="d612d204ea304736f669b9fd5e649325">
+    <display-name>ARY Digital</display-name>
+  </channel><channel id="d638b71c73726ddb886a28f16b84e5cf">
+    <display-name>Vox Africa</display-name>
+  </channel><channel id="d649ac5312e41254510489190272e4cc">
+    <display-name>Heart TV</display-name>
+  </channel><channel id="d68a67d01756b77ea15edbaaf4f50ef6">
+    <display-name>Motorsport TV</display-name>
+    <icon src="/images/channels/d68a67d01756b77ea15edbaaf4f50ef6.png"/>
+  </channel><channel id="d69fccaa286f33f4819e650d1c75625c">
+    <display-name>Bangla TV</display-name>
+  </channel><channel id="d6b4033e67f6c6756c104062580f6f28">
+    <display-name>At The Races</display-name>
+  </channel><channel id="d736624692aaf5d65b71c36d383b593a">
+    <display-name>Home and Leisure</display-name>
+  </channel><channel id="d7801918b77c8d770f5b68bed4841e47">
+    <display-name>Olive TV</display-name>
+  </channel><channel id="d78739f23580f51c390448a50499421a">
+    <display-name>ITV</display-name>
+  </channel><channel id="d78b2942736b8b6d9ca22c61375214e9">
+    <display-name>Reset your PIN</display-name>
+  </channel><channel id="d8dca29836b66621264afd30a4ae64d2">
+    <display-name>Sky Sports 1</display-name>
+  </channel><channel id="d9825c3a0b86e05ab1576a6dc83e8b74">
+    <display-name>52111</display-name>
+  </channel><channel id="d9a5c004ca2e302d48b500653a1c59dc">
+    <display-name>5 USA</display-name>
+    <icon src="/images/channels/d9a5c004ca2e302d48b500653a1c59dc.png"/>
+  </channel><channel id="d9c6f65c23465c8163988dff50b45bbe">
+    <display-name>53290</display-name>
+  </channel><channel id="da8071c2cb1c5593f58c50d549de0746">
+    <display-name>TV5 MONDE</display-name>
+    <icon src="/images/channels/da8071c2cb1c5593f58c50d549de0746.png"/>
+  </channel><channel id="db4ebf5aaca4b22daae81ef836f0da57">
+    <display-name>Challenge</display-name>
+    <icon src="/images/channels/db4ebf5aaca4b22daae81ef836f0da57.png"/>
+  </channel><channel id="db52734f0bd0367aac8782cb8f4150ac">
+    <display-name>CN+1</display-name>
+  </channel><channel id="dbc87412c3d68afe2a9b21b6e04525f4">
+    <display-name>3271</display-name>
+  </channel><channel id="dc52b2090cae014219b0e96367c5cb66">
+    <display-name>IQRA TV</display-name>
+  </channel><channel id="dc5e58eb29c24a39a5597eaba45b41f2">
+    <display-name>PTV Global</display-name>
+  </channel><channel id="dc74cf6decbaf81a8936d86704636ce2">
+    <display-name>Eden+1</display-name>
+    <icon src="/images/channels/dc74cf6decbaf81a8936d86704636ce2.png"/>
+  </channel><channel id="dd014655cdcce989013e927d2a0cf7cd">
+    <display-name>HUM EUROPE</display-name>
+  </channel><channel id="dd755ea592e1ae8e09876459a9736813">
+    <display-name>STV Edinburgh</display-name>
+  </channel><channel id="dd931ac80724e8049422111db0004c16">
+    <display-name>Kanshi TV</display-name>
+  </channel><channel id="de3b0a4c0aadee8403c9f03d8461a1dc">
+    <display-name>Showcase+1</display-name>
+  </channel><channel id="de61fec09f5180b0acd9e766fa50ee13">
+    <display-name>CBS Action</display-name>
+    <icon src="/images/channels/de61fec09f5180b0acd9e766fa50ee13.png"/>
+  </channel><channel id="de622b9050fe2ce6f87820c2ecf384f9">
+    <display-name>Bike</display-name>
+  </channel><channel id="de6f402b8d958e87aa2b04a294240734">
+    <display-name>Sony Chnl +1</display-name>
+    <icon src="/images/channels/de6f402b8d958e87aa2b04a294240734.png"/>
+  </channel><channel id="de8e2c56964582e22d779f4b4f25a58e">
+    <display-name>CITV</display-name>
+    <icon src="/images/channels/de8e2c56964582e22d779f4b4f25a58e.png"/>
+  </channel><channel id="decf75059d3feb78f89c3191e4ccfca3">
+    <display-name>Sports Active</display-name>
+  </channel><channel id="df297344a4c3642ecbc91edba4f97cc9">
+    <display-name>Aastha</display-name>
+  </channel><channel id="e0056abea4d5532da78b7d5e9cee08c6">
+    <display-name>5STAR</display-name>
+    <icon src="/images/channels/e0056abea4d5532da78b7d5e9cee08c6.png"/>
+  </channel><channel id="e0737a5f0a8b854ec3ce1a8d4b402d1c">
+    <display-name>CNN HD</display-name>
+  </channel><channel id="e083693ff1ffd9cb21a35e20f76bd1eb">
+    <display-name>Zee TV</display-name>
+    <icon src="/images/channels/e083693ff1ffd9cb21a35e20f76bd1eb.png"/>
+  </channel><channel id="e0983d8348095550520c9c8e47c9d13d">
+    <display-name>BBC Two Wales</display-name>
+    <icon src="/images/channels/e0983d8348095550520c9c8e47c9d13d.png"/>
+  </channel><channel id="e0b37460bc79b6fe193b2e01f44c5846">
+    <display-name>BBC One S West</display-name>
+    <icon src="/images/channels/e0b37460bc79b6fe193b2e01f44c5846.png"/>
+  </channel><channel id="e1088912f1462da7f45d1f87502d90aa">
+    <display-name>Channel 4</display-name>
+    <icon src="/images/channels/3932fa4d11310596e0c3eba7dc8caf4c.png"/>
+  </channel><channel id="e117398f91888a96c86d1344b26e9129">
+    <display-name>New Vision +1</display-name>
+  </channel><channel id="e15cc098d46c2795be47ed92f30f1406">
+    <display-name>5560</display-name>
+  </channel><channel id="e162cb13b13487d7de4c218a9fd8f4d3">
+    <display-name>Chelsea TV HD</display-name>
+  </channel><channel id="e16fe213b1e5587c0f6a952203452987">
+    <display-name>Sky Atlantic+1</display-name>
+    <icon src="/images/channels/e16fe213b1e5587c0f6a952203452987.png"/>
+  </channel><channel id="e22dca6bc7cbe07a3116e4caa9cf9018">
+    <display-name>QUEST</display-name>
+  </channel><channel id="e298cad5a33956222384f8d0f76ec23a">
+    <display-name>Believe TV</display-name>
+  </channel><channel id="e2a180f4130f19cb7e9edfc179d701ce">
+    <display-name>Gospel Channel</display-name>
+  </channel><channel id="e2f59326b9089a8bf5a0b7cf2b2a557f">
+    <display-name>CruiseSaversTV</display-name>
+  </channel><channel id="e328f356dc7d7b2791111512b54f1814">
+    <display-name>xratedcouples</display-name>
+  </channel><channel id="e32a38317941377a3123d3e3c62be7cf">
+    <display-name>12055</display-name>
+  </channel><channel id="e3c337b6c3bbedad94be5b72e8fd230d">
+    <display-name>Akaal Channel</display-name>
+  </channel><channel id="e40564b2ad651fde2dcf680d75f9a339">
+    <display-name>Eman Channel</display-name>
+  </channel><channel id="e434343df42dce3bd6d8d562c183898c">
+    <display-name>Discovery+1</display-name>
+    <icon src="/images/channels/e434343df42dce3bd6d8d562c183898c.png"/>
+  </channel><channel id="e4373a39c21f45476911e1847effc8b6">
+    <display-name>CNC World</display-name>
+  </channel><channel id="e4c34f8409b38dbca9f99b50c38683e3">
+    <display-name>Star Utsav</display-name>
+  </channel><channel id="e4c3c587c86191107e185eab70aca9f9">
+    <display-name>ITV</display-name>
+  </channel><channel id="e4d5fbece7eb39c576a87a24dd0e36b3">
+    <display-name>Showcase+1</display-name>
+  </channel><channel id="e558278d36e568e31e1ba02925393693">
+    <display-name>VICELAND</display-name>
+    <icon src="/images/channels/e558278d36e568e31e1ba02925393693.png"/>
+  </channel><channel id="e56af1de52702f3b005bd9e40ef5197a">
+    <display-name>Zee Punjabi</display-name>
+  </channel><channel id="e56fe4cd381314536c10244446060656">
+    <display-name>Film4 HD</display-name>
+    <icon src="/images/channels/e56fe4cd381314536c10244446060656.png"/>
+  </channel><channel id="e5cd273eabf0555b42fe6d516bcd5b5b">
+    <display-name>TCM+1</display-name>
+    <icon src="/images/channels/e5cd273eabf0555b42fe6d516bcd5b5b.png"/>
+  </channel><channel id="e62b8f44c83e56d160644479c4d0df0b">
+    <display-name>Studio 66</display-name>
+  </channel><channel id="e6487fcccbb2d096f115367666df0892">
+    <display-name>Studio 66 3</display-name>
+  </channel><channel id="e6871ca4be2c6c8ff4a01a82ac48a00c">
+    <display-name>GINXeSportsTV</display-name>
+    <icon src="/images/channels/e6871ca4be2c6c8ff4a01a82ac48a00c.png"/>
+  </channel><channel id="e6e3ab7b760fea9727646d4e85f514e8">
+    <display-name>eSales Test</display-name>
+  </channel><channel id="e7224475570794ca2c5fad75e24d4954">
+    <display-name>Sky2</display-name>
+    <icon src="/images/channels/e7224475570794ca2c5fad75e24d4954.png"/>
+  </channel><channel id="e7bc4fdbdf58e18e56a5c7e111046795">
+    <display-name>52105</display-name>
+  </channel><channel id="e9317ee6eeeb4e4289f8df568f8fe79c">
+    <display-name>Discovery HD</display-name>
+  </channel><channel id="e951042210ad62b85b389fedd682d202">
+    <display-name>Sky Living</display-name>
+    <icon src="/images/channels/e951042210ad62b85b389fedd682d202.png"/>
+  </channel><channel id="ea32c93e96b088ead4d2d159547740c5">
+    <display-name>TCM</display-name>
+    <icon src="/images/channels/ea32c93e96b088ead4d2d159547740c5.png"/>
+  </channel><channel id="ea4b34b5798d36faf598b4426b04abe7">
+    <display-name>Sikh Channel</display-name>
+  </channel><channel id="eaa5398b21f37af45bf811e6c0631ecc">
+    <display-name>Disc.Science</display-name>
+    <icon src="/images/channels/eaa5398b21f37af45bf811e6c0631ecc.png"/>
+  </channel><channel id="eab75cc05973402a22bd419ddf236d16">
+    <display-name>YourTV</display-name>
+    <icon src="/images/channels/eab75cc05973402a22bd419ddf236d16.png"/>
+  </channel><channel id="eb0bed66fe71b2c8e4d5f0036f9f925f">
+    <display-name>5SELECT</display-name>
+    <icon src="/images/channels/eb0bed66fe71b2c8e4d5f0036f9f925f.png"/>
+  </channel><channel id="eb323f53050a0c103f8a81cbfad419bd">
+    <display-name>The Dept Store</display-name>
+  </channel><channel id="eb3a55c26345de4d127ff6b38b6d6819">
+    <display-name>MTV MUSIC</display-name>
+    <icon src="/images/channels/eb3a55c26345de4d127ff6b38b6d6819.png"/>
+  </channel><channel id="eb89d4d0ef8ae9421e13d4e793e2dcf5">
+    <display-name>KISS</display-name>
+    <icon src="/images/channels/eb89d4d0ef8ae9421e13d4e793e2dcf5.png"/>
+  </channel><channel id="ec4a9f3ae3f57ce9c34a7f7e234deb42">
+    <display-name>Channel 4 +1</display-name>
+    <icon src="/images/channels/4a126382298472de46d09df1cd8616ba.png"/>
+  </channel><channel id="eccb62cb69fbae10cc0abfd0edceb43c">
+    <display-name>DAYSTAR HD</display-name>
+  </channel><channel id="ecdf2b3a26ff9befd69d2da0551e777b">
+    <display-name>Sky Sports F1</display-name>
+    <icon src="/images/channels/ecdf2b3a26ff9befd69d2da0551e777b.png"/>
+  </channel><channel id="edc15baf8afc86b99cebae53246f9bef">
+    <display-name>Channel 4+1</display-name>
+    <icon src="/images/channels/4a126382298472de46d09df1cd8616ba.png"/>
+  </channel><channel id="ede8f29d536cd0685ab54bbac77d3776">
+    <display-name>PlayboyTV Chat</display-name>
+  </channel><channel id="ee2c921bc070de284cead8a8245b97ed">
+    <display-name>MTV+1</display-name>
+    <icon src="/images/channels/ee2c921bc070de284cead8a8245b97ed.png"/>
+  </channel><channel id="eec0496e5df0f8bf0608225d31ede407">
+    <display-name>PCNE Chinese</display-name>
+  </channel><channel id="ef778272eb27bc54fc8f4b4b421e256c">
+    <display-name>Channel i</display-name>
+  </channel><channel id="ef77b70db61ff8b4b5fb82e565fac44f">
+    <display-name>ITV Encore+1</display-name>
+    <icon src="/images/channels/ef77b70db61ff8b4b5fb82e565fac44f.png"/>
+  </channel><channel id="f10f01a8cdad0c4bc0a1d0d5c439d460">
+    <display-name>Safeer TV</display-name>
+  </channel><channel id="f113e79a190265f0c96ff9205072f692">
+    <display-name>BBC One CI</display-name>
+    <icon src="/images/channels/f113e79a190265f0c96ff9205072f692.png"/>
+  </channel><channel id="f147417a5bba27041f96f72dcdfe6dc2">
+    <display-name>Made In Leeds</display-name>
+  </channel><channel id="f17f72ed19f0085d18e040ec175211da">
+    <display-name>TVXpornstars</display-name>
+  </channel><channel id="f182ff2b719e6bbc74553a545c0024c1">
+    <display-name>Insight HD</display-name>
+  </channel><channel id="f2aa4cbf3db82919b6845b103d77dd92">
+    <display-name>Peace TV</display-name>
+  </channel><channel id="f2f102f1ea58e126cfa8bbb195c7c743">
+    <display-name>Flava</display-name>
+    <icon src="/images/channels/f2f102f1ea58e126cfa8bbb195c7c743.png"/>
+  </channel><channel id="f3788a784b3b0b6f64098621e67cedea">
+    <display-name>Channels 24</display-name>
+  </channel><channel id="f3932e75f691561adbe3b609369e487b">
+    <display-name>BBC One Lon</display-name>
+    <icon src="/images/channels/f3932e75f691561adbe3b609369e487b.png"/>
+  </channel><channel id="f3a39f8e6c36533c0bfbc40629ce74f7">
+    <display-name>Bike</display-name>
+  </channel><channel id="f3e6bcba5b846efce94d3717acbf53f7">
+    <display-name>Flava</display-name>
+  </channel><channel id="f3f1f32bccd4f29f5962b2952ad593d1">
+    <display-name>The Vault</display-name>
+    <icon src="/images/channels/f3f1f32bccd4f29f5962b2952ad593d1.png"/>
+  </channel><channel id="f3f7447a208327abeeb9bcfd29d9e7b0">
+    <display-name>Dirty Talk</display-name>
+  </channel><channel id="f4279dbff7161bc2ac449bc1e7698cd2">
+    <display-name>ComedyXtra+1</display-name>
+  </channel><channel id="f52f983ee3c6c8db3ca8e1797000ad72">
+    <display-name>DM Plus TV</display-name>
+  </channel><channel id="f610a1b0f4d183e3272fa268ee204003">
+    <display-name>50490</display-name>
+  </channel><channel id="f6ef51ca46090d051607cd6b5a3d6058">
+    <display-name>Sky Hits</display-name>
+  </channel><channel id="f7b2925931110628b9419d070d895c2d">
+    <display-name>True Crime</display-name>
+    <icon src="/images/channels/f7b2925931110628b9419d070d895c2d.png"/>
+  </channel><channel id="f85cc5500b6e77ba1b053038a46c786a">
+    <display-name>ITV +1</display-name>
+  </channel><channel id="f8fd47e8149fd89a91c795227aa24f52">
+    <display-name>Travel Channel</display-name>
+    <icon src="/images/channels/f8fd47e8149fd89a91c795227aa24f52.png"/>
+  </channel><channel id="f94a27410ffe33dca1f4f01672c1abb6">
+    <display-name>CNBC</display-name>
+    <icon src="/images/channels/f94a27410ffe33dca1f4f01672c1abb6.png"/>
+  </channel><channel id="f94e2aaf519a8bed9b6cbc9698482d8e">
+    <display-name>Cartoon Netwrk</display-name>
+  </channel><channel id="f9b4400d027138187ca08256afc081b0">
+    <display-name>54171</display-name>
+  </channel><channel id="f9d4104745462f011f06a37ae73053ed">
+    <display-name>Olive TV</display-name>
+  </channel><channel id="fa0c1bc830116002be5fd915b8fb79dd">
+    <display-name>S4C</display-name>
+    <icon src="/images/channels/fa0c1bc830116002be5fd915b8fb79dd.png"/>
+  </channel><channel id="faecd7ef86c152ab0664d93a4db34a41">
+    <display-name>Star Bharat</display-name>
+    <icon src="/images/channels/faecd7ef86c152ab0664d93a4db34a41.png"/>
+  </channel><channel id="fb3b223e8acd22a1b4b0a3c41120b129">
+    <display-name>Craft Extra</display-name>
+  </channel><channel id="fb7b487c1729aa40d4cc9383ee6814e4">
+    <display-name>Discovery Shed</display-name>
+    <icon src="/images/channels/fb7b487c1729aa40d4cc9383ee6814e4.png"/>
+  </channel><channel id="fb9270ab97987029d0c5d2b1408dd0db">
+    <display-name>Channel 4 HD</display-name>
+    <icon src="/images/channels/fb9270ab97987029d0c5d2b1408dd0db.png"/>
+  </channel><channel id="fbd406b1f035423537923b47ce01e8ed">
+    <display-name>ITV+1</display-name>
+  </channel><channel id="fbe985a386ed5b7ef4d00e3dbd49fd28">
+    <display-name>Sky Sports Mix</display-name>
+    <icon src="/images/channels/fbe985a386ed5b7ef4d00e3dbd49fd28.png"/>
+  </channel><channel id="fc3a8b67f591c4c2c81e373b64b6c8f7">
+    <display-name>Sony Movies+1</display-name>
+    <icon src="/images/channels/fc3a8b67f591c4c2c81e373b64b6c8f7.png"/>
+  </channel><channel id="fc603aa74e4b046321174af1ad0e7591">
+    <display-name>MUTV HD</display-name>
+    <icon src="/images/channels/fc603aa74e4b046321174af1ad0e7591.png"/>
+  </channel><channel id="fcf2aea094b021f1f231e2e3d768d6ed">
+    <display-name>Nat Geo Wild</display-name>
+    <icon src="/images/channels/fcf2aea094b021f1f231e2e3d768d6ed.png"/>
+  </channel><channel id="fd39e1fb807ed62335352f0d1146d3e8">
+    <display-name>NOW 80s</display-name>
+  </channel><channel id="fd6de82f72c9adc4a79cb659d7535371">
+    <display-name>MATV National</display-name>
+  </channel><channel id="fe1251df2c35ab7a122cc15856d43916">
+    <display-name>TV Warehouse</display-name>
+  </channel><channel id="fe18ae7f154f368a0a265681bee48ab4">
+    <display-name>Rocks and Co 1</display-name>
+  </channel><channel id="fe206459b1e6e7f1fc072b34be892295">
+    <display-name>History +1 hour</display-name>
+    <icon src="/images/channels/fe206459b1e6e7f1fc072b34be892295.png"/>
+  </channel><channel id="fe35f554af7d6e5808cc1cf2510741a4">
+    <display-name>Takbeer TV</display-name>
+  </channel><channel id="fe4be54dfd9f3fb734b1490b04a33b39">
+    <display-name>Channel 4 +1</display-name>
+    <icon src="/images/channels/4a126382298472de46d09df1cd8616ba.png"/>
+  </channel><channel id="fe5c9f08730036ebcd0303e73851666e">
+    <display-name>MUTV</display-name>
+    <icon src="/images/channels/fe5c9f08730036ebcd0303e73851666e.png"/>
+  </channel><channel id="fe7c1fbfad99167cd5fb6e3e9407aff6">
+    <display-name>Nick Jr. HD</display-name>
+  </channel><channel id="fea242691d950b694a1da4b7ee68393f">
+    <display-name>FOX</display-name>
+    <icon src="/images/channels/fea242691d950b694a1da4b7ee68393f.png"/>
+  </channel><channel id="febabbe751ef5e69f0102ca182f76f1e">
+    <display-name>alibi +1</display-name>
+    <icon src="/images/channels/febabbe751ef5e69f0102ca182f76f1e.png"/>
+  </channel><channel id="ff22fe5efdee555bb9820a8d8a8e0764">
+    <display-name>CHSTV</display-name>
+  </channel><channel id="ffc3d8332f79d1d4429526b438057880">
+    <display-name>CN+1</display-name>
+  </channel><channel id="ffce8989f9028c5598ec5ed9ce4cbd51">
+    <display-name>BBC One Wales</display-name>
+    <icon src="/images/channels/ffce8989f9028c5598ec5ed9ce4cbd51.png"/>
+  </channel><channel id="ffd49fe9acd778774b4933e10b6afb75">
+    <display-name>ITV Border</display-name>
   </channel><channel id="D8">
     <display-name lang="fr">D8</display-name>
     <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F295%2F71e%2F0b94af0a2f62a15142d5f9ec0b%2Fc8%7Cclair_445.png?facedetect=1&amp;quality=85"/>
@@ -1177,10 +2269,6 @@
     <display-name lang="fr">FRANCE 3</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_543.PNG"/>
     <url>http://www.canalsat.fr</url>
-  </channel><channel id="FRANCE 4">
-    <display-name lang="fr">FRANCE 4</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"/>
-    <url>http://www.canalsat.fr</url>
   </channel><channel id="FRANCE 5">
     <display-name lang="fr">FRANCE 5</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_545.PNG"/>
@@ -1216,6 +2304,10 @@
   </channel><channel id="CANAL+ DECALE">
     <display-name lang="fr">CANAL+ DECALE</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_257.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="EVENEMENT">
+    <display-name lang="fr">EVENEMENT</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_289.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="CINE+ PREMIER">
     <display-name lang="fr">CINE+ PREMIER</display-name>
@@ -1257,9 +2349,17 @@
     <display-name lang="fr">OCS GEANTS</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_370.PNG"/>
     <url>http://www.canalsat.fr</url>
-  </channel><channel id="COMEDIE+">
-    <display-name lang="fr">COMEDIE+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_534.PNG"/>
+  </channel><channel id="TCM CINEMA">
+    <display-name lang="fr">TCM CINEMA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_374.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PARAMOUNT CHANNEL">
+    <display-name lang="fr">PARAMOUNT CHANNEL</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_489.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ACTION">
+    <display-name lang="fr">ACTION</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_504.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="SUNDANCE TV">
     <display-name lang="fr">SUNDANCE TV</display-name>
@@ -1277,6 +2377,10 @@
     <display-name lang="fr">DISNEY CINEMA</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_340.PNG"/>
     <url>http://www.canalsat.fr</url>
+  </channel><channel id="TF1 SERIES FILMS">
+    <display-name lang="fr">TF1 SERIES FILMS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_526.PNG"/>
+    <url>http://www.canalsat.fr</url>
   </channel><channel id="BOB TV">
     <display-name lang="fr">BOB TV</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_196.PNG"/>
@@ -1289,149 +2393,6 @@
     <display-name lang="fr">DORA TV</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_185.PNG"/>
     <url>http://www.canalsat.fr</url>
-  </channel><channel id="CSTAR">
-    <display-name lang="fr">CSTAR</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_513.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CHERIE 25">
-    <display-name lang="fr">CHERIE 25</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_440.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="VICELAND">
-    <display-name lang="fr">VICELAND</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_677.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="MTV">
-    <display-name lang="fr">MTV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_470.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="MCM">
-    <display-name lang="fr">MCM</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_556.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="GAME ONE">
-    <display-name lang="fr">GAME ONE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_592.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="PLANETE+">
-    <display-name lang="fr">PLANETE+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_270.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="PLANETE+ CI">
-    <display-name lang="fr">PLANETE+ CI</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_587.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="PLANETE+ A&amp;E">
-    <display-name lang="fr">PLANETE+ A&amp;E</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_588.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CNEWS">
-    <display-name lang="fr">CNEWS</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_480.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BFM TV">
-    <display-name lang="fr">BFM TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_633.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="LCI">
-    <display-name lang="fr">LCI</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_553.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="SYFY">
-    <display-name lang="fr">SYFY</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="VOYAGE HD">
-    <display-name lang="fr">VOYAGE HD</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_477.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="USHUAIA TV">
-    <display-name lang="fr">USHUAIA TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="HISTOIRE">
-    <display-name lang="fr">HISTOIRE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TOUTE L'HISTOIRE">
-    <display-name lang="fr">TOUTE L'HISTOIRE</display-name>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="ANIMAUX HD">
-    <display-name lang="fr">ANIMAUX HD</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_503.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="ESCALES">
-    <display-name lang="fr">ESCALES</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="ENCYCLO">
-    <display-name lang="fr">ENCYCLO</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="SEASONS">
-    <display-name lang="fr">SEASONS</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="8 MONT-BLANC">
-    <display-name lang="fr">8 MONT-BLANC</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="RMC DECOUVERTE">
-    <display-name lang="fr">RMC DECOUVERTE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="LA CHAINE METEO">
-    <display-name lang="fr">LA CHAINE METEO</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NATIONAL GEO">
-    <display-name lang="fr">NAT GEO fr</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_201.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NAT GEO WILD">
-    <display-name lang="fr">NAT GEO WILD fr</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_290.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS 1">
-    <display-name lang="fr">BEIN SPORTS 1 (fr)</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_381.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS 2">
-    <display-name lang="fr">BEIN SPORTS 2 (fr)</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_384.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS 3">
-    <display-name lang="fr">BEIN SPORTS 3 (fr)</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_516.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS MAX 4">
-    <display-name lang="fr">BEIN SPORTS MAX 4</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_596.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS MAX 5">
-    <display-name lang="fr">BEIN SPORTS MAX 5</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_597.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS MAX 6">
-    <display-name lang="fr">BEIN SPORTS MAX 6</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_598.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS MAX 7">
-    <display-name lang="fr">BEIN SPORTS MAX 7</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_599.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS MAX 8">
-    <display-name lang="fr">BEIN SPORTS MAX 8</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_603.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS MAX 9">
-    <display-name lang="fr">BEIN SPORTS MAX 9</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_604.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BEIN SPORTS MAX 10">
-    <display-name lang="fr">BEIN SPORTS MAX 10</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_605.PNG"/>
-    <url>http://www.canalsat.fr</url>
   </channel><channel id="DISNEY JUNIOR">
     <display-name lang="fr">DISNEY JUNIOR</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_274.PNG"/>
@@ -1440,8 +2401,8 @@
     <display-name lang="fr">PIWI+</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_576.PNG"/>
     <url>http://www.canalsat.fr</url>
-  </channel><channel id="NICKELODEON JR">
-    <display-name lang="fr">NICKELODEON JR</display-name>
+  </channel><channel id="NICKELODEON JUNIOR">
+    <display-name lang="fr">NICKELODEON JUNIOR</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="TIJI">
@@ -1480,8 +2441,8 @@
     <display-name lang="fr">TOONAMI</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_683.PNG"/>
     <url>http://www.canalsat.fr</url>
-  </channel><channel id="NICKELODEON 4TEEN">
-    <display-name lang="fr">NICKELODEON 4TEEN</display-name>
+  </channel><channel id="NICKELODEON TEEN">
+    <display-name lang="fr">NICKELODEON TEEN</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_518.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="DISNEY CHANNEL">
@@ -1492,6 +2453,349 @@
     <display-name lang="fr">GULLI</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_549.PNG"/>
     <url>http://www.canalsat.fr</url>
+  </channel><channel id="MTV HITS">
+    <display-name lang="fr">MTV HITS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_629.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="COMEDIE+">
+    <display-name lang="fr">COMEDIE+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_534.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="POLAR+">
+    <display-name lang="fr">POLAR+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_692.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="WARNER TV">
+    <display-name lang="fr">WARNER TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_694.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="SERIE CLUB">
+    <display-name lang="fr">SERIE CLUB</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_356.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ELLE GIRL">
+    <display-name lang="fr">ELLE GIRL</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_524.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NON STOP PEOPLE">
+    <display-name lang="fr">NON STOP PEOPLE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_434.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NOVELAS TV">
+    <display-name lang="fr">NOVELAS TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_693.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="J-ONE">
+    <display-name lang="fr">J-ONE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_484.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="AB1">
+    <display-name lang="fr">AB1</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_611.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TV BREIZH">
+    <display-name lang="fr">TV BREIZH</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_586.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TEVA">
+    <display-name lang="fr">TEVA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_292.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PARIS PREMIERE">
+    <display-name lang="fr">PARIS PREMIERE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_294.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RTL9">
+    <display-name lang="fr">RTL9</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_505.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BET">
+    <display-name lang="fr">BET</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_628.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="C8">
+    <display-name lang="fr">C8</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_450.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="W9">
+    <display-name lang="fr">W9</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_296.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TMC">
+    <display-name lang="fr">TMC</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_584.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TFX">
+    <display-name lang="fr">TFX</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_570.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NRJ 12">
+    <display-name lang="fr">NRJ 12</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_568.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE 4">
+    <display-name lang="fr">FRANCE 4</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CSTAR">
+    <display-name lang="fr">CSTAR</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_513.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CHERIE 25">
+    <display-name lang="fr">CHERIE 25</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_440.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="VICELAND">
+    <display-name lang="fr">VICELAND</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_677.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MTV">
+    <display-name lang="fr">MTV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_470.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MCM">
+    <display-name lang="fr">MCM</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_556.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="GAME ONE">
+    <display-name lang="fr">GAME ONE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_592.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MANGAS">
+    <display-name lang="fr">MANGAS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_613.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CSTAR HITS FRANCE">
+    <display-name lang="fr">CSTAR HITS FRANCE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_723.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="M6 MUSIC">
+    <display-name lang="fr">M6 MUSIC</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_352.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NRJ HITS">
+    <display-name lang="fr">NRJ HITS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_569.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TRACE URBAN">
+    <display-name lang="fr">TRACE URBAN</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_585.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MCM TOP">
+    <display-name lang="fr">MCM TOP</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_558.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RFM TV">
+    <display-name lang="fr">RFM TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_557.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MELODY">
+    <display-name lang="fr">MELODY</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_580.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MEZZO">
+    <display-name lang="fr">MEZZO</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_560.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MEZZO LIVE">
+    <display-name lang="fr">MEZZO LIVE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_268.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BRAVA">
+    <display-name lang="fr">BRAVA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_165.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="DJAZZ">
+    <display-name lang="fr">DJAZZ</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_404.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TRACE AFRICA">
+    <display-name lang="fr">TRACE AFRICA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_674.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE O">
+    <display-name lang="fr">FRANCE O</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_546.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="6TER">
+    <display-name lang="fr">6TER</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_521.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NUMERO 23">
+    <display-name lang="fr">NUMERO 23</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_571.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TV5 MONDE">
+    <display-name lang="fr">TV5 MONDE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_520.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="QVC">
+    <display-name lang="fr">QVC</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_619.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ASTROCENTER TV">
+    <display-name lang="fr">ASTROCENTER TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_632.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MUSEUM">
+    <display-name lang="fr">MUSEUM</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_678.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="LA CHAINE METEO">
+    <display-name lang="fr">LA CHAINE METEO</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_552.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MY ZEN TV">
+    <display-name lang="fr">MY ZEN TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_656.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RMC DECOUVERTE">
+    <display-name lang="fr">RMC DECOUVERTE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_595.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="M6 BOUTIQUE">
+    <display-name lang="fr">M6 BOUTIQUE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_682.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PLANETE+">
+    <display-name lang="fr">PLANETE+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_270.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PLANETE+ CI">
+    <display-name lang="fr">PLANETE+ CI</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_587.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PLANETE+ A&amp;E">
+    <display-name lang="fr">PLANETE+ A&amp;E</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_588.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NATIONAL GEO">
+    <display-name lang="fr">NATIONAL GEO</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_201.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NAT GEO WILD">
+    <display-name lang="fr">NAT GEO WILD</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_290.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="VOYAGE">
+    <display-name lang="fr">VOYAGE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_477.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="USHUAIA TV">
+    <display-name lang="fr">USHUAIA TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_142.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="HISTOIRE">
+    <display-name lang="fr">HISTOIRE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_550.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TOUTE L'HISTOIRE">
+    <display-name lang="fr">TOUTE L'HISTOIRE</display-name>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="SCIENCE ET VIE TV">
+    <display-name lang="fr">SCIENCE ET VIE TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_614.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ANIMAUX">
+    <display-name lang="fr">ANIMAUX</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_503.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TREK">
+    <display-name lang="fr">TREK</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_615.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="SEASONS">
+    <display-name lang="fr">SEASONS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_577.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CHASSE ET PECHE">
+    <display-name lang="fr">CHASSE ET PECHE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_681.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CNEWS">
+    <display-name lang="fr">CNEWS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_480.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BFM TV">
+    <display-name lang="fr">BFM TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_633.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="LCI">
+    <display-name lang="fr">LCI</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_553.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCEINFO:">
+    <display-name lang="fr">FRANCEINFO:</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_670.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE 24">
+    <display-name lang="fr">FRANCE 24</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_310.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="LCP">
+    <display-name lang="fr">LCP</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_554.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BFM BUSINESS">
+    <display-name lang="fr">BFM BUSINESS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_645.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CNN INT.">
+    <display-name lang="fr">CNN INT.</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_30.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BBC WORLD NEWS">
+    <display-name lang="fr">BBC WORLD NEWS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_589.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="EURONEWS">
+    <display-name lang="fr">EURONEWS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_324.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="INFOSPORT+">
+    <display-name lang="fr">INFOSPORT+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_551.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="EUROSPORT 1">
+    <display-name lang="fr">EUROSPORT 1</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_101.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="EUROSPORT 2">
+    <display-name lang="fr">EUROSPORT 2</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_436.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="OL TV">
+    <display-name lang="fr">OL TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_572.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ONZEO">
+    <display-name lang="fr">ONZEO</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_574.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="GIRONDINS TV">
+    <display-name lang="fr">GIRONDINS TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_548.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="AB MOTEURS">
+    <display-name lang="fr">AB MOTEURS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_612.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="EQUIDIA">
+    <display-name lang="fr">EQUIDIA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_540.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS 1">
+    <display-name lang="fr">BEIN SPORTS 1</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_381.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS 2">
+    <display-name lang="fr">BEIN SPORTS 2</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_384.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS 3">
+    <display-name lang="fr">BEIN SPORTS 3</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_516.PNG"/>
+    <url>http://www.canalsat.fr</url>
   </channel><channel id="GOLF+">
     <display-name lang="fr">GOLF+</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_378.PNG"/>
@@ -1500,16 +2804,60 @@
     <display-name lang="fr">EXTREME SPORTS</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_541.PNG"/>
     <url>http://www.canalsat.fr</url>
-  </channel><channel id="MOTORSPORT TV">
-    <display-name lang="fr">MOTORSPORT TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG"/>
-    <url>http://www.canalsat.fr</url>
   </channel><channel id="L'EQUIPE">
     <display-name lang="fr">L'EQUIPE</display-name>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RMC SPORT 1">
+    <display-name lang="fr">RMC SPORT 1</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_732.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RMC SPORT 2">
+    <display-name lang="fr">RMC SPORT 2</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_733.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RMC SPORT 3">
+    <display-name lang="fr">RMC SPORT 3</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_734.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RMC SPORT 4">
+    <display-name lang="fr">RMC SPORT 4</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_735.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RMC SPORT NEWS">
+    <display-name lang="fr">RMC SPORT NEWS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_736.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="FOOT+ 24/24">
     <display-name lang="fr">FOOT+ 24/24</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_542.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS MAX 4">
+    <display-name lang="fr">BEIN SPORTS MAX 4</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_596.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS MAX 5">
+    <display-name lang="fr">BEIN SPORTS MAX 5</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_597.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS MAX 6">
+    <display-name lang="fr">BEIN SPORTS MAX 6</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_598.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS MAX 7">
+    <display-name lang="fr">BEIN SPORTS MAX 7</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_599.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS MAX 8">
+    <display-name lang="fr">BEIN SPORTS MAX 8</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_603.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS MAX 9">
+    <display-name lang="fr">BEIN SPORTS MAX 9</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_604.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BEIN SPORTS MAX 10">
+    <display-name lang="fr">BEIN SPORTS MAX 10</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_605.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="6ter">
     <display-name lang="fr">6ter</display-name>
